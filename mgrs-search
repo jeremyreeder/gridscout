@@ -40,7 +40,6 @@ def print_results(results):
 print 'MGRS Search - Copyright 2018 Jeremy Reeder'
 base_location_mgrs = raw_input('Using MGRS coordinates, set your approximate base location: ')
 base_location_mgrs = base_location_mgrs.replace(' ', '') #remove spaces
-print base_location_mgrs
 base_location_tuple = converter.toLatLon(base_location_mgrs)
 base_location = str(base_location_tuple[0])+','+str(base_location_tuple[1]) #google-compatible format
 print 'To find MGRS coordinates of places nearby, enter any query supported by Google Maps.'
