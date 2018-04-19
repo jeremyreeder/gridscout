@@ -38,7 +38,13 @@ def print_results(results):
                 mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
                 print mgrs_point + '\t' + name + '\t' + address
 
-for query in fileinput.input():
+while True:
+    print 'GMRS Search - Copyright 2018 Jeremy Reeder'
+    print 'To find GMRS coordinates of places nearby, enter any query supported by Google Maps.'
+    print "To quit, just hit 'Enter'."
+    query = raw_input('gmrs-search> ')
+    if query == '':
+        exit()
     print 'MGRS\tName\tAddress'
     finished_with_query = False
     next_page_token = None
