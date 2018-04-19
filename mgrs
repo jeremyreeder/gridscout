@@ -4,38 +4,53 @@ import fileinput
 import googlemaps
 from googlemaps.places import places_nearby
 import mgrs
+import time
 
 map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
 converter = mgrs.MGRS()
 boise = (43.6007205, -116.3739816)
+
+def print_results(results):
+    for result in results:
+        name = None
+        address = None
+        latitude = None
+        longitude = None
+        if 'name' in result:
+            name = result['name']
+        if 'vicinity' in result:
+            address = result['vicinity']
+        if 'geometry' in result:
+            geometry = result['geometry']
+        if 'location' in geometry:
+            location = geometry['location']
+            if 'lat' in location:
+                latitude = location['lat']
+            if 'lng' in location:
+                longitude = location['lng']
+        if name and address and latitude and longitude:
+            mgrs_point_raw = converter.toMGRS(latitude, longitude, 10)
+            if mgrs_point_raw and len(mgrs_point_raw) >= 14:
+                zone = mgrs_point_raw[:-12]
+                square = mgrs_point_raw[-12:-10]
+                easting = mgrs_point_raw[-10:-6]
+                northing = mgrs_point_raw[-5:-1]
+                mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
+                print mgrs_point + '\t' + name + '\t' + address
+
 for query in fileinput.input():
-    response = places_nearby(client=map_client, location=boise, keyword=query, rank_by='distance')
     print 'MGRS\tName\tAddress'
-    if 'results' in response:
-        results = response['results']
-        for result in results:
-            name = None
-            address = None
-            latitude = None
-            longitude = None
-            if 'name' in result:
-                name = result['name']
-            if 'vicinity' in result:
-                address = result['vicinity']
-            if 'geometry' in result:
-                geometry = result['geometry']
-            if 'location' in geometry:
-                location = geometry['location']
-                if 'lat' in location:
-                    latitude = location['lat']
-                if 'lng' in location:
-                    longitude = location['lng']
-            if name and address and latitude and longitude:
-                mgrs_point_raw = converter.toMGRS(latitude, longitude, 10)
-                if mgrs_point_raw and len(mgrs_point_raw) >= 14:
-                    zone = mgrs_point_raw[:-12]
-                    square = mgrs_point_raw[-12:-10]
-                    easting = mgrs_point_raw[-10:-6]
-                    northing = mgrs_point_raw[-5:-1]
-                    mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
-                    print mgrs_point + '\t' + name + '\t' + address
+    finished_with_query = False
+    next_page_token = None
+    while not finished_with_query:
+        response = places_nearby(client=map_client, location=boise, keyword=query, rank_by='distance', page_token=next_page_token)
+        if 'results' in response:
+            results = response['results']
+            print_results(results)
+        if 'next_page_token' in response:
+            next_page_token = response['next_page_token']
+        else:
+            next_page_token = None
+        finished_with_query = not next_page_token
+        if not finished_with_query:
+            time.sleep(2) #allow Google some time to register the token before asking for the next page
