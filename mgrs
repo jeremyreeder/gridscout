@@ -1,0 +1,36 @@
+#!/usr/bin/env python2.7
+
+import fileinput
+import googlemaps
+import json
+import mgrs
+
+gmaps = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
+converter = mgrs.MGRS()
+for query in fileinput.input():
+    places = gmaps.geocode(query)
+    print json.dumps(places)
+    print 'MGRS\tAddress'
+    for place in places:
+        latitude = None
+        longitude = None
+        address = None
+        if 'geometry' in place:
+            geometry = place['geometry']
+            if 'location' in geometry:
+                location = geometry['location']
+                if 'lat' in location:
+                    latitude = location['lat']
+                if 'lng' in location:
+                    longitude = location['lng']
+        if 'formatted_address' in place:
+            address = place['formatted_address']
+        if latitude and longitude and address:
+            mgrs_point_raw = converter.toMGRS(latitude, longitude, 10)
+            if mgrs_point_raw and len(mgrs_point_raw) >= 14:
+                zone = mgrs_point_raw[:-12]
+                square = mgrs_point_raw[-12:-10]
+                easting = mgrs_point_raw[-10:-6]
+                northing = mgrs_point_raw[-5:-1]
+                mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
+                print mgrs_point + '\t' + address
