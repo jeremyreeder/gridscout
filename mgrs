@@ -2,14 +2,12 @@
 
 import fileinput
 import googlemaps
-import json
 import mgrs
 
 gmaps = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
 converter = mgrs.MGRS()
 for query in fileinput.input():
     places = gmaps.geocode(query)
-    print json.dumps(places)
     print 'MGRS\tAddress'
     for place in places:
         latitude = None
