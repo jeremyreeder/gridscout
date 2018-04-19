@@ -8,7 +8,6 @@ import time
 
 map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
 converter = mgrs.MGRS()
-boise = (43.6007205, -116.3739816)
 
 def print_results(results):
     for result in results:
@@ -29,7 +28,7 @@ def print_results(results):
             if 'lng' in location:
                 longitude = location['lng']
         if name and address and latitude and longitude:
-            mgrs_point_raw = converter.toMGRS(latitude, longitude, 10)
+            mgrs_point_raw = converter.toMGRS(latitude, longitude)
             if mgrs_point_raw and len(mgrs_point_raw) >= 14:
                 zone = mgrs_point_raw[:-12]
                 square = mgrs_point_raw[-12:-10]
@@ -38,18 +37,23 @@ def print_results(results):
                 mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
                 print mgrs_point + '\t' + name + '\t' + address
 
+print 'MGRS Search - Copyright 2018 Jeremy Reeder'
+base_location_mgrs = raw_input('Using MGRS coordinates, set your approximate base location: ')
+base_location_mgrs = base_location_mgrs.replace(' ', '') #remove spaces
+print base_location_mgrs
+base_location_tuple = converter.toLatLon(base_location_mgrs)
+base_location = str(base_location_tuple[0])+','+str(base_location_tuple[1]) #google-compatible format
+print 'To find MGRS coordinates of places nearby, enter any query supported by Google Maps.'
+print "To quit, just hit 'Enter'."
 while True:
-    print 'GMRS Search - Copyright 2018 Jeremy Reeder'
-    print 'To find GMRS coordinates of places nearby, enter any query supported by Google Maps.'
-    print "To quit, just hit 'Enter'."
-    query = raw_input('gmrs-search> ')
+    query = raw_input('mgrs-search> ')
     if query == '':
         exit()
     print 'MGRS\tName\tAddress'
     finished_with_query = False
     next_page_token = None
     while not finished_with_query:
-        response = places_nearby(client=map_client, location=boise, keyword=query, rank_by='distance', page_token=next_page_token)
+        response = places_nearby(client=map_client, location=base_location, keyword=query, rank_by='distance', page_token=next_page_token)
         if 'results' in response:
             results = response['results']
             print_results(results)
