@@ -15,7 +15,7 @@ except:
 
 def log(message):
     with open(log_filename, 'a') as log_file:
-        log_file.write(message + '\n')
+        log_file.write(message.encode('utf-8') + '\n')
         log_file.close()
 
 def output(message):
