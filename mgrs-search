@@ -4,9 +4,25 @@ import fileinput
 import googlemaps
 from googlemaps.places import places_nearby
 import mgrs
+import os
 import time
 
-def print_results(results):
+log_filename = 'mgrs-search.log'
+try:
+    os.remove(log_filename)
+except:
+    pass # The file may not exist yet; that's okay.
+
+def log(message):
+    with open(log_filename, 'a') as log_file:
+        log_file.write(message + '\n')
+        log_file.close()
+
+def output(message):
+    print message
+    log(message)
+
+def output_results(results):
     for result in results:
         name = None
         address = None
@@ -32,7 +48,7 @@ def print_results(results):
                 easting = mgrs_point_raw[-10:-6]
                 northing = mgrs_point_raw[-5:-1]
                 mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
-                print mgrs_point + '   ' + name + ' - ' + address
+                output(mgrs_point + '   ' + name + ' - ' + address)
 
 key_file = open('google_places.key', 'r')
 key = key_file.readline()
@@ -41,8 +57,11 @@ map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
 converter = mgrs.MGRS()
 
 print 'MGRS Search - Copyright 2018 Jeremy Reeder'
+log('--- MGRS Search Log ---')
 print 'As an example, an MGRS coordinate in Boise is 11T NJ 6337 2982.'
 base_location_mgrs = raw_input('Using an MGRS coordinate, set your approximate base location: ')
+base_location_mgrs = base_location_mgrs.upper()
+log('Base location: ' + base_location_mgrs)
 base_location_mgrs = base_location_mgrs.replace(' ', '') #remove spaces
 base_location_tuple = converter.toLatLon(base_location_mgrs)
 base_location = str(base_location_tuple[0])+','+str(base_location_tuple[1]) #google-compatible format
@@ -52,13 +71,14 @@ while True:
     query = raw_input('mgrs-search> ')
     if query == '':
         exit()
+    log('mgrs-search> ' + query)
     finished_with_query = False
     next_page_token = None
     while not finished_with_query:
         response = places_nearby(client=map_client, location=base_location, radius=25000, keyword=query, rank_by='prominence', page_token=next_page_token)
         if 'results' in response:
             results = response['results']
-            print_results(results)
+            output_results(results)
         if 'next_page_token' in response:
             next_page_token = response['next_page_token']
         else:
