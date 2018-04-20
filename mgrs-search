@@ -35,10 +35,10 @@ def print_results(results):
                 easting = mgrs_point_raw[-10:-6]
                 northing = mgrs_point_raw[-5:-1]
                 mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
-                print mgrs_point + '\t' + name + '\t' + address
+                print mgrs_point + '   ' + name + ' - ' + address
 
 print 'MGRS Search - Copyright 2018 Jeremy Reeder'
-base_location_mgrs = raw_input('Using MGRS coordinates, set your approximate base location: ')
+base_location_mgrs = raw_input('Using an MGRS coordinate, set your approximate base location: ')
 base_location_mgrs = base_location_mgrs.replace(' ', '') #remove spaces
 base_location_tuple = converter.toLatLon(base_location_mgrs)
 base_location = str(base_location_tuple[0])+','+str(base_location_tuple[1]) #google-compatible format
@@ -48,7 +48,6 @@ while True:
     query = raw_input('mgrs-search> ')
     if query == '':
         exit()
-    print 'MGRS\tName\tAddress'
     finished_with_query = False
     next_page_token = None
     while not finished_with_query:
