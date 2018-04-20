@@ -41,6 +41,7 @@ map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
 converter = mgrs.MGRS()
 
 print 'MGRS Search - Copyright 2018 Jeremy Reeder'
+print 'As an example, an MGRS coordinate in Boise is 11T NJ 6337 2982.'
 base_location_mgrs = raw_input('Using an MGRS coordinate, set your approximate base location: ')
 base_location_mgrs = base_location_mgrs.replace(' ', '') #remove spaces
 base_location_tuple = converter.toLatLon(base_location_mgrs)
