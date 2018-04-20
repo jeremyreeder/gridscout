@@ -55,7 +55,7 @@ while True:
     finished_with_query = False
     next_page_token = None
     while not finished_with_query:
-        response = places_nearby(client=map_client, location=base_location, keyword=query, rank_by='distance', page_token=next_page_token)
+        response = places_nearby(client=map_client, location=base_location, radius=25000, keyword=query, rank_by='prominence', page_token=next_page_token)
         if 'results' in response:
             results = response['results']
             print_results(results)
