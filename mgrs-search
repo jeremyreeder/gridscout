@@ -6,9 +6,6 @@ from googlemaps.places import places_nearby
 import mgrs
 import time
 
-map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
-converter = mgrs.MGRS()
-
 def print_results(results):
     for result in results:
         name = None
@@ -36,6 +33,12 @@ def print_results(results):
                 northing = mgrs_point_raw[-5:-1]
                 mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
                 print mgrs_point + '   ' + name + ' - ' + address
+
+key_file = open('google_places.key', 'r')
+key = key_file.readline()
+key_file.close()
+map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
+converter = mgrs.MGRS()
 
 print 'MGRS Search - Copyright 2018 Jeremy Reeder'
 base_location_mgrs = raw_input('Using an MGRS coordinate, set your approximate base location: ')
