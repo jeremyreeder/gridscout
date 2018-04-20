@@ -85,4 +85,6 @@ while True:
             next_page_token = None
         finished_with_query = not next_page_token
         if not finished_with_query:
-            time.sleep(2) #allow Google some time to register the token before asking for the next page
+            # Google needs time to register the next-page token after each page of results.
+            time.sleep(2)
+
