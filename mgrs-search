@@ -53,7 +53,7 @@ def output_results(results):
 key_file = open('google_places.key', 'r')
 key = key_file.readline()
 key_file.close()
-map_client = googlemaps.Client(key='AIzaSyDeO_-gI8ENVn3QpURgH7tQdkEUk07g3ds')
+map_client = googlemaps.Client(key=key)
 converter = mgrs.MGRS()
 
 print 'MGRS Search - Copyright 2018 Jeremy Reeder'
