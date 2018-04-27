@@ -6,19 +6,20 @@ This interactive Python script searches for places by using Google's _Places
 API_.  Results are diplayed as a concise list of up to 60 places, along with
 MGRS coordinates.
 
-It's convenient for bulk collection of location data. For example, an
-intelligence analyst could use it to create a list of distribution centers,
-antenna farms, or other critical infrastructure. He would then print a curated
-version of the log file (log/mgrs-search.log) and store it for a rainy
-apocalyptic day when the Internet may be unavailable. Later, he would refer to
-it as he annotates polyester overlays on MGRS-based maps. Waterproof maps, of
-course. Remember, it'll be raining.
+Convenient for bulk collection of location data. For example, an intelligence
+analyst could use this tool to create a list of distribution centers, antenna
+farms, or other critical infrastructure. He would then print a curated version
+of the log file (log/mgrs-search.log) and store it for a rainy apocalyptic day
+when the Internet may be unavailable. Later, he would refer to it as he
+annotates polyester overlays on MGRS-based maps. Waterproof maps, of course.
+Remember, it'll be raining.
 
 ### What's MGRS?
 
-[Military Grid Reference System](https://en.wikipedia.org/wiki/Military_Grid_Reference_System).
-It's used by NATO militaries because it's concise, has minimal distortion, and
-makes for easy math. It's a whole-world variant of the UTM coordinate system.
+[Military Grid Reference
+System](https://en.wikipedia.org/wiki/Military_Grid_Reference_System).  It's
+used by NATO militaries because it's concise, minimizes distortion, and makes
+for easy math. It's a whole-world variant of the UTM coordinate system.
 Latitude and longitude are so 1941.
 
 ## Requirements
