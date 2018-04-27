@@ -5,6 +5,7 @@ import googlemaps
 from googlemaps.places import places_nearby
 import mgrs
 import os
+import readline
 import time
 
 class M:
