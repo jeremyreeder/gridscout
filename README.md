@@ -22,7 +22,7 @@ used by NATO militaries because it's concise, minimizes distortion, and makes
 for easy math. It's a whole-world variant of the UTM coordinate system.
 Latitude and longitude are so 1941.
 
-## Requirements
+## Installing MGRS Search
 
 1. Python 2.7 required. Your OS probably already has it installed.
 
