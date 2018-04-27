@@ -6,13 +6,13 @@ This interactive Python script searches for places by using Google's _Places
 API_.  Results are diplayed as a concise list of up to 60 places, along with
 MGRS coordinates.
 
-*Convenient for bulk collection of location data.* For example, an intelligence
-analyst could use it to create a list of distribution centers, antenna farms,
-or other critical infrastructure. He would then print a curated version of the
-log file (log/mgrs-search.log) and store it for a rainy apocalyptic day when
-the Internet may be unavailable. Later, he would refer to it as he annotates
-polyester overlays on MGRS-based maps. Waterproof maps, of course. Remember,
-it'll be raining.
+It's convenient for bulk collection of location data. For example, an
+intelligence analyst could use it to create a list of distribution centers,
+antenna farms, or other critical infrastructure. He would then print a curated
+version of the log file (log/mgrs-search.log) and store it for a rainy
+apocalyptic day when the Internet may be unavailable. Later, he would refer to
+it as he annotates polyester overlays on MGRS-based maps. Waterproof maps, of
+course. Remember, it'll be raining.
 
 ### What's MGRS?
 
@@ -33,6 +33,6 @@ Latitude and longitude are so 1941.
 
     vi config/google_places.key
 
-## Running _MGRS Search_
+## Running MGRS Search
 
     ./mgrs-search
