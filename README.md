@@ -14,7 +14,7 @@ the Internet may be unavailable. Later, he would refer to it as he annotates
 polyester overlays on MGRS-based maps. Waterproof maps, of course. Remember,
 it'll be raining.
 
-## What's MGRS?
+### What's MGRS?
 
 [Military Grid Reference System](https://en.wikipedia.org/wiki/Military_Grid_Reference_System).
 It's used by NATO militaries because it's concise, has minimal distortion, and
@@ -33,6 +33,6 @@ Latitude and longitude are so 1941.
 
     vi config/google_places.key
 
-## Running mgrs-search
+## Running _MGRS Search_
 
     ./mgrs-search
