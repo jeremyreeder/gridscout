@@ -62,9 +62,9 @@ class M:
                     self.output(mgrs_point + '   ' + name + ' - ' + address)
 
     def get_base(self):
-        print '..........................................'
-        print 'MGRS Search . Copyright 2018 Jeremy Reeder'
-        print '..........................................'
+        print '------------------------------------------'
+        print 'MGRS Search - Copyright 2018 Jeremy Reeder'
+        print '------------------------------------------'
         print ''
         print 'Set base location using MGRS coords. Default is for Boise, ID.'
         base_mgrs = raw_input('[' + self.default_base + ']> ')
