@@ -8,7 +8,7 @@ MGRS coordinates.
 
 Convenient for bulk collection of location data. For example, an intelligence
 analyst could use this tool to create a list of distribution centers, antenna
-farms, or other critical infrastructure. He would then print a curated version
+farms, and other critical infrastructure. He would then print a curated version
 of the log file (`log/mgrs-search.log`) and store it for a rainy apocalyptic
 day when the Internet may be unavailable. Later, he would refer to it as he
 annotates polyester overlays on MGRS-based maps. Waterproof maps, of course.
