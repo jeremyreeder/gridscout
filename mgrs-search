@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#! /usr/bin/env python2.7
 
 import fileinput
 import googlemaps
@@ -7,84 +7,103 @@ import mgrs
 import os
 import time
 
-log_filename = 'mgrs-search.log'
-try:
-    os.remove(log_filename)
-except:
-    pass # The file may not exist yet; that's okay.
+class M:
+    log_filename = 'log/mgrs-search.log'
+    key_filename = 'config/google_places.key'
+    default_base = '11T NJ 6337 2982'
+    prompt       = 'mgrs-search > '
 
-def log(message):
-    with open(log_filename, 'a') as log_file:
-        log_file.write(message.encode('utf-8') + '\n')
-        log_file.close()
+    def __init__(self):
+        with open(self.log_filename, 'w') as f:
+            f.write('--- MGRS Search Log ---\n')
 
-def output(message):
-    print message
-    log(message)
+        with open(self.key_filename, 'r') as f:
+            key = f.readline()
 
-def output_results(results):
-    for result in results:
-        name = None
-        address = None
-        latitude = None
-        longitude = None
-        if 'name' in result:
-            name = result['name']
-        if 'vicinity' in result:
-            address = result['vicinity']
-        if 'geometry' in result:
-            geometry = result['geometry']
-        if 'location' in geometry:
-            location = geometry['location']
-            if 'lat' in location:
-                latitude = location['lat']
-            if 'lng' in location:
-                longitude = location['lng']
-        if name and address and latitude and longitude:
-            mgrs_point_raw = converter.toMGRS(latitude, longitude)
-            if mgrs_point_raw and len(mgrs_point_raw) >= 14:
-                zone = mgrs_point_raw[:-12]
-                square = mgrs_point_raw[-12:-10]
-                easting = mgrs_point_raw[-10:-6]
-                northing = mgrs_point_raw[-5:-1]
-                mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
-                output(mgrs_point + '   ' + name + ' - ' + address)
+        self.map_client = googlemaps.Client(key=key)
+        self.converter  = mgrs.MGRS()
 
-key_file = open('google_places.key', 'r')
-key = key_file.readline()
-key_file.close()
-map_client = googlemaps.Client(key=key)
-converter = mgrs.MGRS()
+    def log(self, message):
+        with open(self.log_filename, 'a') as f:
+            f.write(message.encode('utf-8') + '\n')
 
-print 'MGRS Search - Copyright 2018 Jeremy Reeder'
-log('--- MGRS Search Log ---')
-print 'As an example, an MGRS coordinate in Boise is 11T NJ 6337 2982.'
-base_location_mgrs = raw_input('Using an MGRS coordinate, set your approximate base location: ')
-base_location_mgrs = base_location_mgrs.upper()
-log('Base location: ' + base_location_mgrs)
-base_location_mgrs = base_location_mgrs.replace(' ', '') #remove spaces
-base_location_tuple = converter.toLatLon(base_location_mgrs)
-base_location = str(base_location_tuple[0])+','+str(base_location_tuple[1]) #google-compatible format
-print 'To find MGRS coordinates of places nearby, enter any query supported by Google Maps.'
-print "To quit, just hit 'Enter'."
-while True:
-    query = raw_input('mgrs-search> ')
-    if query == '':
-        exit()
-    log('mgrs-search> ' + query)
-    finished_with_query = False
-    next_page_token = None
-    while not finished_with_query:
-        response = places_nearby(client=map_client, location=base_location, radius=25000, keyword=query, rank_by='prominence', page_token=next_page_token)
-        if 'results' in response:
-            results = response['results']
-            output_results(results)
-        if 'next_page_token' in response:
-            next_page_token = response['next_page_token']
-        else:
+    def output(self, message):
+        print message
+        self.log(message)
+
+    def output_results(self, results):
+        for result in results:
+            name = None
+            address = None
+            latitude = None
+            longitude = None
+            if 'name' in result:
+                name = result['name']
+            if 'vicinity' in result:
+                address = result['vicinity']
+            if 'geometry' in result:
+                geometry = result['geometry']
+            if 'location' in geometry:
+                location = geometry['location']
+                if 'lat' in location:
+                    latitude = location['lat']
+                if 'lng' in location:
+                    longitude = location['lng']
+            if name and address and latitude and longitude:
+                mgrs_point_raw = self.converter.toMGRS(latitude, longitude)
+                if mgrs_point_raw and len(mgrs_point_raw) >= 14:
+                    zone = mgrs_point_raw[:-12]
+                    square = mgrs_point_raw[-12:-10]
+                    easting = mgrs_point_raw[-10:-6]
+                    northing = mgrs_point_raw[-5:-1]
+                    mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
+                    self.output(mgrs_point + '   ' + name + ' - ' + address)
+
+    def get_base(self):
+        print '..........................................'
+        print 'MGRS Search - Copyright 2018 Jeremy Reeder'
+        print '..........................................'
+        print ''
+        print 'Set base location using MGRS coords. Default is for Boise, ID.'
+        base_mgrs = raw_input('[' + self.default_base + ']> ')
+        if base_mgrs == '':
+            base_mgrs = self.default_base
+        base_mgrs = base_mgrs.upper()
+        self.log('Base location: ' + base_mgrs)
+        base_mgrs = base_mgrs.replace(' ', '') #remove spaces
+        base_tuple = self.converter.toLatLon(base_mgrs)
+        self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
+
+    def run(self):
+        print 'Enter any query supported by Google Maps.'
+        print "CTRL-C to quit."
+        while True:
+            query = raw_input(self.prompt)
+            if query == '':
+                continue
+            self.log(self.prompt + query)
+            finished_with_query = False
             next_page_token = None
-        finished_with_query = not next_page_token
-        if not finished_with_query:
-            # Google needs time to register the next-page token after each page of results.
-            time.sleep(2)
+            while not finished_with_query:
+                response = places_nearby(client=self.map_client,
+                                         location=self.base,
+                                         radius=25000,
+                                         keyword=query,
+                                         rank_by='prominence',
+                                         page_token=next_page_token)
+                if 'results' in response:
+                    results = response['results']
+                    self.output_results(results)
+                if 'next_page_token' in response:
+                    next_page_token = response['next_page_token']
+                else:
+                    next_page_token = None
+                finished_with_query = not next_page_token
+                if not finished_with_query:
+                    # Google needs time to register the next-page token
+                    # after each page of results.
+                    time.sleep(2)
 
+m = M()
+m.get_base()
+m.run()
