@@ -6,6 +6,7 @@ from googlemaps.places import places_nearby
 import mgrs
 import os
 import readline
+import sys
 import time
 
 class M:
@@ -62,7 +63,7 @@ class M:
 
     def get_base(self):
         print '..........................................'
-        print 'MGRS Search - Copyright 2018 Jeremy Reeder'
+        print 'MGRS Search . Copyright 2018 Jeremy Reeder'
         print '..........................................'
         print ''
         print 'Set base location using MGRS coords. Default is for Boise, ID.'
@@ -77,7 +78,7 @@ class M:
 
     def run(self):
         print 'Enter any query supported by Google Maps.'
-        print "CTRL-C to quit."
+        print "Ctrl-C to quit."
         while True:
             query = raw_input(self.prompt)
             if query == '':
@@ -107,4 +108,7 @@ class M:
 
 m = M()
 m.get_base()
-m.run()
+try:
+    m.run()
+except KeyboardInterrupt:
+    sys.exit(0)
