@@ -1,5 +1,6 @@
 #! /usr/bin/env python2.7
 
+from   collections import namedtuple
 import fileinput
 import googlemaps
 from   googlemaps.places import places_nearby
@@ -16,6 +17,9 @@ class M:
     key_filename  = 'config/google_places.key'
     default_base  = '11T NJ 6337 2982'
     prompt        = 'mgrs-search > '
+
+    ResultTuple   = namedtuple('ResultTuple', 'name address lat lng')
+
     result_schema = Schema({'name':     unicode,
                             'vicinity': unicode,
                             'geometry': {'location': {'lat': float, 'lng': float},
@@ -40,36 +44,36 @@ class M:
         print message
         self.log(message)
 
-    def vars_from_result(self, result):
+    def result_tuple(self, result):
         try:
             self.result_schema.validate(result)
         except SchemaError:
-            # Return tuple of same length as when successful
-            return (False, False, False, False)
+            return
 
-        name     = result['name']
-        address  = result['vicinity']
         geometry = result['geometry']
         location = geometry['location']
-        lat      = location['lat']
-        lng      = location['lng']
 
-        return (name, address, lat, lng)
+        r = self.ResultTuple( result['name'],
+                              result['vicinity'], # Stored as "address"
+                              location['lat'],
+                              location['lng'] )
+
+        return r
 
     def print_results(self, results):
         for result in results:
-            name, address, lat, lng = self.vars_from_result(result)
-            if not name:
+            r = self.result_tuple(result)
+            if not r:
                 continue
 
-            p = self.converter.toMGRS(lat, lng)
+            p = self.converter.toMGRS(r.lat, r.lng)
             if p and len(p) >= 14:
                 zone         = p[:-12]
                 square       = p[-12:-10]
                 easting      = p[-10:-6]
                 northing     = p[-5:-1]
                 p_formatted = zone + ' ' + square + ' ' + easting + ' ' + northing
-                self.output(p_formatted + '   ' + name + ' - ' + address)
+                self.output(p_formatted + '   ' + r.name + ' - ' + r.address)
 
     def get_base(self):
         print '------------------------------------------'
