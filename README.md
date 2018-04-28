@@ -28,7 +28,7 @@ Latitude and longitude are so 1941.
 
 2. Install the following python modules:
 
-    pip install --user googlemaps gmrs
+    pip install --user googlemaps gmrs schema
 
 3. Get a Google Places API key and store it in config/google_places.key.
 

@@ -1,19 +1,30 @@
 #! /usr/bin/env python2.7
 
+from   collections import namedtuple
 import fileinput
 import googlemaps
-from googlemaps.places import places_nearby
+from   googlemaps.places import places_nearby
 import mgrs
 import os
+import pdb
 import readline
 import sys
+from   schema import Schema, SchemaError
 import time
 
 class M:
-    log_filename = 'log/mgrs-search.log'
-    key_filename = 'config/google_places.key'
-    default_base = '11T NJ 6337 2982'
-    prompt       = 'mgrs-search > '
+    log_filename  = 'log/mgrs-search.log'
+    key_filename  = 'config/google_places.key'
+    default_base  = '11T NJ 6337 2982'
+    prompt        = 'mgrs-search > '
+
+    ResultTuple   = namedtuple('ResultTuple', 'name address lat lng')
+
+    result_schema = Schema({'name':     unicode,
+                            'vicinity': unicode,
+                            'geometry': {'location': {'lat': float, 'lng': float},
+                                         unicode   : object},
+                            unicode   : object})
 
     def __init__(self):
         with open(self.log_filename, 'w') as f:
@@ -33,33 +44,36 @@ class M:
         print message
         self.log(message)
 
-    def output_results(self, results):
+    def result_tuple(self, result):
+        try:
+            self.result_schema.validate(result)
+        except SchemaError:
+            return
+
+        geometry = result['geometry']
+        location = geometry['location']
+
+        r = self.ResultTuple( result['name'],
+                              result['vicinity'], # Stored as "address"
+                              location['lat'],
+                              location['lng'] )
+
+        return r
+
+    def print_results(self, results):
         for result in results:
-            name = None
-            address = None
-            latitude = None
-            longitude = None
-            if 'name' in result:
-                name = result['name']
-            if 'vicinity' in result:
-                address = result['vicinity']
-            if 'geometry' in result:
-                geometry = result['geometry']
-            if 'location' in geometry:
-                location = geometry['location']
-                if 'lat' in location:
-                    latitude = location['lat']
-                if 'lng' in location:
-                    longitude = location['lng']
-            if name and address and latitude and longitude:
-                mgrs_point_raw = self.converter.toMGRS(latitude, longitude)
-                if mgrs_point_raw and len(mgrs_point_raw) >= 14:
-                    zone = mgrs_point_raw[:-12]
-                    square = mgrs_point_raw[-12:-10]
-                    easting = mgrs_point_raw[-10:-6]
-                    northing = mgrs_point_raw[-5:-1]
-                    mgrs_point = zone + ' ' + square + ' ' + easting + ' ' + northing
-                    self.output(mgrs_point + '   ' + name + ' - ' + address)
+            r = self.result_tuple(result)
+            if not r:
+                continue
+
+            p = self.converter.toMGRS(r.lat, r.lng)
+            if p and len(p) >= 14:
+                zone         = p[:-12]
+                square       = p[-12:-10]
+                easting      = p[-10:-6]
+                northing     = p[-5:-1]
+                p_formatted = zone + ' ' + square + ' ' + easting + ' ' + northing
+                self.output(p_formatted + '   ' + r.name + ' - ' + r.address)
 
     def get_base(self):
         print '------------------------------------------'
@@ -67,7 +81,7 @@ class M:
         print '------------------------------------------'
         print ''
         print 'Set base location using MGRS coords. Default is for Boise, ID.'
-        base_mgrs = raw_input('[' + self.default_base + ']> ')
+        base_mgrs = raw_input('[' + self.default_base + ']> ').strip()
         if base_mgrs == '':
             base_mgrs = self.default_base
         base_mgrs = base_mgrs.upper()
@@ -95,7 +109,8 @@ class M:
                                          page_token=next_page_token)
                 if 'results' in response:
                     results = response['results']
-                    self.output_results(results)
+                    self.print_results(results)
+                    print ''
                 if 'next_page_token' in response:
                     next_page_token = response['next_page_token']
                 else:
