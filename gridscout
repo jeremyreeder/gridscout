@@ -13,10 +13,10 @@ from   schema import Schema, SchemaError
 import time
 
 class M:
-    log_filename  = 'log/mgrs-search.log'
+    log_filename  = 'log/gridscout.log'
     key_filename  = 'config/google_places.key'
     default_base  = '11T NJ 6337 2982'
-    prompt        = 'mgrs-search > '
+    prompt        = 'gridscout > '
 
     ResultTuple   = namedtuple('ResultTuple', 'name address lat lng')
 
@@ -28,7 +28,7 @@ class M:
 
     def __init__(self):
         with open(self.log_filename, 'w') as f:
-            f.write('--- MGRS Search Log ---\n')
+            f.write('--- GridScout Log ---\n')
 
         with open(self.key_filename, 'r') as f:
             key = f.readline()
@@ -76,9 +76,9 @@ class M:
                 self.output(p_formatted + '   ' + r.name + ' - ' + r.address)
 
     def get_base(self):
-        print '------------------------------------------'
-        print 'MGRS Search - Copyright 2018 Jeremy Reeder'
-        print '------------------------------------------'
+        print '----------------------------------------'
+        print 'GridScout - Copyright 2018 Jeremy Reeder'
+        print '----------------------------------------'
         print ''
         print 'Set base location using MGRS coords. Default is for Boise, ID.'
         base_mgrs = raw_input('[' + self.default_base + ']> ').strip()
