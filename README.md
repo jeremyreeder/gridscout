@@ -3,7 +3,7 @@
 ## Search Google Maps from the terminal, get results in MGRS
 
 This interactive Python script searches for places by using Google's _Places
-API_.  Results are diplayed as a concise list of up to 60 places, along with
+API_. Results are displayed as a concise list of up to 60 places, along with
 MGRS coordinates.
 
 Convenient for bulk collection of location data. For example, an intelligence
