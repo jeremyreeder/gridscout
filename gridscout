@@ -156,8 +156,8 @@ class M:
                     time.sleep(2)
 
 m = M()
-m.get_base()
 try:
+    m.get_base()
     m.run()
 except (KeyboardInterrupt, EOFError):
     sys.exit(0)
