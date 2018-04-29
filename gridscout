@@ -5,11 +5,13 @@ import fileinput
 from   googlemaps import Client
 from   googlemaps.places import places_nearby
 import mgrs
+from mgrs.core import RTreeError
 import os
 from os import path
 import pdb
 import readline
 import sys
+from sys import stderr
 from   schema import Schema, SchemaError
 import time
 
@@ -115,14 +117,21 @@ class M:
         print '----------------------------------------'
         print ''
         print 'Set base location using MGRS coords. Default is for Boise, ID.'
-        base_mgrs = raw_input('[' + self.default_base + ']> ').strip()
-        if base_mgrs == '':
-            base_mgrs = self.default_base
-        base_mgrs = base_mgrs.upper()
-        self.log('Base location: ' + base_mgrs)
-        base_mgrs = base_mgrs.replace(' ', '') #remove spaces
-        base_tuple = self.converter.toLatLon(base_mgrs)
-        self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
+        base_mgrs = None
+        base_tuple = None
+        while base_mgrs == None:
+            try:
+                base_mgrs_raw = raw_input('[' + self.default_base + ']> ').strip()
+                if base_mgrs_raw == '':
+                    base_mgrs_raw = self.default_base
+                base_mgrs = base_mgrs_raw.upper()
+                self.log('Base location: ' + base_mgrs)
+                base_mgrs = base_mgrs.replace(' ', '') #remove spaces
+                base_tuple = self.converter.toLatLon(base_mgrs)
+                self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
+            except RTreeError:
+                stderr.write('Invalid MGRS!\n')
+                base_mgrs = None
 
     def run(self):
         print 'Enter any query supported by Google Maps.'
