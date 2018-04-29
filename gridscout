@@ -6,6 +6,7 @@ from   googlemaps import Client
 from   googlemaps.places import places_nearby
 import mgrs
 import os
+from os import path
 import pdb
 import readline
 import sys
@@ -32,7 +33,7 @@ class M:
                             unicode   : object})
 
     def __init__(self):
-        os.chdir(os.path.dirname(sys.argv[0])) # Goes to the location of the script
+        os.chdir(path.dirname(path.realpath(sys.argv[0]))) # Goes to the location of the script
         with open(self.log_filename, 'w') as f:
             f.write('--- GridScout Log ---\n')
 
