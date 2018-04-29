@@ -32,6 +32,7 @@ class M:
                             unicode   : object})
 
     def __init__(self):
+        os.chdir(os.path.dirname(sys.argv[0])) # Goes to the location of the script
         with open(self.log_filename, 'w') as f:
             f.write('--- GridScout Log ---\n')
 
