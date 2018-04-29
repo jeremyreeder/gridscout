@@ -54,7 +54,7 @@ class M:
         for point, name, address in self._rows:
             cc = point + '  ' + \
                     formatter.format(name)[:self.name_width()] + \
-                    ' ' + address
+                    '  ' + address
             self.output(cc)
 
     def log(self, message):
