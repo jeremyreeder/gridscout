@@ -1,5 +1,6 @@
 # GridScout
 
+
 ## Search Google Maps from the terminal, get results in MGRS
 
 This interactive Python script searches for places by using Google's _Places
@@ -14,6 +15,7 @@ day when the Internet may be unavailable. Later, he would refer to it as he
 annotates polyester overlays on MGRS-based maps. Waterproof maps, of course.
 Remember, it'll be raining.
 
+
 ### What's MGRS?
 
 [Military Grid Reference
@@ -21,6 +23,7 @@ System](https://en.wikipedia.org/wiki/Military_Grid_Reference_System).  It's
 used by NATO militaries because it's concise, minimizes distortion, and makes
 for easy math. It's a whole-world variant of the UTM coordinate system.
 Latitude and longitude are so 1941.
+
 
 ## Installing GridScout
 
@@ -30,10 +33,19 @@ Latitude and longitude are so 1941.
 
     pip install --user colorama gmrs googlemaps schema
 
-3. Get a Google Places API key and store it in config/google_places.key.
+3. Download GridScout.
 
-    vi config/google_places.key
+    cd
+
+    git clone https://github.com/jeremyjohnreeder/gridscout.git
+
+3. Get a Google Places API key and store it in the `config` subdirectory.
+
+    vi ~/gridscout/config/google_places.key
+
 
 ## Running GridScout
+
+    cd gridscout
 
     ./gridscout
