@@ -82,17 +82,17 @@ class M:
 		location = geometry['location']
 
 		r = self.ResultTuple( result['name'],
-                                      result['vicinity'], # Stored as "address"
-                                      location['lat'],
-                                      location['lng'] )
+		                      result['vicinity'], # Stored as "address"
+		                      location['lat'],
+		                      location['lng'] )
 
 		return r
 
 	def name_width(self):
 		# source: https://www.w3resource.com/python-exercises/python-basic-exercise-56.php
 		_, terminal_width, _, _ = struct.unpack('HHHH',
-                                                        fcntl.ioctl(0, termios.TIOCGWINSZ,
-                                                        struct.pack('HHHH', 0, 0, 0, 0)))
+		   fcntl.ioctl(0, termios.TIOCGWINSZ,
+                     struct.pack('HHHH', 0, 0, 0, 0)))
 
 		return max(terminal_width - self.other_width, self.min_name_width)
 
