@@ -25,7 +25,7 @@ class M:
 	default_base = '11T NJ 6337 2982'
 	prompt       = 'gridscout> '
 	prompt_style = Style.DIM
-	input_style  = Style.BRIGHT
+	input_style  = Style.NORMAL
 
 	min_name_width = 25
 	other_width    = 50
@@ -114,10 +114,10 @@ class M:
 		self.three_columns()
 
 	def get_base(self):
-		print '----------------------------------------'
-		print 'GridScout - Copyright 2018 Jeremy Reeder'
-		print '----------------------------------------'
-		print ''
+		print Style.DIM    + '----------------------------------------'
+		print Style.NORMAL + 'GridScout - Copyright 2018 Jeremy Reeder'
+		print Style.DIM    + '----------------------------------------'
+		print Style.NORMAL # Resets style and prints a blank line.
 		print 'Set base location using MGRS coords. Default is for Boise, ID.'
 		base_mgrs = None
 		base_tuple = None
@@ -141,7 +141,7 @@ class M:
 		print 'Ctrl-C to quit.\n'
 		while True:
 			query = raw_input(self.prompt_style + self.prompt + self.input_style)
-			print Style.RESET_ALL
+			print Style.NORMAL # Resets style and prints a blank line.
 			if query == '':
 				continue
 			self.log(self.prompt + query + '\n')
