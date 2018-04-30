@@ -1,11 +1,11 @@
 #! /usr/bin/env python2.7
 
-from   collections import namedtuple
+from collections import namedtuple
 import colorama
 from colorama import Fore, Back, Style
 import fileinput
-from   googlemaps import Client
-from   googlemaps.places import places_nearby
+from googlemaps import Client
+from googlemaps.places import places_nearby
 import mgrs
 from mgrs.core import RTreeError
 import os
@@ -14,165 +14,163 @@ import pdb
 import readline
 import sys
 from sys import stderr
-from   schema import Schema, SchemaError
+from schema import Schema, SchemaError
 import time
 
 import fcntl, termios, struct # Used in determining screen size
 
 class M:
-    log_filename = 'log/gridscout.log'
-    key_filename = 'config/google_places.key'
-    default_base = '11T NJ 6337 2982'
-    prompt       = 'gridscout> '
-    prompt_style = Style.DIM
-    input_style  = Style.BRIGHT
+	log_filename = 'log/gridscout.log'
+	key_filename = 'config/google_places.key'
+	default_base = '11T NJ 6337 2982'
+	prompt       = 'gridscout> '
+	prompt_style = Style.DIM
+	input_style  = Style.BRIGHT
 
-    min_name_width = 25
-    other_width    = 50
+	min_name_width = 25
+	other_width    = 50
 
-    ResultTuple   = namedtuple('ResultTuple', 'name address lat lng')
+	ResultTuple    = namedtuple('ResultTuple', 'name address lat lng')
 
-    result_schema = Schema({'name':     unicode,
-                            'vicinity': unicode,
-                            'geometry': {'location': {'lat': float, 'lng': float},
-                                         unicode   : object},
-                            unicode   : object})
+	result_schema  = Schema({'name': unicode,
+	                         'vicinity': unicode,
+	                         'geometry': {'location': {'lat': float, 'lng': float},
+	                                      unicode   : object},
+	                         unicode   : object})
 
-    def __init__(self):
-        colorama.init()
-        os.chdir(path.dirname(path.realpath(sys.argv[0]))) # Goes to the location of the script
-        with open(self.log_filename, 'w') as f:
-            f.write('--- GridScout Log ---\n')
+	def __init__(self):
+		colorama.init()
+		os.chdir(path.dirname(path.realpath(sys.argv[0]))) # Goes to the location of the script
+		with open(self.log_filename, 'w') as f:
+			f.write('--- GridScout Log ---\n')
 
-        with open(self.key_filename, 'r') as f:
-            key = f.readline()
+		with open(self.key_filename, 'r') as f:
+			key = f.readline()
 
-        self.map_client = Client(key=key)
-        self.converter  = mgrs.MGRS()
-        self.reset_rows()
+		self.map_client = Client(key=key)
+		self.converter  = mgrs.MGRS()
+		self.reset_rows()
 
-    def reset_rows(self):
-        self._rows = []
+	def reset_rows(self):
+		self._rows = []
 
-    def add_row(self, row):
-        self._rows.append(row)
+	def add_row(self, row):
+		self._rows.append(row)
 
-    def three_columns(self):
-        width = max([len(name) for _, name, _ in self._rows])
-        formatter = u'{:<%s}' % width
-        for point, name, address in self._rows:
-            cc = point + '  ' + \
-                    formatter.format(name)[:self.name_width()] + \
-                    '  ' + address
-            self.output(cc)
+	def three_columns(self):
+		width = max([len(name) for _, name, _ in self._rows])
+		formatter = u'{:<%s}' % width
+		for point, name, address in self._rows:
+			cc = point + '  ' + formatter.format(name)[:self.name_width()] + '  ' + address
+			self.output(cc)
 
-    def log(self, message):
-        with open(self.log_filename, 'a') as f:
-            f.write(message.encode('utf-8') + '\n')
+	def log(self, message):
+		with open(self.log_filename, 'a') as f:
+			f.write(message.encode('utf-8') + '\n')
 
-    def output(self, message):
-        print message
-        self.log(message)
+	def output(self, message):
+		print message
+		self.log(message)
 
-    def result_tuple(self, result):
-        try:
-            self.result_schema.validate(result)
-        except SchemaError:
-            return
+	def result_tuple(self, result):
+		try:
+			self.result_schema.validate(result)
+		except SchemaError:
+			return
 
-        geometry = result['geometry']
-        location = geometry['location']
+		geometry = result['geometry']
+		location = geometry['location']
 
-        r = self.ResultTuple( result['name'],
-                              result['vicinity'], # Stored as "address"
-                              location['lat'],
-                              location['lng'] )
+		r = self.ResultTuple( result['name'],
+                                      result['vicinity'], # Stored as "address"
+                                      location['lat'],
+                                      location['lng'] )
 
-        return r
+		return r
 
-    def name_width(self):
-        # source: https://www.w3resource.com/python-exercises/python-basic-exercise-56.php
-        _, terminal_width, _, _ = struct.unpack('HHHH',
-                                    fcntl.ioctl(0, termios.TIOCGWINSZ,
-                                    struct.pack('HHHH', 0, 0, 0, 0)))
+	def name_width(self):
+		# source: https://www.w3resource.com/python-exercises/python-basic-exercise-56.php
+		_, terminal_width, _, _ = struct.unpack('HHHH',
+                                                        fcntl.ioctl(0, termios.TIOCGWINSZ,
+                                                        struct.pack('HHHH', 0, 0, 0, 0)))
 
-        return max(terminal_width - self.other_width, self.min_name_width)
+		return max(terminal_width - self.other_width, self.min_name_width)
 
 
-    def print_results(self, results):
-        self.reset_rows()
-        for result in results:
-            r = self.result_tuple(result)
-            if not r:
-                continue
-            p = self.converter.toMGRS(r.lat, r.lng)
-            if p and len(p) >= 14:
-                zone         = p[:-12]
-                square       = p[-12:-10]
-                easting      = p[-10:-6]
-                northing     = p[-5:-1]
-                p_formatted = zone + ' ' + square + ' ' + easting + ' ' + northing
-                self.add_row((p_formatted, r.name, r.address))
-        self.three_columns()
+	def print_results(self, results):
+		self.reset_rows()
+		for result in results:
+			r = self.result_tuple(result)
+			if not r:
+				continue
+			p = self.converter.toMGRS(r.lat, r.lng)
+			if p and len(p) >= 14:
+				zone       = p[:-12]
+				square     = p[-12:-10]
+				easting    = p[-10:-6]
+				northing   = p[-5:-1]
+				p_formatted = zone + ' ' + square + ' ' + easting + ' ' + northing
+				self.add_row((p_formatted, r.name, r.address))
+		self.three_columns()
 
-    def get_base(self):
-        print '----------------------------------------'
-        print 'GridScout - Copyright 2018 Jeremy Reeder'
-        print '----------------------------------------'
-        print ''
-        print 'Set base location using MGRS coords. Default is for Boise, ID.'
-        base_mgrs = None
-        base_tuple = None
-        while base_mgrs == None:
-            try:
-                base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base + ']> ' + self.input_style).strip()
-                print Style.RESET_ALL
-                if base_mgrs_raw == '':
-                    base_mgrs_raw = self.default_base
-                base_mgrs = base_mgrs_raw.upper()
-                self.log('Base location: ' + base_mgrs + '\n')
-                base_mgrs = base_mgrs.replace(' ', '') #remove spaces
-                base_tuple = self.converter.toLatLon(base_mgrs)
-                self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
-            except RTreeError:
-                stderr.write('Invalid MGRS!\n')
-                base_mgrs = None
+	def get_base(self):
+		print '----------------------------------------'
+		print 'GridScout - Copyright 2018 Jeremy Reeder'
+		print '----------------------------------------'
+		print ''
+		print 'Set base location using MGRS coords. Default is for Boise, ID.'
+		base_mgrs = None
+		base_tuple = None
+		while base_mgrs == None:
+			try:
+				base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base + ']> ' + self.input_style).strip()
+				print Style.RESET_ALL
+				if base_mgrs_raw == '':
+					base_mgrs_raw = self.default_base
+				base_mgrs = base_mgrs_raw.upper()
+				self.log('Base location: ' + base_mgrs + '\n')
+				base_mgrs = base_mgrs.replace(' ', '') #remove spaces
+				base_tuple = self.converter.toLatLon(base_mgrs)
+				self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
+			except RTreeError:
+				stderr.write('Invalid MGRS!\n')
+				base_mgrs = None
 
-    def run(self):
-        print 'Enter any query supported by Google Maps.'
-        print 'Ctrl-C to quit.\n'
-        while True:
-            query = raw_input(self.prompt_style + self.prompt + self.input_style)
-            print Style.RESET_ALL
-            if query == '':
-                continue
-            self.log(self.prompt + query + '\n')
-            finished_with_query = False
-            next_page_token = None
-            while not finished_with_query:
-                response = places_nearby(client=self.map_client,
-                                         location=self.base,
-                                         radius=25000,
-                                         keyword=query,
-                                         rank_by='prominence',
-                                         page_token=next_page_token)
-                if 'results' in response:
-                    results = response['results']
-                    self.print_results(results)
-                    self.output('')
-                if 'next_page_token' in response:
-                    next_page_token = response['next_page_token']
-                else:
-                    next_page_token = None
-                finished_with_query = not next_page_token
-                if not finished_with_query:
-                    # Google needs time to register the next-page token
-                    # after each page of results.
-                    time.sleep(2)
+	def run(self):
+		print 'Enter any query supported by Google Maps.'
+		print 'Ctrl-C to quit.\n'
+		while True:
+			query = raw_input(self.prompt_style + self.prompt + self.input_style)
+			print Style.RESET_ALL
+			if query == '':
+				continue
+			self.log(self.prompt + query + '\n')
+			finished_with_query = False
+			next_page_token = None
+			while not finished_with_query:
+				response = places_nearby(client=self.map_client,
+				                         location=self.base,
+				                         radius=25000,
+				                         keyword=query,
+				                         rank_by='prominence', 
+				                         page_token=next_page_token)
+				if 'results' in response:
+					results = response['results']
+					self.print_results(results)
+					self.output('')
+				if 'next_page_token' in response:
+					next_page_token = response['next_page_token']
+				else:
+					next_page_token = None
+				finished_with_query = not next_page_token
+				if not finished_with_query:
+					# Google needs time to register the next-page token
+					# after each page of results.
+					time.sleep(2)
 
 m = M()
 try:
-    m.get_base()
-    m.run()
+	m.get_base()
+	m.run()
 except (KeyboardInterrupt, EOFError):
-    sys.exit(0)
+	sys.exit(0)
