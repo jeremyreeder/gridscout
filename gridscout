@@ -23,7 +23,9 @@ class M:
     log_filename = 'log/gridscout.log'
     key_filename = 'config/google_places.key'
     default_base = '11T NJ 6337 2982'
-    prompt       = Style.BRIGHT + 'gridscout> ' + Style.NORMAL
+    prompt       = 'gridscout> '
+    prompt_style = Style.DIM
+    input_style  = Style.BRIGHT
 
     min_name_width = 25
     other_width    = 50
@@ -103,7 +105,6 @@ class M:
             r = self.result_tuple(result)
             if not r:
                 continue
-
             p = self.converter.toMGRS(r.lat, r.lng)
             if p and len(p) >= 14:
                 zone         = p[:-12]
@@ -124,7 +125,8 @@ class M:
         base_tuple = None
         while base_mgrs == None:
             try:
-                base_mgrs_raw = raw_input('[' + self.default_base + ']> ').strip()
+                base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base + ']> ' + self.input_style).strip()
+                print Style.RESET_ALL
                 if base_mgrs_raw == '':
                     base_mgrs_raw = self.default_base
                 base_mgrs = base_mgrs_raw.upper()
@@ -140,7 +142,8 @@ class M:
         print 'Enter any query supported by Google Maps.'
         print "Ctrl-C to quit."
         while True:
-            query = raw_input(self.prompt)
+            query = raw_input(self.prompt_style + self.prompt + self.input_style)
+            print Style.RESET_ALL
             if query == '':
                 continue
             self.log(self.prompt + query)
@@ -156,7 +159,7 @@ class M:
                 if 'results' in response:
                     results = response['results']
                     self.print_results(results)
-                    print '\n'
+                    print ''
                 if 'next_page_token' in response:
                     next_page_token = response['next_page_token']
                 else:
