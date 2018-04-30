@@ -20,23 +20,23 @@ import time
 import fcntl, termios, struct # Used in determining screen size
 
 class M:
-	log_filename = 'log/gridscout.log'
-	key_filename = 'config/google_places.key'
-	default_base = '11T NJ 6337 2982'
-	prompt       = 'gridscout> '
-	prompt_style = Style.DIM
-	input_style  = Style.NORMAL
+	log_filename      = 'log/gridscout.log'
+	key_filename      = 'config/google_places.key'
+	default_base_mgrs = '11T NJ 6337 2982'
+	prompt            = 'gridscout> '
+	prompt_style      = Style.DIM
+	input_style       = Style.NORMAL
 
-	min_name_width = 25
-	other_width    = 50
+	min_name_width    = 25
+	other_width       = 50
 
-	ResultTuple    = namedtuple('ResultTuple', 'name address lat lng')
+	ResultTuple       = namedtuple('ResultTuple', 'name address lat lng')
 
-	result_schema  = Schema({'name': unicode,
-	                         'vicinity': unicode,
-	                         'geometry': {'location': {'lat': float, 'lng': float},
-	                                      unicode   : object},
-	                         unicode   : object})
+	result_schema     = Schema({'name': unicode,
+	                            'vicinity': unicode,
+	                            'geometry': {'location': {'lat': float, 'lng': float},
+	                                         unicode   : object},
+	                            unicode   : object})
 
 	def __init__(self):
 		colorama.init()
@@ -50,6 +50,15 @@ class M:
 		self.map_client = Client(key=key)
 		self.converter  = mgrs.MGRS()
 		self.reset_rows()
+
+	def format_mgrs(self, mgrs):
+		if not mgrs or len(mgrs) < 14:
+			raise ValueError('mgrs = ' + mgrs)
+		zone       = mgrs[:-12]
+		square     = mgrs[-12:-10]
+		easting    = mgrs[-10:-6]
+		northing   = mgrs[-5:-1]
+		return zone + ' ' + square + ' ' + easting + ' ' + northing
 
 	def reset_rows(self):
 		self._rows = []
@@ -105,15 +114,11 @@ class M:
 				continue
 			p = self.converter.toMGRS(r.lat, r.lng)
 			if p and len(p) >= 14:
-				zone       = p[:-12]
-				square     = p[-12:-10]
-				easting    = p[-10:-6]
-				northing   = p[-5:-1]
-				p_formatted = zone + ' ' + square + ' ' + easting + ' ' + northing
+				p_formatted = self.format_mgrs(p)
 				self.add_row((p_formatted, r.name, r.address))
 		self.three_columns()
 
-	def get_base(self):
+	def input_base_latlng(self):
 		print Style.DIM    + '----------------------------------------'
 		print Style.NORMAL + 'GridScout - Copyright 2018 Jeremy Reeder'
 		print Style.DIM    + '----------------------------------------'
@@ -123,15 +128,15 @@ class M:
 		base_tuple = None
 		while base_mgrs == None:
 			try:
-				base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base + ']> ' + self.input_style).strip()
-				print Style.RESET_ALL
+				base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base_mgrs + ']> ' + self.input_style).strip()
+				print Style.NORMAL
 				if base_mgrs_raw == '':
-					base_mgrs_raw = self.default_base
+					base_mgrs_raw = self.default_base_mgrs
 				base_mgrs = base_mgrs_raw.upper()
-				self.log('Base location: ' + base_mgrs + '\n')
-				base_mgrs = base_mgrs.replace(' ', '') #remove spaces
-				base_tuple = self.converter.toLatLon(base_mgrs)
-				self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
+				self.output('Base location: ' + base_mgrs + '\n')
+				base_mgrs = base_mgrs.replace(' ', '') # remove spaces to satisfy the converter
+				latlng_tuple = self.converter.toLatLon(base_mgrs)
+				self.base_latlng = str(latlng_tuple[0])+',' + str(latlng_tuple[1]) #google-compatible format
 			except RTreeError:
 				stderr.write('Invalid MGRS!\n')
 				base_mgrs = None
@@ -149,7 +154,7 @@ class M:
 			next_page_token = None
 			while not finished_with_query:
 				response = places_nearby(client=self.map_client,
-				                         location=self.base,
+				                         location=self.base_latlng,
 				                         radius=25000,
 				                         keyword=query,
 				                         rank_by='prominence', 
@@ -170,7 +175,7 @@ class M:
 
 m = M()
 try:
-	m.get_base()
+	m.input_base_latlng()
 	m.run()
 except (KeyboardInterrupt, EOFError):
 	sys.exit(0)
