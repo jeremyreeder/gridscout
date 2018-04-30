@@ -31,7 +31,7 @@ Latitude and longitude are so 1941.
 
 2. Install the following python modules:
 
-    pip install --user colorama gmrs googlemaps schema
+    pip install --user colorama googlemaps mgrs schema
 
 3. Download GridScout.
 
