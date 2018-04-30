@@ -2,7 +2,7 @@
 
 from collections import namedtuple
 import colorama
-from colorama import Fore, Back, Style
+from colorama import Style
 import fileinput
 from googlemaps import Client
 from googlemaps.places import places_nearby
