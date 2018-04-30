@@ -130,7 +130,7 @@ class M:
                 if base_mgrs_raw == '':
                     base_mgrs_raw = self.default_base
                 base_mgrs = base_mgrs_raw.upper()
-                self.log('Base location: ' + base_mgrs)
+                self.log('Base location: ' + base_mgrs + '\n')
                 base_mgrs = base_mgrs.replace(' ', '') #remove spaces
                 base_tuple = self.converter.toLatLon(base_mgrs)
                 self.base = str(base_tuple[0])+','+str(base_tuple[1]) #google-compatible format
@@ -140,13 +140,13 @@ class M:
 
     def run(self):
         print 'Enter any query supported by Google Maps.'
-        print "Ctrl-C to quit."
+        print 'Ctrl-C to quit.\n'
         while True:
             query = raw_input(self.prompt_style + self.prompt + self.input_style)
             print Style.RESET_ALL
             if query == '':
                 continue
-            self.log(self.prompt + query)
+            self.log(self.prompt + query + '\n')
             finished_with_query = False
             next_page_token = None
             while not finished_with_query:
@@ -159,7 +159,7 @@ class M:
                 if 'results' in response:
                     results = response['results']
                     self.print_results(results)
-                    print ''
+                    self.output('')
                 if 'next_page_token' in response:
                     next_page_token = response['next_page_token']
                 else:
