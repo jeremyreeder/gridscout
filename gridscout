@@ -2,7 +2,7 @@
 
 from collections import namedtuple
 import colorama
-from colorama import Style
+from colorama import Fore, Style
 import fileinput
 from googlemaps import Client
 from googlemaps.places import places_nearby
@@ -11,6 +11,7 @@ from mgrs.core import RTreeError
 import os
 from os import path
 import pdb
+import re
 import readline
 import sys
 from sys import stderr
@@ -22,7 +23,7 @@ import fcntl, termios, struct # Used in determining screen size
 class M:
 	log_filename      = 'log/gridscout.log'
 	key_filename      = 'config/google_places.key'
-	default_base_mgrs = '11T NJ 6337 2982'
+	default_base_mgrs = '11TNJ63372982'
 	prompt            = 'gridscout> '
 	prompt_style      = Style.DIM
 	input_style       = Style.NORMAL
@@ -58,7 +59,7 @@ class M:
 		square     = mgrs[-12:-10]
 		easting    = mgrs[-10:-6]
 		northing   = mgrs[-5:-1]
-		return zone + ' ' + square + ' ' + easting + ' ' + northing
+		return Style.DIM + zone + square + Style.NORMAL + Fore.WHITE + easting + Fore.CYAN + northing + Fore.WHITE
 
 	def reset_rows(self):
 		self._rows = []
@@ -74,8 +75,10 @@ class M:
 			self.output(cc)
 
 	def log(self, message):
+		ansiEscapeRegex = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
 		with open(self.log_filename, 'a') as f:
-			f.write(message.encode('utf-8') + '\n')
+			plainMessage = ansiEscapeRegex.sub('', message)
+			f.write(plainMessage.encode('utf-8') + '\n')
 
 	def output(self, message):
 		print message
@@ -134,7 +137,6 @@ class M:
 					base_mgrs_raw = self.default_base_mgrs
 				base_mgrs = base_mgrs_raw.upper()
 				self.output('Base location: ' + base_mgrs + '\n')
-				base_mgrs = base_mgrs.replace(' ', '') # remove spaces to satisfy the converter
 				latlng_tuple = self.converter.toLatLon(base_mgrs)
 				self.base_latlng = str(latlng_tuple[0])+',' + str(latlng_tuple[1]) #google-compatible format
 			except RTreeError:
