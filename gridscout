@@ -70,8 +70,9 @@ class M:
 	def three_columns(self):
 		width = max([len(name) for _, name, _ in self._rows])
 		formatter = u'{:<%s}' % width
+		delimiter = '   '
 		for point, name, address in self._rows:
-			cc = point + '  ' + formatter.format(name)[:self.name_width()] + '  ' + address
+			cc = point + delimiter + formatter.format(name)[:self.name_width()] + delimiter + address
 			self.output(cc)
 
 	def log(self, message):
