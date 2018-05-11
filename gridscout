@@ -59,7 +59,7 @@ class M:
 		square     = mgrs[-12:-10]
 		easting    = mgrs[-10:-6]
 		northing   = mgrs[-5:-1]
-		return Style.DIM + zone + square + Style.NORMAL + Fore.WHITE + easting + Fore.CYAN + northing + Fore.WHITE
+		return Style.DIM + Fore.GREEN + zone + Fore.CYAN + square + Style.NORMAL + Fore.GREEN + easting + Fore.CYAN + northing + Fore.WHITE
 
 	def reset_rows(self):
 		self._rows = []
