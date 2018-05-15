@@ -135,7 +135,7 @@ class M:
 			self.output_columns()
 		else:
 			print 'Found no such place.'
-
+	
 	def input_base_latlng(self):
 		print Style.DIM    + '----------------------------------------'
 		print Style.NORMAL + 'GridScout - Copyright 2018 Jeremy Reeder'
@@ -161,6 +161,8 @@ class M:
 	def run(self):
 		print 'Enter any query supported by Google Maps.'
 		print 'Ctrl-C to quit.\n'
+		has_searched_successfully = False
+		has_given_aerial_view_instructions = False
 		while True:
 			query = raw_input(self.prompt_style + self.prompt + self.input_style)
 			print Style.NORMAL # Resets style and prints a blank line.
@@ -192,6 +194,8 @@ class M:
 				                         page_token=next_page_token)
 				if 'results' in response:
 					results = response['results']
+					if results:
+							has_searched_successfully = True
 					self.output_results(results)
 					self.output('')
 				if 'next_page_token' in response:
@@ -203,6 +207,10 @@ class M:
 					# Google needs time to register the next-page token
 					# after each page of results.
 					time.sleep(2)
+			if has_searched_successfully and not has_given_aerial_view_instructions:
+				self.output("For an aerial view, enter a result ID number. (1-" + str(len(self.results_mgrs_only)) + ')')
+				has_given_aerial_view_instructions = True
+				self.output('')
 
 m = M()
 try:
