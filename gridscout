@@ -2,7 +2,7 @@
 
 from collections import namedtuple
 import colorama
-from colorama import Fore, Style
+from colorama import Back, Fore, Style
 import fileinput
 from googlemaps import Client
 from googlemaps.places import places_nearby
@@ -55,11 +55,12 @@ class M:
 	def format_mgrs(self, mgrs):
 		if not mgrs or len(mgrs) < 14:
 			raise ValueError('mgrs = ' + mgrs)
-		zone       = mgrs[:-12]
-		square     = mgrs[-12:-10]
-		easting    = mgrs[-10:-6]
-		northing   = mgrs[-5:-1]
-		return Style.DIM + Fore.GREEN + zone + Fore.CYAN + square + Style.NORMAL + Fore.GREEN + easting + Fore.CYAN + northing + Fore.WHITE
+		zone        = mgrs[:-12]
+		zone_padded = (' ' + zone)[-3:]
+		square      = mgrs[-12:-10]
+		easting     = mgrs[-10:-6]
+		northing    = mgrs[-5:-1]
+		return Back.BLACK + Fore.WHITE + Style.DIM + zone_padded + Fore.CYAN + square + Style.NORMAL + Back.WHITE + Fore.WHITE + easting + Back.BLACK + Fore.CYAN + northing + Style.RESET_ALL
 
 	def reset_rows(self):
 		self._rows = []
@@ -67,7 +68,7 @@ class M:
 	def add_row(self, row):
 		self._rows.append(row)
 
-	def three_columns(self):
+	def output_columns(self):
 		if self._rows:
 			width = max([len(name) for _, name, _ in self._rows])
 			formatter = u'{:<%s}' % width
@@ -122,7 +123,7 @@ class M:
 				if p and len(p) >= 14:
 					p_formatted = self.format_mgrs(p)
 					self.add_row((p_formatted, r.name, r.address))
-			self.three_columns()
+			self.output_columns()
 		else:
 			print 'Found no such place.'
 
