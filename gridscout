@@ -32,7 +32,7 @@ class M:
 	min_name_width    = 25
 	other_width       = 50
 	row_id            = None
-	results_mgrs_only = None
+	results_mgrs_only = []
 
 	ResultTuple       = namedtuple('ResultTuple', 'name address lat lng')
 
@@ -163,12 +163,16 @@ class M:
 		print 'Ctrl-C to quit.\n'
 		has_searched_successfully = False
 		has_given_detailed_view_instructions = False
+		mgrs_10m_regex = re.compile(r'^[0-9]{1,2}[A-Z]{3}[0-9]{8}$')
 		while True:
 			query = raw_input(self.prompt_style + self.prompt + self.input_style)
 			print Style.NORMAL # Resets style and prints a blank line.
 			if query == '':
 				continue
 			self.log(self.prompt + query + '\n')
+			if re.search(mgrs_10m_regex, query):
+				self.results_mgrs_only.append(query)
+				query = len(self.results_mgrs_only)
 			if self.results_mgrs_only:
 				try:
 					result_id = int(query)
