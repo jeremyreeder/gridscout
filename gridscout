@@ -68,12 +68,13 @@ class M:
 		self._rows.append(row)
 
 	def three_columns(self):
-		width = max([len(name) for _, name, _ in self._rows])
-		formatter = u'{:<%s}' % width
-		delimiter = '   '
-		for point, name, address in self._rows:
-			cc = point + delimiter + formatter.format(name)[:self.name_width()] + delimiter + address
-			self.output(cc)
+		if self._rows:
+			width = max([len(name) for _, name, _ in self._rows])
+			formatter = u'{:<%s}' % width
+			delimiter = '   '
+			for point, name, address in self._rows:
+				cc = point + delimiter + formatter.format(name)[:self.name_width()] + delimiter + address
+				self.output(cc)
 
 	def log(self, message):
 		ansiEscapeRegex = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
@@ -111,16 +112,19 @@ class M:
 
 
 	def print_results(self, results):
-		self.reset_rows()
-		for result in results:
-			r = self.result_tuple(result)
-			if not r:
-				continue
-			p = self.converter.toMGRS(r.lat, r.lng)
-			if p and len(p) >= 14:
-				p_formatted = self.format_mgrs(p)
-				self.add_row((p_formatted, r.name, r.address))
-		self.three_columns()
+		if results:
+			self.reset_rows()
+			for result in results:
+				r = self.result_tuple(result)
+				if not r:
+					continue
+				p = self.converter.toMGRS(r.lat, r.lng)
+				if p and len(p) >= 14:
+					p_formatted = self.format_mgrs(p)
+					self.add_row((p_formatted, r.name, r.address))
+			self.three_columns()
+		else:
+			print 'Found no such place.'
 
 	def input_base_latlng(self):
 		print Style.DIM    + '----------------------------------------'
