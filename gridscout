@@ -112,7 +112,7 @@ class M:
 		return max(terminal_width - self.other_width, self.min_name_width)
 
 
-	def print_results(self, results):
+	def output_results(self, results):
 		if results:
 			self.reset_rows()
 			for result in results:
@@ -169,7 +169,7 @@ class M:
 				                         page_token=next_page_token)
 				if 'results' in response:
 					results = response['results']
-					self.print_results(results)
+					self.output_results(results)
 					self.output('')
 				if 'next_page_token' in response:
 					next_page_token = response['next_page_token']
