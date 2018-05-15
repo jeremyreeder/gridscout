@@ -17,6 +17,7 @@ import sys
 from sys import stderr
 from schema import Schema, SchemaError
 import time
+import webbrowser
 
 import fcntl, termios, struct # Used in determining screen size
 
@@ -31,6 +32,7 @@ class M:
 	min_name_width    = 25
 	other_width       = 50
 	row_id            = None
+	results_mgrs_only = None
 
 	ResultTuple       = namedtuple('ResultTuple', 'name address lat lng')
 
@@ -76,14 +78,18 @@ class M:
 			delimiter = '   '
 			for point, name, address in self._rows:
 				self.row_id += 1
+				self.results_mgrs_only.append(self.strip_ansi_escapes(point.strip()))
 				row_prefix = Style.BRIGHT + (' ' + str(self.row_id))[-2:] + Style.NORMAL + delimiter
 				cc = row_prefix + point + delimiter + formatter.format(name)[:self.name_width()] + delimiter + address
 				self.output(cc)
+	
+	def strip_ansi_escapes(self, text):
+		ansiEscapeRegex = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
+		return ansiEscapeRegex.sub('', text)
 
 	def log(self, message):
-		ansiEscapeRegex = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
 		with open(self.log_filename, 'a') as f:
-			plainMessage = ansiEscapeRegex.sub('', message)
+			plainMessage = self.strip_ansi_escapes(message)
 			f.write(plainMessage.encode('utf-8') + '\n')
 
 	def output(self, message):
@@ -156,14 +162,27 @@ class M:
 		print 'Enter any query supported by Google Maps.'
 		print 'Ctrl-C to quit.\n'
 		while True:
-			self.row_id = 0
 			query = raw_input(self.prompt_style + self.prompt + self.input_style)
 			print Style.NORMAL # Resets style and prints a blank line.
 			if query == '':
 				continue
 			self.log(self.prompt + query + '\n')
+			if self.results_mgrs_only:
+				try:
+					result_id = int(query)
+					if result_id >= 1 and result_id <= len(self.results_mgrs_only):
+						mgrs = self.results_mgrs_only[result_id-1]
+						url = 'https://mappingsupport.com/p/gmap4.php?mgrs=' + mgrs + '&t=s&z=18'
+						self.output('Opening aerial view of ' + mgrs + '.')
+						webbrowser.open(url, new=1)
+						self.output('')
+						continue
+				except ValueError:
+					pass
 			finished_with_query = False
 			next_page_token = None
+			self.row_id = 0
+			self.results_mgrs_only = []
 			while not finished_with_query:
 				response = places_nearby(client=self.map_client,
 				                         location=self.base_latlng,
