@@ -49,7 +49,7 @@ class M:
 			f.write('--- GridScout Log ---\n')
 
 		with open(self.key_filename, 'r') as f:
-			key = f.readline()
+			key = f.readline().strip()
 
 		self.map_client = Client(key=key)
 		self.converter  = mgrs.MGRS()
@@ -82,7 +82,7 @@ class M:
 				row_prefix = Style.BRIGHT + (' ' + str(self.row_id))[-2:] + Style.NORMAL + delimiter
 				cc = row_prefix + point + delimiter + formatter.format(name)[:self.name_width()] + delimiter + address
 				self.output(cc)
-	
+
 	def strip_ansi_escapes(self, text):
 		ansiEscapeRegex = re.compile(r'\x1B\[[0-?]*[ -/]*[@-~]')
 		return ansiEscapeRegex.sub('', text)
@@ -135,7 +135,7 @@ class M:
 			self.output_columns()
 		else:
 			print 'Found no such place.'
-	
+
 	def input_base_latlng(self):
 		print Style.DIM    + '----------------------------------------'
 		print Style.NORMAL + 'GridScout - Copyright 2018 Jeremy Reeder'
@@ -198,7 +198,7 @@ class M:
 				                         location=self.base_latlng,
 				                         radius=25000,
 				                         keyword=query,
-				                         rank_by='prominence', 
+				                         rank_by='prominence',
 				                         page_token=next_page_token)
 				if 'results' in response:
 					results = response['results']
