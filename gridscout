@@ -22,9 +22,9 @@ import webbrowser
 import fcntl, termios, struct # Used in determining screen size
 
 class M:
-	log_filename                = 'log/gridscout.log'
-	key_filename                = 'config/google_places.key'
-	previous_base_mgrs_filename = 'config/previous_base.mgrs'
+	log_filename       = 'log/gridscout.log'
+	key_filename       = 'config/google_places.key'
+	base_mgrs_filename = 'config/base.mgrs'
 
 	default_base_mgrs = '11TNJ63372982'
 	min_name_width    = 25
@@ -149,7 +149,7 @@ class M:
 		base_tuple = None
 		previous_base_mgrs = self.default_base_mgrs
 		try:
-			with open(self.previous_base_mgrs_filename, 'r') as f:
+			with open(self.base_mgrs_filename, 'r') as f:
 				previous_base_mgrs = f.readline().strip()
 		except:
 			pass #if there's no file, just use the hard-coded default
@@ -166,7 +166,7 @@ class M:
 			except RTreeError:
 				stderr.write('Invalid MGRS!\n')
 				base_mgrs = None
-		with open(self.previous_base_mgrs_filename, 'w') as f:
+		with open(self.base_mgrs_filename, 'w') as f:
 			f.write(base_mgrs)
 
 	def run(self):
