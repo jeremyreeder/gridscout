@@ -145,13 +145,13 @@ class M:
 		base_mgrs = None
 		base_tuple = None
 		while base_mgrs == None:
+			base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base_mgrs + ']> ' + self.input_style).strip()
+			print Style.NORMAL
+			if base_mgrs_raw == '':
+				base_mgrs_raw = self.default_base_mgrs
+			base_mgrs = base_mgrs_raw.upper()
+			self.output('Base location: ' + base_mgrs + '\n')
 			try:
-				base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base_mgrs + ']> ' + self.input_style).strip()
-				print Style.NORMAL
-				if base_mgrs_raw == '':
-					base_mgrs_raw = self.default_base_mgrs
-				base_mgrs = base_mgrs_raw.upper()
-				self.output('Base location: ' + base_mgrs + '\n')
 				latlng_tuple = self.converter.toLatLon(base_mgrs)
 				self.base_latlng = str(latlng_tuple[0])+',' + str(latlng_tuple[1]) #google-compatible format
 			except RTreeError:
