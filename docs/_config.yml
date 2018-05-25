@@ -25,7 +25,7 @@ url: "http://jeremyreeder.github.io/gridscout" # the base hostname & protocol fo
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   #- jekyll-feed
 
