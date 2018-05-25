@@ -57,7 +57,7 @@ class M:
 
 	def format_mgrs(self, mgrs):
 		if not mgrs or len(mgrs) < 14:
-			raise ValueError('mgrs = ' + mgrs)
+			raise ValueError('1-meter resolution expected; mgrs=' + mgrs)
 		zone        = mgrs[:-12]
 		zone_padded = (' ' + zone)[-3:]
 		square      = mgrs[-12:-10]
