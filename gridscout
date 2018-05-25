@@ -181,7 +181,7 @@ class M:
 			if query == '':
 				continue
 			self.log(self.prompt + query + '\n')
-			if re.search(mgrs_10m_regex, query):
+			if self.converter.toLatLon(query): # (if query is an MGRS coordinate)
 				self.results_mgrs_only.append(query)
 				query = len(self.results_mgrs_only)
 			if self.results_mgrs_only:
