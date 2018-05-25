@@ -22,25 +22,28 @@ import webbrowser
 import fcntl, termios, struct # Used in determining screen size
 
 class M:
-	log_filename      = 'log/gridscout.log'
-	key_filename      = 'config/google_places.key'
-	default_base_mgrs = '11TNJ63372982'
-	prompt            = 'gridscout> '
-	prompt_style      = Style.DIM
-	input_style       = Style.NORMAL
+	log_filename                = 'log/gridscout.log'
+	key_filename                = 'config/google_places.key'
+	previous_base_mgrs_filename = 'config/previous_base.mgrs'
 
+	default_base_mgrs = '11TNJ63372982'
 	min_name_width    = 25
 	other_width       = 50
+
+	prompt       = 'gridscout> '
+	prompt_style = Style.DIM
+	input_style  = Style.NORMAL
+
 	row_id            = None
 	results_mgrs_only = []
 
-	ResultTuple       = namedtuple('ResultTuple', 'name address lat lng')
+	ResultTuple   = namedtuple('ResultTuple', 'name address lat lng')
 
-	result_schema     = Schema({'name': unicode,
-	                            'vicinity': unicode,
-	                            'geometry': {'location': {'lat': float, 'lng': float},
-	                                         unicode   : object},
-	                            unicode   : object})
+	result_schema = Schema({'name': unicode,
+	                        'vicinity': unicode,
+	                        'geometry': {'location': {'lat': float, 'lng': float},
+	                                     unicode   : object},
+	                        unicode   : object})
 
 	def __init__(self):
 		colorama.init()
@@ -144,11 +147,17 @@ class M:
 		print 'Set base location using MGRS coords. Default is for Boise, ID.'
 		base_mgrs = None
 		base_tuple = None
+		previous_base_mgrs = self.default_base_mgrs
+		try:
+			with open(self.previous_base_mgrs_filename, 'r') as f:
+				previous_base_mgrs = f.readline().strip()
+		except:
+			pass #if there's no file, just use the hard-coded default
 		while base_mgrs == None:
-			base_mgrs_raw = raw_input(self.prompt_style + '[' + self.default_base_mgrs + ']> ' + self.input_style).strip()
+			base_mgrs_raw = raw_input(self.prompt_style + '[' + previous_base_mgrs + ']> ' + self.input_style).strip()
 			print Style.NORMAL
 			if base_mgrs_raw == '':
-				base_mgrs_raw = self.default_base_mgrs
+				base_mgrs_raw = previous_base_mgrs
 			base_mgrs = base_mgrs_raw.upper()
 			self.output('Base location: ' + base_mgrs + '\n')
 			try:
@@ -157,6 +166,8 @@ class M:
 			except RTreeError:
 				stderr.write('Invalid MGRS!\n')
 				base_mgrs = None
+		with open(self.previous_base_mgrs_filename, 'w') as f:
+			f.write(base_mgrs)
 
 	def run(self):
 		print 'Enter any query supported by Google Maps.'
