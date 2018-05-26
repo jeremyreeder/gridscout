@@ -26,7 +26,7 @@ class M:
 	key_filename       = 'config/google_places.key'
 	base_mgrs_filename = 'config/base.mgrs'
 
-	default_base_mgrs = '11TNJ63372982'
+	default_base_mgrs = '11TNJ63372982' # Boise
 	min_name_width    = 25
 	other_width       = 50
 
@@ -144,7 +144,8 @@ class M:
 		print Style.NORMAL + 'GridScout - Copyright 2018 Jeremy Reeder'
 		print Style.DIM    + '----------------------------------------'
 		print Style.NORMAL # Resets style and prints a blank line.
-		print 'Set base location using MGRS coords. Default is for Boise, ID.'
+		print 'Set your base location, in MGRS format. It defaults to the previous value.'
+		print 'For an estimate of your current location, go to https://usngapp.org/.'
 		base_mgrs = None
 		base_tuple = None
 		previous_base_mgrs = self.default_base_mgrs
@@ -152,7 +153,7 @@ class M:
 			with open(self.base_mgrs_filename, 'r') as f:
 				previous_base_mgrs = f.readline().strip()
 		except:
-			pass #if there's no file, just use the hard-coded default
+			pass # if there's no file, just use the hard-coded default
 		while base_mgrs == None:
 			base_mgrs_raw = raw_input(self.prompt_style + '[' + previous_base_mgrs + ']> ' + self.input_style).strip()
 			print Style.NORMAL
@@ -162,7 +163,7 @@ class M:
 			self.output('Base location: ' + base_mgrs + '\n')
 			try:
 				latlng_tuple = self.converter.toLatLon(base_mgrs)
-				self.base_latlng = str(latlng_tuple[0])+',' + str(latlng_tuple[1]) #google-compatible format
+				self.base_latlng = str(latlng_tuple[0])+',' + str(latlng_tuple[1]) # Google-compatible format
 			except RTreeError:
 				stderr.write('Invalid MGRS!\n')
 				base_mgrs = None
@@ -181,9 +182,12 @@ class M:
 			if query == '':
 				continue
 			self.log(self.prompt + query + '\n')
-			if self.converter.toLatLon(query): # (if query is an MGRS coordinate)
-				self.results_mgrs_only.append(query)
-				query = len(self.results_mgrs_only)
+			try:
+				self.converter.toLatLon(query) # Throws an error if query is not an MGRS coordinate.
+				self.results_mgrs_only.append(query) # If no error thrown, then append the MGRS coordinate to the results of the previous query ...
+				query = len(self.results_mgrs_only)  # ... and query for a view of that specific result.
+			except RTreeError:
+				pass # 
 			if self.results_mgrs_only:
 				try:
 					result_id = int(query)
