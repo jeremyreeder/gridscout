@@ -196,10 +196,6 @@ class M:
 						url = 'https://mappingsupport.com/p/gmap4.php?mgrs=' + mgrs + '&t=s&z=18'
 						self.output('Opening aerial view of ' + mgrs + '.')
 						webbrowser.open(url, new=1)
-						easting = mgrs[-8:-4]
-						northing = mgrs[-4:]
-						self.output('E=' + easting)
-						self.output('N=' + northing)
 						self.output('')
 						continue
 				except ValueError:
@@ -231,7 +227,7 @@ class M:
 					# after each page of results.
 					time.sleep(2)
 			if has_searched_successfully and not has_given_detailed_view_instructions:
-				self.output("For additional details, enter a result ID number. (1-" + str(len(self.results_mgrs_only)) + ')')
+				self.output("For an aerial view, enter a result ID. (1-" + str(len(self.results_mgrs_only)) + ')')
 				has_given_detailed_view_instructions = True
 				self.output('')
 
