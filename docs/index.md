@@ -57,19 +57,19 @@ read them. They're associated with whatever Google account you choose to use
 when you create a key for Google's API. If you require complete anonymity, then
 create a Google account that is not associated in any way with your actual
 identity. Then use it only from public locations like libraries and coffee
-shops, and only while wearing a mask; or use [Tor][tor], which will conceal
-your location with less trouble. Lastly, when setting your base location, don't
-use your exact actual location unless you're okay with Google knowing it.
-Truncate your coordinates to 10-kilometer precision if you like, or set a base
-location on the other side of town; your search results won't be drastically
-affected.
+shops, and only while wearing a mask; or use an anonymous VPN service such as 
+[ProtonVPN][protonvpn] or [Tor][tor], which will conceal your location with
+less trouble.  Lastly, when setting your base location, don't use your exact
+actual location unless you're okay with Google knowing it.  Truncate your
+coordinates to 10-kilometer precision if you like, or set a base location on
+the other side of town; your search results won't be drastically affected.
 
 Aerial views are accessed through [Gmap4][gmap4]. When you access the aerial
 view of a location, your web browser will submit that location's MGRS
 coordinate in an encrypted manner. Your base location and your search queries
 are never shared with Gmap4. Depending on your network and the configuration of
 your browser, it may be possible for Gmap4 to determine your actual location.
-If this is a problem for you, then Tor is once again recommended.
+If this is a problem for you, then an anonymous VPN is once again recommended.
 
 # How can I learn more about community intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
