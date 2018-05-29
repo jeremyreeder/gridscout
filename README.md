@@ -1,4 +1,4 @@
-# GridScout
+# GridScout™
 
 
 ## Search Google Maps from the terminal, get results in MGRS
@@ -15,6 +15,7 @@ day when the Internet may be unavailable. Later, he would refer to it as he
 annotates polyester overlays on MGRS-based maps. Waterproof maps, of course.
 Remember, it'll be raining.
 
+For more details, see [gridscout.net](http://www.gridscout.net)
 
 ### What's MGRS?
 
@@ -25,7 +26,7 @@ for easy math. It's a whole-world variant of the UTM coordinate system.
 Latitude and longitude are so 1941.
 
 
-## Installing GridScout
+## Installing GridScout™
 
 1. Python 2.7 required. Your OS probably already has it installed.
 
@@ -33,7 +34,7 @@ Latitude and longitude are so 1941.
 
     pip2 install --user colorama googlemaps mgrs schema
 
-3. Download GridScout.
+3. Download GridScout™.
 
     cd
 
@@ -44,7 +45,7 @@ Latitude and longitude are so 1941.
     vi ~/gridscout/config/google_places.key
 
 
-## Running GridScout
+## Running GridScout™
 
     cd gridscout
 

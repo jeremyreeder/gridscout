@@ -1,4 +1,5 @@
 #! /usr/bin/env python2.7
+# -*- coding: utf-8 -*-
 
 from collections import namedtuple
 import colorama
@@ -49,7 +50,7 @@ class M:
 		colorama.init()
 		os.chdir(path.dirname(path.realpath(sys.argv[0]))) # Goes to the location of the script
 		with open(self.log_filename, 'w') as f:
-			f.write('--- GridScout Log ---\n')
+			f.write('--- GridScout™ Log ---\n')
 
 		with open(self.key_filename, 'r') as f:
 			key = f.readline().strip()
@@ -140,9 +141,10 @@ class M:
 			print 'Found no such place.'
 
 	def input_base_latlng(self):
-		print Style.DIM    + '----------------------------------------'
-		print Style.NORMAL + 'GridScout - Copyright 2018 Jeremy Reeder'
-		print Style.DIM    + '----------------------------------------'
+		print Style.DIM    + '---------------------------------'
+		print Style.NORMAL + 'GridScout™ — © 2018 Jeremy Reeder'
+		print                'http://gridscout.net'
+		print Style.DIM    + '---------------------------------'
 		print Style.NORMAL # Resets style and prints a blank line.
 		print 'Set your base location, in MGRS format. It defaults to the previous value.'
 		print 'For an estimate of your current location, go to https://usngapp.org/.'
