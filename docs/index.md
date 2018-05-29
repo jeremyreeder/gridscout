@@ -52,16 +52,20 @@ reasons I suggest that you take them up on that option.
 It's on [GitHub][github], and it's free!
 
 # Are my searches secure?
-Your searches are encrypted so that only you and Google can read them. They are
-associated with whatever Google account you choose to use when you create a
-key for Google's API. If you require complete anonymity, then create a Google
-account that is not associated in any way with your actual identity. Then
-access it only from public locations like libraries and coffee shops, and only
-while wearing a mask; or use Tor, which will conceal your location with less
-trouble. Lastly, when setting your base location, don't use your exact actual
-location unless you're okay with Google knowing it. Truncate your coordinates
-to 10-kilometer precision if you like, or set a base location on the other side
-of town; your search results won't be drastically affected.
+Searches go through Google. They are encrypted so that only you and Google can
+read them. They're associated with whatever Google account you choose to use
+when you create a key for Google's API. If you require complete anonymity, then
+create a Google account that is not associated in any way with your actual
+identity. Then access it only from public locations like libraries and coffee
+shops, and only while wearing a mask; or use Tor, which will conceal your
+location with less trouble. Lastly, when setting your base location, don't use
+your exact actual location unless you're okay with Google knowing it. Truncate
+your coordinates to 10-kilometer precision if you like, or set a base location
+on the other side of town; your search results won't be drastically affected.
+
+Aerial views are done through [Gmap4][gmap4], a service of
+_mappingsupport.com_. The MGRS coordinate of any place that you choose to view
+is shared with _mappingsupport.com_ in an encrypted manner.
 
 # How can I learn more about community intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
