@@ -11,8 +11,8 @@ solve that so you can get on with your duty of planning for the impending
 apocalypse, or whatever it is that you do.
 
 # Suggested workflow
-1. Order waterproof paper maps of your areas of interest. Have them printed
-with an MGRS (aka USNG) or UTM grid.
+1. Order [waterproof paper maps][mytopo] of your areas of interest. Have them
+printed with an MGRS (aka USNG) or UTM grid.
 2. Get some [clear plastic overlays][duralar].
 3. Search for points of interest by category: "power plants", "tank farms",
 "distribution centers", etc.
