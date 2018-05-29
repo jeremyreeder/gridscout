@@ -143,7 +143,7 @@ class M:
 	def input_base_latlng(self):
 		print Style.DIM    + '---------------------------------'
 		print Style.NORMAL + 'GridScout™ — © 2018 Jeremy Reeder'
-		print                'http://gridscout.net'
+		print                'https://www.gridscout.net'
 		print Style.DIM    + '---------------------------------'
 		print Style.NORMAL # Resets style and prints a blank line.
 		print 'Set your base location, in MGRS format. It defaults to the previous value.'

@@ -6,7 +6,7 @@
 GridScout™ is a tool for bulk collection of location data, including MGRS
 coordinates, to be used by intelligence analysts. It uses Google's _Place API_.
 
-For more information, see [gridscout.net](http://www.gridscout.net) or the
+For more information, see [gridscout.net](https://www.gridscout.net) or the
 _docs_ folder.
 
 
