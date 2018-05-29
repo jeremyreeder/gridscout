@@ -4,20 +4,24 @@ title: GridScout™
 permalink: /
 ---
 
-GridScout™ is a console-based map-search tool for use by community-defense
-intelligence analysts. It lets them do bulk collection of location data,
-including MGRS coordinates.
+GridScout™ is the console-based map-search tool that you didn't know you
+needed. It can help you make better use of your paper maps. Without it, the
+process of finding and marking places of interest is tedious. Let GridScout™
+solve that so you can get on with your duty of planning for the impending
+apocalypse, or whatever it is that you do.
 
 # Suggested workflow
-1. Search for various points of interest by category: "power plants", "tank
-farms", "distribution centers", etc.
-2. Select individual results to see aerial and street-level views as needed.
-3. Edit the GridScout™ search log (log/gridscout.log), removing any irrelevant
+1. Order waterproof paper maps of your areas of interest. Have them printed
+with an MGRS (aka USNG) or UTM grid.
+2. Get some [clear plastic overlays][duralar].
+3. Search for points of interest by category: "power plants", "tank farms",
+"distribution centers", etc.
+4. Select individual results to see aerial and street-level views as needed.
+5. Edit the GridScout™ search log (log/gridscout.log), removing any irrelevant
 search results.
-4. Get a paper map of the area and some clear plastic overlays.
-5. Using either the search log or the console output as a reference, plot
+6. Using either the search log or the console output as a reference, plot
 points on the overlays.
-6. File the search log away for future reference.
+7. File the search log away for future reference.
 
 # What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
@@ -27,12 +31,14 @@ access other online resources such as topographic and street-level views.
 Strictly speaking, however, these are not part of GridScout™.
 
 # Seriously, paper maps?
-Well, I use "waterproof paper". It's technically not real made-from-trees
-paper. But yes; physical maps printed on large paper-like sheets, combined with
-well-made overlays, are advantageous in certain situations. They work
-independently of the power and communication grids; they're durable and
-low-maintenance; and they're easily transported, in contrast to large LCD
-screens and generators.
+Going into battle dependent on vulnerable infrastructure is unwise. So yes,
+actual printed maps and overlays are advantageous. They work independently of
+power and communication grids. They're durable, highly portable, and
+low-maintenance. Fancy technology has its place, but printed maps excel in the
+field. With GridScout™, you can apply the technology without the
+vulnerabilities. That is, it puts your computer and the Internet to good use
+now, and it helps you record on more durable media the information that yo'll
+need later.
 
 # Why MGRS coordinates?
 The [Military Grid Reference System][mgrs] is a whole-world variant of the
@@ -45,11 +51,24 @@ reasons I suggest that you take them up on that option.
 # How do I get GridScout™?
 It's on [GitHub][github], and it's free!
 
+# Are my searches secure?
+Your searches are encrypted so that only you and Google can read them. They are
+associated with whatever Google account you choose to use when you create a
+key for Google's API. If you require complete anonymity, then create a Google
+account that is not associated in any way with your actual identity. Then
+access it only from public locations like libraries and coffee shops, and only
+while wearing a mask; or use Tor, which will conceal your location with less
+trouble. Lastly, when setting your base location, don't use your exact actual
+location unless you're okay with Google knowing it. Truncate your coordinates
+to 10-kilometer precision if you like, or set a base location on the other side
+of town; your search results won't be drastically affected.
+
 # How can I learn more about community intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
 Intelligence][shtf-intel].
 
 
+[duralar]:    https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:     https://github.com/jeremyreeder/gridscout
 [gmap4]:      https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
 [mgrs]:       https://en.wikipedia.org/wiki/Military_Grid_Reference_System
