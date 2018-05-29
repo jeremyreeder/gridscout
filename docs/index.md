@@ -37,7 +37,7 @@ power and communication grids. They're durable, highly portable, and
 low-maintenance. Fancy technology has its place, but printed maps excel in the
 field. With GridScout™, you can apply the technology without the
 vulnerabilities. That is, it puts your computer and the Internet to good use
-now, and it helps you record on more durable media the information that yo'll
+now, and it helps you record on more durable media the information that you'll
 need later.
 
 # Why MGRS coordinates?
