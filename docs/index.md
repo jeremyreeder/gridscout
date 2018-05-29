@@ -56,7 +56,7 @@ Searches go through Google. They are encrypted so that only you and Google can
 read them. They're associated with whatever Google account you choose to use
 when you create a key for Google's API. If you require complete anonymity, then
 create a Google account that is not associated in any way with your actual
-identity. Then access it only from public locations like libraries and coffee
+identity. Then use it only from public locations like libraries and coffee
 shops, and only while wearing a mask; or use [Tor][tor], which will conceal
 your location with less trouble. Lastly, when setting your base location, don't
 use your exact actual location unless you're okay with Google knowing it.
