@@ -10,6 +10,9 @@ process of finding and marking places of interest is tedious. Let GridScout™
 solve that so you can get on with your duty of planning for the impending
 apocalypse, or whatever it is that you do.
 
+![Screenshot of a GridScout™ search for places that sell
+generators](images/search-screenshot.png)
+
 # Suggested workflow
 1. Order [waterproof paper maps][mytopo] of your areas of interest. Have them
 printed with an MGRS (aka USNG) or UTM grid.
@@ -29,6 +32,9 @@ output works well. But GridScout™ does integrate with
 [Gmap4][gmap4] to give aerial views in your web browser. From there, you can
 access other online resources such as topographic and street-level views.
 Strictly speaking, however, these are not part of GridScout™.
+
+![Sceenshot of a GridScout™ aerial view of a petroleum
+refinery](images/aerial-screenshot.png)
 
 # Seriously, paper maps?
 Going into battle dependent on vulnerable infrastructure is unwise. So yes,
