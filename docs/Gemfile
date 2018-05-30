@@ -29,4 +29,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Make emails hard for bots to read but easy for humans
-gem 'jekyll-email-protect'
+#gem "jekyll-email-protect"

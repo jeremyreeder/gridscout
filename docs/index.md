@@ -101,7 +101,7 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 [duralar]:    https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:     https://github.com/jeremyreeder/gridscout
 [gmap4]:      https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
-[jeremy]:     mailto:{{ site.email | encode_email }}
+[jeremy]:     mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
 [mgrs]:       https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [mytopo]:     https://www.mytopo.com
 [protonvpn]:  https://protonvpn.com
