@@ -78,7 +78,7 @@ your browser, it may be possible for Gmap4 to determine your actual location.
 If this is a problem for you, then an anonymous VPN is once again recommended.
 
 # Who are you, and why did you create GridScout™?
-My name is [Jeremy Reeder][jeremy]. I take in interest in the security of my home and my
+My name is [Jeremy Reeder][jeremy]. I take an interest in the security of my home and my
 community, so I've made a point of learning what it takes to protect them. You
 may wish to do the same. Perhaps you can find others around you who share this
 goal, and work together. Such a group may be called an emergency-response team,
