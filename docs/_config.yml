@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GridScout™, by Jeremy Reeder
+title: GridScout™
 email: jjrxyz+gridscout@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   GridScout™ is a tool for bulk collection of location data, including MGRS
-  coordinates, to be used by intelligence analysts.
+  coordinates, to be used by intelligence analysts. By Jeremy Reeder.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://gridscout.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
