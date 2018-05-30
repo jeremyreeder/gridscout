@@ -17,8 +17,8 @@ generators](images/search-screenshot.png)
 1. Order [waterproof paper maps][mytopo] of your areas of interest. Have them
 printed with an MGRS (aka USNG) or UTM grid.
 2. Get some [clear plastic overlays][duralar].
-3. Search for points of interest by category: "power plant", "tank farm",
-"distribution center", etc.
+3. Search for points of interest: "power plant", "tank farm", "distribution
+center", etc.
 4. Select individual results to see aerial and street-level views as needed.
 5. Edit the GridScout™ search log (log/gridscout.log), removing any irrelevant
 search results.
