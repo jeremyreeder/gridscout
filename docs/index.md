@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GridScout™
+title: GridScout™, by Jeremy Reeder
 permalink: /
 ---
 
