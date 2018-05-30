@@ -5,8 +5,8 @@ permalink: /
 ---
 
 GridScout™ is the console-based map-search tool that you didn't know you
-needed. It can help you make better use of your paper maps. Without it, the
-process of finding and marking places of interest is tedious. Let GridScout™
+needed. It can help you make better use of your paper maps.  Without it, the
+process of finding and marking places of interest is tedious.  Let GridScout™
 solve that so you can get on with your duty of planning for the impending
 apocalypse, or whatever it is that you do.
 
@@ -79,7 +79,11 @@ If this is a problem for you, then an anonymous VPN is once again recommended.
 
 # How can I learn more about community intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
-Intelligence][shtf-intel].
+Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
+- What information to look for and how to find it
+- How to put your maps and overlays to good use
+- How to generate useful intel reports
+- How to organize an intel team
 
 
 [duralar]:    https://smile.amazon.com/gp/product/B0015LWRZY
