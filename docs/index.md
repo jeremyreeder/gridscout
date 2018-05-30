@@ -5,8 +5,8 @@ permalink: /
 ---
 
 GridScout™ is the console-based map-search tool that you didn't know you
-needed. It can help you make better use of your paper maps.  Without it, the
-process of finding and marking places of interest is tedious.  Let GridScout™
+needed. It can help you make better use of your paper maps. Without it, the
+process of finding and marking places of interest is tedious. Let GridScout™
 solve that so you can get on with your duty of planning for the impending
 apocalypse, or whatever it is that you do.
 
@@ -62,11 +62,11 @@ Searches go through Google. They are encrypted so that only you and Google can
 read them. They're associated with whatever Google account you choose to use
 when you create a key for Google's API. If you require complete anonymity, then
 create a Google account that is not associated in any way with your actual
-identity. Then use it only from public locations like libraries and coffee
-shops, and only while wearing a mask; or use an anonymous VPN service such as 
+identity. Then use it only in public places like libraries and coffee shops,
+and only while wearing a mask; or use an anonymous VPN service such as
 [ProtonVPN][protonvpn] or [Tor][tor], which will conceal your location with
-less trouble.  Lastly, when setting your base location, don't use your exact
-actual location unless you're okay with Google knowing it.  Truncate your
+less trouble. Lastly, when setting your base location, don't use your exact
+actual location unless you're okay with Google knowing it. Truncate your
 coordinates to 10-kilometer precision if you like, or set a base location on
 the other side of town; your search results won't be drastically affected.
 
@@ -77,7 +77,19 @@ are never shared with Gmap4. Depending on your network and the configuration of
 your browser, it may be possible for Gmap4 to determine your actual location.
 If this is a problem for you, then an anonymous VPN is once again recommended.
 
-# How can I learn more about community intelligence?
+# Who are you, and why did you create GridScout™?
+My name is [Jeremy Reeder][jeremy]. I take in interest in the security of my home and my
+community, so I've made a point of learning what it takes to protect them. You
+may wish to do the same. Perhaps you can find others around you who share this
+goal, and work together. Such a group may be called an emergency-response team,
+or a militia.
+
+I created GridScout™ to help me in my role as a community defense analyst for
+my local battalion of Idaho's unorganized militia. I share it to help the
+people of other communities in the development of their own defense
+capabilities.
+
+# How can I learn more about defense intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
 Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 - What information to look for and how to find it
@@ -89,6 +101,7 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 [duralar]:    https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:     https://github.com/jeremyreeder/gridscout
 [gmap4]:      https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
+[jeremy]:     mailto:{{ site.email | encode_email }}
 [mgrs]:       https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [mytopo]:     https://www.mytopo.com
 [protonvpn]:  https://protonvpn.com
