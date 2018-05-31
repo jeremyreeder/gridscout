@@ -4,6 +4,9 @@ title: GridScout™
 permalink: /
 ---
 
+<link rel="shortcut icon" href="favicon.ico"/>
+<link rel="icon" type="image/png" href="images/favicon-64x64.png" sizes="64x64"/>
+
 GridScout™ is the console-based Google Maps search tool that you didn't know
 you needed. It'll help you make better use of your paper maps. Without it, the
 process of finding and marking places of interest is tedious. Let GridScout™
