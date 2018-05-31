@@ -55,7 +55,8 @@ you to have your maps printed with a UTM grid, and for the aforementioned
 reasons I suggest that you take them up on that option.
 
 # How do I get GridScout™?
-It's on [GitHub][github], and it's free!
+It's on [GitHub][github], where you'll find installation instructions. And it's
+free!
 
 # Are my searches secure?
 Searches go through Google. They are encrypted so that only you and Google can
