@@ -42,6 +42,9 @@ variant of the UTM coordinate system.  Latitude and longitude are so 1941.
 
     ./gridscout
 
+![Screenshot of a GridScout™ search for places that sell
+generators](docs/images/search-screenshot.png)
+
 
 [api-key]: https://cloud.google.com/maps-platform/#get-started
 [docs]:    https://www.gridscout.net
