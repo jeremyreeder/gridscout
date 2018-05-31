@@ -3,8 +3,9 @@
 
 ## Search Google Maps from the terminal, get results in MGRS
 
-GridScout™ is a tool for bulk collection of location data, including MGRS
-coordinates, to be used by intelligence analysts. It uses Google's _Place API_.
+GridScout™ is a console-based tool for bulk collection of location data,
+including MGRS coordinates, to be used by intelligence analysts. It uses
+Google's _Places API_.
 
 For more information, see [gridscout.net][docs] or the _docs_ folder.
 

@@ -28,10 +28,11 @@ points on the overlays.
 
 # What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
-output works well. But GridScout™ does integrate with [Gmap4][gmap4] to give
-aerial views in your web browser. From there, you can easily access other
-online resources such as topographic and street-level views, courtesy of USGS
-and Google Maps. Strictly speaking, however, these are not part of GridScout™.
+output in a terminal works well. But GridScout™ does integrate with
+[Gmap4][gmap4] to give aerial views in your web browser. From there, you can
+easily access other online resources such as topographic and street-level
+views, courtesy of USGS and Google Maps. Strictly speaking, however, these are
+not part of GridScout™.
 
 ![Sceenshot of a GridScout™ aerial view of a petroleum
 refinery](images/aerial-screenshot.png)
@@ -61,8 +62,8 @@ free!
 # Are my searches secure?
 Searches go through Google. They are encrypted so that only you and Google can
 read them. They're associated with whatever Google account you choose to use
-when you create a key for Google's API. If you require complete anonymity, then
-create a Google account that is not associated in any way with your actual
+when you create a Google Places API key. If you require complete anonymity,
+then create a Google account that is not associated in any way with your actual
 identity. Then use it only in public places like libraries and coffee shops,
 and only while wearing a mask; or use an anonymous VPN service such as
 [ProtonVPN][protonvpn] or [Tor][tor], which will conceal your location with
