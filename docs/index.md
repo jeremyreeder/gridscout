@@ -99,7 +99,7 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 
 
 [duralar]:    https://smile.amazon.com/gp/product/B0015LWRZY
-[github]:     https://github.com/jeremyreeder/gridscout
+[github]:     https://github.com/jeremyreeder/gridscout/blob/master/README.md
 [gmap4]:      https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
 [jeremy]:     mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
 [mgrs]:       https://en.wikipedia.org/wiki/Military_Grid_Reference_System
