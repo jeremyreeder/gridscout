@@ -17,7 +17,7 @@ title: GridScout™
 email: jjrxyz+gridscout@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A tool for bulk collection of location data, including MGRS coordinates, to
-  be used by intelligence analysts
+  be used by intelligence analysts. Finally, MGRS search for Google Maps!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://gridscout.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
