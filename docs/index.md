@@ -4,8 +4,8 @@ title: GridScout™
 permalink: /
 ---
 
-GridScout™ is the console-based map-search tool that you didn't know you
-needed. It can help you make better use of your paper maps. Without it, the
+GridScout™ is the console-based Google Maps search tool that you didn't know
+you needed. It can help you make better use of your paper maps. Without it, the
 process of finding and marking places of interest is tedious. Let GridScout™
 solve that so you can get on with your duty of planning for the impending
 apocalypse, or whatever it is that you do.
@@ -28,10 +28,10 @@ points on the overlays.
 
 # What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
-output works well. But GridScout™ does integrate with
-[Gmap4][gmap4] to give aerial views in your web browser. From there, you can
-access other online resources such as topographic and street-level views.
-Strictly speaking, however, these are not part of GridScout™.
+output works well. But GridScout™ does integrate with [Gmap4][gmap4] to give
+aerial views in your web browser. From there, you can easily access other
+online resources such as topographic and street-level views, courtesy of USGS
+and Google Maps. Strictly speaking, however, these are not part of GridScout™.
 
 ![Sceenshot of a GridScout™ aerial view of a petroleum
 refinery](images/aerial-screenshot.png)
