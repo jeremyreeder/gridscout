@@ -6,17 +6,14 @@
 GridScout™ is a tool for bulk collection of location data, including MGRS
 coordinates, to be used by intelligence analysts. It uses Google's _Place API_.
 
-For more information, see [gridscout.net](https://www.gridscout.net) or the
-_docs_ folder.
+For more information, see [gridscout.net][docs] or the _docs_ folder.
 
 
 ### What's MGRS?
 
-[Military Grid Reference
-System](https://en.wikipedia.org/wiki/Military_Grid_Reference_System). It's
-used by NATO militaries because it's concise, minimizes distortion, and makes
-for easy math. It's a whole-world variant of the UTM coordinate system.
-Latitude and longitude are so 1941.
+[Military Grid Reference System][mgrs]. It's used by NATO militaries because
+it's concise, minimizes distortion, and makes for easy math. It's a whole-world
+variant of the UTM coordinate system.  Latitude and longitude are so 1941.
 
 
 ## Installing GridScout™
@@ -33,7 +30,8 @@ Latitude and longitude are so 1941.
 
     git clone https://github.com/jeremyreeder/gridscout.git
 
-3. Get a Google Places API key and store it in the `config` subdirectory.
+3. Get a [Google API key][api-key] for their "Places" API and store it in the
+`config` subdirectory.
 
     vi ~/gridscout/config/google_places.key
 
@@ -43,3 +41,8 @@ Latitude and longitude are so 1941.
     cd gridscout
 
     ./gridscout
+
+
+[api-key]: https://cloud.google.com/maps-platform/#get-started
+[docs]:    https://www.gridscout.net
+[mgrs]:    https://en.wikipedia.org/wiki/Military_Grid_Reference_System
