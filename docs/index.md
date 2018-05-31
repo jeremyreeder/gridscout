@@ -5,7 +5,7 @@ permalink: /
 ---
 
 GridScout™ is the console-based Google Maps search tool that you didn't know
-you needed. It can help you make better use of your paper maps. Without it, the
+you needed. It'll help you make better use of your paper maps. Without it, the
 process of finding and marking places of interest is tedious. Let GridScout™
 solve that so you can get on with your duty of planning for the impending
 apocalypse, or whatever it is that you do.
