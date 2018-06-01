@@ -90,8 +90,8 @@ goal, and work together. Such a group may be called an emergency-response team,
 or a militia.
 
 I created GridScout™ to help me in my role as a community defense analyst for
-my local battalion of Idaho's unorganized militia. I share it to help the
-people of other communities in the development of their own defense
+[my local battalion][battalion] of Idaho's unorganized militia. I share it to
+help the people of other communities in the development of their own defense
 capabilities.
 
 # How can I learn more about defense intelligence?
@@ -127,15 +127,16 @@ out of or in connection with the software or the use or other dealings in the
 software.
 
 
-[duralar]:    https://smile.amazon.com/gp/product/B0015LWRZY
-[github]:     https://github.com/jeremyreeder/gridscout/blob/master/README.md
-[freepik]:  https://www.freepik.com
-[flaticon]: https://www.flaticon.com
-[gmap4]:      https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
-[icon-license]:  http://creativecommons.org/licenses/by/3.0
-[jeremy]:     mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
-[mgrs]:       https://en.wikipedia.org/wiki/Military_Grid_Reference_System
-[mytopo]:     https://www.mytopo.com
-[protonvpn]:  https://protonvpn.com
-[shtf-intel]: https://forwardobserver.com/product/community-intelligence-program-print-version/
-[tor]:        https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+[battalion]:    https://www.facebook.com/adacountylightfootmilitia/
+[duralar]:      https://smile.amazon.com/gp/product/B0015LWRZY
+[github]:       https://github.com/jeremyreeder/gridscout/blob/master/README.md
+[freepik]:      https://www.freepik.com
+[flaticon]:     https://www.flaticon.com
+[gmap4]:        https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
+[icon-license]: http://creativecommons.org/licenses/by/3.0
+[jeremy]:       mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
+[mgrs]:         https://en.wikipedia.org/wiki/Military_Grid_Reference_System
+[mytopo]:       https://www.mytopo.com
+[protonvpn]:    https://protonvpn.com
+[shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
+[tor]:          https://en.wikipedia.org/wiki/Tor_(anonymity_network)
