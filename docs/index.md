@@ -103,28 +103,11 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 - How to organize an intel team
 
 # Legal notice
-Icon made by [Freepik][freepik] from [flaticon.com][flaticon] is licensed by
-[Creative Commons BY 3.0][icon-license].
+Site icon made by [Freepik][freepik] from [flaticon.com][flaticon] is licensed
+by [Creative Commons BY 3.0][icon-license].
 
-All other content © 2018 Jeremy Reeder.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-The software is provided "as is", without warranty of any kind, express or
-implied, including but not limited to the warranties of merchantability,
-fitness for a particular purpose and noninfringement. In no event shall the
-authors or copyright holders be liable for any claim, damages or other
-liability, whether in an action of contract, tort or otherwise, arising from,
-out of or in connection with the software or the use or other dealings in the
-software.
+All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
+terms of the [MIT License][mit-license].
 
 
 [battalion]:    https://www.facebook.com/adacountylightfootmilitia/
@@ -136,6 +119,7 @@ software.
 [icon-license]: http://creativecommons.org/licenses/by/3.0
 [jeremy]:       mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
 [mgrs]:         https://en.wikipedia.org/wiki/Military_Grid_Reference_System
+[mit-license]:  https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:       https://www.mytopo.com
 [protonvpn]:    https://protonvpn.com
 [shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
