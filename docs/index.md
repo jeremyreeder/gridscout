@@ -83,16 +83,20 @@ your browser, it may be possible for Gmap4 to determine your actual location.
 If this is a problem for you, then an anonymous VPN is once again recommended.
 
 # Who are you, and why did you create GridScout™?
-My name is [Jeremy Reeder][jeremy]. I take an interest in the security of my home and my
-community, so I've made a point of learning what it takes to protect them. You
-may wish to do the same. Perhaps you can find others around you who share this
-goal, and work together. Such a group may be called an emergency-response team,
-or a militia.
+My name is [Jeremy Reeder][jeremy]. Professionally, I'm a network security
+analyst and a bank-vault engineer. I take an interest in the security of my
+home and my community, so I make a point of protecting them as well. In the
+past I have volunteered as a firefighter, a home security advisor, and a range
+safety officer.
+
+You may wish to do the same. I suggest that you work together with others
+around you who share your preparedness goals. Such a group may be called an
+emergency response team, an emergency service, or a militia.
 
 I created GridScout™ to help me in my role as a community defense analyst for
 [my local battalion][battalion] of Idaho's unorganized militia. I share it to
-help the people of other communities in the development of their own defense
-capabilities.
+help the people of other communities in the development of their own
+defense intelligence.
 
 # How can I learn more about defense intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
