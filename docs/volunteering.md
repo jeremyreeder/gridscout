@@ -38,4 +38,4 @@ well to have good maps and useful overlays. Let [GridScout™][gridscout] help.
 
 
 [gridscout]:    /
-[splc-antigov]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/antigovernment
+[splc-antigov]: https://www.splcenter.org/fighting-hate/extremist-files/ideology/antigovernment#docs-internal-guid-bece8e84-b9cb-2e96-7235-20c811f94b7a
