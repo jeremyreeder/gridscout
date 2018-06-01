@@ -91,7 +91,8 @@ safety officer.
 
 You may wish to protect your own home and community. I suggest that you work
 together with others around you who share this goal. Such a group may be called
-an emergency response team, an emergency service, or a militia.
+an emergency response team, an emergency service, a posse, or a militia. Read
+more [here][volunteering].
 
 I created GridScout™ to help me in my role as a community defense analyst for
 [my local battalion][battalion] of Idaho's unorganized militia. I share it to
@@ -128,3 +129,4 @@ terms of the [MIT License][mit-license].
 [protonvpn]:    https://protonvpn.com
 [shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:          https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+[volunteering]: volunteering
