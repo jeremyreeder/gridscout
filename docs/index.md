@@ -103,8 +103,8 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 - How to organize an intel team
 
 # Legal notice
-Site icon made by [Freepik][freepik] from [flaticon.com][flaticon] is licensed
-by [Creative Commons BY 3.0][icon-license].
+Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
+licensed under [Creative Commons BY 3.0][icon-license].
 
 All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
 terms of the [MIT License][mit-license].
