@@ -114,6 +114,12 @@ licensed under [Creative Commons BY 3.0][icon-license].
 All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
 terms of the [MIT License][mit-license].
 
+# Keyword searches targeted by this site
+- [gridscout][search-1.1] / [grid scout][search-1.2]
+- [mgrs search][search-2.1] / [mgrs search for google maps][search-2.2]
+- [militia intel][search-3.1] / [militia intelligence][search-3.2]
+- [defense intel][search-4.1] / [defense intelligence][search-4.2]
+
 
 [battalion]:    https://www.facebook.com/adacountylightfootmilitia/
 [duralar]:      https://smile.amazon.com/gp/product/B0015LWRZY
@@ -127,6 +133,14 @@ terms of the [MIT License][mit-license].
 [mit-license]:  https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:       https://www.mytopo.com
 [protonvpn]:    https://protonvpn.com
+[search-1.1]:   https://www.google.com/search?q=gridscout
+[search-1.2]:   https://www.google.com/search?q=grid+scout
+[search-2.1]:   https://www.google.com/search?q=mgrs+search
+[search-2.2]:   https://www.google.com/search?q=mgrs+search+for+google+maps
+[search-3.1]:   https://www.google.com/search?q=militia+intel
+[search-3.2]:   https://www.google.com/search?q=militia+intelligence
+[search-4.1]:   https://www.google.com/search?q=defense+intel
+[search-4.2]:   https://www.google.com/search?q=defense+intelligence
 [shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:          https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 [volunteering]: volunteering
