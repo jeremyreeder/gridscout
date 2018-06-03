@@ -102,7 +102,7 @@ defense intelligence.
 # How can I learn more about defense intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
 Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
-- Intelligence goals — tactical, operation, & strategic
+- Intelligence goals — tactical, operational, & strategic
 - What to look for and how to find it — OSINT, HUMINT, & COMINT
 - How to put your maps and overlays to good use
 - How to generate useful intel reports — INTSUM, ORBAT, & SITTEMP
