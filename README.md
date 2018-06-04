@@ -25,7 +25,8 @@ variant of the UTM coordinate system.  Latitude and longitude are so 1941.
 
     pip2 install --user colorama googlemaps mgrs schema
 
-3. Download GridScout™.
+3. Download GridScout™. You can get it as a [zipball][zipball] or
+[tarball][tarball], or through the Git repo as follows:
 
     cd
 
@@ -50,3 +51,5 @@ publishers](docs/images/search-screenshot.png)
 [api-key]: https://cloud.google.com/maps-platform/#get-started
 [docs]:    https://www.gridscout.net
 [mgrs]:    https://en.wikipedia.org/wiki/Military_Grid_Reference_System
+[tarball]: https://github.com/jeremyreeder/gridscout/tarball/master
+[zipball]: https://github.com/jeremyreeder/gridscout/zipball/master
