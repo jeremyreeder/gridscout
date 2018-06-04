@@ -114,12 +114,9 @@ All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
 terms of the [MIT License][mit-license].
 
 # Keyword searches targeted by this site
-- [gridscout][search-1.1] / [grid scout][search-1.2] / [gridscout by jeremy reeder][search-1.3]
-- [mgrs search][search-2.1] / [mgrs search for google maps][search-2.2]
-- [location intel][search-3.1] / [location intelligence][search-3.2]
-- [militia intel][search-4.1] / [militia intelligence][search-4.2]
-- [defense intel][search-5.1] / [defense intelligence][search-5.2]
-- [jeremy reeder][search-6.1] / [jeremy reeder intel][search-6.2] / [jeremy reeder intelligence][search-6.3]
+- [gridscout by jeremy reeder][search-1]
+- [mgrs search for google maps][search-2]
+- [location intelligence][search-3]
 
 
 [battalion]:    https://www.facebook.com/adacountylightfootmilitia/
@@ -134,20 +131,9 @@ terms of the [MIT License][mit-license].
 [mit-license]:  https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:       https://www.mytopo.com
 [protonvpn]:    https://protonvpn.com
-[search-1.1]:   https://www.google.com/search?q=gridscout
-[search-1.2]:   https://www.google.com/search?q=grid+scout
-[search-1.3]:   https://www.google.com/search?q=gridscout+by+jeremy+reeder
-[search-2.1]:   https://www.google.com/search?q=mgrs+search
-[search-2.2]:   https://www.google.com/search?q=mgrs+search+for+google+maps
-[search-3.1]:   https://www.google.com/search?q=location+intel
-[search-3.2]:   https://www.google.com/search?q=location+intelligence
-[search-4.1]:   https://www.google.com/search?q=militia+intel
-[search-4.2]:   https://www.google.com/search?q=militia+intelligence
-[search-5.1]:   https://www.google.com/search?q=defense+intel
-[search-5.2]:   https://www.google.com/search?q=defense+intelligence
-[search-6.1]:   https://www.google.com/search?q=jeremy+reeder
-[search-6.2]:   https://www.google.com/search?q=jeremy+reeder+intel
-[search-6.3]:   https://www.google.com/search?q=jeremy+reeder+intelligence
+[search-1]:   https://www.google.com/search?q=gridscout+by+jeremy+reeder
+[search-2]:   https://www.google.com/search?q=mgrs+search+for+google+maps
+[search-3]:   https://www.google.com/search?q=location+intelligence
 [shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:          https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 [volunteering]: volunteering
