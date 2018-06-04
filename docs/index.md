@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GridScout™ ![][images/favicon-64x64.png]
+title: GridScout™
 permalink: /
 ---
 
