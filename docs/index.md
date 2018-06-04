@@ -113,10 +113,10 @@ licensed under [Creative Commons BY 3.0][icon-license].
 All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
 terms of the [MIT License][mit-license].
 
-# Keyword searches targeted by this site
-- [gridscout by jeremy reeder][search-1]
-- [mgrs search for google maps][search-2]
-- [location intelligence][search-3]
+# Topics covered by this site
+- GridScout™ by Jeremy Reeder
+- MGRS search for Google Maps
+- Location intelligence
 
 
 [battalion]:    https://www.facebook.com/adacountylightfootmilitia/
@@ -131,9 +131,6 @@ terms of the [MIT License][mit-license].
 [mit-license]:  https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:       https://www.mytopo.com
 [protonvpn]:    https://protonvpn.com
-[search-1]:   https://www.google.com/search?q=gridscout+by+jeremy+reeder
-[search-2]:   https://www.google.com/search?q=mgrs+search+for+google+maps
-[search-3]:   https://www.google.com/search?q=location+intelligence
 [shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:          https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 [volunteering]: volunteering
