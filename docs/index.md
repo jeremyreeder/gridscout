@@ -103,7 +103,8 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 - How to organize an intelligence team
 - How to plan intelligence operations
 - What to look for and how to find it — OSINT, HUMINT, & COMINT
-- How to track events using map overlays
+- How to use map overlays for location intelligence — planning, battletracking,
+  & reporting
 - How to generate useful intel reports — INTSUM, ORBAT, & SITTEMP
 
 # Legal notice
@@ -112,11 +113,6 @@ licensed under [Creative Commons BY 3.0][icon-license].
 
 All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
 terms of the [MIT License][mit-license].
-
-# Topics covered by this site
-- GridScout™ by Jeremy Reeder
-- MGRS search for Google Maps
-- Location intelligence
 
 
 [battalion]:    https://www.facebook.com/adacountylightfootmilitia/
