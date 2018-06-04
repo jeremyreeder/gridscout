@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	 <link rel="shortcut icon" href="{{ site.logo_16x16 }}"/>
-	 <link rel="icon" type="image/png" href="{{ site.logo_64x64 }}" sizes="64x64"/>
+	 <link rel="shortcut icon" href="{{ site.logo_16x16 }}">
+	 <link rel="icon" type="image/png" href="{{ site.logo_64x64 }}" sizes="64x64">
 
 {% seo %}
   </head>
@@ -15,7 +15,7 @@
 
     <header>
       <div class="container">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ site.title | default: site.github.repository_name }} <img src="{{ site.logo_64x64 }}"></h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
