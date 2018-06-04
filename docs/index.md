@@ -103,10 +103,11 @@ defense intelligence.
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
 Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 - Intelligence goals — tactical, operational, & strategic
+- How to organize an intelligence team
+- How to plan intelligence operations
 - What to look for and how to find it — OSINT, HUMINT, & COMINT
-- How to put your maps and overlays to good use
+- How to track events using map overlays
 - How to generate useful intel reports — INTSUM, ORBAT, & SITTEMP
-- How to organize an intel team
 
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
