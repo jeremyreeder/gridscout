@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GridScout™
+logo_16x16: /favicon.ico
+logo_64x64: /images/favicon-64x64.png
 email: jjrxyz+gridscout@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A tool for bulk collection of location data, including MGRS coordinates, to
