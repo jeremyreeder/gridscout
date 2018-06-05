@@ -107,6 +107,11 @@ Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
   & reporting
 - How to generate useful intel reports — INTSUM, ORBAT, & SITTEMP
 
+For an overview of the topic, including some good examples of how your maps and
+map-related information could come in very handy, read the article [How to
+Build an Area Study for Emergencies and Community Security][area-study],
+courtesy of [Forward Observer][forward-observer].
+
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
 licensed under [Creative Commons BY 3.0][icon-license].
@@ -115,18 +120,20 @@ All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
 terms of the [MIT License][mit-license].
 
 
-[battalion]:    https://www.facebook.com/adacountylightfootmilitia/
-[duralar]:      https://smile.amazon.com/gp/product/B0015LWRZY
-[github]:       https://github.com/jeremyreeder/gridscout/blob/master/README.md
-[freepik]:      https://www.freepik.com
-[flaticon]:     https://www.flaticon.com
-[gmap4]:        https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
-[icon-license]: http://creativecommons.org/licenses/by/3.0
-[jeremy]:       mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
-[mgrs]:         https://en.wikipedia.org/wiki/Military_Grid_Reference_System
-[mit-license]:  https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
-[mytopo]:       https://www.mytopo.com
-[protonvpn]:    https://protonvpn.com
-[shtf-intel]:   https://forwardobserver.com/product/community-intelligence-program-print-version/
-[tor]:          https://en.wikipedia.org/wiki/Tor_(anonymity_network)
-[volunteering]: volunteering
+[area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
+[battalion]:        https://www.facebook.com/adacountylightfootmilitia/
+[duralar]:          https://smile.amazon.com/gp/product/B0015LWRZY
+[github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
+[freepik]:          https://www.freepik.com
+[flaticon]:         https://www.flaticon.com
+[forward-observer]: https://forwardobserver.com
+[gmap4]:            https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
+[icon-license]:     http://creativecommons.org/licenses/by/3.0
+[jeremy]:           mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
+[mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System
+[mit-license]:      https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
+[mytopo]:           https://www.mytopo.com
+[protonvpn]:        https://protonvpn.com
+[shtf-intel]:       https://forwardobserver.com/product/community-intelligence-program-print-version/
+[tor]:              https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+[volunteering]:     volunteering
