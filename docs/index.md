@@ -81,15 +81,15 @@ If this is a problem for you, then an anonymous VPN is once again recommended.
 
 # Who are you, and why did you create GridScout™?
 My name is [Jeremy Reeder][jeremy]. Professionally, I'm a network security
-analyst and a bank-vault engineer. I take an interest in the security of my
-home and my community, so I make a point of protecting them as well. In the
-past I have volunteered as a firefighter, a home security advisor, and a range
-safety officer.
+analyst and a part-time bank-vault engineer. I take an interest in the security
+of my home and my community, so I make a point of protecting them as well. In
+the past I have volunteered as a firefighter, a home security advisor, and a
+range safety officer.
 
 You may wish to protect your own home and community. I suggest that you work
 together with others around you who share this goal. Such a group may be called
-an emergency response team, an emergency service, a posse, or a militia. Find
-volunteer opportunities [here][volunteering].
+an emergency response team, an emergency service, a posse, or a militia. Learn
+more about such volunteer opportunities [here][volunteering].
 
 I created GridScout™ to help me in my role as a community defense analyst for
 [my local battalion][battalion] of Idaho's unorganized militia. I share it to
