@@ -32,15 +32,16 @@ holds his sights on target.
 The RC1 will be based largely on the Alexander 6.5 Grendel Incursion, which is
 relatively light and fires the most effective general-purpose cartridge yet
 devised for AR15-format firearms. Thanks to Eugene Stoner's versatile modular
-design, we now have a standardized means of interchanging parts to fit our
-needs. The RC1 will take advantage of this in two important ways.
+design known as the Armalite AR-15, many modern weapons such as the Incursion
+provide a standardized means of interchanging parts to fit our needs. The RC1
+will take advantage of this in two important ways.
 
-- The bolt will be cycled by a gas piston, based on the ArmaLite AR-180 design,
+- The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
 
 - Other part selections, inspired by PDWs and by various ultralight carbines
-  derived from the Colt AR15A3, will serve to make the RC1 lighter and more
-  maneuverable.
+  derived from the Colt AR15A3, will serve to make the RC1 lighter, more
+  comfortable, and more maneuverable.
 
 # Sneak peak
 When completed, the RC1 will look something like this. Here, a few paper parts
