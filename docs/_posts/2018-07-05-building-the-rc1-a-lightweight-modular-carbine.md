@@ -23,11 +23,11 @@ length.
 The RC1 will have a very short, fixed-length buttstock. This would make it
 uncomfortable with the standard 33° grip angle, so its pistol grip will instead
 be nearly vertical. This will place the wrist of the shooter's dominant hand in
-a neutral position, while short length of pull will put the entire mass of the
-RC1 closer to the shooter's body where he can more easily support it. The gun
+a neutral position, while the short length of pull will put the entire mass of
+the RC1 closer to the shooter's body where it is more easily supported. The gun
 is intended to be as lightweight as practical in order to further limit muscle
 fatigue, as even minor fatigue can affect the steadiness with which the shooter
-can hold his gun.
+holds his sights on target.
 
 The RC1 will be based largely on the Alexander 6.5 Grendel Incursion, which is
 relatively light and fires the most effective general-purpose cartridge yet
