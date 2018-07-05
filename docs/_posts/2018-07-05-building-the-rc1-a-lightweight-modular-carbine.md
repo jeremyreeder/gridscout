@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Building the RC1 — a lightweight, modular carbine
+author: Jeremy Reeder
 permalink: /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
+tags: rc1
 ---
 
 The ultimate purpose of the GridScout™ map-search tool is to provide for a
