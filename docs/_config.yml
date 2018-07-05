@@ -30,7 +30,7 @@ show_downloads:   false # I link to the downloads within the README on GitHub in
 markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
   #- jekyll-email-protect
 
 # Exclude from processing.
