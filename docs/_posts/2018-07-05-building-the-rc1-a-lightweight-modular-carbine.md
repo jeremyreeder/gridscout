@@ -10,7 +10,7 @@ The ultimate purpose of the [GridScout™][gridscout] map-search tool is to
 provide for a better community defense. For that same purpose, I'm building a
 new rifle. I call it the RC1. Why RC1? Because it's easier to explain that RC1
 stands for Reeder Carbine #1 than to explain that PK6 (my original name for the
-RC1's concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
+RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 # Firearm design
 My intent is to create a weapon that is well suited for all ranges from 0 to
