@@ -39,9 +39,9 @@ shooter. The RC1 will take advantage of this in two important ways.
 - The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
 
-- Other part selections, inspired by PDWs and by various ultralight carbines
-  derived from the Colt AR15A3, will serve to make the RC1 lighter, more
-  comfortable, and more maneuverable.
+- Other part selections, inspired by PDWs and by ultralight carbines derived
+  from the Colt AR15A3, will serve to make the RC1 lighter, more comfortable,
+  and more maneuverable.
 
 # Sneak peak
 When completed, the RC1 will look something like this. Here, a few paper parts
