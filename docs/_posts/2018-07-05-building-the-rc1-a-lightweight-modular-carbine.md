@@ -6,11 +6,11 @@ permalink: /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
 tags: rc1
 ---
 
-The ultimate purpose of the GridScout™ map-search tool is to provide for a
-better community defense. For that same purpose, I'm building a new rifle. I
-call it the RC1. Why RC1? Because it's easier to explain that RC1 stands for
-Reeder Carbine #1 than to explain that KP6 stands for _Piŝta Karabeno je 6,5
-Grendel_.
+The ultimate purpose of the [GridScout™][gridscout] map-search tool is to
+provide for a better community defense. For that same purpose, I'm building a
+new rifle. I call it the RC1. Why RC1? Because it's easier to explain that RC1
+stands for Reeder Carbine #1 than to explain that KP6 stands for _Piŝta
+Karabeno je 6,5 Grendel_.
 
 # Firearm design
 My intent is to create a weapon that is well suited for all ranges from 0 to
@@ -47,3 +47,6 @@ When completed, the RC1 will look something like this. Here, a few paper parts
 are standing in for the actual parts that I have not yet acquired. With a scope
 and a full magazine, I anticipate a total weight of about 6.8 pounds.
 ![RC1 — a firearm/paper-doll hybrid](../images/rc1-concept.jpg)
+
+
+[gridscout]:    /
