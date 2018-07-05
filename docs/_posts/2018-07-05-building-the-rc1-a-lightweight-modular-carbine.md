@@ -42,7 +42,7 @@ needs. The RC1 will take advantage of this in two important ways.
   derived from the Colt AR15A3, will serve to make the RC1 lighter and more
   maneuverable.
 
-# Sneak preview
+# Sneak peak
 When completed, the RC1 will look something like this. Here, a few paper parts
 are standing in for the actual parts that I have not yet acquired. With a scope
 and a full magazine, I anticipate a total weight of about 6.8 pounds.
