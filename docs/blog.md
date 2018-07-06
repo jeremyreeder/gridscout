@@ -12,7 +12,7 @@ goals of GridScout™.
 Subscribe: <a href="feed.xml">Atom feed</a>
 
 {% for post in site.posts %}
-# {{ post.title }}
+# [{{ post.title }}]({{ post.url }})
 {{ page.date | date: "%-d %B %Y" }}
 {{ post.content }}
 {% endfor %}
