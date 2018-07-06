@@ -9,7 +9,7 @@ This blog is dedicated to the proficient defensive use of MGRS maps, the
 [GridScout™][gridscout] Google-Maps client, and other tools well suited to the
 goals of GridScout™.
 
-Subscribe: <a href="feed.xml">Atom feed</a>
+Subscribe: [Atom feed][feed]
 
 {% for post in site.posts %}
 # [{{ post.title }}]({{ post.url }})
@@ -17,7 +17,7 @@ Subscribe: <a href="feed.xml">Atom feed</a>
 {{ post.content }}
 {% endfor %}
 
-Subscribe to GridScout™ Blog: <a href="feed.xml">Atom feed</a>
+Subscribe to GridScout™ Blog: [Atom feed][feed]
 
 
 [feed]:      /feed.xml
