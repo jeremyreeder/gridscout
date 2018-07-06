@@ -13,7 +13,7 @@ Subscribe: <a href="feed.xml">Atom feed</a>
 
 {% for post in site.posts %}
 # {{ post.title }}
-{{post.date}} — {{post.author}}
+{{ page.date | date: "%-d %B %Y" }}
 {{ post.content }}
 {% endfor %}
 
