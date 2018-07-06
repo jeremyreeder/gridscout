@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building the RC1 — a lightweight modular carbine
+title: RC1 — a lightweight defensive carbine
 author: Jeremy Reeder
 date: 2018-07-05
 permalink: /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
@@ -9,17 +9,17 @@ tags: rc1
 
 The ultimate purpose of the [GridScout™][gridscout] map-search tool is to
 provide for a better community defense. For that same purpose, I'm building a
-new rifle. I call it the RC1. Why RC1? Because it's easier to explain that RC1
-stands for Reeder Carbine #1 than to explain that PK6 (my original name for the
-RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
+new firearm. I call it the RC1. Why RC1? Because it's easier to explain that
+RC1 stands for Reeder Carbine #1 than to explain that PK6 (my original name for
+the RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 ## Firearm design
 My intent is to create a weapon that is well suited for all ranges from 0 to
 300 yards and easy to operate in close quarters. The barrel will be just long
-enough to avoid the red tape of a short-barreled rifle. This length also serves
-to keep the muzzle velocity high enough for medium-range use. If I put a muzzle
-brake on it, it'll be a short, single-chamber model that minimizes the added
-weight and length.
+enough to avoid the red tape associated with a short-barreled rifle. This
+length also serves to keep the muzzle velocity high enough for medium-range
+use. If I put a muzzle brake on it, it'll be a short, single-chamber model that
+minimizes the added weight and length.
 
 The RC1 will have a very short, fixed-length buttstock. This would make it
 uncomfortable with the standard 33° grip angle, so its pistol grip will instead
