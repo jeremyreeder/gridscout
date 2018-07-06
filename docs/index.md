@@ -112,6 +112,13 @@ map-related information could come in very handy, read the article [How to
 Build an Area Study for Emergencies and Community Security][area-study],
 courtesy of [Forward Observer][forward-observer].
 
+# [Blog]
+Read the [full GridScout™ blog][blog], [subscribe][feed], or peruse the following excerpt.
+
+{% for post in site.posts %}
+{{ post.title }}
+- {{ post.excerpt }} …
+
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
 licensed under [Creative Commons BY 3.0][icon-license].
@@ -122,8 +129,10 @@ terms of the [MIT License][mit-license].
 
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
 [battalion]:        https://www.facebook.com/adacountylightfootmilitia/
+[blog]:             blog/
 [duralar]:          https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
+[feed]:             feed.xml
 [freepik]:          https://www.freepik.com
 [flaticon]:         https://www.flaticon.com
 [forward-observer]: https://forwardobserver.com
