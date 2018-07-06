@@ -17,6 +17,8 @@ Subscribe: <a href="feed.xml">Atom feed</a>
 {{ post.content }}
 {% endfor %}
 
+Subscribe to GridScout™ Blog: <a href="feed.xml">Atom feed</a>
+
 
 [feed]:      /feed.xml
 [gridscout]: /
