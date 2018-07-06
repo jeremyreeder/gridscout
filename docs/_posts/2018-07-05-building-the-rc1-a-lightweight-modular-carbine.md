@@ -13,7 +13,7 @@ new rifle. I call it the RC1. Why RC1? Because it's easier to explain that RC1
 stands for Reeder Carbine #1 than to explain that PK6 (my original name for the
 RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
-# Firearm design
+## Firearm design
 My intent is to create a weapon that is well suited for all ranges from 0 to
 300 yards and easy to operate in close quarters. The barrel will be just long
 enough to avoid the red tape of a short-barreled rifle. This length also serves
@@ -45,7 +45,7 @@ advantage of this in two important ways.
   from the Colt AR15A3, will serve to make the RC1 lighter, more comfortable,
   and more maneuverable.
 
-# Sneak peek
+## Sneak peek
 When completed, the RC1 will look something like this. Here, a few paper parts
 are standing in for the actual parts that I have not yet acquired. With a scope
 and a full magazine, I anticipate a total weight of about 6.8 pounds.
