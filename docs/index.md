@@ -118,6 +118,7 @@ Read the [full GridScout™ blog][blog], [subscribe][feed], or peruse the follow
 {% for post in site.posts %}
 {{ post.title }}
 - {{ post.excerpt }} …
+{% endfor %}
 
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
