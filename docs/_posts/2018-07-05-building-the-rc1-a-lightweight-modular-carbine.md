@@ -14,12 +14,12 @@ RC1 stands for Reeder Carbine #1 than to explain that PK6 (my original name for
 the RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 ## Firearm design
-My intent is to create a weapon that is well suited for all ranges from 0 to
-300 yards and easy to operate in close quarters. The barrel will be just long
-enough to avoid the red tape associated with a short-barreled rifle. This
-length also serves to keep the muzzle velocity high enough for medium-range
-use. If I put a muzzle brake on it, it'll be a short, single-chamber model that
-minimizes the added weight and length.
+My intent is to create a weapon that is easy to operate in close quarters, well
+suited ranges up to 300 yards, and practical up to 500 yards. The barrel will
+be just long enough to avoid the red tape associated with a short-barreled
+rifle. This length also serves to keep the muzzle velocity high enough for
+practical medium-range use. If I put a muzzle brake on it, it'll be a short,
+single-chamber model to minimize the added weight and length.
 
 The RC1 will have a very short, fixed-length buttstock. This would make it
 uncomfortable with the standard 33° grip angle, so its pistol grip will instead
