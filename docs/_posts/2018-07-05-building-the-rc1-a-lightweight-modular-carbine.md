@@ -54,7 +54,7 @@ advantage of this in two important ways.
 When completed, the RC1 will look something like this. Here, a few paper parts
 are standing in for the actual parts that I have not yet acquired. With a scope
 and a full magazine, I anticipate a total weight of about 6.8 pounds, and a
-total length of 32 inches.
+total length of about 31 inches.
 ![RC1 — a firearm/paper-doll hybrid](../images/rc1-concept.jpg)
 
 
