@@ -13,7 +13,7 @@ new firearm. I call it the RC1. Why RC1? Because it's easier to explain that
 RC1 stands for Reeder Carbine #1 than to explain that PK6 (my original name for
 the RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
-## Firearm design
+## Weapon design
 My intent is to create a weapon that is easy to operate in close quarters, very
 well suited for up to 300 yards, and still practical up to 500 yards. While
 many PDWs are especially good at close quarters and a typical modern carbine is
