@@ -14,21 +14,26 @@ RC1 stands for Reeder Carbine #1 than to explain that PK6 (my original name for
 the RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 ## Firearm design
-My intent is to create a weapon that is easy to operate in close quarters, well
-suited ranges up to 300 yards, and practical up to 500 yards. The barrel will
-be just long enough to avoid the red tape associated with a short-barreled
-rifle. This length also serves to keep the muzzle velocity high enough for
-practical medium-range use. If I put a muzzle brake on it, it'll be a short,
-single-chamber model to minimize the added weight and length.
+My intent is to create a weapon that is easy to operate in close quarters, very
+well suited for up to 300 yards, and still practical up to 500 yards. While
+many PDWs are especially good at close quarters and typical AR-15s are pretty
+good up to 300 yards, it seems to me that both are severely handicapped beyond
+that by low bullet energy and high aerodynamic drag.
+
+The barrel of the RC1 will be just long enough to avoid the red tape associated
+with a short-barreled rifle. This length also serves to keep the muzzle
+velocity and bullet energy high enough for practical medium-range use. If I put
+a muzzle brake on the barrel, it'll be a short, single-chamber model to
+minimize the added weight and length.
 
 The RC1 will have a very short, fixed-length buttstock. This would make it
 uncomfortable with the standard 33° grip angle, so its pistol grip will instead
-be nearly vertical. This will place the wrist of the shooter's dominant hand in
-a neutral position, while the short length of pull will put the entire mass of
-the RC1 closer to the shooter's body where it is more easily supported. The gun
-is intended to be as lightweight as practical in order to further limit muscle
-fatigue, as even minor fatigue can affect the steadiness with which the shooter
-holds his sights on target.
+be nearly vertical, as is common in a PDW. This will place the wrist of the
+shooter's dominant hand in a neutral position, while the short length of pull
+will put the entire mass of the RC1 closer to the shooter's body where it is
+more easily supported. This gun will be as lightweight as practical, in order
+to further limit muscle fatigue, as even minor fatigue can affect the
+steadiness with which the shooter holds his sights on target.
 
 The RC1 will be based largely on the Alexander 6.5 Grendel Incursion, which is
 relatively light and fires the most effective general-purpose cartridge yet
