@@ -50,12 +50,15 @@ advantage of this in two important ways.
   from the Colt AR15A3, will serve to make the RC1 lighter, more comfortable,
   and more maneuverable.
 
-## Sneak peek
-When completed, the RC1 will look something like this. Here, a few paper parts
-are standing in for the actual parts that I have not yet acquired. With a scope
-and a full magazine, I anticipate a total weight of about 6.8 pounds, and a
-total length of about 31 inches.
-![RC1 — a firearm/paper-doll hybrid](../images/rc1-concept.jpg)
+## Result
+Here's my progress. Initially, a few paper parts stand in for the actual parts
+that I have not yet acquired. With a scope and a full magazine, I anticipate a
+total weight of about 6.8 pounds, and a total length of about 32 inches.
+
+![Initial concept][2018-07-05 '2018-07-05']
+![Weaver K6 scope][2018-07-27 '2018-07-27']
 
 
-[gridscout]:    /
+[gridscout]:  /
+[2018-07-05]: ../image/rc1-concept-2018-07-05.jpg
+[2e18-07-27]: ../image/rc1-concept-2018-07-27.jpg
