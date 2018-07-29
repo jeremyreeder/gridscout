@@ -60,5 +60,5 @@ total weight of about 6.8 pounds, and a total length of about 32 inches.
 
 
 [gridscout]:  /
-[2018-07-05]: ../image/rc1-concept-2018-07-05.jpg
-[2e18-07-27]: ../image/rc1-concept-2018-07-27.jpg
+[2018-07-05]: ../images/rc1-concept-2018-07-05.jpg
+[2e18-07-27]: ../images/rc1-concept-2018-07-27.jpg
