@@ -4,7 +4,7 @@ title: RC1 — a lightweight defensive carbine
 author: Jeremy Reeder
 date: 2018-07-05
 permalink: /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
-tags: weaponry rc1 carbine
+tags: weapon rc1 carbine
 ---
 
 The ultimate purpose of the [GridScout™][gridscout] map-search tool is to
