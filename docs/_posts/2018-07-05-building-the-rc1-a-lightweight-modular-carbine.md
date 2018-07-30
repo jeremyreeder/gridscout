@@ -20,6 +20,13 @@ many PDWs are especially good at close quarters and a typical modern carbine is
 pretty good up to 300 yards, it seems to me that both are severely handicapped
 beyond that range by their low bullet energy and high aerodynamic drag.
 
+While I recognize that the combination of goals I have chosen limits the
+success that I could otherwise achieve by focusing on just one goal, I believe
+all three are achievable in a single weapon. And I think I can achieve my goals
+more fully by creating a custom carbine than by selecting any of the
+off-the-shelf offerings that I've already considered. So I'm going for it, and
+upon completion I will assess the result.
+
 ### Basis
 The RC1 will be based largely on the Alexander 6.5 Grendel Incursion, which is
 relatively light and fires the most effective general-purpose cartridge yet
