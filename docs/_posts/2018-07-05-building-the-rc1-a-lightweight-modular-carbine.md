@@ -62,17 +62,21 @@ The RC1 will be equipped with two sighting systems:
 - A lightweight fixed-power riflescope, sufficient for 500-yard engagements
 - Offset iron sights, optimized for quick target acquisition within 50 yards
 
-## Result
-Here's my progress. Initially, a few paper parts stand in for some of the
-actual parts that I have not yet acquired. With a scope and a full magazine, I
-anticipate a total weight of about 6.8 pounds, and a total length of about 32
-inches.
+## Progress
+Progress on this project is as follows. Initially, a few paper parts stand in
+for some of the actual parts that I have not yet acquired. With a scope and a
+full magazine, I anticipate a total weight of about 6.8 pounds, and a total
+length of about 32 inches.
 
 ![][2018-07-05]
 *2018-07-05 — Initial concept*
 
 ![][2018-07-27]
 *2018-07-27 — Weaver K6 scope*
+
+## Results
+When the weapon is complete, I will assess the results in a future article and
+will include in this article a link leading to that results article.
 
 
 [gridscout]:  /
