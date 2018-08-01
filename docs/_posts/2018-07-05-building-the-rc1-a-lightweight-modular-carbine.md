@@ -74,6 +74,9 @@ length of about 32 inches.
 ![][2018-07-27]
 *2018-07-27 — Weaver K6 scope*
 
+![][2018-07-31]
+*2018-07-31 — Incognito Arms buttstock*
+
 ## Results
 When the weapon is complete, I will assess the results in a future article and
 will include in this article a link leading to that results article.
@@ -82,3 +85,4 @@ will include in this article a link leading to that results article.
 [gridscout]:  /
 [2018-07-05]: ../images/rc1-concept-2018-07-05.jpg
 [2018-07-27]: ../images/rc1-concept-2018-07-27.jpg
+[2018-07-31]: ../images/rc1-concept-2018-07-31.jpg
