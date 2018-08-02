@@ -22,7 +22,7 @@ beyond that range by their low bullet energy and high aerodynamic drag.
 
 I think I can more fully achieve my chosen goals by creating a custom carbine
 than by selecting any of the off-the-shelf offerings that I've already
-considered. So I'm going for it, and upon completion I will assess the result.
+considered. So I'm going for it, and upon completion we'll see how it does.
 
 ### Basis
 The RC1 will be based largely on the Alexander 6.5 Grendel Incursion, which is
@@ -68,18 +68,25 @@ for some of the actual parts that I have not yet acquired. With a scope and a
 full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
-![][2018-07-05]
+![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no
+ejection-port cover and no forward assist, frills which frankly aren't worth
+their weight. The receivers are held together by 2A Armament titanium takedown
+pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber
+handguard weighs in at 7.3 oz, mounting hardware included. I envision a short
+skeleton stock and a grip angle of about 14°.][2018-07-05]
 *2018-07-05 — Initial concept*
 
-![][2018-07-27]
-*2018-07-27 — Weaver K6 scope*
+![This Japanese fixed-power 6X scope, without mounting rings, weighs 9.8
+oz.][2018-07-27]
+*2018-07-27 — Weaver K6 scope (paper model)*
 
-![][2018-07-31]
+![This carbon-fiber buttstock, produced within spitting distance of my daily
+commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-## Results
-When the weapon is complete, I will assess the results in a future article and
-will include in this article a link leading to that results article.
+## Performance
+When the RC1 is complete, I will assess the performance of this weapon in a
+future post. I'll provide a link here to make it easy on you.
 
 
 [gridscout]:  /
