@@ -68,12 +68,13 @@ for some of the actual parts that I have not yet acquired. With a scope and a
 full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
-![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no
-ejection-port cover and no forward assist, frills which frankly aren't worth
-their weight. The receivers are held together by 2A Armament titanium takedown
-pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber
-handguard weighs in at 7.3 oz, mounting hardware included. I envision a short
-skeleton stock and a grip angle of about 14°.][2018-07-05]
+![](../images/rc1-concept-2018-07-05.jpg "This Anderson receiver set (8.7-oz
+lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward
+assist, frills which frankly aren't worth their weight. The receivers are held
+together by 2A Armament titanium takedown pins made in southeast Boise, adding
+0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting
+hardware included. I envision a short skeleton stock and a grip angle of about
+14°."
 *2018-07-05 — Initial concept*
 
 ![This Japanese fixed-power 6X scope, without mounting rings, weighs 9.8
@@ -99,7 +100,6 @@ future post. I'll provide a link here to make it easy on you.
 
 
 [gridscout]:  /
-[2018-07-05]: ../images/rc1-concept-2018-07-05.jpg
 [2018-07-27]: ../images/rc1-concept-2018-07-27.jpg
 [2018-07-31]: ../images/rc1-concept-2018-07-31.jpg
 [2018-08-02]: ../images/rc1-concept-2018-08-02.jpg
