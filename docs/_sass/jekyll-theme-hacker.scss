@@ -253,9 +253,13 @@ a {
 }
 
 // captions
-img + em {
+p {
 	position: relative;
-	top: -2em;
+}
+p img + em {
+	position: absolute;
+	left: 0;
+	bottom: 0.4em;
 	background-color: black;
 	opacity: 0.5;
 }
