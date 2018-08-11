@@ -4,6 +4,7 @@ title: GridScout™
 permalink: /
 ---
 
+![GridScout™][logo]{: .floating-logo}
 GridScout™ is the console-based Google Maps search tool that you didn't know
 you needed. It'll help you make better use of your paper maps. Without it, the
 process of finding and marking places of interest is tedious. Let GridScout™
@@ -135,6 +136,7 @@ terms of the [MIT License][mit-license].
 [gmap4]:            https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
 [icon-license]:     http://creativecommons.org/licenses/by/3.0
 [jeremy]:           mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
+[logo]:             images/favicon-128x128.png
 [mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [mit-license]:      https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:           https://www.mytopo.com

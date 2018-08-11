@@ -252,9 +252,16 @@ a {
   zoom:1;
 }
 
-// captions
+// images & captions
 p {
 	position: relative;
+}
+.gallery p {
+	white-space: nowrap;
+}
+.gallery p img {
+	max-height: 20em;
+	max-width: 30%;
 }
 p img + em {
 	position: absolute;
@@ -262,4 +269,7 @@ p img + em {
 	bottom: 0.4em;
 	background-color: black;
 	opacity: 0.6;
+}
+.floating-logo {
+	float: right;
 }
