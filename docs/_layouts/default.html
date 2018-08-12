@@ -15,12 +15,9 @@
 
     <header>
       <div class="container">
+        <img src="{{ '/images/favicon-128x128.png' | relative_url }}" alt="Safecracker" class="floating-logo">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-		  <h2>
-          <img src="{{ '/images/favicon-128x128.png' | relative_url }}" alt="Safecracker" class="floating-logo">
-          {{ site.description | default: site.github.project_tagline }}
-			 <p class="end-float"></p>
-        </h2>
+		  <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
           {% if site.show_downloads %}
@@ -29,6 +26,7 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
+		  <p class="end-float"></p>
       </div>
     </header>
 
