@@ -272,6 +272,11 @@ p img + em {
 }
 .floating-logo {
 	float: right;
+	max-width: 10%;
+	max-height: 64px;
+	background-color: gray;
+	border-radius: 10% 30%;
+	padding: 3px
 }
 .end-float {
 	clear: both;
