@@ -77,7 +77,7 @@ length of about 32 inches.
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and far more than the standard 33° grip angle. It gives the most comfortable wrist position that I've found thus far for a gun with such a short length of pull.  It's also shorter front to back than the Tactical Link PDW grip previously pictured, giving my index finger and thumb more reach for operating the controls. And it lacks a backstrap, allowing me to place my hand higher for better recoil control.][2018-08-02]
+![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and far more so than the standard 33° grip angle. It gives the most comfortable wrist position that I've found thus far for a gun with such a short length of pull.  It's also shorter front to back than the Tactical Link PDW grip previously pictured, giving my index finger and thumb more reach for operating the controls. And it lacks a backstrap, allowing me to place my hand higher for better recoil control.][2018-08-02]
 *2018-08-02 — Ergo Swift Grip (paper model)*
 
 ## Performance
