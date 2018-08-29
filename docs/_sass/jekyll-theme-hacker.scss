@@ -260,9 +260,10 @@ p {
 .gallery p {
 	white-space: nowrap;
 }
-.gallery p img {
+.gallery img {
 	max-height: 20em;
 	max-width: 30%;
+	cursor: zoom-in;
 }
 p img + em {
 	position: absolute;
