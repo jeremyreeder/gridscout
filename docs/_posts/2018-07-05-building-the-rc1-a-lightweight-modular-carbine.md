@@ -68,29 +68,16 @@ for some of the actual parts that I have not yet acquired. With a scope and a
 full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
-![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no
-ejection-port cover and no forward assist, frills which frankly aren't worth
-their weight. The receivers are held together by 2A Armament titanium takedown
-pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber
-handguard weighs in at 7.3 oz, mounting hardware included. I envision a short
-skeleton stock and a grip angle of about 14°.][2018-07-05]
+![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which frankly aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included. I envision a short skeleton stock and a grip angle of about 14°.][2018-07-05]
 *2018-07-05 — Initial concept*
 
-![This Japanese fixed-power 6X scope, without mounting rings, weighs 9.8
-oz.][2018-07-27]
+![This Japanese fixed-power 6X scope, without mounting rings, weighs 9.8 oz.][2018-07-27]
 *2018-07-27 — Weaver K6 scope (paper model)*
 
-![This carbon-fiber buttstock, produced within spitting distance of my daily
-commute through Boise, weighs just 2.33 oz.][2018-07-31]
+![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and
-far more than the standard 33° grip angle. It gives the most comfortable wrist
-position that I've found thus far for a gun with such a short length of pull.
-It's also shorter front to back than the Tactical Link PDW grip previously
-pictured, giving my index finger and thumb more reach for operating the
-controls. And it lacks a backstrap, allowing me to place my hand higher for
-better recoil control.][2018-08-02]
+![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and far more than the standard 33° grip angle. It gives the most comfortable wrist position that I've found thus far for a gun with such a short length of pull.  It's also shorter front to back than the Tactical Link PDW grip previously pictured, giving my index finger and thumb more reach for operating the controls. And it lacks a backstrap, allowing me to place my hand higher for better recoil control.][2018-08-02]
 *2018-08-02 — Ergo Swift Grip (paper model)*
 
 ## Performance
