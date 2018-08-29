@@ -81,10 +81,10 @@ If this is a problem for you, then an anonymous VPN is once again recommended.
 
 # Who are you, and why did you create GridScout™?
 My name is [Jeremy Reeder][jeremy]. Professionally, I'm a network security
-analyst and a part-time bank-vault engineer. I take an interest in the security
-of my home and my community, so I make a point of protecting them as well. In
-the past I have volunteered as a firefighter, a home security advisor, and a
-range safety officer.
+analyst and a part-time [bank-vault engineer][safehouse]. I take an interest in
+the security of my home and my community, so I make a point of protecting them
+as well. In the past I have volunteered as a firefighter, a home security
+advisor, and a range safety officer.
 
 You may wish to protect your own home and community. I suggest that you work
 together with others around you who share this goal. Such a group may be called
@@ -139,6 +139,7 @@ terms of the [MIT License][mit-license].
 [mit-license]:      https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:           https://www.mytopo.com
 [protonvpn]:        https://protonvpn.com
+[safehouse]:        https://www.thesafehouse.info/
 [shtf-intel]:       https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:              https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 [volunteering]:     volunteering
