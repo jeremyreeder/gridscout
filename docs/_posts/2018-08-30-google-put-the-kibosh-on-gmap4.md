@@ -30,5 +30,5 @@ aerial-view feature.
 
 [gmap4]:        https://mappingsupport.com/p/gmap4.php
 [gmap4-notice]: ../images/gmap4-discontinued.png
-[gmap4-rip]:    ../images/gmap4-tombstone.png
+[gmap4-rip]:    ../images/gmap4-tombstone.jpg
 [gridscout]:    /
