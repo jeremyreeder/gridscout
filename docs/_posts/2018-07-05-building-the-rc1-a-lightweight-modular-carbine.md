@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RC1 — a lightweight defensive carbine
-author: Johnny Romeo
+author: Jeremy Reeder
 date: 2018-07-05
 permalink: /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
 tags: weapon rc1 carbine
