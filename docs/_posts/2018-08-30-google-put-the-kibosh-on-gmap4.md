@@ -19,12 +19,16 @@ Google in hopes of coming to an agreement, but Google refused. In order to
 continue using the Google Maps API in his volunteer efforts, he'd have to shell
 out $46,000 per year. So Gmap4 is now gone. Bummer.
 
+<div class="gallery" markdown="1">
 ![R.I.P. Gmap4][gmap4-rip]
+![As of 2018-07-15, free use of Gmap4 has been discontinued.][gmap4-notice]
+</div>
 
 I am now considering alternatives to Gmap4, so that I can restore GridScout's
 aerial-view feature.
 
 
-[gmap4]:     https://mappingsupport.com/p/gmap4.php
-[gmap4-rip]: ../images/gmap4-discontinued.png
-[gridscout]: /
+[gmap4]:        https://mappingsupport.com/p/gmap4.php
+[gmap4-notice]: ../images/gmap4-discontinued.png
+[gmap4-rip]:    ../images/gmap4-tombstone.png
+[gridscout]:    /
