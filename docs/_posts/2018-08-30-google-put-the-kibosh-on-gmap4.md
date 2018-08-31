@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google put the kibosh on Gmap4!
+title: Google put the kibosh on Gmap4! :O
 author: Jeremy Reeder
 date: 2018-08-30
 permalink: /blog/2019-08-30-google-put-the-kibosh-on-gmap4
@@ -8,7 +8,7 @@ tags: google map gmap4
 ---
 
 Google recently changed its API usage policy, effectively putting the
-non-profit [Gmap4][gmap4] out of business. That's unfortunate, as Gmap4™ was
+non-profit [Gmap4][gmap4] out of business. That's unfortunate, as Gmap4 was
 designed to benefit disaster-management organizations and was doing a great
 deal of good in that realm. Since [GridScout™][gridscout] used Gmap4 for its
 aerial views, that feature currently won't work. While this does not affect
