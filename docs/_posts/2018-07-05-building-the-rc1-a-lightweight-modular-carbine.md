@@ -25,7 +25,7 @@ than by selecting any of the off-the-shelf offerings that I've already
 considered. So I'm going for it, and upon completion we'll see how it does.
 
 ### Basis
-The RC1 will be based largely on the Alexander 6.5 Grendel Incursion, which is
+I'll base the the RC1 somewhat on the Alexander 6.5 Grendel Incursion, which is
 relatively light and fires the most effective general-purpose cartridge yet
 devised for AR15-format firearms. Thanks to the versatility and popularity of
 Eugene Stoner's modular design —the Armalite AR-15 upon which the Grendel
@@ -77,8 +77,11 @@ length of about 32 inches.
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and far more so than the standard 33° grip angle. It gives the most comfortable wrist position that I've found thus far for a gun with such a short length of pull.  It's also shorter front to back than the Tactical Link PDW grip previously pictured, giving my index finger and thumb more reach for operating the controls. And it lacks a backstrap, allowing me to place my hand higher for better recoil control.][2018-08-02]
+![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and far more so than the standard 33° grip angle. It gives the most comfortable wrist position that I've found thus far for a gun with such a short length of pull.  It's also shorter front to back than the Tactical Link PDW grip previously pictured, giving my index finger and thumb more reach for operating the controls. And it lacks a backstrap, so it should allow me to place my hand higher for better recoil control.][2018-08-02]
 *2018-08-02 — Ergo Swift Grip (paper model)*
+
+![This Israeli magazine weighs 5.9 oz. Up until this point, the magazine in photographs has been a paper model.][2018-11-14]
+*2018-11-14 — E-Lander 17-round magazine*
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
@@ -90,3 +93,4 @@ future post. I'll provide a link here to make it easy on you.
 [2018-07-27]: ../images/rc1-concept-2018-07-27.jpg
 [2018-07-31]: ../images/rc1-concept-2018-07-31.jpg
 [2018-08-02]: ../images/rc1-concept-2018-08-02.jpg
+[2018-11-14]: ../images/rc1-concept-2018-11-14.jpg
