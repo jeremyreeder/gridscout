@@ -77,11 +77,8 @@ length of about 32 inches.
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-![At just 13°, this is slightly more vertical than other PDW grips (14-17°) and far more so than the standard 33° grip angle. It gives the most comfortable wrist position that I've found thus far for a gun with such a short length of pull.  It's also shorter front to back than the Tactical Link PDW grip previously pictured, giving my index finger and thumb more reach for operating the controls. And it lacks a backstrap, so it should allow me to place my hand higher for better recoil control.][2018-08-02]
-*2018-08-02 — Ergo Swift Grip (paper model)*
-
-![This Israeli magazine weighs 5.9 oz. Up until this point, the magazine in photographs has been a paper model.][2018-11-14]
-*2018-11-14 — E-Lander 17-round magazine*
+![This Israeli magazine weighs 5.9 oz. Up until this point, the magazine in photographs has been a paper model. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
+*2018-11-14 — E-Lander 17-round magazine & Ergo Swift Grip*
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
