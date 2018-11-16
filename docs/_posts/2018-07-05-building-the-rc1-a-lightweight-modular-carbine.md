@@ -29,17 +29,21 @@ than by selecting any of the off-the-shelf offerings that I've already
 considered. So I'm going for it, and upon completion we'll see how it does.
 
 ### Basis
-I'm basing the the RC1 somewhat on the [Alexander 6.5 Grendel
+The RC1 design is based somewhat on the [Alexander 6.5 Grendel
 Incursion][incursion], which is relatively light and fires the most effective
-general-purpose cartridge yet devised for AR15-format firearms. Thanks to the
-versatility and popularity of Eugene Stoner's modular design —the Armalite
-AR-15 upon which the Grendel Incursion and many other modern weapons are
-based—, we now have a standardized means of interchanging parts to fit the
-needs of the shooter. The RC1 will take advantage of this in two important
-ways.
+general-purpose cartridge yet devised for AR15-format firearms. The Incursion,
+however, isn't everything that I want it to be. It's slightly longer than I
+prefer for close-quarters maneuvering. More importantly, it still relies on the
+direct-impingement gas system that got M16 operators killed in Vietnam. But
+thanks to the versatility and popularity of Eugene Stoner's modular AR-15
+design —upon which the M16 and the Incursion are based—, we now have a
+standardized means of interchanging parts to fit the needs and wants of the
+shooter. The RC1 will take advantage of this in two important ways.
 
 - The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
+  (Piston gas systems consistently outperform direct-impingement systems in
+  reliability tests, as they did in a [2007 test by the U.S.Army][test-results].)
 
 - Other part selections, inspired by PDWs and by AR15A3-derived ultralight
   carbines, will serve to make the RC1 lighter and more maneuverable.
@@ -89,10 +93,11 @@ When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
-[gridscout]:  /
-[incursion]:  https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
-[2018-07-05]: ../images/rc1-concept-2018-07-05.jpg
-[2018-07-27]: ../images/rc1-concept-2018-07-27.jpg
-[2018-07-31]: ../images/rc1-concept-2018-07-31.jpg
-[2018-08-02]: ../images/rc1-concept-2018-08-02.jpg
-[2018-11-14]: ../images/rc1-concept-2018-11-14.jpg
+[gridscout]:    /
+[incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
+[test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
+[2018-07-05]:   ../images/rc1-concept-2018-07-05.jpg
+[2018-07-27]:   ../images/rc1-concept-2018-07-27.jpg
+[2018-07-31]:   ../images/rc1-concept-2018-07-31.jpg
+[2018-08-02]:   ../images/rc1-concept-2018-08-02.jpg
+[2018-11-14]:   ../images/rc1-concept-2018-11-14.jpg
