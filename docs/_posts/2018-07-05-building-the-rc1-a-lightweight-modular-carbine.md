@@ -60,11 +60,11 @@ model to minimize the added weight and length.
 ### Buttstock
 The RC1 will have a very short, fixed-length buttstock to shift its mass closer
 to the shooter's body where it's most easily supported.  With the 33° grip
-angle that's common in rifles and carbines, this position would be
+angle that's most common in modern carbines, this position would be
 uncomfortable for the wrist of the shooter's dominant hand; so the RC1's grip
 will instead be nearly vertical as in a PDW. This gun will be as lightweight as
-practical, in order to limit muscle fatigue so the shooter can more easily
-keep his sights steady on the target.
+practical, in order to limit muscle fatigue so the shooter can more easily keep
+his sights steady on the target.
 
 ### Sights
 The RC1 will be equipped with two sighting systems:
