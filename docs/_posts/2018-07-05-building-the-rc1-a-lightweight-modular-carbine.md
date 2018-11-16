@@ -24,9 +24,11 @@ NATO cartridge. In either case, the energy of the bullet is insufficient to
 remain very effective throughout my intended range of distance to human
 targets.
 
-I think I can more fully achieve my chosen goals by creating a custom carbine
-than by selecting any of the off-the-shelf offerings that I've already
-considered. So I'm going for it, and upon completion we'll see how it does.
+I think I can more fully achieve my own goals by creating a custom carbine than
+by selecting any of the off-the-shelf offerings that I've already considered.
+So I'm going for it, and upon completion we'll see how it performs. Until we
+have those results, I'm just another guy on the Internet who thinks he knows
+everything. ;)
 
 ### Basis
 The RC1 design is based somewhat on the [Alexander 6.5 Grendel
