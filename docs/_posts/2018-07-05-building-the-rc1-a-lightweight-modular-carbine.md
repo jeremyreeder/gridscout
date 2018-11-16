@@ -22,7 +22,9 @@ beyond that range. The PDW's biggest hindrance in this regard is its very short
 barrel, while the carbine is held back primarily by its use of the puny 5.56x45
 NATO cartridge. In either case, the energy of the bullet is insufficient to
 remain very effective throughout my intended range of distance against human
-targets and the occasional medium-size game animal.
+targets and the occasional medium-size game animal. (Besides the obvious
+counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
+this weapon.)
 
 I think I can more fully achieve my own goals by creating a custom carbine than
 by selecting any of the off-the-shelf offerings that I've already considered.
