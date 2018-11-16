@@ -21,7 +21,7 @@ modern carbine is pretty good up to 300 yards, both are severely handicapped
 beyond that range. The PDW's biggest hindrance in this regard is its very short
 barrel, while the carbine is held back primarily by its use of the puny 5.56x45
 NATO cartridge. In either case, the energy of the bullet is insufficient to
-remain very effective throughout my intended range of distance to human
+remain very effective throughout my intended range of distance against human
 targets and medium-size game animals.
 
 I think I can more fully achieve my own goals by creating a custom carbine than
