@@ -63,7 +63,7 @@ to the shooter's body where it's most easily supported.  With the 33° grip
 angle that's most common in modern carbines, this position would be
 uncomfortable for the wrist of the shooter's dominant hand; so the RC1's grip
 will instead be nearly vertical as in a PDW. This weapon will be as lightweight
-as practical, in order to limit muscle fatigue so the shooter can more easily
+as practicable, in order to limit muscle fatigue so the shooter can more easily
 keep his sights steady on the target.
 
 ### Sights
