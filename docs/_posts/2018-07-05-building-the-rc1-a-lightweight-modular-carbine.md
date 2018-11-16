@@ -85,8 +85,8 @@ length of about 32 inches.
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-![This Israeli magazine weighs 5.9 oz. Up until this point, the magazine in photographs has been a paper model. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
-*2018-11-14 — E-Lander 17-round magazine & Ergo Swift Grip*
+![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
+*2018-11-14 — E-Lander 17-round magazine (steel) & Ergo Swift Grip (paper)*
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
