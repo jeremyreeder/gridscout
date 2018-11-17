@@ -195,7 +195,8 @@ class M:
 					result_id = int(query)
 					if result_id >= 1 and result_id <= len(self.results_mgrs_only):
 						mgrs = self.results_mgrs_only[result_id-1]
-						url = 'https://mappingsupport.com/p/gmap4.php?mgrs=' + mgrs + '&t=s&z=18'
+						(latitude, longitude) = self.converter.toLatLon(mgrs)
+						url = 'https://www.google.com/maps/@?api=1&map_action=map&center=' + str(latitude) + ',' + str(longitude) + '&zoom=19&basemap=satellite'
 						self.output('Opening aerial view of ' + mgrs + '.')
 						webbrowser.open(url, new=1)
 						self.output('')
