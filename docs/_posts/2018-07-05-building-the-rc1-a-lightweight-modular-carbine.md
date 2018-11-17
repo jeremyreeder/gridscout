@@ -14,57 +14,69 @@ RC1 stands for Reeder Carbine #1 than to explain that PK6 (my original name for
 the RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 ## Weapon design
-My intent is to create a weapon that is easy to operate in close quarters, very
-well suited for up to 300 yards, and still practical up to 500 yards. While
-many PDWs are especially good at close quarters and a typical modern carbine is
-pretty good up to 300 yards, it seems to me that both are severely handicapped
-beyond that range by their low bullet energy and high aerodynamic drag.
+My intent is to create a weapon that is especially easy to handle in
+close-quarters combat without sacrificing effectiveness at medium range (up to
+500 yards). While many PDWs are very good at close quarters and a typical
+modern carbine is pretty good up to 300 yards, both are severely handicapped
+beyond that range. The PDW's biggest hindrance in this regard is its very short
+barrel, while the carbine is held back primarily by its use of the puny 5.56x45
+NATO cartridge. In either case, the energy of the bullet is insufficient to
+remain very effective throughout my intended range of distance against human
+targets and the occasional medium-size game animal. (Besides the obvious
+counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
+this weapon.)
 
-I think I can more fully achieve my chosen goals by creating a custom carbine
-than by selecting any of the off-the-shelf offerings that I've already
-considered. So I'm going for it, and upon completion we'll see how it does.
+I think I can more fully achieve my own goals by creating a custom carbine than
+by selecting any of the off-the-shelf offerings that I've already considered.
+So I'm going for it, and upon completion we'll see how it performs. Until we
+have those results, I'm just another guy on the Internet who thinks he knows
+everything. ;)
 
 ### Basis
-I'll base the the RC1 somewhat on the Alexander 6.5 Grendel Incursion, which is
-relatively light and fires the most effective general-purpose cartridge yet
-devised for AR15-format firearms. Thanks to the versatility and popularity of
-Eugene Stoner's modular design —the Armalite AR-15 upon which the Grendel
-Incursion and many other modern weapons are based—, we now have a standardized
-means of interchanging parts to fit the needs of the shooter. The RC1 will take
-advantage of this in two important ways.
+The RC1 design is based somewhat on the [Alexander 6.5 Grendel
+Incursion][incursion], which is relatively light and fires the most effective
+general-purpose cartridge yet devised for AR15-format firearms. The Incursion,
+however, isn't everything that I want it to be. It's slightly longer than I
+prefer for close-quarters maneuvering. More importantly, it still relies on the
+direct-impingement gas system that got M16 operators killed in Vietnam. But
+thanks to the versatility and popularity of Eugene Stoner's modular AR-15
+design —upon which the M16 and the Incursion are based—, we now have a
+standardized means of interchanging parts to fit the needs and wants of the
+shooter. The RC1 will take advantage of this in two important ways.
 
 - The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
+  (Piston gas systems consistently outperform direct-impingement systems in
+  reliability tests, as they did in a [2007 test by the U.S.Army][test-results].)
 
-- Other part selections, inspired by PDWs and by ultralight carbines derived
-  from the Colt AR15A3, will serve to make the RC1 lighter, more comfortable,
-  and more maneuverable.
+- Other part selections, inspired by PDWs and by AR15A3-derived ultralight
+  carbines, will serve to make the RC1 lighter and more maneuverable.
 
 ### Barrel
-The barrel of the RC1 will be just long enough to avoid the red tape associated
-with a short-barreled rifle. This length also serves to keep the muzzle
-velocity and bullet energy high enough for practical medium-range use. If I put
-a muzzle brake on the barrel, it'll be a short, single-chamber model to
-minimize the added weight and length.
+The barrel of the RC1 will be of the standard 16" carbine length, just long
+enough to avoid the red tape associated with a short-barreled rifle. This
+length also produces high enough muzzle velocity and bullet energy for
+practical medium-range use. The muzzle brake will be a short, single-chamber
+model to minimize the added weight and length.
 
 ### Buttstock
-The RC1 will have a very short, fixed-length buttstock. This would make it
-uncomfortable with the standard 33° grip angle, so its pistol grip will instead
-be nearly vertical, as is common in a PDW. This will place the wrist of the
-shooter's dominant hand in a neutral position, while the short length of pull
-will put the entire mass of the RC1 closer to the shooter's body where it is
-more easily supported. This gun will be as lightweight as practical, in order
-to further limit muscle fatigue, as even minor fatigue can affect the
-steadiness with which the shooter holds his sights on target.
+The RC1 will have a very short, fixed-length buttstock to shift its mass closer
+to the shooter's body where it's most easily supported.  With the 33° grip
+angle that's most common in modern carbines, this position would be
+uncomfortable for the wrist of the shooter's dominant hand; so the RC1's grip
+will instead be nearly vertical as in a PDW. This weapon will be as lightweight
+as practicable, in order to limit muscle fatigue so the shooter can more easily
+keep his sights steady on the target.
 
 ### Sights
 The RC1 will be equipped with two sighting systems:
-- A lightweight fixed-power riflescope, sufficient for 500-yard engagements
-- Offset iron sights, optimized for quick target acquisition within 50 yards
+- A lightweight fixed-power riflescope, practical for 100- to 500-yard
+  engagements
+- Offset iron sights, optimized for quick target acquisition
 
 ## Progress
 Progress on this project is as follows. Initially, a few paper parts stand in
-for some of the actual parts that I have not yet acquired. With a scope and a
+for some of the major parts that I have not yet acquired. With a scope and a
 full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
@@ -77,17 +89,19 @@ length of about 32 inches.
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
-![This Israeli magazine weighs 5.9 oz. Up until this point, the magazine in photographs has been a paper model. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
-*2018-11-14 — E-Lander 17-round magazine & Ergo Swift Grip*
+![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
+*2018-11-14 — E-Lander 17-round magazine (steel) & Ergo Swift Grip (paper)*
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
-[gridscout]:  /
-[2018-07-05]: ../images/rc1-concept-2018-07-05.jpg
-[2018-07-27]: ../images/rc1-concept-2018-07-27.jpg
-[2018-07-31]: ../images/rc1-concept-2018-07-31.jpg
-[2018-08-02]: ../images/rc1-concept-2018-08-02.jpg
-[2018-11-14]: ../images/rc1-concept-2018-11-14.jpg
+[gridscout]:    /
+[incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
+[test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
+[2018-07-05]:   ../images/rc1-concept-2018-07-05.jpg
+[2018-07-27]:   ../images/rc1-concept-2018-07-27.jpg
+[2018-07-31]:   ../images/rc1-concept-2018-07-31.jpg
+[2018-08-02]:   ../images/rc1-concept-2018-08-02.jpg
+[2018-11-14]:   ../images/rc1-concept-2018-11-14.jpg
