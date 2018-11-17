@@ -3,7 +3,7 @@ layout: post
 title: Google put the kibosh on Gmap4! :O
 author: Jeremy Reeder
 date: 2018-08-30
-permalink: /blog/2019-08-30-google-put-the-kibosh-on-gmap4
+permalink: /blog/2018-08-30-google-put-the-kibosh-on-gmap4
 tags: google map gmap4
 ---
 
@@ -27,8 +27,11 @@ out $46,000 per year. So Gmap4 is now gone. Bummer.
 I am now considering alternatives to Gmap4, so that I can restore GridScout's
 aerial-view feature.
 
+*Update: [I replaced the aerial viewer.][update]*
+
 
 [gmap4]:        https://mappingsupport.com/p/gmap4.php
 [gmap4-notice]: ../images/gmap4-discontinued.png
 [gmap4-rip]:    ../images/gmap4-tombstone.jpg
 [gridscout]:    /
+[update]:       2018-11-17-aerial-views-reenabled
