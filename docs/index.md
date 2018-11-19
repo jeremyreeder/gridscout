@@ -29,10 +29,10 @@ points on the overlays.
 # What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
 output in a terminal works well. But GridScout™ does integrate with
-[Gmap4][gmap4] to give aerial views in your web browser. From there, you can
-easily access other online resources such as topographic and street-level
-views, courtesy of USGS and Google Maps. Strictly speaking, however, these are
-not part of GridScout™.
+[Google Maps][google-maps] to give aerial views in your web browser. From
+there, you can easily access other online resources such as topographic and
+street-level views, courtesy of USGS and Google. Strictly speaking, however,
+these are not part of GridScout™.
 
 ![Sceenshot of a GridScout™ aerial view of a petroleum
 refinery](images/aerial-screenshot.png)
@@ -72,12 +72,13 @@ actual location unless you're okay with Google knowing it. Truncate your
 coordinates to 10-kilometer precision if you like, or set a base location on
 the other side of town; your search results won't be drastically affected.
 
-Aerial views are accessed through [Gmap4][gmap4]. When you access the aerial
-view of a location, your web browser will submit that location's MGRS
-coordinate in an encrypted manner. Your base location and your search queries
-are never shared with Gmap4. Depending on your network and the configuration of
-your browser, it may be possible for Gmap4 to determine your actual location.
-If this is a problem for you, then an anonymous VPN is once again recommended.
+Aerial views are accessed through [Google Maps][google-maps]. When you access
+the aerial view of a location, your web browser will submit that location's
+MGRS coordinate in an encrypted manner. Depending on your network and the
+configuration of your browser, it may be possible for Google to determine your
+actual location regardless of the base location that you used for your
+searches. If this is a serious problem for you, then simply locate each search
+result on your MGRS-compatible paper maps.
 
 # Who are you, and why did you create GridScout™?
 My name is [Jeremy Reeder][jeremy]. Professionally, I'm a network security
@@ -132,7 +133,7 @@ terms of the [MIT License][mit-license].
 [freepik]:          https://www.freepik.com
 [flaticon]:         https://www.flaticon.com
 [forward-observer]: https://forwardobserver.com
-[gmap4]:            https://mappingsupport.com/p/gmap4-free-online-topo-maps.html
+[google-maps]:      https://maps.google.com
 [icon-license]:     http://creativecommons.org/licenses/by/3.0
 [jeremy]:           mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
 [mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System

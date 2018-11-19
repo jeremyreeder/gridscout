@@ -86,13 +86,13 @@ for some of the major parts that I have not yet acquired. With a scope and a
 full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
-![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which frankly aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included. I envision a short skeleton stock and a grip angle of about 14°.][2018-07-05]
+![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which frankly aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included. I envision a short skeleton stock, a grip angle of about 14°, and about a 5X scope.][2018-07-05]
 *2018-07-05 — Initial concept*
 
-![This Japanese fixed-power 6X scope, without mounting rings, weighs 9.8 oz.][2018-07-27]
+![I've decided on this Japanese fixed-power 6X scope which, without mounting rings, weighs 9.8 oz.][2018-07-27]
 *2018-07-27 — Weaver K6 scope (paper model)*
 
-![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz.][2018-07-31]
+![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet.][2018-07-31]
 *2018-07-31 — Incognito Arms buttstock*
 
 ![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
