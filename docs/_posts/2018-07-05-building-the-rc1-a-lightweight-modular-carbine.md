@@ -43,12 +43,12 @@ everything. ;)
 
 ### Basis
 The RC1 design is based somewhat on the [Alexander 6.5 Grendel
-Incursion][incursion], which is relatively light and fires the most effective
-general-purpose cartridge yet devised for AR15-format firearms. The Incursion,
-however, isn't everything that I want it to be. It's slightly longer than I
-prefer for close-quarters maneuvering. More importantly, it still relies on the
-direct-impingement gas system that got M16 operators killed in Vietnam. But
-thanks to the versatility and popularity of Eugene Stoner's modular AR-15
+Incursion][incursion], which is relatively light and fires one of the most
+effective general-purpose cartridges yet devised for AR15-format firearms. The
+Incursion, however, isn't everything that I want it to be. It's slightly longer
+than I prefer for close-quarters maneuvering. More importantly, it still relies
+on the direct-impingement gas system that got M16 operators killed in Vietnam.
+But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
 design —upon which the M16 and the Incursion are based—, we now have a
 standardized means of interchanging parts to fit the needs and wants of the
 shooter. The RC1 will take advantage of this in two important ways.
