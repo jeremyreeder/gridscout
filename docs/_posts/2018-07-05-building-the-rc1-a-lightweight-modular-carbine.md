@@ -30,7 +30,8 @@ a Remington UMC 55gr bullet has lost 84% of its kinetic energy, reducing it to
 only 207 ft·lb. In contrast, the Wolf Military Classic 100gr 6.5 Grendel
 cartridge retains 811 ft·lb of kinetic energy at that distance. It also reaches
 that distance at a velocity of 1911 ft/s, 47% greater than the measly 1302 ft/s
-of the 5.56mm cartridge.
+of the 5.56mm cartridge. By the [standards of Chuck Hawks][hawks], the 6.5
+Grendel is therefore adequate for the task while the 5.56 is not.
 {:.tangent}
 
 I think I can more fully achieve my own goals by creating a custom carbine than
@@ -104,6 +105,7 @@ future post. I'll provide a link here to make it easy on you.
 
 
 [gridscout]:    /
+[hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
 [2018-07-05]:   ../images/rc1-concept-2018-07-05.jpg
