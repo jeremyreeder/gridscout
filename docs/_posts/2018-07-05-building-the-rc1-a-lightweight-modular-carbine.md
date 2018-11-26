@@ -19,20 +19,23 @@ close-quarters combat without sacrificing effectiveness at medium range (up to
 500 yards). While many PDWs are very good at close quarters and a typical
 modern carbine is pretty good up to 300 yards, both are severely handicapped
 beyond that range. The PDW's biggest hindrance in this regard is its very short
-barrel, while the carbine is held back primarily by its use of the puny 5.56x45
-NATO cartridge. In either case, the energy of the bullet is insufficient to
-remain very effective at my maximum intended distance against human targets and
-the occasional medium-size game animal. (Besides the obvious counterterrorism
-missions, I intend to hunt wolves, deer, and wild boar with this weapon.)
+barrel, while the carbine is held back primarily by its use of the diminutive
+5.56x45 NATO cartridge. In either case, the energy of the bullet is
+insufficient to remain very effective at my maximum intended distance against
+human targets and the occasional medium-size game animal. (Besides the obvious
+counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
+this weapon.)
 
 As an illustration of the insufficiency of 5.56x45, consider that at 500 yards
-a Remington UMC 55gr bullet from a 16" barrel has lost 84% of its kinetic
-energy, reducing it to only 207 ft·lb. In contrast, the Wolf Military Classic
-100gr 6.5 Grendel cartridge retains 811 ft·lb of kinetic energy at that
-distance. It also reaches that distance at a velocity of 1911 ft/s, 47% greater
-than the measly 1302 ft/s of the 5.56mm cartridge. By the [standards of Chuck
-Hawks][hawks], the 6.5 Grendel is therefore adequate for the task while the
-5.56 is not.
+it will have lost 68% of its kinetic energy and 37% of its velocity, reducing
+them to just 541 ft·lb and 2105 ft/s. While there is no _universal_ agreement
+on how much it takes to do the job well, I set my personal requirements at 800
+ft·lb and 1500 ft/s per the guidance of [Chuck Hawks][hawks]. A 6.5 Grendel
+cartridge exceeds these at 500 yards, giving me 818 ft·lb and 1920 ft/s;
+whereas the lighter and less streamlined 5.56mm cartridge, by these standards,
+is only sufficient to about 275 yards. (These calculations are all based on the
+Wolf™ Military Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s
+MV; and 6.5 Grendel, 100gr, 0.515 BC, 2723 ft/s MV)
 {:.tangent}
 
 I think I can more fully achieve my own goals by creating a custom carbine than
