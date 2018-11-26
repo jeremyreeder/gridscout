@@ -35,7 +35,7 @@ cartridge exceeds these at 500 yards, giving me 818 ft·lb and 1920 ft/s;
 whereas the lighter and less streamlined 5.56mm cartridge, by these standards,
 is only sufficient to about 275 yards. (These calculations are all based on the
 Wolf™ Military Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s
-MV; and 6.5 Grendel, 100gr, 0.515 BC, 2723 ft/s MV)
+MV; and 6.5 Grendel, 100gr, 0.515 BC, 2723 ft/s MV.)
 {:.tangent}
 
 I think I can more fully achieve my own goals by creating a custom carbine than
