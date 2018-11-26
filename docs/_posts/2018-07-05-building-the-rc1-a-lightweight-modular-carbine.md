@@ -27,15 +27,14 @@ counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
 this weapon.)
 
 As an illustration of the insufficiency of 5.56x45, consider that at 500 yards
-it will have lost 68% of its kinetic energy and 37% of its velocity, reducing
-them to just 541 ft·lb and 2105 ft/s. While there is no _universal_ agreement
-on how much it takes to do the job well, I set my personal requirements at 800
-ft·lb and 1500 ft/s per the guidance of [Chuck Hawks][hawks]. A 6.5 Grendel
-cartridge exceeds these at 500 yards, giving me 818 ft·lb and 1920 ft/s;
-whereas the lighter and less streamlined 5.56mm cartridge, by these standards,
-is only sufficient to about 275 yards. (These calculations are all based on the
-Wolf™ Military Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s
-MV; and 6.5 Grendel, 100gr, 0.515 BC, 2723 ft/s MV.)
+it will have lost 68% of its kinetic energy, reducing it to just 541 ft·lb.
+While there is no _universal_ agreement on how much it takes to do the job
+well, I set my personal requirement at 800 ft·lb per the guidance of [Chuck
+Hawks][hawks]. A 6.5 Grendel cartridge exceeds slightly at 500 yards, giving
+818 ft·lb; whereas the lighter and less streamlined 5.56mm cartridge can comply
+only out to 300 yards. (These calculations are all based on the Wolf™ Military
+Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s MV; and 6.5
+Grendel, 100gr, 0.515 BC, 2723 ft/s MV.)
 {:.tangent}
 
 I think I can more fully achieve my own goals by creating a custom carbine than
