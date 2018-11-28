@@ -89,9 +89,7 @@ keep his sights steady on the target.
 
 ### Sights
 The RC1 will be equipped with two sighting systems:
-
 - A lightweight fixed-power riflescope, for 100- to 500-yard engagements
-
 - Offset iron sights, optimized for quick target acquisition within 100 yards
 
 ## Progress
