@@ -39,9 +39,11 @@ Grendel, 100gr, 0.515 BC, 2723 ft/s MV.)
 
 I think I can more fully achieve my own goals by creating a custom carbine than
 by selecting any of the off-the-shelf offerings that I've already considered.
-So I'm going for it, and upon completion we'll see how it performs. Until we
-have those results, I'm just another guy on the Internet who thinks he knows
-everything. ;)
+So I'm going for it, and upon completion we'll see how it performs.
+
+Until we have those results, I'm just another guy on the Internet who thinks he
+knows everything. ;)
+{:.tangent}
 
 ### Basis
 The RC1 design is based somewhat on the [Alexander 6.5 Grendel
