@@ -64,8 +64,8 @@ shooter. The RC1 will take advantage of this in two important ways.
 - The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
 
-(Piston gas systems consistently outperform direct-impingement systems in
-reliability tests, as they did in a [2007 test by the U.S.Army][test-results].)
+Piston gas systems consistently outperform direct-impingement systems in
+reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
 {:.tangent}
 
 - Other part selections, inspired by PDWs and by AR15A3-derived ultralight
