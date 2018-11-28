@@ -53,7 +53,7 @@ The Incursion, however, isn't everything that I want it to be.
 
 It's slightly longer than I prefer for close-quarters maneuvering. More
 importantly, it still relies on the direct-impingement gas system that got M16
-operators killed in Vietnam. 
+operators killed in Vietnam.
 {:.tangent}
 
 But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
@@ -61,15 +61,15 @@ design —upon which the M16 and the Incursion are based—, we now have a
 standardized means of interchanging parts to fit the needs and wants of the
 shooter. The RC1 will take advantage of this in two important ways.
 
+- Certain part selections, inspired by PDWs and by AR15A3-derived ultralight
+  carbines, will serve to make the RC1 lighter and more maneuverable.
+
 - The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
 
 Piston gas systems consistently outperform direct-impingement systems in
 reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
 {:.tangent}
-
-- Other part selections, inspired by PDWs and by AR15A3-derived ultralight
-  carbines, will serve to make the RC1 lighter and more maneuverable.
 
 ### Barrel
 The barrel of the RC1 will be of the standard 16" carbine length, just long
