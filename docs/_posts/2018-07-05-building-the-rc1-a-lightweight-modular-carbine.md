@@ -19,38 +19,57 @@ close-quarters combat without sacrificing effectiveness at medium range (up to
 500 yards). While many PDWs are very good at close quarters and a typical
 modern carbine is pretty good up to 300 yards, both are severely handicapped
 beyond that range. The PDW's biggest hindrance in this regard is its very short
-barrel, while the carbine is held back primarily by its use of the puny 5.56x45
-NATO cartridge. In either case, the energy of the bullet is insufficient to
-remain very effective throughout my intended range of distance against human
-targets and the occasional medium-size game animal. (Besides the obvious
+barrel, while the carbine is held back primarily by its use of the diminutive
+5.56x45 NATO cartridge. In either case, the energy of the bullet is
+insufficient to remain very effective at my maximum intended distance against
+human targets and the occasional medium-size game animal. (Besides the obvious
 counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
 this weapon.)
 
+As an illustration of the insufficiency of 5.56x45, consider that at 500 yards
+it will have lost 68% of its kinetic energy, reducing it to just 541 ft·lb.
+While there is no _universal_ agreement on how much it takes to do the job
+well, I set my personal requirement at 800 ft·lb per the guidance of [Chuck
+Hawks][hawks]. A 6.5 Grendel cartridge exceeds slightly at 500 yards, giving
+818 ft·lb; whereas the lighter and less streamlined 5.56mm cartridge can comply
+only out to 300 yards. (These calculations are all based on the Wolf™ Military
+Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s MV; and 6.5
+Grendel, 100gr, 0.515 BC, 2723 ft/s MV.)
+{:.tangent}
+
 I think I can more fully achieve my own goals by creating a custom carbine than
 by selecting any of the off-the-shelf offerings that I've already considered.
-So I'm going for it, and upon completion we'll see how it performs. Until we
-have those results, I'm just another guy on the Internet who thinks he knows
-everything. ;)
+So I'm going for it, and upon completion we'll see how it performs.
+
+Until we have those results, I'm just another guy on the Internet who thinks he
+knows everything. ;)
+{:.tangent}
 
 ### Basis
 The RC1 design is based somewhat on the [Alexander 6.5 Grendel
-Incursion][incursion], which is relatively light and fires the most effective
-general-purpose cartridge yet devised for AR15-format firearms. The Incursion,
-however, isn't everything that I want it to be. It's slightly longer than I
-prefer for close-quarters maneuvering. More importantly, it still relies on the
-direct-impingement gas system that got M16 operators killed in Vietnam. But
-thanks to the versatility and popularity of Eugene Stoner's modular AR-15
+Incursion][incursion], which is relatively light and fires one of the most
+effective general-purpose cartridges yet devised for modern sporting rifles.
+The Incursion, however, isn't everything that I want it to be.
+
+It's slightly longer than I prefer for close-quarters maneuvering. More
+importantly, it still relies on the direct-impingement gas system that got M16
+operators killed in Vietnam.
+{:.tangent}
+
+But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
 design —upon which the M16 and the Incursion are based—, we now have a
 standardized means of interchanging parts to fit the needs and wants of the
 shooter. The RC1 will take advantage of this in two important ways.
 
+- Certain part selections, inspired by PDWs and by AR15A3-derived ultralight
+  carbines, will serve to make the RC1 lighter and more maneuverable.
+
 - The bolt will be cycled by a gas piston, based on the Armalite AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
-  (Piston gas systems consistently outperform direct-impingement systems in
-  reliability tests, as they did in a [2007 test by the U.S.Army][test-results].)
 
-- Other part selections, inspired by PDWs and by AR15A3-derived ultralight
-  carbines, will serve to make the RC1 lighter and more maneuverable.
+Piston gas systems consistently outperform direct-impingement systems in
+reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
+{:.tangent}
 
 ### Barrel
 The barrel of the RC1 will be of the standard 16" carbine length, just long
@@ -70,9 +89,8 @@ keep his sights steady on the target.
 
 ### Sights
 The RC1 will be equipped with two sighting systems:
-- A lightweight fixed-power riflescope, practical for 100- to 500-yard
-  engagements
-- Offset iron sights, optimized for quick target acquisition
+- A lightweight fixed-power riflescope, for 100- to 500-yard engagements
+- Offset iron sights, optimized for quick target acquisition within 100 yards
 
 ## Progress
 Progress on this project is as follows. Initially, a few paper parts stand in
@@ -98,6 +116,7 @@ future post. I'll provide a link here to make it easy on you.
 
 
 [gridscout]:    /
+[hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
 [2018-07-05]:   ../images/rc1-concept-2018-07-05.jpg
