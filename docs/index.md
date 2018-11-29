@@ -135,7 +135,7 @@ terms of the [MIT License][mit-license].
 [forward-observer]: https://forwardobserver.com
 [google-maps]:      https://maps.google.com
 [icon-license]:     http://creativecommons.org/licenses/by/3.0
-[jeremy]:           mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
+[jeremy]:           mailto:jeremy@gridscout.net@gmail.com?Subject=GridScout™
 [mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [mit-license]:      https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:           https://www.mytopo.com
