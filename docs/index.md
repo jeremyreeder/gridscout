@@ -81,6 +81,7 @@ searches. If this is a serious problem for you, then simply locate each search
 result on your MGRS-compatible paper maps.
 
 # Who are you, and why did you create GridScout™?
+{:#jeremy}
 My name is Jeremy Reeder. Professionally, I'm a network security analyst and a
 part-time [bank-vault engineer][safehouse]. I take an interest in the security
 of my home and my community, so I make a point of protecting them as well. In
