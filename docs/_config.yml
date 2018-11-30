@@ -19,7 +19,7 @@ logo_64x64: /images/favicon-64x64.png
 logo_128x128: /images/favicon-128x128.png
 logo_256x256: /images/favicon-256x256.png
 logo_512x512: /images/favicon-512x512.png
-email: jjrxyz+gridscout@gmail.com
+email: jeremy@gridscout.net
 description: >- # this means to ignore newlines until "baseurl:"
   A tool for bulk collection of location data, including MGRS coordinates, to
   be used by intelligence analysts. Finally, MGRS search for Google Maps!

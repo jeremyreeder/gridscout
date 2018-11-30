@@ -81,11 +81,12 @@ searches. If this is a serious problem for you, then simply locate each search
 result on your MGRS-compatible paper maps.
 
 # Who are you, and why did you create GridScout™?
-My name is [Jeremy Reeder][jeremy]. Professionally, I'm a network security
-analyst and a part-time [bank-vault engineer][safehouse]. I take an interest in
-the security of my home and my community, so I make a point of protecting them
-as well. In the past I have volunteered as a firefighter, a home security
-advisor, and a range safety officer.
+{:#jeremy}
+My name is Jeremy Reeder. Professionally, I'm a network security analyst and a
+part-time [bank-vault engineer][safehouse]. I take an interest in the security
+of my home and my community, so I make a point of protecting them as well. In
+the past I have volunteered as a firefighter, a home security advisor, and a
+range safety officer.
 
 You may wish to protect your own home and community. I suggest that you work
 together with others around you who share this goal. Such a group may be called
@@ -96,6 +97,10 @@ I created GridScout™ to help me in my role as a community defense analyst for
 [my local battalion][battalion] of Idaho's unorganized militia. I share it to
 help the people of other communities in the development of their own
 defense intelligence.
+
+You can reach me at [jeremy@gridscout.net][jeremy]. To encrypt the
+conversation, use [ProtonMail][protonmail] or an OpenPGP-based email client.
+Here's my [public key][jeremy-key].
 
 # How can I learn more about defense intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
@@ -135,10 +140,12 @@ terms of the [MIT License][mit-license].
 [forward-observer]: https://forwardobserver.com
 [google-maps]:      https://maps.google.com
 [icon-license]:     http://creativecommons.org/licenses/by/3.0
-[jeremy]:           mailto:jjrxyz+gridscout@gmail.com?Subject=GridScout™
+[jeremy]:           mailto:jeremy@gridscout.net
+[jeremy-key]:       publickey.jeremy@gridscout.net.asc
 [mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [mit-license]:      https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:           https://www.mytopo.com
+[protonmail]:       https://protonmail.com
 [protonvpn]:        https://protonvpn.com
 [safehouse]:        https://www.thesafehouse.info/
 [shtf-intel]:       https://forwardobserver.com/product/community-intelligence-program-print-version/
