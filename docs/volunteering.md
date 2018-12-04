@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Volunteering in Your Community
+title: Your Role in Community Defense
 permalink: /volunteering
 ---
 
 <link rel="shortcut icon" href="favicon.ico"/>
 <link rel="icon" type="image/png" href="images/favicon-64x64.png" sizes="64x64"/>
 
-# How can I protect my community?
+# What can you do to protect your community?
+Communities face a variety of threats. Here are a few ways that you might be
+able to help.
+
 - Many rural communities have volunteer fire departments. They depend on
 volunteers like you and me to protect the people from wildfires.
 

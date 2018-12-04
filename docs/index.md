@@ -90,8 +90,8 @@ range safety officer.
 
 You may wish to protect your own home and community. I suggest that you work
 together with others around you who share this goal. Such a group may be called
-an emergency response team, an emergency service, a posse, or a militia. Learn
-more about such volunteer opportunities [here][volunteering].
+an emergency response team, an emergency service, a posse, or a militia. For
+more community-defense volunteer ideas, go [here][volunteering].
 
 I created GridScout™ to help me in my role as a community defense analyst for
 [my local battalion][battalion] of Idaho's unorganized militia. I share it to
