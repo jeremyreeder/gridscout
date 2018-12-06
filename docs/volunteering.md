@@ -37,5 +37,10 @@ defense of your own community. Make your intentions and abilities known, and
 I'm sure you can find some good way to help. Whatever your endeavor, you'd do
 well to have good maps and useful overlays. Let [GridScout™][gridscout] help.
 
+If you'd like to encourage the developers of GridScout™ and contribute to the
+success of their endeavors, then there's no better way than to buy them some of
+the stuff on [Jeremy's wish list][wish-list].
 
-[gridscout]:    /
+
+[gridscout]: /
+[wish-list]: https://www.amazon.com/registry/wishlist/3FE63XKZVCDK
