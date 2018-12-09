@@ -34,7 +34,7 @@ Hawks][hawks]. A 6.5 Grendel cartridge exceeds slightly at 500 yards, giving
 818 ft·lb; whereas the lighter and less streamlined 5.56mm cartridge can comply
 only out to 300 yards. (These calculations are all based on the Wolf™ Military
 Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s MV; and 6.5
-Grendel, 100gr, 0.515 BC, 2723 ft/s MV.)
+Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV.)
 {:.tangent}
 
 I think I can more fully achieve my own goals by creating a custom carbine than
@@ -115,6 +115,7 @@ When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
+[grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgesshooting/grendelballistic.html
 [gridscout]:    /
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
