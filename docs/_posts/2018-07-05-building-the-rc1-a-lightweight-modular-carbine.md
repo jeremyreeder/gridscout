@@ -112,10 +112,8 @@ length of about 32 inches.
 *2018-11 — 17-round steel magazine*
 </div>
 
-<div class="gallery" markdown="1">
 ![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil control and moving it forward a little to make finger controls easier to reach. The Alexander™ Incursion melonited chromoly barrel (1 lb, 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb, 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
 *2018-12*
-</div>
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
