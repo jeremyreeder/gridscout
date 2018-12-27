@@ -101,18 +101,11 @@ length of about 32 inches.
 <div class="gallery" markdown="1">
 ![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
 ![The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
-![I envision a short skeleton stock, a grip angle of about 14°, and about a 5X scope.][concept-2018-07-05]
-*2018-07-05 — Initial concept*
+*2018-06 — Project start*
 </div>
 
-![I've decided on this Japanese fixed-power 6X scope which, without mounting rings, weighs 9.8 oz.][concept-2018-07-27]
-*2018-07-27 — Weaver K6 scope (paper model)*
-
-<div class="gallery" markdown="1">
-![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet.][progress-2018-07-31]
-![][concept-2018-07-31]
-*2018-07-31 — Incognito Arms buttstock*
-</div>
+![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as this Japanese 6X model which, without mounting rings, weighs 9.8 oz.][concept-2018-07-31]
+*2018-07 — Incognito Arms buttstock; Weaver K6 scope (paper model)*
 
 <div class="gallery" markdown="1">
 ![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs.][progress-2018-11-14]
@@ -122,8 +115,6 @@ length of about 32 inches.
 </div>
 
 <div class="gallery" markdown="1">
-![Aero Precision™ mil-spec barrel nut.][progress-2018-12-25T09:53]
-![The Ergo Swift Grip.][progress-2018-12-25T09:55]
 ![The 6.5 Grendel Incursion barrel from Alexander Arms.][progress-2018-12-25T09:56]
 ![Swift Grip installed.][progress-2018-12-25T11:07]
 ![Incursion barrel and TacStar™ handguard installed.][progress-2018-12-25T11:19]
@@ -136,8 +127,6 @@ When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
-[concept-2018-07-05]:        ../images/rc1-concept-2018-07-05.jpg
-[concept-2018-07-27]:        ../images/rc1-concept-2018-07-27.jpg
 [concept-2018-07-31]:        ../images/rc1-concept-2018-07-31.jpg
 [concept-2018-08-02]:        ../images/rc1-concept-2018-08-02.jpg
 [concept-2018-11-14]:        ../images/rc1-concept-2018-11-14.jpg
@@ -147,11 +136,9 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2018-07-31]:       ../images/rc1-progress-2018-07-31.jpg
 [progress-2018-08-01]:       ../images/rc1-progress-2018-08-01.jpg
 [progress-2018-11-14]:       ../images/rc1-progress-2018-11-14.jpg
-[progress-2018-12-25T09:53]: ../images/rc1-progress-2018-12-25T09:53.jpg
-[progress-2018-12-25T09:55]: ../images/rc1-progress-2018-12-25T09:55.jpg
 [progress-2018-12-25T09:56]: ../images/rc1-progress-2018-12-25T09:56.jpg
 [progress-2018-12-25T11:07]: ../images/rc1-progress-2018-12-25T11:07.jpg
-[progress-2018-12-25T11:19]: ../images/rc1-progress-2018-12-25T11:19:22.jpg
+[progress-2018-12-25T11:19]: ../images/rc1-progress-2018-12-25T11:19.jpg
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgesshooting/grendelballistic.html
 [gridscout]:    /
