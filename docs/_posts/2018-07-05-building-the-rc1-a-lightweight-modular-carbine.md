@@ -102,26 +102,26 @@ length of about 32 inches.
 ![][progress-2018-06-21]
 ![][progress-2018-06-22]
 ![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which frankly aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included. I envision a short skeleton stock, a grip angle of about 14°, and about a 5X scope.][concept-2018-07-05]
-</div>
 *2018-07-05 — Initial concept*
+</div>
 
 <div class="gallery" markdown="1">
 ![I've decided on this Japanese fixed-power 6X scope which, without mounting rings, weighs 9.8 oz.][concept-2018-07-27]
-</div>
 *2018-07-27 — Weaver K6 scope (paper model)*
+</div>
 
 <div class="gallery" markdown="1">
 ![][progress-2018-07-31]
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet.][concept-2018-07-31]
-</div>
 *2018-07-31 — Incognito Arms buttstock*
+</div>
 
 <div class="gallery" markdown="1">
 ![][progress-2018-08-01]
 ![][progress-2018-11-14]
 ![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][concept-2018-11-14]
-</div>
 *2018-11-14 — E-Lander 17-round magazine (steel) & Ergo Swift Grip (paper)*
+</div>
 
 <div class="gallery" markdown="1">
 ![][progress-2018-12-25T09:53]
