@@ -109,7 +109,7 @@ length of about 32 inches.
 
 <div class="gallery" markdown="1">
 ![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs.][progress-2018-11-14]
-*2018-11-14 — E-Lander 17-round steel magazine*
+*2018-11 — E-Lander 17-round steel magazine*
 </div>
 
 <div class="gallery" markdown="1">
@@ -117,7 +117,7 @@ length of about 32 inches.
 ![The 13° Ergo Swift Grip. Unlike the originally planned Tactical Link™ 14° PDW grip, this grip lacks the backstrap, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][progress-2018-12-25T11:07]
 ![Incursion barrel and TacStar™ handguard installed.][progress-2018-12-25T11:19]
 ![][concept-2018-12-25]
-*2018-12-25*
+*2018-12*
 </div>
 
 ## Performance
