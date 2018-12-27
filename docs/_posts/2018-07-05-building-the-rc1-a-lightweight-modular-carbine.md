@@ -46,7 +46,7 @@ knows everything. ;)
 {:.tangent}
 
 ### Basis
-The RC1 design is based somewhat on the [Alexander 6.5 Grendel
+The RC1 design is based somewhat on the [Alexander™ 6.5 Grendel
 Incursion][incursion], which is relatively light and fires one of the most
 effective general-purpose cartridges yet devised for modern sporting rifles.
 The Incursion, however, isn't everything that I want it to be.
@@ -99,24 +99,21 @@ full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
 <div class="gallery" markdown="1">
-![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
-![The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
-*2018-06 — Project start*
+![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
+![The TacStar™ 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
+*2018-06 — Slick-side receiver set; titanium pins; carbon handguard*
 </div>
 
-![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as this Japanese 6X model which, without mounting rings, weighs 9.8 oz.][concept-2018-07-31]
-*2018-07 — Incognito Arms buttstock; paper-doll mockup*
+![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as this Japanese 6X model, which weighs 9.8 oz excluding mounting rings.][concept-2018-07-31]
+*2018-07 — Carbon buttstock; paper-doll mockup*
 
 <div class="gallery" markdown="1">
-![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs.][progress-2018-11-14]
-*2018-11 — E-Lander 17-round steel magazine*
+![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
+*2018-11 — 17-round steel magazine*
 </div>
 
 <div class="gallery" markdown="1">
-![The 6.5 Grendel Incursion barrel from Alexander Arms.][progress-2018-12-25T09:56]
-![The 13° Ergo Swift Grip. Unlike the originally planned Tactical Link™ 14° PDW grip, this grip lacks the backstrap, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][progress-2018-12-25T11:07]
-![Incursion barrel and TacStar™ handguard installed.][progress-2018-12-25T11:19]
-![][concept-2018-12-25]
+![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil control and moving it forward a little to make finger controls easier to reach. The Alexander™ Incursion barrel (1 lb, 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb, 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
 *2018-12*
 </div>
 
@@ -125,17 +122,12 @@ When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
-[concept-2018-07-31]:        ../images/rc1-concept-2018-07-31.jpg
-[concept-2018-08-02]:        ../images/rc1-concept-2018-08-02.jpg
-[concept-2018-11-14]:        ../images/rc1-concept-2018-11-14.jpg
-[concept-2018-12-25]:        ../images/rc1-concept-2018-12-25.jpg
-[progress-2018-06-21]:       ../images/rc1-progress-2018-06-21.jpg
-[progress-2018-06-22]:       ../images/rc1-progress-2018-06-22.jpg
-[progress-2018-07-31]:       ../images/rc1-progress-2018-07-31.jpg
-[progress-2018-11-14]:       ../images/rc1-progress-2018-11-14.jpg
-[progress-2018-12-25T09:56]: ../images/rc1-progress-2018-12-25T09:56.jpg
-[progress-2018-12-25T11:07]: ../images/rc1-progress-2018-12-25T11:07.jpg
-[progress-2018-12-25T11:19]: ../images/rc1-progress-2018-12-25T11:19.jpg
+[concept-2018-07-31]:  ../images/rc1-concept-2018-07-31.jpg
+[progress-2018-06-21]: ../images/rc1-progress-2018-06-21.jpg
+[progress-2018-06-22]: ../images/rc1-progress-2018-06-22.jpg
+[progress-2018-07-31]: ../images/rc1-progress-2018-07-31.jpg
+[progress-2018-11-14]: ../images/rc1-progress-2018-11-14.jpg
+[progress-2018-12-25]: ../images/rc1-progress-2018-12-25.jpg
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgesshooting/grendelballistic.html
 [gridscout]:    /
