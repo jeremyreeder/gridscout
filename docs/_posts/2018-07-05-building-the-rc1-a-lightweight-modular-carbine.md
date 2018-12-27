@@ -101,11 +101,11 @@ length of about 32 inches.
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
 ![The TacStar™ 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
-*2018-06 — Slick-side receiver set; titanium pins; carbon handguard*
+*2018-06 — Receivers & handguard*
 </div>
 
-![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as this Japanese 6X model, which weighs 9.8 oz excluding mounting rings.][concept-2018-07-31]
-*2018-07 — Carbon buttstock attached; paper-doll mockup*
+![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as the Weaver K6 (9.8 oz + rings). As the other paper-doll accessories show, I plan to use the 14° PDW grip by Tactical Link™, an E-Lander™ 17-round steel magazine, an Alexander™ Incursion barrel, and a very short muzzle brake.][concept-2018-07-31]
+*2018-07 — Carbon buttstock; paper mockup*
 
 <div class="gallery" markdown="1">
 ![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
@@ -113,7 +113,7 @@ length of about 32 inches.
 </div>
 
 ![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil control and moving it forward a little to make finger controls easier to reach. The Alexander™ Incursion melonited chromoly barrel (1 lb, 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb, 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
-*2018-12 — Grip & barrel mounted*
+*2018-12 — Grip & barrel*
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
