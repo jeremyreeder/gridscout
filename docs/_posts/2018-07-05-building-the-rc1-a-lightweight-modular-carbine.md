@@ -98,30 +98,75 @@ for some of the major parts that I have not yet acquired. With a scope and a
 full magazine, I anticipate a total weight of about 6.8 pounds, and a total
 length of about 32 inches.
 
-![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which frankly aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included. I envision a short skeleton stock, a grip angle of about 14°, and about a 5X scope.][2018-07-05]
+<div class="gallery" markdown="1">
+![][progress-2018-06-21]
+![][progress-2018-06-22]
+![This Anderson receiver set (8.7-oz lower, 6.7-oz upper) from Wisconsin has no ejection-port cover and no forward assist, frills which frankly aren't worth their weight. The receivers are held together by 2A Armament titanium takedown pins made in southeast Boise, adding 0.1 oz. The TacStar 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included. I envision a short skeleton stock, a grip angle of about 14°, and about a 5X scope.][concept-2018-07-05]
+</div>
 *2018-07-05 — Initial concept*
 
-![I've decided on this Japanese fixed-power 6X scope which, without mounting rings, weighs 9.8 oz.][2018-07-27]
+<div class="gallery" markdown="1">
+![I've decided on this Japanese fixed-power 6X scope which, without mounting rings, weighs 9.8 oz.][concept-2018-07-27]
+</div>
 *2018-07-27 — Weaver K6 scope (paper model)*
 
-![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet.][2018-07-31]
+<div class="gallery" markdown="1">
+![][progress-2018-07-31]
+![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet.][concept-2018-07-31]
+</div>
 *2018-07-31 — Incognito Arms buttstock*
 
-![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][2018-11-14]
+<div class="gallery" markdown="1">
+![][progress-2018-08-01]
+![][progress-2018-11-14]
+![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs. The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][concept-2018-11-14]
+</div>
 *2018-11-14 — E-Lander 17-round magazine (steel) & Ergo Swift Grip (paper)*
+
+<div class="gallery" markdown="1">
+![][progress-2018-11-17]
+![][progress-2018-12-25T09:53]
+![][progress-2018-12-25T09:54]
+![][progress-2018-12-25T09:55]
+![][progress-2018-12-25T09:56]
+![][progress-2018-12-25T11:07]
+![][progress-2018-12-25T11:14]
+![][progress-2018-12-25T11:19:19]
+![][progress-2018-12-25T11:19:22]
+![][progress-2018-12-25T11:26]
+![][progress-2018-12-25T13]
+*2018-12-25*
+</div>
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
+[concept-2018-07-05]:           ../images/rc1-concept-2018-07-05.jpg
+[concept-2018-07-27]:           ../images/rc1-concept-2018-07-27.jpg
+[concept-2018-07-31]:           ../images/rc1-concept-2018-07-31.jpg
+[concept-2018-08-02]:           ../images/rc1-concept-2018-08-02.jpg
+[concept-2018-11-14]:           ../images/rc1-concept-2018-11-14.jpg
+[progress-2018-06-21]:          ../images/rc1-progress-2018-06-21.jpg
+[progress-2018-06-22]:          ../images/rc1-progress-2018-06-22.jpg
+[progress-2018-07-31]:          ../images/rc1-progress-2018-07-31.jpg
+[progress-2018-08-01]:          ../images/rc1-progress-2018-08-01.jpg
+[progress-2018-11-14]:          ../images/rc1-progress-2018-11-14.jpg
+[progress-2018-11-17]:          ../images/rc1-progress-2018-11-17.jpg
+[progress-2018-12-25T09:53]:    ../images/rc1-progress-2018-12-25T09:53.jpg
+[progress-2018-12-25T09:54]:    ../images/rc1-progress-2018-12-25T09:54.jpg
+[progress-2018-12-25T09:55]:    ../images/rc1-progress-2018-12-25T09:55.jpg
+[progress-2018-12-25T09:56]:    ../images/rc1-progress-2018-12-25T09:56.jpg
+[progress-2018-12-25T11:07]:    ../images/rc1-progress-2018-12-25T11:07.jpg
+[progress-2018-12-25T11:14]:    ../images/rc1-progress-2018-12-25T11:14.jpg
+[progress-2018-12-25T11:19:19]: ../images/rc1-progress-2018-12-25T11:19:19.jpg
+[progress-2018-12-25T11:19:22]: ../images/rc1-progress-2018-12-25T11:19:22.jpg
+[progress-2018-12-25T11:26]:    ../images/rc1-progress-2018-12-25T11:26.jpg
+[progress-2018-12-25T13]:       ../images/rc1-progress-2018-12-25T13.jpg
+
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgesshooting/grendelballistic.html
 [gridscout]:    /
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
-[2018-07-05]:   ../images/rc1-concept-2018-07-05.jpg
-[2018-07-27]:   ../images/rc1-concept-2018-07-27.jpg
-[2018-07-31]:   ../images/rc1-concept-2018-07-31.jpg
-[2018-08-02]:   ../images/rc1-concept-2018-08-02.jpg
-[2018-11-14]:   ../images/rc1-concept-2018-11-14.jpg
