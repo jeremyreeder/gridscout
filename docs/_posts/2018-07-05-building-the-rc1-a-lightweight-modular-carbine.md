@@ -124,17 +124,15 @@ length of about 32 inches.
 *2018-11-14 — E-Lander 17-round magazine (steel) & Ergo Swift Grip (paper)*
 
 <div class="gallery" markdown="1">
-![][progress-2018-11-17]
 ![][progress-2018-12-25T09:53]
-![][progress-2018-12-25T09:54]
 ![][progress-2018-12-25T09:55]
 ![][progress-2018-12-25T09:56]
 ![][progress-2018-12-25T11:07]
 ![][progress-2018-12-25T11:14]
 ![][progress-2018-12-25T11:19:19]
 ![][progress-2018-12-25T11:19:22]
-![][progress-2018-12-25T11:26]
 ![][progress-2018-12-25T13]
+![][concept-2018-12-25]
 *2018-12-25*
 </div>
 
@@ -148,21 +146,19 @@ future post. I'll provide a link here to make it easy on you.
 [concept-2018-07-31]:           ../images/rc1-concept-2018-07-31.jpg
 [concept-2018-08-02]:           ../images/rc1-concept-2018-08-02.jpg
 [concept-2018-11-14]:           ../images/rc1-concept-2018-11-14.jpg
+[concept-2018-12-25]:           ../images/rc1-concept-2018-12-25.jpg
 [progress-2018-06-21]:          ../images/rc1-progress-2018-06-21.jpg
 [progress-2018-06-22]:          ../images/rc1-progress-2018-06-22.jpg
 [progress-2018-07-31]:          ../images/rc1-progress-2018-07-31.jpg
 [progress-2018-08-01]:          ../images/rc1-progress-2018-08-01.jpg
 [progress-2018-11-14]:          ../images/rc1-progress-2018-11-14.jpg
-[progress-2018-11-17]:          ../images/rc1-progress-2018-11-17.jpg
 [progress-2018-12-25T09:53]:    ../images/rc1-progress-2018-12-25T09:53.jpg
-[progress-2018-12-25T09:54]:    ../images/rc1-progress-2018-12-25T09:54.jpg
 [progress-2018-12-25T09:55]:    ../images/rc1-progress-2018-12-25T09:55.jpg
 [progress-2018-12-25T09:56]:    ../images/rc1-progress-2018-12-25T09:56.jpg
 [progress-2018-12-25T11:07]:    ../images/rc1-progress-2018-12-25T11:07.jpg
 [progress-2018-12-25T11:14]:    ../images/rc1-progress-2018-12-25T11:14.jpg
 [progress-2018-12-25T11:19:19]: ../images/rc1-progress-2018-12-25T11:19:19.jpg
 [progress-2018-12-25T11:19:22]: ../images/rc1-progress-2018-12-25T11:19:22.jpg
-[progress-2018-12-25T11:26]:    ../images/rc1-progress-2018-12-25T11:26.jpg
 [progress-2018-12-25T13]:       ../images/rc1-progress-2018-12-25T13.jpg
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgesshooting/grendelballistic.html
