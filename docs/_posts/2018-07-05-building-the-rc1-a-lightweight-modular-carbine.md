@@ -105,7 +105,7 @@ length of about 32 inches.
 </div>
 
 ![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as the Weaver K6 (9.8 oz + rings). As the other paper-doll accessories show, I plan to use the 14° PDW grip by Tactical Link™, an E-Lander™ 17-round steel magazine, an Alexander™ Incursion barrel, and a very short muzzle brake.][concept-2018-07-31]
-*2018-07 — Carbon buttstock; paper mockup*
+*2018-07 — Buttstock & paper mockup*
 
 <div class="gallery" markdown="1">
 ![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
