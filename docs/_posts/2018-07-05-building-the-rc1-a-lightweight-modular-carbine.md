@@ -105,18 +105,16 @@ length of about 32 inches.
 </div>
 
 ![This carbon-fiber buttstock, produced within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as this Japanese 6X model which, without mounting rings, weighs 9.8 oz.][concept-2018-07-31]
-*2018-07 — Incognito Arms buttstock; Weaver K6 scope (paper model)*
+*2018-07 — Incognito Arms buttstock; paper-doll mockup*
 
 <div class="gallery" markdown="1">
 ![This 5.9-oz Israeli magazine is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips. Up until this point, the magazine in photographs has been a paper model, but the real magazines finally made it through customs.][progress-2018-11-14]
-![The grip is still paper but now represents a 13° Ergo Swift Grip. Most importantly, this grip lacks the backstrap of the Tactical Link PDW grip pictured previously, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][progress-2018-08-01]
-![][concept-2018-11-14]
-*2018-11-14 — E-Lander 17-round magazine (steel) & Ergo Swift Grip (paper)*
+*2018-11-14 — E-Lander 17-round steel magazine*
 </div>
 
 <div class="gallery" markdown="1">
 ![The 6.5 Grendel Incursion barrel from Alexander Arms.][progress-2018-12-25T09:56]
-![Swift Grip installed.][progress-2018-12-25T11:07]
+![The 13° Ergo Swift Grip. Unlike the originally planned Tactical Link™ 14° PDW grip, this grip lacks the backstrap, putting the palm higher for better recoil control and farther forward to make all all finger controls easier to reach.][progress-2018-12-25T11:07]
 ![Incursion barrel and TacStar™ handguard installed.][progress-2018-12-25T11:19]
 ![][concept-2018-12-25]
 *2018-12-25*
@@ -134,7 +132,6 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2018-06-21]:       ../images/rc1-progress-2018-06-21.jpg
 [progress-2018-06-22]:       ../images/rc1-progress-2018-06-22.jpg
 [progress-2018-07-31]:       ../images/rc1-progress-2018-07-31.jpg
-[progress-2018-08-01]:       ../images/rc1-progress-2018-08-01.jpg
 [progress-2018-11-14]:       ../images/rc1-progress-2018-11-14.jpg
 [progress-2018-12-25T09:56]: ../images/rc1-progress-2018-12-25T09:56.jpg
 [progress-2018-12-25T11:07]: ../images/rc1-progress-2018-12-25T11:07.jpg
