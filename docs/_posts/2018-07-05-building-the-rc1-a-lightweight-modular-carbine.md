@@ -122,11 +122,11 @@ length of about 32 inches.
 </div>
 
 <div class="gallery" markdown="1">
-![][progress-2018-12-25T09:53]
-![][progress-2018-12-25T09:55]
-![][progress-2018-12-25T09:56]
-![][progress-2018-12-25T11:07]
-![][progress-2018-12-25T11:19]
+![Aero Precision™ mil-spec barrel nut.][progress-2018-12-25T09:53]
+![The Ergo Swift Grip.][progress-2018-12-25T09:55]
+![The 6.5 Grendel Incursion barrel from Alexander Arms.][progress-2018-12-25T09:56]
+![Swift Grip installed.][progress-2018-12-25T11:07]
+![Incursion barrel and TacStar™ handguard installed.][progress-2018-12-25T11:19]
 ![][concept-2018-12-25]
 *2018-12-25*
 </div>
