@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gridscout.net
+Token: 8bc28586765b4b66519348c1a01abf93f5e556ed72eb95f903bad0e263b3aace
