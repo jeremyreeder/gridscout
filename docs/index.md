@@ -131,7 +131,7 @@ terms of the [MIT License][mit-license].
 
 
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
-[battalion]:        https://www.facebook.com/adacountylightfootmilitia/
+[battalion]:        https://adacountylightfoot.github.io
 [blog]:             blog/
 [duralar]:          https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
