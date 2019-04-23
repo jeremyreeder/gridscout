@@ -93,12 +93,12 @@ keep his sights steady on the target.
 ### Sights
 The RC1 will be equipped with two sighting systems:
 - A lightweight fixed-power riflescope, for 100- to 500-yard engagements
-- Offset iron sights, optimized for quick target acquisition within 100 yards
+- Simple offset iron sights for quick target acquisition within 100 yards
 
 ## Progress
 Progress on this project is as follows. Initially, a few paper parts stand in
 for some of the major parts that I have not yet acquired. With a scope and a
-full magazine, I anticipate a total weight of about 6.8 pounds, and a total
+full magazine, I anticipate a total weight of about 6 lb 13 oz, and a total
 length of about 32 inches.
 
 <div class="gallery" markdown="1">
@@ -115,7 +115,7 @@ length of about 32 inches.
 *2018-11 — 17-round steel magazine*
 </div>
 
-![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil control and moving it forward a little to make finger controls easier to reach. The Alexander™ Incursion melonited chromoly barrel (1 lb, 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb, 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
+![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil management and extending the index finger forward toward the magazine release that so many people otherwise need to enlarge for ease of reach. The Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
 *2018-12 — Grip & barrel*
 
 ## Performance
