@@ -118,16 +118,25 @@ length of about 32 inches.
 ![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil management and extending the index finger forward toward the magazine release that so many people otherwise need to enlarge for ease of reach. The Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
 *2018-12 — Grip & barrel*
 
+<div class="gallery" markdown="1">
+![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway.][progress-2019-04-21T09]
+![As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
+*2019-04 — Charging handle*
+</div>
+
+</div>
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
-[concept-2018-07-31]:  ../images/rc1-concept-2018-07-31.jpg
-[progress-2018-06-21]: ../images/rc1-progress-2018-06-21.jpg
-[progress-2018-06-22]: ../images/rc1-progress-2018-06-22.jpg
-[progress-2018-11-14]: ../images/rc1-progress-2018-11-14.jpg
-[progress-2018-12-25]: ../images/rc1-progress-2018-12-25.jpg
+[concept-2018-07-31]:     ../images/rc1-concept-2018-07-31.jpg
+[progress-2018-06-21]:    ../images/rc1-progress-2018-06-21.jpg
+[progress-2018-06-22]:    ../images/rc1-progress-2018-06-22.jpg
+[progress-2018-11-14]:    ../images/rc1-progress-2018-11-14.jpg
+[progress-2018-12-25]:    ../images/rc1-progress-2018-12-25.jpg
+[progress-2019-04-21T09]: ../images/rc1-progress-2019-04-21T09.jpg
+[progress-2019-04-21T10]: ../images/rc1-progress-2019-04-21T10.jpg
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    /
