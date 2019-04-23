@@ -30,8 +30,9 @@ aerial-view feature.
 *Update: [I replaced the aerial viewer.][update]*
 
 
+[gmap4-notice]: {{ '/images/gmap4-discontinued.png' | prepend: site.url }}
+[gmap4-rip]:    {{ '/images/gmap4-tombstone.jpg' | prepend: site.url }}
+
 [gmap4]:        https://mappingsupport.com/p/gmap4.php
-[gmap4-notice]: ../images/gmap4-discontinued.png
-[gmap4-rip]:    ../images/gmap4-tombstone.jpg
 [gridscout]:    /
 [update]:       2018-11-17-aerial-views-reenabled

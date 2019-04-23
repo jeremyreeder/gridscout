@@ -124,7 +124,6 @@ length of about 32 inches.
 *2019-04 — Charging handle*
 </div>
 
-</div>
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
