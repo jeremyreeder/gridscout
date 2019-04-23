@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Google put the kibosh on Gmap4! :O
+title: Google killed Gmap4! :O
 author: Jeremy Reeder
 date: 2018-08-30
-permalink: /blog/2018-08-30-google-put-the-kibosh-on-gmap4
+redirect_from: /blog/2018-08-30-google-put-the-kibosh-on-gmap4
 tags: google map gmap4
 ---
 

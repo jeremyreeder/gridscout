@@ -3,7 +3,7 @@ layout: post
 title: Aerial views reënabled!
 author: Jeremy Reeder
 date: 2018-11-17
-permalink: /blog/2018-11-17-aerial-views-reenabled
+redirect_from: /blog/2018-11-17-aerial-views-reenabled
 tags: google map gmap4
 ---
 
