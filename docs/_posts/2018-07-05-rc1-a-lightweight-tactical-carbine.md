@@ -125,10 +125,11 @@ length of about 32 inches.
 </div>
 
 <div class="gallery" markdown="1">
-![I made this oversized trigger guard with a Prusa 3D printer, model i3-MK2S, using carbon-fiber polylactide filament. With 0.04" walls and 5% infill, it weighs in at 0.14 oz. It's based on a model by Gregory Spicer.][progress-2019-04-29T19]
+![I made this oversized trigger guard with a Prusa 3D printer, model i3-MK2S, using carbon-fiber polylactide filament. With 0.04" walls and 5% infill, it weighs in at 0.14 oz.][progress-2019-04-29T19]
 ![This trigger guard aligns well with the receiver and fits snugly into it. It provides sufficient room for a gloved finger as is, so it does not require or support swinging it out of the way for gloves as the original AR15 trigger guard does.][progress-2019-04-29T17]
-*2019-04-29 — Trigger guard, based on [Gregory Spicer's model][guard-model]*
+*2019-04-29 — Trigger guard*
 </div>
+I based this 3D-printed trigger guard on a [model by Gregory Spicer][guard-model].
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
