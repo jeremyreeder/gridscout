@@ -129,7 +129,9 @@ length of about 32 inches.
 ![This trigger guard aligns well with the receiver and fits snugly into it. It provides sufficient room for a gloved finger as is, so it does not require or support swinging it out of the way for gloves as the original AR15 trigger guard does.][progress-2019-04-29T17]
 *2019-04-29 — Trigger guard*
 </div>
-I based this 3D-printed trigger guard on a [model by Gregory Spicer][guard-model].
+
+This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-model].
+{:.tangent}
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
