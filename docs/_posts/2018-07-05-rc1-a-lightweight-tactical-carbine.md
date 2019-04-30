@@ -121,7 +121,14 @@ length of about 32 inches.
 <div class="gallery" markdown="1">
 ![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway.][progress-2019-04-21T09]
 ![As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
-*2019-04 — Charging handle*
+*2019-04-21 — Charging handle*
+</div>
+
+<div class="gallery" markdown="1">
+![][progress-2019-04-19T17]
+![I made this oversized trigger guard with a Prusa 3D printer, model i3-MK2S, using carbon-fiber polylactide filament. With 0.04" walls and 5% infill, it weighs in at 0.14 oz. It's based on a model by Gregory Spicer.][progress-2019-04-29T17]
+![This trigger guard aligns well with the receiver and fits snugly into it. It provides sufficient room for a gloved finger as is, so it does not require or support swinging it out of the way for gloves as the original AR15 trigger guard does.][progress-2019-04-29T19]
+*2019-04-29 — Trigger guard, based on a [model by Gregory Spicer][guard-model]*
 </div>
 
 ## Performance
@@ -136,9 +143,12 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2018-12-25]:    {{ '/images/rc1-progress-2018-12-25.jpg' | prepend: site.url }}
 [progress-2019-04-21T09]: {{ '/images/rc1-progress-2019-04-21T09.jpg' | prepend: site.url }}
 [progress-2019-04-21T10]: {{ '/images/rc1-progress-2019-04-21T10.jpg' | prepend: site.url }}
+[progress-2019-04-29T17]: {{ '/images/rc1-progress-2019-04-29T17.jpg' | prepend: site.url }}
+[progress-2019-04-29T19]: {{ '/images/rc1-progress-2019-04-29T19.jpg' | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    /
+[guard-model]:  https://www.thingiverse.com/thing:2479358
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
