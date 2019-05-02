@@ -124,6 +124,9 @@ length of about 32 inches.
 *2019-04 — Charging handle*
 </div>
 
+![For visualization, I mounted some cheesy airsoft-quality offset sights for now, and a scope borrowed from another rifle.][progress-2019-05-01]
+*2019-05 — Mockup*
+
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
@@ -136,6 +139,7 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2018-12-25]:    {{ '/images/rc1-progress-2018-12-25.jpg' | prepend: site.url }}
 [progress-2019-04-21T09]: {{ '/images/rc1-progress-2019-04-21T09.jpg' | prepend: site.url }}
 [progress-2019-04-21T10]: {{ '/images/rc1-progress-2019-04-21T10.jpg' | prepend: site.url }}
+[progress-2019-05-01]:    {{ '/images/rc1-progress-2019-05-01.jpg' | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    /
