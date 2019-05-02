@@ -124,14 +124,14 @@ length of about 32 inches.
 *2019-04-21 — Charging handle*
 </div>
 
-This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-model].
-{:.tangent}
-
 <div class="gallery" markdown="1">
 ![I made this oversized trigger guard with a Prusa 3D printer, model i3-MK2S, using carbon-fiber polylactide filament. With 0.04" walls and 5% infill, it weighs in at 0.14 oz.][progress-2019-04-29T19]
 ![This trigger guard aligns well with the receiver and fits snugly into it. It provides sufficient room for a gloved finger as is, so it does not require or support swinging it out of the way for gloves as the original AR15 trigger guard does.][progress-2019-04-29T17]
 *2019-04-29 — Trigger guard*
 </div>
+
+This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-model].
+{:.tangent}
 
 ![For visualization, I mounted some cheesy airsoft-quality offset sights and a scope borrowed from another rifle.][progress-2019-05-01]
 *2019-05 — Mockup*
