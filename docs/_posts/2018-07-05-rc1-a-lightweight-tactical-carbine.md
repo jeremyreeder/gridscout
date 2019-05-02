@@ -133,21 +133,24 @@ This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-mode
 *2019-04-29 — Trigger guard*
 </div>
 
+![For visualization, I mounted some cheesy airsoft-quality offset sights and a scope borrowed from another rifle.][progress-2019-05-01]
+*2019-05 — Mockup*
+
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
 
 
-[concept-2018-07-31]:     {{ '/images/rc1-concept-2018-07-31.jpg' | prepend: site.url }}
-[progress-2018-06-21]:    {{ '/images/rc1-progress-2018-06-21.jpg' | prepend: site.url }}
-[progress-2018-06-22]:    {{ '/images/rc1-progress-2018-06-22.jpg' | prepend: site.url }}
-[progress-2018-11-14]:    {{ '/images/rc1-progress-2018-11-14.jpg' | prepend: site.url }}
-[progress-2018-12-25]:    {{ '/images/rc1-progress-2018-12-25.jpg' | prepend: site.url }}
+[concept-2018-07-31]:     {{ '/images/rc1-concept-2018-07-31.jpg'     | prepend: site.url }}
+[progress-2018-06-21]:    {{ '/images/rc1-progress-2018-06-21.jpg'    | prepend: site.url }}
+[progress-2018-06-22]:    {{ '/images/rc1-progress-2018-06-22.jpg'    | prepend: site.url }}
+[progress-2018-11-14]:    {{ '/images/rc1-progress-2018-11-14.jpg'    | prepend: site.url }}
+[progress-2018-12-25]:    {{ '/images/rc1-progress-2018-12-25.jpg'    | prepend: site.url }}
 [progress-2019-04-21T09]: {{ '/images/rc1-progress-2019-04-21T09.jpg' | prepend: site.url }}
 [progress-2019-04-21T10]: {{ '/images/rc1-progress-2019-04-21T10.jpg' | prepend: site.url }}
 [progress-2019-04-29T17]: {{ '/images/rc1-progress-2019-04-29T17.jpg' | prepend: site.url }}
 [progress-2019-04-29T19]: {{ '/images/rc1-progress-2019-04-29T19.jpg' | prepend: site.url }}
-[progress-2019-05-01]:    {{ '/images/rc1-progress-2019-05-01.jpg' | prepend: site.url }}
+[progress-2019-05-01]:    {{ '/images/rc1-progress-2019-05-01.jpg'    | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    /
