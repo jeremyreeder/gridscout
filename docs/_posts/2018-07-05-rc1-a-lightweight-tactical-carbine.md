@@ -140,10 +140,10 @@ In contrast to this variable-power scope borrowed from a G3, the Weaver K6 that 
 {:.tangent}
 
 <div class="gallery" markdown="1">
-![][progress-2019-06-16T14:57]
+![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
 ![][progress-2019-06-16T15:00:15]
 ![][progress-2019-06-16T15:00:53]
-*2019-06 — Endplate with QD & ratcheting nut*
+*2019-06 — Endplate with QD & nut*
 </div>
 
 ## Performance
