@@ -138,7 +138,6 @@ This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-mode
 
 <div class="gallery" markdown="1">
 ![][progress-2019-06-16T14:57]
-![][progress-2019-06-16T14:59]
 ![][progress-2019-06-16T15:00:15]
 ![][progress-2019-06-16T15:00:53]
 *2019-06 — Endplate with QD & ratcheting nut*
@@ -160,7 +159,6 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2019-05-02T09]:       {{ '/images/rc1-progress-2019-05-02T09.jpg'       | prepend: site.url }}
 [progress-2019-05-02T19]:       {{ '/images/rc1-progress-2019-05-02T19.jpg'       | prepend: site.url }}
 [progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg'    | prepend: site.url }}
-[progress-2019-06-16T14:59]:    {{ '/images/rc1-progress-2019-06-16T14:59.jpg'    | prepend: site.url }}
 [progress-2019-06-16T15:00:15]: {{ '/images/rc1-progress-2019-06-16T15:00:15.jpg' | prepend: site.url }}
 [progress-2019-06-16T15:00:53]: {{ '/images/rc1-progress-2019-06-16T15:00:53.jpg' | prepend: site.url }}
 
