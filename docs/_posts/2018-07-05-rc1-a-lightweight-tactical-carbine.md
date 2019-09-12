@@ -146,6 +146,9 @@ In contrast to this variable-power scope borrowed from a G3, the Weaver K6 that 
 *2019-06 — Endplate with QD & nut*
 </div>
 
+![For now, I have a simple thread protector in lieu of a muzzle brake. I 3D-printed it out of carbon-fiber copolyester.][progress-2019-09-11]
+*2019-09 — Thread protector*
+
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
 future post. I'll provide a link here to make it easy on you.
@@ -164,6 +167,7 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg'    | prepend: site.url }}
 [progress-2019-06-16T15:00:15]: {{ '/images/rc1-progress-2019-06-16T15:00:15.jpg' | prepend: site.url }}
 [progress-2019-06-16T15:00:53]: {{ '/images/rc1-progress-2019-06-16T15:00:53.jpg' | prepend: site.url }}
+[progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'          | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    /
