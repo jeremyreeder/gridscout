@@ -146,8 +146,10 @@ In contrast to this variable-power scope borrowed from a G3, the Weaver K6 that 
 *2019-06 — Endplate with QD & nut*
 </div>
 
+<div class="gallery" markdown="1">
 ![For now, I have a simple thread protector in lieu of a muzzle brake. I 3D-printed it out of carbon-fiber copolyester.][progress-2019-09-11]
 *2019-09 — Thread protector*
+</div>
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
