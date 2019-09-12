@@ -136,7 +136,10 @@ This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-mode
 ![For visualization, I mounted some cheesy airsoft-quality offset sights and a scope borrowed from another rifle.][progress-2019-05-01]
 *2019-05 — Mockup*
 
-In contrast to this variable-power scope borrowed from a G3, the Weaver K6 that I intend to use will be lighter, a bit longer, and of fixed 6X power.
+In contrast to this variable-power scope borrowed from a G3, the Weaver K6 that
+I intend to use will be lighter, a bit longer, and of fixed 6X power. Still,
+it's more satisfying to see the RC1 with a real scope on it than with a paper
+one.
 {:.tangent}
 
 <div class="gallery" markdown="1">
