@@ -43,7 +43,7 @@ until we reach our destination.
 The [zombies][zombie-preparedness] don't stand a chance against such cunning.
 
 
-[primary-route]:   {{ '/images/primary-route-from-sonna-to-walters-ferry'   | prepend: site.url }}
-[secondary-route]: {{ '/images/secondary-route-from-sonna-to-walters-ferry' | prepend: site.url }}
+[primary-route]:   {{ '/images/primary-route-from-sonna-to-walters-ferry.png'   | prepend: site.url }}
+[secondary-route]: {{ '/images/secondary-route-from-sonna-to-walters-ferry.png' | prepend: site.url }}
 
 [zombie-preparedness]: https://www.cdc.gov/cpr/zombie/index.htm
