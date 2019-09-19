@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Your Role in Community Defense
-permalink: /volunteering
+permalink: /contributing
+redirect_from: /volunteering
 ---
 
 <link rel="shortcut icon" href="favicon.ico"/>
@@ -43,4 +44,4 @@ the stuff on [Jeremy's wish list][wish-list].
 
 
 [gridscout]: /
-[wish-list]: https://smile.amazon.com/registry/wishlist/3FE63XKZVCDK
+[wish-list]: https://smile.amazon.com/registry/wishlist/GQTBSS6VVA9A

@@ -92,7 +92,7 @@ You may wish to protect your own home and community. I suggest that you work
 together with others around you who share this goal. Such a group may be called
 an emergency response team, an emergency service, a posse, or a militia. If
 you're in search of ways to contribute to the defense of your own community,
-I've got some [ideas][volunteering].
+I've got some [ideas][contributing].
 
 I created GridScout™ to help me in my role as a community defense analyst for
 [my local battalion][battalion] of Idaho's unorganized militia. I share it to
@@ -134,6 +134,7 @@ terms of the [MIT License][mit-license].
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
 [battalion]:        https://adacountylightfoot.github.io
 [blog]:             blog/
+[contributing]:     contributing
 [duralar]:          https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
 [freepik]:          https://www.freepik.com
@@ -151,4 +152,3 @@ terms of the [MIT License][mit-license].
 [safehouse]:        https://www.thesafehouse.info/
 [shtf-intel]:       https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:              https://en.wikipedia.org/wiki/Tor_(anonymity_network)
-[volunteering]:     volunteering
