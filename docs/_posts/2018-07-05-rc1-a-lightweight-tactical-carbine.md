@@ -78,8 +78,8 @@ reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
 The barrel of the RC1 will be of the standard 16" carbine length, just long
 enough to avoid the red tape associated with a short-barreled rifle. This
 length also produces high enough muzzle velocity and bullet energy for
-practical medium-range use. The muzzle brake will be a short, single-chamber
-model to minimize the added weight and length.
+practical medium-range use. If I use a muzzle brake, it will be a short,
+single-chamber model to minimize the added weight and length.
 
 ### Buttstock
 The RC1 will have a very short, fixed-length buttstock to shift its mass closer
