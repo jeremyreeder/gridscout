@@ -6,10 +6,12 @@ date: 2019-09-26
 tags: weapon tyranny
 ---
 
+<div class="tangent" markdown="1">
 "A well-regulated militia being necessary to the security of a free state, the
 right of the people to keep and bear arms shall not be infringed."
+
 — Constitution of the United States, 2nd Amendment
-{:.tangent}
+</div>
 
 We the People are responsible for our own security and for that of our
 communities. That responsibility cannot reasonably be delegated to any
