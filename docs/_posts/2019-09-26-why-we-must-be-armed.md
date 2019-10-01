@@ -13,9 +13,9 @@ right of the people to keep and bear arms shall not be infringed."
 — Constitution of the United States, 2nd Amendment
 </div>
 
-We the People are responsible for our own security and for that of our
-communities. That responsibility cannot reasonably be delegated to any
-government. I have two reasons for this position:
+We the People are responsible for our own security. That responsibility cannot
+reasonably be delegated to any government. I have two reasons for this
+position:
 
 1. *It is infeasible for a government to provide adequate security to respond
 to immediate threats against each individual.* The best it can do is to
