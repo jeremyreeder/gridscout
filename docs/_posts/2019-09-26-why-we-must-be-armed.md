@@ -24,12 +24,12 @@ limitation. Forgive me if I'm uncomfortable with the notion of allowing my
 family and others around me to be deemed expendable when I myself am capable of
 providing security.
 
-2. **It is highly dangerous to the People when their government is allowed to
-entertain notions of superiority over them, of a monopoly on the right to
-certain property, and of the right to forcibly establish such a monopoly.** Such
-an abolishment of freedom, applied to weapons, will inevitably lead to more
-massacres and other atrocities. Whether these future attacks are perpetrated by
-private entities or by the government itself, they pose a serious threat.
+2. **It is highly dangerous to allow a government to entertain notions of
+superiority over its People, of a monopoly on the right to certain property,
+and of the right to forcibly establish such a monopoly.** Such an abolishment
+of freedom, applied to weapons, will inevitably lead to more massacres and
+other atrocities. Whether these future attacks are perpetrated by private
+entities or by the government itself, they pose a serious threat.
 
 So let's keep our security. Let's remain free. Let's not subject ourselves to
 violent attacks or to unjust rule which puts are lives in jeopardy. Let's not
