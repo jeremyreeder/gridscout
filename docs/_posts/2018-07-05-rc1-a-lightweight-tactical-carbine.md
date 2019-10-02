@@ -10,7 +10,7 @@ redirect_from:
 tags: weapon rc1 carbine
 ---
 
-The _raison d'être_ of [GridScout™][gridscout] map-search tool is community
+The _raison d'être_ of the [GridScout™][gridscout] map-search tool is community
 defense. For this same purpose, I'm building a new firearm. I call it the RC1.
 Why RC1? Because it's easier to explain that RC1 stands for Reeder Carbine #1
 than to explain that PK6 (my original name for the RC1 concept) stands for
