@@ -14,7 +14,8 @@ planned a suitable route. This is how I do it.
 In addition to the primary destination, it's important to have an alternate
 destination. Preferably in the opposite direction, as this maximizes the
 chance that the alternate destination remains viable when the primary becomes
-unreachable.
+unreachable. To locate each destination on an MGRS map, consider using
+[GridScout™][gridscout].
 
 ### Routes
 
@@ -42,6 +43,8 @@ until we reach our destination.
 
 The [zombies][zombie-preparedness] don't stand a chance against such cunning.
 
+
+[gridscout]: {{ site.url }}
 
 [primary-route]:   {{ '/images/primary-route-from-sonna-to-walters-ferry.png'   | prepend: site.url }}
 [secondary-route]: {{ '/images/secondary-route-from-sonna-to-walters-ferry.png' | prepend: site.url }}
