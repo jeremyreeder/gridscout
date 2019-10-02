@@ -10,7 +10,7 @@ redirect_from:
 tags: weapon rc1 carbine
 ---
 
-[GridScout][gridscout]'s _raison d'être_ is community-defense planning. For
+[GridScout™][gridscout] was created for community-defense planning. For
 this same purpose, I'm building a new firearm. I call it the RC1. Why RC1?
 Because it's easier to explain that RC1 stands for Reeder Carbine #1 than to
 explain that PK6 (my original name for the RC1 concept) stands for _Piŝta
