@@ -20,7 +20,7 @@ unreachable. To locate each destination on an MGRS map, consider using
 ### Routes
 
 While it's helpful to know the fastest route, the route most useful here is
-actually the one that is fastest *during peaks of traffic congestion*. Think
+actually the one that is fastest _during peaks of traffic congestion_. Think
 rush hour, with a few bad accidents.
 
 In addition to your primary route to each destination, it's important to have
