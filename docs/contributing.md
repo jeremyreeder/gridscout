@@ -39,9 +39,11 @@ I'm sure you can find some good way to help. Whatever your endeavor, you'd do
 well to have good maps and useful overlays. Let [GridScout™][gridscout] help.
 
 If you'd like to encourage the developers of GridScout™ and contribute to the
-success of their endeavors, then there's no better way than to buy them some of
-the stuff on [Jeremy's wish list][wish-list].
+success of their endeavors, here are a couple of options:
+- Buy stuff on GridScout's [Amazon wish list][wish-list]
+- Donate to GridScout's [Bitcoin wallet][btc-wallet]
 
 
 [gridscout]: /
-[wish-list]: https://smile.amazon.com/registry/wishlist/GQTBSS6VVA9A
+[btc-wallet]: javascript:alert("1AuGqsw2WBF5qssWQuW71KcLDq6PJ1gJud")
+[wish-list]:  https://smile.amazon.com/registry/wishlist/GQTBSS6VVA9A
