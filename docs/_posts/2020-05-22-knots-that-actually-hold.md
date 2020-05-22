@@ -18,7 +18,7 @@ obvious. Here's a list of knots that'll actually hold.
 - **Reef knot.** Use in place of double-slipped reef knot when you can do
   without a pretty bow.
 - **Double-throw reef knot.** Use in place of reef knot that won’t remain
-  pressed against a convex surface.
+  pressed against a convex surface, or when using stretchy rope.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
   semi-permanent bow.
 - **Double-slipped double-throw reef knot.** Use in place of double-throw
