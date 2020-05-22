@@ -13,7 +13,8 @@ relative slipperiness makes the insecurity of certain knots all the more
 obvious. Here's a list of knots that'll actually hold.
 
 ### Bindings
-- **Double constrictor knot.** Use in place of clove hitch or right-angle knot.
+- **Double constrictor knot.** The most manly of bindings. Use in place of
+  clove hitch or right-angle knot.
 - **Slipped double constrictor knot.** Use in place of temporary clove hitch.
 - **Reef knot.** Use in place of double-slipped reef knot when you can do
   without a pretty bow.
