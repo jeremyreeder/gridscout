@@ -29,10 +29,9 @@ points on the overlays.
 # What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
 output in a terminal works well. But GridScout™ does integrate with
-[Google Maps][google-maps] to give aerial views in your web browser. From
+[GISsurfer][gis-surfer] to give aerial views in your web browser. From
 there, you can easily access other online resources such as topographic and
-street-level views, courtesy of USGS and Google. Strictly speaking, however,
-these are not part of GridScout™.
+street-map views. Strictly speaking, however, these are not part of GridScout™.
 
 ![Sceenshot of a GridScout™ aerial view of a petroleum
 refinery](images/aerial-screenshot.png)
@@ -140,7 +139,7 @@ terms of the [MIT License][mit-license].
 [freepik]:          https://www.freepik.com
 [flaticon]:         https://www.flaticon.com
 [forward-observer]: https://forwardobserver.com
-[google-maps]:      https://maps.google.com
+[gis-surfer]:       https://gissurfer.com
 [icon-license]:     http://creativecommons.org/licenses/by/3.0
 [jeremy]:           mailto:jeremy@gridscout.net
 [jeremy-key]:       publickey.jeremy@gridscout.net.asc
