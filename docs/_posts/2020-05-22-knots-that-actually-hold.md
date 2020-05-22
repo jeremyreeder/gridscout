@@ -30,6 +30,7 @@ obvious. Here's a list of knots that'll actually hold.
   close to running end, to keep the end from whipping around.
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
   unfinished knot.
+
 [double-constrictor]: https://www.101knots.com/double-constrictor-knot.html
 [overhand-knot]:      https://www.netknots.com/rope_knots/overhand-knot
 [reef-knot]:          https://www.netknots.com/rope_knots/square-knot
@@ -38,6 +39,7 @@ obvious. Here's a list of knots that'll actually hold.
 
 ### Stoppers
 - **[Figure-9 stopper.][figure-9]** Just bulky enough.
+
 [figure-9]: https://en.wikipedia.org/wiki/Figure-of-nine_loop
 
 ### Hitches
@@ -48,6 +50,7 @@ obvious. Here's a list of knots that'll actually hold.
   and through the loop. Pull the end toward the object, enjoying a 3:1 mechanical
   advantage. Lock the end to the standing part with a half-hitch adjacent to the
   loop, then further secure it with an overhand knot.
+
 [truckers-hitch]: https://en.wikipedia.org/wiki/Trucker%27s_hitch
 
 ### Bends
@@ -60,6 +63,7 @@ obvious. Here's a list of knots that'll actually hold.
 tidiness of a rope.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
   butterfly bend, such as when mooring blimps.
+
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
 [vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
@@ -73,6 +77,7 @@ tidiness of a rope.
   to untie after stressing though.
 - **[Alpine butterfly loop.][butterfly-loop]** Use in place of Flemish loop in
   the middle of a rope. Easiest loop to untie after stressing.
+
 [butterfly-loop]: https://www.netknots.com/rope_knots/butterfly-knot
 [flemish-loop]:   https://www.netknots.com/rope_knots/figure-eight
 
