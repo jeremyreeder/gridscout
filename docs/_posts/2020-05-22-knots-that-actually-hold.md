@@ -4,6 +4,7 @@ title: Knots that actually hold
 author: Jeremy Reeder
 date: 2020-05-22
 tags: knot
+redirect_from: /knots
 ---
 
 Some knots in common use for ages have never been all that trustworthy. And
