@@ -70,17 +70,19 @@ tidiness of a rope.
 [zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
 
 ### Loops
-- **Cossack loop.** Use at the end of a rope in place of a bowline loop. More
-  secure and just as easy to untie. Favored by Russians and Eskimos.
-- **Flemish loop.** Use at the end of a rope or in the middle. Fastest fixed
-  loop to tie and, with its figure-eight shape, the easiest to verify. A pain
-  to untie after stressing though.
+- **[Cossack loop.][cossack-loop]** Use at the end of a rope in place of a
+  bowline loop. More secure and just as easy to untie. Favored by Russians and
+Eskimos.
+- **[Flemish loop.][flemish-loop]** Use at the end of a rope or in the middle.
+  Fastest fixed loop to tie and, with its figure-eight shape, the easiest to
+verify. A pain to untie after stressing though.
 - **[Alpine butterfly loop.][butterfly-loop]** Use in place of Flemish loop in
   the middle of a rope. Easiest loop to untie after stressing.
 
 [butterfly-loop]: https://www.netknots.com/rope_knots/butterfly-knot
+[cossack-loop]:   https://en.wikipedia.org/wiki/Cossack_knot
 [flemish-loop]:   https://www.netknots.com/rope_knots/figure-eight
 
 ### Shanks
-- **Alpine butterfly shank.** Use in place of sheepshank, which is the best
-  known but most unreliable of shanks, lest you die.
+- **[Alpine butterfly shank.][butterfly-loop]** Use in place of sheepshank,
+  which is the best known but most unreliable of shanks, lest you die.
