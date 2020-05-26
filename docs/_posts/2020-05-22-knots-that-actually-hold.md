@@ -42,8 +42,8 @@ verify. A pain to untie after stressing though.
 - **[Vice-versa bend.][vice-versa-bend]** Use in place of sheet bend for
   joining stretchy rope.
 - **[Butterfly bend.][butterfly-bend]** Use alpine butterfly in place of
-  sheetbend wherever ease of untying after extreme stress is valued more than the
-  tidiness of a rope.
+  sheetbend wherever ease of untying after extreme stress is valued more than
+  tidiness.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
   butterfly bend, such as when mooring blimps.
 
