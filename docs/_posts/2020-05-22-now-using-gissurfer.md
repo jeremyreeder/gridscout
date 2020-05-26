@@ -7,8 +7,8 @@ tags: google map gissurfer
 ---
 
 Since Google put [Gmap4 out of business][gmap4-rip], we've been lacking an MGRS
-grid on our aerial views. But as of today, GridScout now uses
-[GISsurfer][gis-surfer], making it easier to correlate points on these
+grid on our aerial views. But as of today, the GridScout™ map search tool now
+uses [GISsurfer][gis-surfer], making it easier to correlate points on these
 photographs with those on our paper maps.
 
 
