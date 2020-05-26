@@ -17,6 +17,7 @@ The knots that I've found to be the worst offenders are the sheepshank,
 sheetbend, half hitch, clove hitch, and double-slipped reef knot.
 {:.tangent}
 
+
 ### Loops
 - **[Cossack loop.][cossack-loop]** Use at the end of a rope in place of a
   bowline loop. More secure and just as easy to untie. Favored by Russians and
@@ -31,10 +32,12 @@ verify. A pain to untie after stressing though.
 [cossack-loop]:   https://en.wikipedia.org/wiki/Cossack_knot
 [flemish-loop]:   https://www.netknots.com/rope_knots/figure-eight
 
+
 ### Shanks
 - **[Butterfly shank.][butterfly-loop]** Use alpine butterfly in place of
   sheepshank, which is the best known but most unreliable of shanks, lest you
   die.
+
 
 ### Bends
 - **[Simple Simon under bend.][simple-simon-under]** Use in place of sheetbend
@@ -67,16 +70,23 @@ verify. A pain to untie after stressing though.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
   semi-permanent bow.
 
+In case you're wondering, I fasten my pajama pants with a double-slipped
+double-throw reef knot and my running shoes with a reef knot in two bights.
+{:.tangent}
+
 [double-constrictor]: https://www.101knots.com/double-constrictor-knot.html
 [strangle-knot]:      https://www.netknots.com/rope_knots/strangle-knot
+
 
 ### Hitches
 - **[Double constrictor knot.][double-constrictor]** This binding serves well as
   a simple hitch.
-- **[Trucker’s hitch (fixed-loop variant)][truckers-hitch].** Start with a
-  secure binding. Follow it with a fixed loop. Pass the end around an object
-  and through the loop. Pull the end toward the object, enjoying a 3:1 mechanical
-  advantage. Lock the end to the standing part with a half-hitch adjacent to the
-  loop, then further secure it with an overhand knot.
+- **[Trucker’s hitch (fixed-loop variant, my way)][truckers-hitch].** Start
+  with a secure binding. Follow that with a fixed loop. Pass the end around an
+  object and back through the loop. Pull the end back toward the object,
+  enjoying a 3:1 mechanical advantage. Fasten the end temporarily to the
+  standing part with a half-hitch immediately adjacent to the loop. Then lock
+  it with a secure binding like a strangle knot around the standing part or a
+  double constrictor knot around the object.
 
 [truckers-hitch]: https://en.wikipedia.org/wiki/Trucker%27s_hitch
