@@ -125,8 +125,7 @@ Build an Area Study for Emergencies and Community Security][area-study],
 courtesy of [Forward Observer][forward-observer].
 
 # Blog
-[GridScout™ Blog][blog] is dedicated to the proficient defensive use of MGRS
-maps, GridScout™, and other tools well suited to the goals of GridScout™.
+Subscribe to [GridScout™ Blog][blog] to keep up on this and other manly pursuits.
 
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
