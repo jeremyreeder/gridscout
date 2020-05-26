@@ -80,8 +80,3 @@ verify. A pain to untie after stressing though.
   loop, then further secure it with an overhand knot.
 
 [truckers-hitch]: https://en.wikipedia.org/wiki/Trucker%27s_hitch
-
-### Stoppers
-- **[Figure-9 stopper.][figure-9]** Just bulky enough.
-
-[figure-9]: https://en.wikipedia.org/wiki/Figure-of-nine_loop
