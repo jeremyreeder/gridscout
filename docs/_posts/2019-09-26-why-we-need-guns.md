@@ -4,7 +4,7 @@ title: Why we need guns
 author: Jeremy Reeder
 date: 2019-09-26
 tags: weapon tyranny
-redirect_from: /blog/2019/09/26/why-we-must-be-armed
+redirect_from: /2019/09/26/why-we-must-be-armed
 ---
 
 <div class="tangent" markdown="1">
