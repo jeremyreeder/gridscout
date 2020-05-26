@@ -21,8 +21,7 @@ logo_256x256: /images/favicon-256x256.png
 logo_512x512: /images/favicon-512x512.png
 email: jeremy@gridscout.net
 description: >- # this means to ignore newlines until "baseurl:"
-  A tool for bulk collection of location data, including MGRS coordinates, to
-  be used by intelligence analysts. Finally, MGRS search for Google Maps!
+  Pursuit of proficiency in the manly arts, like maps and knots and stuff.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.gridscout.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

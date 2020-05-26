@@ -4,6 +4,7 @@ title: GridScout™
 permalink: /
 ---
 
+
 GridScout™ is the console-based Google Maps search tool that you didn't know
 you needed. It'll help you make better use of your paper maps. Without it, the
 process of finding and marking places of interest is tedious. Let GridScout™
@@ -12,6 +13,10 @@ apocalypse, or whatever it is that you do.
 
 ![Screenshot of a GridScout™ search for newspaper
 publishers](images/search-screenshot.png)
+
+As you can see, it's a tool for bulk collection of location data, including
+MGRS coordinates, to be used by intelligence analysts. Finally, MGRS search for
+Google Maps!
 
 # Suggested workflow
 1. Order [waterproof paper maps][mytopo] of your areas of interest. Have them
