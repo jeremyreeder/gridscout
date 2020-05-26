@@ -59,7 +59,7 @@ greatly lacking in these qualities. Map vendors such as [MyTopo][mytopo] allow
 you to have your maps printed with a UTM grid, and for the aforementioned
 reasons I suggest that you take them up on that option.
 
-# How do I get GridScout™?
+# How do I get the GridScout™ map search tool?
 It's on [GitHub][github], where you'll find installation instructions. And it's
 free!
 

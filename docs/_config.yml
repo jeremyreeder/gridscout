@@ -24,9 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pursuit of proficiency in the manly arts, like maps and knots and stuff.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.gridscout.net" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
-show_downloads:   false # I link to the downloads within the README on GitHub instead
 
 # Build settings
 markdown: kramdown
