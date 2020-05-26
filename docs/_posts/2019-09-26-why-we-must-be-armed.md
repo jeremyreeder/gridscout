@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Why we must be armed
+title: Why we need guns
 author: Jeremy Reeder
 date: 2019-09-26
 tags: weapon tyranny
+redirect_from: /blog/2019/09/26/why-we-must-be-armed.html
 ---
 
 <div class="tangent" markdown="1">
