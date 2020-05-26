@@ -84,7 +84,7 @@ actual location regardless of the base location that you used for your
 searches. If this is a serious problem for you, then simply locate each search
 result on your MGRS-compatible paper maps.
 
-# Who are you, and why did you create GridScout™?
+# Who are you, and why are you doing this?
 {:#jeremy}
 My name is Jeremy Reeder. Professionally, I'm a network security analyst and a
 part-time [bank-vault engineer][safehouse]. I take an interest in the security
@@ -98,10 +98,11 @@ an emergency response team, an emergency service, a posse, or a militia. If
 you're in search of ways to contribute to the defense of your own community,
 I've got some [ideas][contributing].
 
-I created GridScout™ to help me in my role as a community defense analyst for
-[my local battalion][battalion] of Idaho's unorganized militia. I share it to
-help the people of other communities in the development of their own
-defense intelligence.
+I created the GridScout™ map search tool to help me in my role as a community
+defense analyst for [my local battalion][battalion] of Idaho's unorganized
+militia. I share it to help the people of other communities in the development
+of their own defense intelligence. I write occasionally on this and other manly
+topics as my manliness directs me.
 
 You can reach me at [jeremy@gridscout.net][jeremy]. To encrypt the
 conversation, use [ProtonMail][protonmail] or an OpenPGP-based email client.
