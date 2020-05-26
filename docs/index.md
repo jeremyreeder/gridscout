@@ -76,13 +76,12 @@ actual location unless you're okay with Google knowing it. Truncate your
 coordinates to 10-kilometer precision if you like, or set a base location on
 the other side of town; your search results won't be drastically affected.
 
-Aerial views are accessed through [Google Maps][google-maps]. When you access
+Aerial views are accessed through [GISsurfer][gis-surfer]. When you access
 the aerial view of a location, your web browser will submit that location's
 MGRS coordinate in an encrypted manner. Depending on your network and the
-configuration of your browser, it may be possible for Google to determine your
-actual location regardless of the base location that you used for your
-searches. If this is a serious problem for you, then simply locate each search
-result on your MGRS-compatible paper maps.
+configuration of your browser, it may be possible for GISsurfer to determine
+your actual location regardless of the base location that you used for your
+searches. If this is a serious problem for you, then don't use the aerial view.
 
 # Who are you, and why are you doing this?
 {:#jeremy}
