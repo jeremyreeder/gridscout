@@ -10,43 +10,35 @@ redirect_from:
 tags: weapon rc1 carbine
 ---
 
-[GridScout™][gridscout] was created for community-defense planning. For
-this same purpose, I'm building a new firearm. I call it the RC1. Why RC1?
-Because it's easier to explain that RC1 stands for Reeder Carbine #1 than to
-explain that PK6 (my original name for the RC1 concept) stands for _Piŝta
-Karabeno je 6,5 Grendel_.
+I'm building a new weapon which I call the RC1. Why RC1? Because it's easier to
+explain that RC1 stands for Reeder Carbine #1 than to explain that PK6 (my
+original name for the RC1 concept) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 ## Weapon design
-My intent is to create a weapon that is especially easy to handle in
-close-quarters combat without sacrificing effectiveness at medium range (up to
-500 yards). While many PDWs are very good at close quarters and a typical
-modern carbine is pretty good up to 300 yards, both are severely handicapped
-beyond that range. The PDW's biggest hindrance in this regard is its very short
-barrel, while the carbine is held back primarily by its use of the diminutive
-5.56x45 NATO cartridge. In either case, the energy of the bullet is
-insufficient to remain very effective at my maximum intended distance against
-human targets and the occasional medium-size game animal. (Besides the obvious
-counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
-this weapon.)
+I want a gun that is especially easy to handle in close-quarters combat without
+sacrificing effectiveness at medium range (up to 500 yards). While many PDWs
+are very good at close quarters and a typical modern carbine is pretty good up
+to 300 yards, both are severely handicapped beyond that range. The PDW's
+biggest hindrance in this regard is its very short barrel, while the carbine is
+held back primarily by its use of the diminutive 5.56x45 NATO cartridge. In
+either case, the energy of the bullet is insufficient to remain very effective
+at my maximum intended distance against human targets and the occasional
+medium-size game animal. (Besides the obvious counterterrorism missions, I
+intend to hunt wolves, deer, and wild boar with this puppy.)
 
-As an illustration of the insufficiency of 5.56x45, consider that at 500 yards
-it will have lost 68% of its kinetic energy, reducing it to just 541 ft·lb.
-While there is no _universal_ agreement on how much it takes to do the job
-well, I set my personal requirement at 800 ft·lb per the guidance of [Chuck
-Hawks][hawks]. A 6.5 Grendel cartridge exceeds slightly at 500 yards, giving
-818 ft·lb; whereas the lighter and less streamlined 5.56mm cartridge can comply
-only out to 300 yards. (These calculations are all based on the Wolf™ Military
-Classic cartridges — .223 Remington, 55gr, 0.395 BC, 3241 ft/s MV; and 6.5
-Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV.)
+As an illustration that 5.56x45 won't do, consider that at 500 yards it will
+have lost 68% of its kinetic energy, reducing it to just 541 ft·lb. While
+there's no _universal_ agreement on how much it takes to do the job well, I
+set my requirement at 800 ft·lb based on the guidance of [Chuck Hawks][hawks].
+A 6.5 Grendel cartridge exceeds this slightly at 500 yards, giving 818 ft·lb;
+whereas the lighter and less streamlined 5.56mm cartridge can comply only out
+to 300 yards. (Calculations based on Wolf™ Military Classic cartridges — 6.5
+Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
+0.395 BC, 3241 ft/s MV.)
 {:.tangent}
 
-I think I can more fully achieve my own goals by creating a custom carbine than
-by selecting any of the off-the-shelf offerings that I've already considered.
-So I'm going for it, and upon completion we'll see how it performs.
-
-Until we have those results, I'm just another guy on the Internet who thinks he
-knows everything. ;)
-{:.tangent}
+I'd like to conquer these goals by creating a custom carbine, so I'm going for
+it. When it's finished, we'll see how it performs.
 
 ### Basis
 The RC1 design is based somewhat on the [Alexander™ 6.5 Grendel
