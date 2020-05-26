@@ -34,9 +34,8 @@ verify. A pain to untie after stressing though.
 
 
 ### Shanks
-- **[Butterfly shank.][butterfly-loop]** Use alpine butterfly in place of
-  sheepshank, which is the best known but most unreliable of shanks, lest you
-  die.
+- **Butterfly shank.** Use alpine butterfly in place of sheepshank, which is
+  the best known but most unreliable of shanks, lest you die.
 
 
 ### Bends
@@ -44,9 +43,8 @@ verify. A pain to untie after stressing though.
   for joining slippery or dissimilar ropes. As easy as the name suggests.
 - **[Vice-versa bend.][vice-versa-bend]** Use in place of sheet bend for
   joining stretchy rope.
-- **[Butterfly bend.][butterfly-bend]** Use alpine butterfly in place of
-  sheetbend wherever ease of untying after extreme stress is valued more than
-  tidiness.
+- **Butterfly bend.** Use alpine butterfly in place of sheetbend wherever ease
+  of untying after extreme stress is valued more than tidiness.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
   butterfly bend, such as when mooring blimps.
 
@@ -70,8 +68,8 @@ verify. A pain to untie after stressing though.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
   semi-permanent bow.
 
-In case you're wondering, I fasten my pajama pants with a double-slipped
-double-throw reef knot and my running shoes with a reef knot in two bights.
+I fasten my pajama pants with a double-slipped double-throw reef knot and my
+running shoes with a reef knot in two bights.
 {:.tangent}
 
 [double-constrictor]: https://www.101knots.com/double-constrictor-knot.html
@@ -79,7 +77,7 @@ double-throw reef knot and my running shoes with a reef knot in two bights.
 
 
 ### Hitches
-- **[Double constrictor knot.][double-constrictor]** This binding serves well as
+- **Double constrictor knot, or slipped variant.** This binding serves well as
   a simple hitch.
 - **[Trucker’s hitch (fixed-loop variant, my way)][truckers-hitch].** Start
   with a secure binding. Follow that with a fixed loop. Pass the end around an
