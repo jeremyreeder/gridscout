@@ -83,18 +83,18 @@ running shoes with a reef knot in two bights.
 ### Hitches
 - **Double constrictor knot, or slipped variant.** This binding serves well as
   a simple hitch.
-- **[Trucker’s hitch (fixed-loop variant, securely locked).][truckers-hitch]**
+- **Trucker’s hitch (fixed-loop variant, securely locked).**
   Start with a secure binding. Follow that with a fixed loop. Pass the end around
   an object and back through the loop. Pull the end back toward the object,
   enjoying a 3:1 mechanical advantage. Fasten the end temporarily to the standing
   part with a half-hitch immediately adjacent to the loop. Then lock it with a
   secure binding.
 
-![Initial binding not pictured. The loop is an alpine butterfly. The final binding is a strangle knot around the standing part.][truckers-hitch-photo]
+![Initial binding to the left, not pictured. Upper loop is an alpine butterfly. Final binding is a strangle knot around the standing part.][truckers-hitch-photo]
 *A secure trucker's hitch*
 
 
-[dbl-constrictor-photo]:   {{ '/images/double-constrictor-knot.jpg'       | prepend: site.url }}
+[dbl-constrictor-photo]:   {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
 [dbl-constrictor-s-photo]: {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
 [reef-2t-photo]:           {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
 [reef-2s2t-photo]:         {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
@@ -110,4 +110,3 @@ running shoes with a reef knot in two bights.
 [strangle-knot]:      https://www.netknots.com/rope_knots/strangle-knot
 [vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
-[truckers-hitch]:     https://en.wikipedia.org/wiki/Trucker%27s_hitch
