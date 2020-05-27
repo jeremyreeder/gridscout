@@ -36,7 +36,7 @@ hitch, and double-slipped reef knot.
 ### Bends
 - **[Simple-Simon-under bend.][simple-simon-under]** Use in place of sheetbend
   for joining slippery or dissimilar ropes. As easy as the name suggests.
-- **[Vice-versa bend.][vice-versa-bend]** Use in place of sheet bend for
+- **[Vice-versa bend.][vice-versa-bend]** Use in place of sheetbend for
   joining stretchy rope.
 - **Butterfly bend.** Use alpine butterfly in place of sheetbend wherever ease
   of untying after extreme stress is valued more than tidiness.
