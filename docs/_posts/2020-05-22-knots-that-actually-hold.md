@@ -19,7 +19,6 @@ hitch, and double-slipped reef knot.
 
 
 ### Loops
-
 - **[Cossack loop.][cossack-loop]** Use at the end of a rope in place of
   bowline loop. Favored by Russians and Eskimos.
 - **[Flemish loop.][flemish-loop]** Use at the end of a rope or in the middle.
@@ -30,20 +29,11 @@ hitch, and double-slipped reef knot.
 
 
 ### Shanks
-
-For bypassing a section of rope when it's damaged or overly long.
-{:.tangent}
-
 - **Butterfly shank.** Use alpine butterfly in place of sheepshank, which is
   the best known but most unreliable of shanks, lest you die.
 
 
 ### Bends
-
-For joining ropes together.
-{:.tangent}
-
-http://www.gynsurgery.org/wp-content/uploads/2018_romeo_knots-ilovepdf-compressed.pdf
 - **[Simple-Simon-under bend.][simple-simon-under]** Use in place of sheetbend
   for joining slippery or dissimilar ropes. As easy as the name suggests.
 - **[Vice-versa bend.][vice-versa-bend]** Use in place of sheetbend for
@@ -55,10 +45,6 @@ http://www.gynsurgery.org/wp-content/uploads/2018_romeo_knots-ilovepdf-compresse
 
 
 ### Bindings
-
-To constrict an object or to tightly hold multiple objects together.
-{:.tangent}
-
 - **[Double constrictor knot.][double-constrictor]** The most manly of
   bindings. Use in place of clove hitch or right-angle knot. The old-timers say
   you have to cut it off; but with synthetic rope, untying is perfectly
@@ -95,10 +81,6 @@ running shoes with a reef knot in two bights.
 
 
 ### Hitches
-
-To attach a rope to an object.
-{:.tangent}
-
 - **Double constrictor knot, or slipped variant.** This binding serves well as
   a simple hitch.
 - **Trucker’s hitch (fixed-loop variant, well locked).**
