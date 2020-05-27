@@ -54,8 +54,9 @@ verify. A pain to untie after stressing though.
   easily untied.
 
 <div class="gallery" markdown="1">
+![][dbl-constrictor-photo]
 ![][dbl-constrictor-s-photo]
-*Slipped double constrictor knot*
+*Double constrictor knots: unslipped & slipped*
 </div>
 
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
@@ -94,6 +95,7 @@ running shoes with a reef knot in two bights.
 *A secure trucker's hitch*
 
 
+[dbl-constrictor-photo]:   {{ '/images/double-constrictor-knot.jpg'       | prepend: site.url }}
 [dbl-constrictor-s-photo]: {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
 [reef-2t-photo]:           {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
 [reef-2s2t-photo]:         {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
