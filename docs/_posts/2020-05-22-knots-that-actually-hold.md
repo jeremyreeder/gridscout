@@ -53,8 +53,10 @@ verify. A pain to untie after stressing though.
 - **Slipped double constrictor knot.** Use in place of clove hitch to make it
   easily untied.
 
+<div class="gallery" markdown="1">
 ![][dbl-constrictor-s-photo]
 *Slipped double constrictor knot*
+</div>
 
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
   unfinished knot.
