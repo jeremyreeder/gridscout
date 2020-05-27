@@ -86,8 +86,8 @@ running shoes with a reef knot in two bights.
 - **Trucker’s hitch (fixed-loop variant, well locked).**
   Start with a secure binding (not pictured). Follow that with a fixed upper
   loop (e.g. alpine butterfly). Pass the end around an object and
-  back through the upper loop. Tighten rope by pulling end back toward that
-  object, then clamp it to the lower loop with a half-hitch. Lock that half
+  back through the upper loop. Tighten lower loop by pulling end back toward
+  the object, then clamp the end to the lower loop with a half-hitch. Lock that half
   hitch with a secure binding (e.g. strangle knot).
 
 ![][truckers-hitch-photo]
