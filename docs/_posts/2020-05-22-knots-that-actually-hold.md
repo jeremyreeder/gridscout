@@ -35,7 +35,7 @@ verify. A pain to untie after stressing though.
 
 
 ### Bends
-- **[Simple Simon under bend.][simple-simon-under]** Use in place of sheetbend
+- **[Simple-Simon-under bend.][simple-simon-under]** Use in place of sheetbend
   for joining slippery or dissimilar ropes. As easy as the name suggests.
 - **[Vice-versa bend.][vice-versa-bend]** Use in place of sheet bend for
   joining stretchy rope.
@@ -44,10 +44,13 @@ verify. A pain to untie after stressing though.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
   butterfly bend, such as when mooring blimps.
 
+<!-- illustrations not yet created
 <div class="gallery" markdown="1">
-![The TacStar™ 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
-*2018-06 — Receivers & handguard*
+![][simple-simon-under-photo]
+![][vice-versa-photo]
+*Simple-Simon-under & vice-versa*
 </div>
+-->
 
 
 ### Bindings
@@ -66,9 +69,9 @@ verify. A pain to untie after stressing though.
 
 <!-- illustrations not yet created
 <div class="gallery" markdown="1">
-![][reef-2t]
-![][reef-2s2t]
-![][reef-2bights]
+![][reef-2t-photo]
+![][reef-2s2t-photo]
+![][reef-2bights-photo]
 *Reef knot variants: double-throw, double-slipped double-throw, & in 2 bights*
 </div>
 -->
@@ -92,9 +95,9 @@ running shoes with a reef knot in two bights.
 *Trucker's hitch*
 
 
-[reef-2t]:              {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
-[reef-2s2t]:            {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
-[reef-2bights]:         {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[reef-2t-photo]:        {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
+[reef-2s2-photot]:      {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bight-photos]:   {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]: {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
