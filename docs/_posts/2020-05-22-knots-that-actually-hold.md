@@ -86,7 +86,7 @@ running shoes with a reef knot in two bights.
 
 
 [reef-2t-photo]:        {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
-[reef-2s2-photo]:       {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2s2t-photo]:      {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
 [reef-2bights-photo]:   {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]: {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
