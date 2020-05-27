@@ -50,8 +50,12 @@ verify. A pain to untie after stressing though.
   bindings. Use in place of clove hitch or right-angle knot. The old-timers say
   you have to cut it off; but with synthetic rope, untying is perfectly
   feasible.
-- **Slipped double constrictor knot.** Use in place of clove hitch to increase
-  ease of untying.
+- **Slipped double constrictor knot.** Use in place of clove hitch to make it
+  easily untied.
+
+![][dbl-constrictor-s-photo]
+*Slipped double constrictor knot*
+
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
   unfinished knot.
 - **Double-throw reef knot.** A symmetric variant of the surgeon's knot. Use in
@@ -88,10 +92,11 @@ running shoes with a reef knot in two bights.
 *A secure trucker's hitch*
 
 
-[reef-2t-photo]:        {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
-[reef-2s2t-photo]:      {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
-[reef-2bights-photo]:   {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
-[truckers-hitch-photo]: {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
+[dbl-constrictor-s-photo]: {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
+[reef-2t-photo]:           {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
+[reef-2s2t-photo]:         {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
