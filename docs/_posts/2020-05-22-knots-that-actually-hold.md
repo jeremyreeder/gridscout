@@ -82,7 +82,7 @@ running shoes with a reef knot in two bights.
   secure binding.
 
 ![Initial binding not pictured. The loop is an alpine butterfly. The final binding is a strangle knot around the standing part.][truckers-hitch-photo]
-*Trucker's hitch*
+*A secure trucker's hitch*
 
 
 [reef-2t-photo]:        {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
