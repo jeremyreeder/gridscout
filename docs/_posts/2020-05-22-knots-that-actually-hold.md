@@ -83,7 +83,7 @@ running shoes with a reef knot in two bights.
 ### Hitches
 - **Double constrictor knot, or slipped variant.** This binding serves well as
   a simple hitch.
-- **Trucker’s hitch (fixed-loop variant, securely locked).**
+- **Trucker’s hitch (fixed-loop variant, well locked).**
   Start with a secure binding (not pictured). Follow that with a fixed upper
   loop (e.g. alpine butterfly). Pass the end around an object and
   back through the upper loop. Tighten rope by pulling end back toward that
