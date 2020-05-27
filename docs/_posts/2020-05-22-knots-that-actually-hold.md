@@ -32,6 +32,10 @@ hitch, and double-slipped reef knot.
 - **Butterfly shank.** Use alpine butterfly in place of sheepshank, which is
   the best known but most unreliable of shanks, lest you die.
 
+The point of a shank is to bypass a section of rope that is damaged or overly
+long. A shank that easily shakes loose is of little use and very dangerous.
+{:.tangent}
+
 
 ### Bends
 - **[Simple-Simon-under bend.][simple-simon-under]** Use in place of sheetbend
