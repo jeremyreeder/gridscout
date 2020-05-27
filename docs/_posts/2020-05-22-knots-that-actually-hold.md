@@ -23,8 +23,8 @@ hitch, and double-slipped reef knot.
   bowline loop. More secure and just as easy to untie. Favored by Russians and
 Eskimos.
 - **[Flemish loop.][flemish-loop]** Use at the end of a rope or in the middle.
-  Fastest fixed loop to tie and, with its figure-eight shape, the easiest to
-verify. A pain to untie after stressing though.
+  One of the fastest fixed loops to tie and, with its figure-eight shape, the
+  easiest to verify. A bit of a pain to untie after stressing though.
 - **[Alpine butterfly loop.][butterfly-loop]** Use in place of Flemish loop in
   the middle of a rope. Easiest loop to untie after stressing.
 
