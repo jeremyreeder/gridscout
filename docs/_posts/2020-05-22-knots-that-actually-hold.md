@@ -63,7 +63,7 @@ verify. A pain to untie after stressing though.
 ![][reef-2t-photo]
 ![][reef-2s2t-photo]
 ![][reef-2bights-photo]
-*Reef knot variants: double-throw, double-slipped double-throw, & in 2 bights*
+*Reef knot variants: double-throw (before tightening), double-slipped double-throw, & in 2 bights*
 </div>
 
 I fasten my pajama pants with a double-slipped double-throw reef knot and my
