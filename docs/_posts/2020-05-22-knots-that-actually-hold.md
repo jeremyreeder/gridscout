@@ -44,14 +44,6 @@ verify. A pain to untie after stressing though.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
   butterfly bend, such as when mooring blimps.
 
-<!-- illustrations not yet created
-<div class="gallery" markdown="1">
-![][simple-simon-under-photo]
-![][vice-versa-photo]
-*Simple-Simon-under & vice-versa*
-</div>
--->
-
 
 ### Bindings
 - **[Double constrictor knot.][double-constrictor]** The most manly of
@@ -67,14 +59,12 @@ verify. A pain to untie after stressing though.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
   semi-permanent bow.
 
-<!-- illustrations not yet created
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
 ![][reef-2s2t-photo]
 ![][reef-2bights-photo]
 *Reef knot variants: double-throw, double-slipped double-throw, & in 2 bights*
 </div>
--->
 
 I fasten my pajama pants with a double-slipped double-throw reef knot and my
 running shoes with a reef knot in two bights.
@@ -95,12 +85,10 @@ running shoes with a reef knot in two bights.
 *Trucker's hitch*
 
 
-[reef-2t-photo]:            {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
-[reef-2s2-photo]:           {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
-[reef-2bights-photo]:       {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
-[simple-simon-under-photo]: {{ '/images/simple-simon-under-bend.jpg'               | prepend: site.url }}
-[truckers-hitch-photo]:     {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
-[vice-versa-photo]:         {{ '/images/vice-versa-bend.jpg'                       | prepend: site.url }}
+[reef-2t-photo]:        {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
+[reef-2s2-photo]:       {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bights-photo]:   {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[truckers-hitch-photo]: {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
