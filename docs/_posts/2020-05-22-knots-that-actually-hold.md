@@ -33,7 +33,7 @@ hitch, and double-slipped reef knot.
   the best known but most unreliable of shanks, lest you die.
 
 The point of a shank is to bypass a section of rope that is damaged or overly
-long. A shank that easily shakes loose is of little use and very dangerous.
+long. A shank that easily shakes loose obviously won't do.
 {:.tangent}
 
 
@@ -45,7 +45,7 @@ long. A shank that easily shakes loose is of little use and very dangerous.
 - **Butterfly bend.** Use alpine butterfly in place of sheetbend wherever ease
   of untying after extreme stress is valued more than tidiness.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
-  butterfly bend, such as when mooring blimps.
+  butterfly bend, like when mooring blimps.
 
 
 ### Bindings
