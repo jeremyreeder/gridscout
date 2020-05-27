@@ -60,9 +60,9 @@ hitch, and double-slipped reef knot.
 
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
   unfinished knot.
-- **Double-throw reef knot.** A symmetric variant of the surgeon's knot. Use in
-  place of reef knot, especially when it can't be relied upon to remain pressed
-  against a convex surface, or when using stretchy rope.
+- **Double-throw reef knot.** A more secure symmetric variant of the surgeon's
+  knot. Use in place of reef knot, especially when it can't be relied upon to
+  remain pressed against a convex surface, or when using stretchy rope.
 - **Double-slipped double-throw reef knot.** Use in place of double-throw
   reef-knot for a secure quick-release bow.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
