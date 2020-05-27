@@ -47,8 +47,11 @@ verify. A pain to untie after stressing though.
 
 ### Bindings
 - **[Double constrictor knot.][double-constrictor]** The most manly of
-  bindings. Use in place of clove hitch or right-angle knot.
-- **Slipped double constrictor knot.** Use in place of temporary clove hitch.
+  bindings. Use in place of clove hitch or right-angle knot. The old-timers say
+  you have to cut it off; but with synthetic rope, untying is perfectly
+  feasible.
+- **Slipped double constrictor knot.** Use in place of clove hitch to increase
+  ease of untying.
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
   unfinished knot.
 - **Double-throw reef knot.** A symmetric variant of the surgeon's knot. Use in
