@@ -60,9 +60,9 @@ hitch, and double-slipped reef knot.
 
 - **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
   unfinished knot.
-- **Double-throw reef knot.** A more secure symmetric variant of the surgeon's
-  knot. Use in place of reef knot, especially when it can't be relied upon to
-  remain pressed against a convex surface, or when using stretchy rope.
+- **Double-throw reef knot.** Variant [H2H2s][surgical-knot-study] of the
+  surgeon's knot. Use in place of reef knot, especially when it can't be relied
+  upon to remain pressed against a convex surface, or when using stretchy rope.
 - **Double-slipped double-throw reef knot.** Use in place of double-throw
   reef-knot for a secure quick-release bow.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
@@ -101,12 +101,13 @@ running shoes with a reef knot in two bights.
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
-[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
-[double-constrictor]: https://www.101knots.com/double-constrictor-knot.html
-[cossack-loop]:       https://en.wikipedia.org/wiki/Cossack_knot
-[flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
-[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
-[strangle-knot]:      https://www.netknots.com/rope_knots/strangle-knot
-[vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
+[butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
+[double-constrictor]:  https://www.101knots.com/double-constrictor-knot.html
+[cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
+[flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
+[surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
+[simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
+[strangle-knot]:       https://www.netknots.com/rope_knots/strangle-knot
+[vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
