@@ -19,9 +19,8 @@ hitch, and double-slipped reef knot.
 
 
 ### Loops
-- **[Cossack loop.][cossack-loop]** Use at the end of a rope in place of a
-  bowline loop. More secure and just as easy to untie. Favored by Russians and
-Eskimos.
+- **[Cossack loop.][cossack-loop]** Use at the end of a rope in place of
+  bowline loop. Favored by Russians and Eskimos.
 - **[Flemish loop.][flemish-loop]** Use at the end of a rope or in the middle.
   One of the fastest fixed loops to tie and, with its figure-eight shape, the
   easiest to verify. A bit of a pain to untie after stressing though.
