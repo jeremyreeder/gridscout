@@ -90,7 +90,7 @@ running shoes with a reef knot in two bights.
   object, then clamp it to the lower loop with a half-hitch. Lock that half
   hitch with a secure binding (e.g. strangle knot).
 
-![Initial binding to the left, not pictured. Upper loop is an alpine butterfly. Final binding is a strangle knot around the standing part.][truckers-hitch-photo]
+![][truckers-hitch-photo]
 *A secure trucker's hitch*
 
 
