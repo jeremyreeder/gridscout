@@ -25,7 +25,7 @@ hitch, and double-slipped reef knot.
   One of the fastest fixed loops to tie and, with its figure-eight shape, the
   easiest to verify. A bit of a pain to untie after stressing though.
 - **[Alpine butterfly loop.][butterfly-loop]** Use in place of Flemish loop in
-  the middle of a rope. Easiest loop to untie after stressing.
+  the middle of a rope, if ease of untying is important.
 
 
 ### Shanks
