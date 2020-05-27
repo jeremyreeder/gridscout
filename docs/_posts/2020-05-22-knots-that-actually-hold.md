@@ -49,8 +49,8 @@ hitch, and double-slipped reef knot.
   bindings. Use in place of clove hitch or right-angle knot. The old-timers say
   you have to cut it off; but with synthetic rope, untying is perfectly
   feasible.
-- **Slipped double constrictor knot.** Use in place of clove hitch to make it
-  easily untied.
+- **Slipped double constrictor knot.** Use in place of clove hitch as a secure
+  but easily untied binding.
 
 <div class="gallery" markdown="1">
 ![][dbl-constrictor-photo]
