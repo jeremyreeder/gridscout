@@ -28,10 +28,6 @@ verify. A pain to untie after stressing though.
 - **[Alpine butterfly loop.][butterfly-loop]** Use in place of Flemish loop in
   the middle of a rope. Easiest loop to untie after stressing.
 
-[butterfly-loop]: https://www.netknots.com/rope_knots/butterfly-knot
-[cossack-loop]:   https://en.wikipedia.org/wiki/Cossack_knot
-[flemish-loop]:   https://www.netknots.com/rope_knots/figure-eight
-
 
 ### Shanks
 - **Butterfly shank.** Use alpine butterfly in place of sheepshank, which is
@@ -48,10 +44,10 @@ verify. A pain to untie after stressing though.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
   butterfly bend, such as when mooring blimps.
 
-[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
-[vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
+<div class="gallery" markdown="1">
+![The TacStar™ 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
+*2018-06 — Receivers & handguard*
+</div>
 
 
 ### Bindings
@@ -68,12 +64,18 @@ verify. A pain to untie after stressing though.
 - **Reef knot in two bights.** Use in place of double-slipped reef knot for a
   semi-permanent bow.
 
+<!-- illustrations not yet created
+<div class="gallery" markdown="1">
+![][reef-2t]
+![][reef-2s2t]
+![][reef-2bights]
+*Reef knot variants: double-throw, double-slipped double-throw, & in 2 bights*
+</div>
+-->
+
 I fasten my pajama pants with a double-slipped double-throw reef knot and my
 running shoes with a reef knot in two bights.
 {:.tangent}
-
-[double-constrictor]: https://www.101knots.com/double-constrictor-knot.html
-[strangle-knot]:      https://www.netknots.com/rope_knots/strangle-knot
 
 
 ### Hitches
@@ -84,7 +86,24 @@ running shoes with a reef knot in two bights.
   an object and back through the loop. Pull the end back toward the object,
   enjoying a 3:1 mechanical advantage. Fasten the end temporarily to the standing
   part with a half-hitch immediately adjacent to the loop. Then lock it with a
-  secure binding like a strangle knot around the standing part or a double
-  constrictor around the object.
+  secure binding.
 
-[truckers-hitch]: https://en.wikipedia.org/wiki/Trucker%27s_hitch
+![Initial binding not pictured. The loop is an alpine butterfly. The final binding is a strangle knot around the standing part.][truckers-hitch-photo]
+*Trucker's hitch*
+
+
+[reef-2t]:              {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
+[reef-2s2t]:            {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bights]:         {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[truckers-hitch-photo]: {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
+
+[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
+[double-constrictor]: https://www.101knots.com/double-constrictor-knot.html
+[cossack-loop]:       https://en.wikipedia.org/wiki/Cossack_knot
+[flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
+[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
+[strangle-knot]:      https://www.netknots.com/rope_knots/strangle-knot
+[vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
+[truckers-hitch]:     https://en.wikipedia.org/wiki/Trucker%27s_hitch
