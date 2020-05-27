@@ -95,10 +95,12 @@ running shoes with a reef knot in two bights.
 *Trucker's hitch*
 
 
-[reef-2t-photo]:        {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
-[reef-2s2-photot]:      {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
-[reef-2bight-photos]:   {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
-[truckers-hitch-photo]: {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
+[reef-2t-photo]:            {{ '/images/double-throw-reef-knot.jpg'                | prepend: site.url }}
+[reef-2s2-photo]:           {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bights-photo]:       {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[simple-simon-under-photo]: {{ '/images/simple-simon-under-bend.jpg'               | prepend: site.url }}
+[truckers-hitch-photo]:     {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
+[vice-versa-photo]:         {{ '/images/vice-versa-bend.jpg'                       | prepend: site.url }}
 
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
