@@ -44,8 +44,8 @@ long. A shank that easily shakes loose obviously won't do.
   joining stretchy rope.
 - **Butterfly bend.** Use alpine butterfly in place of sheetbend wherever ease
   of untying after extreme stress is valued more than tidiness.
-- **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the alpine
-  butterfly bend, like when mooring blimps.
+- **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the butterfly
+  bend, like when mooring blimps.
 
 
 ### Bindings
