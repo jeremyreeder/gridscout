@@ -87,9 +87,6 @@ running shoes with a reef knot in two bights. Most people use a standard
 double-slipped reef knot, but it works loose.
 {:.tangent}
 
-Yes, it's called a reef knot. 
-{:.tangent}
-
 
 ### Hitches
 - **Double constrictor knot, or slipped variant.** This binding serves well as
