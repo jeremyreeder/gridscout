@@ -80,7 +80,8 @@ long. A shank that easily shakes loose obviously won't do.
 </div>
 
 I fasten my pajama pants with a double-slipped double-throw reef knot and my
-running shoes with a reef knot in two bights.
+running shoes with a reef knot in two bights. Most people use a standard
+double-slipped reef knot, but it works loose.
 {:.tangent}
 
 
