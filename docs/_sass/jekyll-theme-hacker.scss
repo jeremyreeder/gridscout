@@ -290,6 +290,9 @@ p img + em {
   bottom: 0.4em;
   background-color: black;
   opacity: 0.6;
+  max-width: 100%;
+  overflow: auto;
+  text-overflow: ellipsis;
 }
 .floating-logo {
   float: right;
