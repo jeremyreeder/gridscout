@@ -66,8 +66,9 @@ long. A shank that easily shakes loose obviously won't do.
   unfinished knot.
 - **Double-throw reef knot.** Variant [H2H2s][surgical-knot-study] of the
   surgeon's knot, simply a reef knot with its two halves converted to double
-  overhand knots by an additional pass through the center. Use in place of reef
-  knot, especially against a non-convex surface or in stretchy rope.
+  overhand knots by an additional pass through the center. Consider using in
+  place of reef knot, especially against a non-convex surface or in stretchy
+  rope.
 - **Double-throw shoelace knot.** For a secure quick-release bow, alter your
   shoelace knot (double-slipped reef knot) in the same manner. The result is an
   H2N2 with the final end tucks converted to bight tucks.
