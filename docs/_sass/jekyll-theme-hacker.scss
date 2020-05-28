@@ -294,6 +294,11 @@ p img + em {
   overflow: auto;
   text-overflow: ellipsis;
 }
+p img + em:hover {
+  white-space: normal;
+  max-height: 6em;
+  overflow: visible;
+}
 .floating-logo {
   float: right;
   max-width: 10%;
