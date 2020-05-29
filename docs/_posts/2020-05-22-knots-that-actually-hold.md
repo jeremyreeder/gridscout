@@ -92,11 +92,11 @@ it works loose.
 - **Double constrictor knot, or slipped variant.** This binding serves well as
   a simple hitch.
 - **Trucker’s hitch (fixed-loop variant, well locked).**
-  Everybody ties the trucker's hitch a little different. Here's the method that
-  I trust. Make a fixed upper loop (e.g. alpine butterfly). Pass the end around
-  an object and back through the upper loop. Tighten lower loop by pulling end
-  back toward the object, then clamp the end to the lower loop with a half-hitch.
-  Lock that half hitch with a secure binding (e.g. strangle knot).
+  Everybody ties this differently, but here's the method that I trust. Make a
+  fixed upper loop (e.g. alpine butterfly). Pass the end around an object and
+  back through the upper loop. Tighten lower loop by pulling end back toward the
+  object, then clamp the end to the lower loop with a half-hitch.  Lock that half
+  hitch with a secure binding (e.g. strangle knot).
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
