@@ -62,10 +62,10 @@ long. A shank that easily shakes loose obviously won't do.
 *Double constrictor knots: unslipped & slipped*
 </div>
 
-- **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches to lock any
-  unfinished knot.
+- **[Strangle knot.][strangle-knot]** Use in place of one or two half-hitches
+  to lock any unfinished knot.
 - **Double-throw reef knot.** Variant [H2H2s][surgical-knot-study] of the
-  surgeon's knot, simply a reef knot with its two halves converted to double
+  surgeon's knot. Simply a reef knot with its two halves converted to double
   overhand knots by an additional pass through the center. Consider using in
   place of reef knot, especially against a non-convex surface or in stretchy
   rope.
