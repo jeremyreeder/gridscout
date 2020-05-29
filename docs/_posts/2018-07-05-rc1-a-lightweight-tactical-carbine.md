@@ -16,13 +16,13 @@ explain that RC1 stands for Reeder Carbine #1 than to explain that PK6 (its
 original name) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
 ## Weapon design
-I want a gun that is especially easy to handle in close-quarters combat without
+I want a gun that's especially easy to handle in close-quarters combat without
 sacrificing effectiveness at medium range (up to 500 yards). While many PDWs
-are very good at close quarters and a typical modern carbine is pretty good up
-to 300 yards, both are severely handicapped beyond that range. The PDW's
-biggest hindrance in this regard is its very short barrel, while the carbine is
-held back primarily by its use of the diminutive 5.56x45 NATO cartridge. In
-either case, the energy of the bullet is insufficient to remain very effective
+are great in close quarters and a modern carbine is pretty good up
+to 300 yards, both are severely handicapped beyond that range. PDWs
+suffer from their very short barrels, while the typical carbine is
+held back by a diminutive 5.56x45 NATO cartridge. In
+either case, the energy of the bullet is insufficient to remain effective
 at my maximum intended distance against human targets and the occasional
 medium-size game animal. (Besides the obvious counterterrorism missions, I
 intend to hunt wolves, deer, and wild boar with this puppy.)
