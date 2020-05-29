@@ -71,7 +71,7 @@ long. A shank that easily shakes loose obviously won't do.
   rope.
 - **Double-throw shoelace knot.** For a secure quick-release bow, alter your
   shoelace knot (double-slipped reef knot) in the same manner. The result is an
-  H2N2 with the final end tucks converted to bight tucks.
+  H2H2s with the final end tucks converted to bight tucks.
 - **Reef knot in two bights.** For a semi-permanent bow, first fold the ends
   over to form bights, then tie a full reef knot entirely in those bights.
 

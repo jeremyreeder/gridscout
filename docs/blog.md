@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 # GridScout™ Blog
-Here's what's new in the manly arts, from [Seigneur GridScout][gridscout] himself.
+Here's what's new in the manly arts, from the [GridScout][gridscout] team.
 
 Subscribe: [Atom feed][feed]
 
@@ -21,4 +21,4 @@ Subscribe to GridScout™ Blog: [Atom feed][feed]
 
 
 [feed]:      /feed.xml
-[gridscout]: /#jeremy
+[gridscout]: /
