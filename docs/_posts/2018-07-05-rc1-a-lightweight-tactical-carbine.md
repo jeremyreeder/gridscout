@@ -7,6 +7,7 @@ redirect_from:
   - /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
   - /blog/2018-07-05-rc1-a-lightweight-tactical-carbine
   - /rc1
+  - /carbine
 tags: weapon rc1 carbine
 ---
 
