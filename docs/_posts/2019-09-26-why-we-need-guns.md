@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why we need guns
-author: Jeremy Reeder
+author: Leeroy Jenkins
 date: 2019-09-26
 tags: weapon tyranny
 redirect_from: /2019/09/26/why-we-must-be-armed
