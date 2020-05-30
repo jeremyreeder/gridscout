@@ -69,7 +69,7 @@ long. A shank that easily shakes loose obviously won't do.
   overhand knots by an additional pass through the center. Consider using in
   place of reef knot, especially against a non-convex surface or in stretchy
   rope.
-- **Reef knot in two bights.** For a semi-permanent bow, first fold the ends
+- **Reef knot in two bights.** For a decorative bow that's reasonably secure: first fold the ends
   over to form bights, then tie a full reef knot entirely in those bights.
 
 <div class="gallery" markdown="1">
