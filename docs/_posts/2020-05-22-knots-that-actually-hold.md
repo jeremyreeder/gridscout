@@ -69,8 +69,8 @@ long. A shank that easily shakes loose obviously won't do.
   overhand knots by an additional pass through the center. Consider using in
   place of reef knot, especially against a non-convex surface or in stretchy
   rope.
-- **Reef knot in two bights.** For a somewhat permanent decorative bow: first fold the ends
-  over to form bights, then tie a full reef knot entirely in those bights.
+- **Reef knot in two bights.** For a decorative bow that actually stays tied: first fold the ends
+  over to form bights, then simply tie them in a reef knot.
 
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
@@ -80,7 +80,7 @@ long. A shank that easily shakes loose obviously won't do.
 
 I fasten my shoes
 with a reef knot in two bights. Most people use a standard shoelace knot (double-slipped reef), but
-it works loose on long runs.
+it works loose easily due to a mismatch in size between the halves.
 {:.tangent}
 
 
