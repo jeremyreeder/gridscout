@@ -69,22 +69,18 @@ long. A shank that easily shakes loose obviously won't do.
   overhand knots by an additional pass through the center. Consider using in
   place of reef knot, especially against a non-convex surface or in stretchy
   rope.
-- **Double-throw shoelace knot.** For a secure quick-release bow, alter your
-  shoelace knot (double-slipped reef knot) in the same manner. The result is an
-  H2H2s with the final end tucks converted to bight tucks.
 - **Reef knot in two bights.** For a semi-permanent bow, first fold the ends
   over to form bights, then tie a full reef knot entirely in those bights.
 
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
-![][reef-2s2t-photo]
 ![][reef-2bights-photo]
-*Reef knot variants: double-throw reef, double-throw shoelace, & reef in 2 bights*
+*Reef knot variants: double-throw reef & reef in 2 bights*
 </div>
 
-I fasten my pajama pants with a double-throw shoelace knot and my running shoes
-with a reef knot in two bights. Most people use a standard shoelace knot, but
-it works loose.
+I fasten my shoes
+with a reef knot in two bights. Most people use a standard shoelace knot (double-slipped reef), but
+it works loose on long runs.
 {:.tangent}
 
 
