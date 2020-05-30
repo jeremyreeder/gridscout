@@ -75,7 +75,7 @@ long. A shank that easily shakes loose obviously won't do.
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
 ![][reef-2bights-photo]
-*Reef knot variants: double-throw reef & reef in 2 bights*
+*Double-throw reef knot & reef in 2 bights*
 </div>
 
 I fasten my shoes
