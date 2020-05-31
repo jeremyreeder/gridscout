@@ -152,6 +152,6 @@ terms of the [MIT License][mit-license].
 [mytopo]:           https://www.mytopo.com
 [protonmail]:       https://protonmail.com
 [protonvpn]:        https://protonvpn.com
-[safehouse]:        https://www.thesafehouse.info/
+[safehouse]:        https://safehouse.gridscout.net/
 [shtf-intel]:       https://forwardobserver.com/product/community-intelligence-program-print-version/
 [tor]:              https://en.wikipedia.org/wiki/Tor_(anonymity_network)
