@@ -111,6 +111,6 @@ it works loose easily because its larger second half reduces the grip between th
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
 [simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
-[strangle-knot]:       https://www.netknots.com/rope_knots/strangle-knot
+[strangle-knot]:       https://en.m.wikipedia.org/wiki/Strangle_knot
 [vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
