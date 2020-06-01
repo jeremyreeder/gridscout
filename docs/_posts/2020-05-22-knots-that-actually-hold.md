@@ -79,7 +79,7 @@ long. A shank that easily shakes loose obviously won't do.
 </div>
 
 Most people use a standard shoelace knot (double-slipped reef), but
-it works loose easily. The problem, as I see it, is that the reef knot's grip relies on its symmetry. Using ends for the first half and bights for the second disrupts that symmetry, so the two halves align poorly and don't grip well.
+it works loose easily. The reef knot's grip seems to rely on its symmetry, and using bights for only half of the knot disrupts that symmetry.
 {:.tangent}
 
 
