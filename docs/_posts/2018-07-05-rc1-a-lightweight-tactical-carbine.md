@@ -168,7 +168,7 @@ future post. I'll provide a link here to make it easy on you.
 [progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'          | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
-[gridscout]:    /
+[gridscout]:    {{ site.url }}
 [guard-model]:  https://www.thingiverse.com/thing:2479358
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
