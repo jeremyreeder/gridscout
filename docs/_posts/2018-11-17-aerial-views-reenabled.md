@@ -16,6 +16,6 @@ search result and checking its surroundings.
 *Update: [We now have an MGRS grid again.][update]*
 
 
-[gmap4-rip]: 2018/08/30/google-killed-gmap4.html
-[gridscout]: /
-[update]:    2020/05/22/now-using-gissurfer.html
+[gmap4-rip]: {{ '/2018/08/30/google-killed-gmap4.html' | prepend: site.url }}
+[gridscout]: {{ site.url }}
+[update]:    {{ '/2020/05/22/now-using-gissurfer.html' | prepend: site.url }}
