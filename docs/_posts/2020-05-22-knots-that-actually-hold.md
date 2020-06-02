@@ -51,7 +51,7 @@ long. A shank that easily shakes loose obviously won't do.
 ### Bindings
 - **[Double constrictor knot.][double-constrictor]** The most manly of
   bindings. Use in place of clove hitch or right-angle knot. The old-timers say
-  you have to cut it off; but with synthetic rope, untying is perfectly
+  you have to cut it off; but with synthetic rope, untying is often perfectly
   feasible.
 - **Slipped double constrictor knot.** Use in place of clove hitch as a secure
   but easily untied binding.
