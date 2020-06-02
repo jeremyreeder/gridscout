@@ -22,6 +22,7 @@ out $46,000 per year. So Gmap4 is now gone. Bummer.
 <div class="gallery" markdown="1">
 ![R.I.P. Gmap4][gmap4-rip]
 ![As of 2018-07-15, free use of Gmap4 has been discontinued.][gmap4-notice]
+*We'll miss you, Gmap4.*
 </div>
 
 I am now considering alternatives to Gmap4, so that I can restore GridScout's
