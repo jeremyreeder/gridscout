@@ -3,7 +3,6 @@ layout: post
 title: Aerial views reënabled!
 author: Jeremy Reeder
 date: 2018-11-17
-redirect_from: /blog/2018-11-17-aerial-views-reenabled
 tags: google map gmap4
 ---
 
@@ -14,6 +13,9 @@ using Google Maps directly. It lacks the MGRS-grid overlay that we used to
 enjoy with Gmap4, but it's still useful for confirming the relevance of a
 search result and checking its surroundings.
 
+*Update: [We now have an MGRS grid again.][update]*
 
-[gmap4-rip]:    2018-08-30-google-put-the-kibosh-on-gmap4
-[gridscout]:    /
+
+[gmap4-rip]: 2018/08/30/google-killed-gmap4.html
+[gridscout]: /
+[update]:    2020/05/22/now-using-gissurfer.html

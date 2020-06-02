@@ -3,7 +3,6 @@ layout: post
 title: Google killed Gmap4! :O
 author: Jeremy Reeder
 date: 2018-08-30
-redirect_from: /blog/2018-08-30-google-put-the-kibosh-on-gmap4
 tags: google map gmap4
 ---
 
@@ -36,4 +35,4 @@ aerial-view feature.
 
 [gmap4]:        https://mappingsupport.com/p/gmap4.php
 [gridscout]:    /
-[update]:       2018-11-17-aerial-views-reenabled
+[update]:       2018/11/17/aerial-views-reenabled.html

@@ -4,7 +4,6 @@ title: Why we need guns
 author: Leeroy Jenkins
 date: 2019-09-26
 tags: weapon tyranny
-redirect_from: /2019/09/26/why-we-must-be-armed
 ---
 
 <div class="tangent" markdown="1">
