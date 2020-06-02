@@ -69,8 +69,9 @@ long. A shank that easily shakes loose obviously won't do.
   overhand knots by an additional pass through the center. Consider using in
   place of reef knot, especially against a non-convex surface or in stretchy
   rope.
-- **Reef knot in two bights.** For a decorative shoelace bow that'll stay tied all day: first fold the ends
-  over to form bights, then simply tie them in a reef knot.
+- **Reef knot in two bights.** For a decorative shoelace bow that'll stay tied
+  all day: first fold the ends over to form bights, then simply tie them in a
+  reef knot.
 
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
@@ -78,8 +79,9 @@ long. A shank that easily shakes loose obviously won't do.
 *Double-throw reef knot & reef in 2 bights*
 </div>
 
-Most people use a standard shoelace knot (double-slipped reef), but
-it works loose easily. The reef knot's grip seems to rely on its symmetry, and using bights for only half of the knot disrupts that symmetry.
+Most people use a standard shoelace knot (double-slipped reef), but it works
+loose easily. The reef knot's grip seems to rely on its symmetry, and using
+bights for only half of the knot disrupts that symmetry.
 {:.tangent}
 
 
