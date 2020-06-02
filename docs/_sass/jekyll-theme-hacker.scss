@@ -279,9 +279,21 @@ p {
 .gallery p {
   white-space: nowrap;
 }
-.gallery img {
+.gallery img { // 4+ images
   max-height: 20em;
+  max-width: 21%;
+  cursor: zoom-in;
+}
+.gallery img:first-child:nth-last-child(3), .gallery img:first-child:nth-last-child(3) ~ img { // 3 images
   max-width: 30%;
+  cursor: zoom-in;
+}
+.gallery img:first-child:nth-last-child(2), .gallery img:first-child:nth-last-child(2) ~ img { // 2 images
+  max-width: 48%;
+  cursor: zoom-in;
+}
+.gallery img:only-child { // 1 image
+  max-width: 99%;
   cursor: zoom-in;
 }
 p img + em {
