@@ -106,7 +106,7 @@ it works loose easily. The reef knot's grip seems to rely on its symmetry, and u
 
 [butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
-[double-constrictor]:  https://www.101knots.com/double-constrictor-knot.html
+[double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
 [cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
