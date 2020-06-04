@@ -63,6 +63,11 @@ that of the Simple-Simon-under bend without the added difficulty of making a
 pass _under_ the rope as the -under variant requires. Uniquely among the
 Simple-Simon knots, the rope ends are ultimately diagonal from each other.
 
+![][simple-simon-crossover-photo]
+*Simple-Simon crossover*
+
+
+[simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
 
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
