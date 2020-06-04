@@ -20,8 +20,8 @@ screwdrivers and wrenches and stuff, till the fishing line either broke or
 slipped to a completely untied state.
 
 I was most interested in measuring the "security", or resistance to slipping,
-which is why I intentionally chose the most slippery material available to me.
-I hoped that all eight lines would slip rather than breaking; but alas, some
+which is why I intentionally chose the slipperiest material available to me. I
+hoped that all eight lines would slip rather than breaking; but alas, some
 knots just won't slip.
 
 
