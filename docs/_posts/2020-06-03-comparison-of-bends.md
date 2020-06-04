@@ -13,16 +13,17 @@ redirect_from:
 
 A "bend" is a knot for joining two ropes together. Thinking that it would be
 helpful to know which bends do this job best, I took eight pieces of my
-daughter's fishing line and did a little experiment. In each piece I tied a
-different bend, which I greased before pulling it tight. I then hung the
-resulting loop on a hook and suspended a bag from it. I filled the bag with
-screwdrivers and wrenches and stuff, till the fishing line either broke or
-slipped to a completely untied state.
+daughter's fishing line and did a little experiment.
+
+In each piece I tied a different bend, which I greased before pulling it tight.
+I then hung the resulting loop on a hook and suspended a bag from it. I filled
+the bag with screwdrivers and wrenches and stuff, till the fishing line either
+broke or slipped to a completely untied state.
 
 I was most interested in measuring the "security", or resistance to slipping,
-which is why I intentionally chose the slipperiest material available to me. I
-hoped that all eight lines would slip rather than breaking; but alas, some
-knots just won't slip.
+as opposed to breaking strength. That's why I intentionally chose the
+slipperiest material available to me. I hoped that all eight lines would slip
+rather than breaking; but alas, some knots just won't slip.
 
 
 ### Results
