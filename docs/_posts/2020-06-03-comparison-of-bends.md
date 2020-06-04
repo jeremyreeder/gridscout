@@ -1,26 +1,28 @@
 ---
 layout: post
-title: Comparison of bends
+title: Which bend holds best?
 author: Jeremy Reeder
 date: 2020-06-03
 tags: knot
-redirect_from: /bends
+redirect_from:
+  - /bends
+  - 2020/06/03/comparison-of-bends.html
 ---
 
 ### Experiment
 
-I've been wondering about the relative security of various bend knots. By this
-I mean how much force each knot can take before coming untied. So I did a
-little experiment with eight bends tied in greased fishing line. I used this
-material in order to reduce the expected force limits to a level manageable for
-my testing. Having no fancy testing apparatus, I simply suspended a bag from
-the fishing line and loaded the bag with stuff until the line broke.
+A "bend" is a knot for joining two ropes together. Thinking that it would be
+helpful to know which bends do this job best, I took eight pieces of my
+daughter's fishing line and did a little experiment. In each piece I tied a
+different bend, which I greased before pulling it tight. I then hung the
+resulting loop on a hook and suspended a bag from it. I filled the bag with
+screwdrivers and wrenches and stuff, till the fishing line either broke or
+slipped to a completely untied state.
 
-A related measure is how much each knot reduces the breaking strength of the
-ropes in which it is tied. That's not what I'm trying to measure here. That's
-why I chose a material that's intentionally super slippery, hoping that in most
-cases I'd reach the security limit before I reach the strength limit. But alas,
-some knots just won't slip.
+I was most interested in measuring the "security", or resistance to slipping,
+which is why I intentionally chose the most slippery material available to me.
+I hoped that all eight lines would slip rather than breaking; but alas, some
+knots just won't slip.
 
 
 ### Results
@@ -49,6 +51,12 @@ the easiest Simple-Simon to tie, this is pretty satisfying. I had hoped,
 though, that it would equal the security of the Simple-Simon-under. Maybe not
 quite. Surprisingly, it looks like Asher's Simple-Simon-double substantially
 reduces breaking strength, making it the worst performer of the series.
+
+I wonder if some parts of this line had suffered damage from a prior fishing
+excursion. If so, then all of the bends which failed by breaking may have
+otherwise broken at a higher limit. I'd like to retest them in the future with
+pristine line.
+{:.tangent}
 
 As expected, the sheetbend and double sheetbend slipped way too easily to be
 worth using. What's surprising is that the double sheetbend actually did the
