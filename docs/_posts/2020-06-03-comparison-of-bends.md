@@ -47,6 +47,6 @@ worth using. What's surprising is that the double sheetbend actually did the
 worst of these two.
 
 
-### How to tie the Simple-Simon-crossover bend
+### Tying the Simple-Simon-crossover bend
 
-This new knot is tied exactly like the Simple-Simon-over except that the standing part and working end on the U-shaped piece are swapped.
+This new knot is tied exactly like the Simple-Simon-over except that the standing part and working end on the U-shaped rope are swapped. This results in a knot that clamps onto that U-shaped piece identically to the Simple-Simon-under bend but without the slightly more difficult pass _under_ the rope that the -under variant requires.
