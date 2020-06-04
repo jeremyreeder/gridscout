@@ -52,7 +52,7 @@ to retest them in the future with pristine line.
 I like the butterfly bend and find it easy to tie, so I'm happy to confirm that
 it holds so well.
 
-The Simple-Simon-crossover bend is my own invention. In this test it
+The Simple-Simon-crossover bend is my own creation. In this test it
 outperformed the Simple-Simon-over on which it is based. Since it's no harder
 to tie, this is fairly satisfying. I had hoped, though, that it would equal the
 security of the Simple-Simon-under. Maybe not.
