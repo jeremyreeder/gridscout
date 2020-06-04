@@ -23,14 +23,14 @@ some knots just won't slip.
 
 | Bend Knot              | Limit (g) | Failure |
 |------------------------|-----------|---------|
-| Butterfly Bend         | 3056      | Break   |
-| Simple Simon Under     | 2721      | Break   |
-| Simple Simon Crossover | 2214      | Slip    |
-| Simple Simon Over      | 1982      | Slip    |
-| Simple Simon Double    | 1933      | Break   |
-| Zeppelin Bend          | 1827      | Break   |
+| Butterfly bend         | 3056      | Break   |
+| Simple-Simon under     | 2721      | Break   |
+| Simple-Simon crossover | 2214      | Slip    |
+| Simple-Simon over      | 1982      | Slip    |
+| Simple-Simon double    | 1933      | Break   |
+| Zeppelin bend          | 1827      | Break   |
 | Sheetbend              | 1089      | Slip    |
-| Double Sheetbend       | 891       | Slip    |
+| Double sheetbend       | 891       | Slip    |
 
 
 ### Conclusions
@@ -45,3 +45,8 @@ this is pretty satisfying. I had hoped, though, that it would equal the security
 As expected, the sheetbend and double sheetbend slipped way too easily to be
 worth using. What's surprising is that the double sheetbend actually did the
 worst of these two.
+
+
+### How to tie the Simple-Simon-crossover bend
+
+This new knot is tied exactly like the Simple-Simon-over except that the standing part and working end on the U-shaped piece are swapped.
