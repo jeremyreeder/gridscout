@@ -40,7 +40,7 @@ it holds so well. I'm surprised that the zeppelin did so much worse. I find it
 a bit harder to tie and less versatile, so I may stop bothering with it.
 
 The Simple-Simon-crossover bend is my own invention. In this test it outperformed all but one of Harry Asher's Simple-Simon knots. Since it's also the easiest Simple-Simon to tie,
-this is pretty satisfying. I had hoped, though, that it would equal the security of the Simple-Simon-under. Not quite.
+this is pretty satisfying. I had hoped, though, that it would equal the security of the Simple-Simon-under. Not quite. Surprisingly, Asher's Simple-Simon-double seems have substantially reduced the breaking strength, making it the worst performer of the series.
 
 As expected, the sheetbend and double sheetbend slipped way too easily to be
 worth using. What's surprising is that the double sheetbend actually did the
