@@ -23,7 +23,7 @@ broke or slipped to a completely untied state.
 I was most interested in measuring the "security", or resistance to slipping,
 as opposed to breaking strength. That's why I intentionally chose the
 slipperiest material available to me. I hoped that all eight lines would slip
-rather than breaking; but alas, some knots just won't slip.
+before having a chance to break; but alas, some knots just won't slip.
 
 
 ### Results
