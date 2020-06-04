@@ -4,6 +4,7 @@ title: Comparison of bends
 author: Jeremy Reeder
 date: 2020-06-03
 tags: knot
+redirect_from: /bends
 ---
 
 ### Experiment
