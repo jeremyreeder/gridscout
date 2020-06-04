@@ -32,11 +32,11 @@ knots just won't slip.
 | [Butterfly bend][butterfly-bend]                 | 6.1        | Break*  |
 | [Simple-Simon under][simple-simon-under]         | 5.4        | Break*  |
 | [Simple-Simon crossover][simple-simon-crossover] | 4.4        | Slip    |
-| Simple-Simon over                                | 4.0        | Slip    |
-| Simple-Simon double                              | 3.9        | Break*  |
+| [Simple-Simon over][simple-simon-over]           | 4.0        | Slip    |
+| [Simple-Simon double][simple-simon-double]       | 3.9        | Break*  |
 | [Zeppelin bend][zeppelin-bend]                   | 3.7        | Break*  |
-| Sheetbend                                        | 2.2        | Slip    |
-| Double sheetbend                                 | 1.8        | Slip    |
+| [Sheetbend][sheetbend]                           | 2.2        | Slip    |
+| [Double sheetbend][sheetbend-double]             | 1.8        | Slip    |
 
 \* It's astonishing that the almighty zeppelin bend broke so much more easily
 than the butterfly bend. I wonder if some parts of this line had suffered
@@ -80,6 +80,10 @@ ultimately diagonal from each other.
 [simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
 
 [butterfly-bend]:         https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[sheetbend]:              https://en.wikipedia.org/wiki/Sheet_bend
+[sheetbend-double]:       https://en.wikipedia.org/wiki/Sheet_bend#Double_sheet_bend
 [simple-simon-crossover]: #simple-simon-crossover
+[simple-simon-double]:    https://www.youtube.com/watch?v=rzz74SBDtBA
+[simple-simon-over]:      https://korpegard.se/knot/?knot=22
 [simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
 [zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
