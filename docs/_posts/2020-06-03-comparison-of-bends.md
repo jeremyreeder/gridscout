@@ -29,48 +29,50 @@ knots just won't slip.
 
 | Bend Knot                                | Limit (g) | Failure |
 |------------------------------------------|-----------|---------|
-| [Butterfly bend][butterfly-bend]         | 3056      | Break   |
-| [Simple-Simon under][simple-simon-under] | 2721      | Break   |
+| [Butterfly bend][butterfly-bend]         | 3056      | Break*  |
+| [Simple-Simon under][simple-simon-under] | 2721      | Break*  |
 | Simple-Simon crossover                   | 2214      | Slip    |
 | Simple-Simon over                        | 1982      | Slip    |
-| Simple-Simon double                      | 1933      | Break   |
-| [Zeppelin bend][zeppelin-bend]           | 1827      | Break   |
+| Simple-Simon double                      | 1933      | Break*  |
+| [Zeppelin bend][zeppelin-bend]           | 1827      | Break*  |
 | Sheetbend                                | 1089      | Slip    |
 | Double sheetbend                         | 891       | Slip    |
+
+* I wonder if some parts of this line had suffered damage from a prior fishing
+excursion. If so, then all of the bends which failed by breaking may have
+otherwise broken at a higher limit. I'd like to retest them in the future with
+pristine line.
+{:.tangent}
 
 
 ### Conclusions
 
 I like the butterfly bend and find it easy to tie, so I'm happy to confirm that
-it holds so well. I'm surprised that the zeppelin did so much worse. I find it
-a bit harder to tie and less versatile, so I may stop bothering with it.
+it holds so well.
 
 The Simple-Simon-crossover bend is my own invention. In this test it
-outperformed all but one of Harry Asher's Simple-Simon knots. Since it's also
-the easiest Simple-Simon to tie, this is pretty satisfying. I had hoped,
-though, that it would equal the security of the Simple-Simon-under. Maybe not
-quite. Surprisingly, it looks like Asher's Simple-Simon-double substantially
-reduces breaking strength, making it the worst performer of the series.
-
-I wonder if some parts of this line had suffered damage from a prior fishing
-excursion. If so, then all of the bends which failed by breaking may have
-otherwise broken at a higher limit. I'd like to retest them in the future with
-pristine line.
-{:.tangent}
+outperformed the Simple-Simon-over on which it is based. Since it's no harder
+to tie, this is fairly satisfying. I had hoped, though, that it would equal the
+security of the Simple-Simon-under. Maybe not.
 
 As expected, the sheetbend and double sheetbend slipped way too easily to be
 worth using. What's surprising is that the double sheetbend actually did the
 worst of these two.
 
 
-### Tying the Simple-Simon-crossover bend
+### Simple-Simon-crossover bend
 
 This new knot is a variant of the Simple-Simon-over that varies only in
 swapping the standing part and working end of the first rope's bight around
 which the second rope is tied. This results in a bight clamped identically to
 that of the Simple-Simon-under bend without the added difficulty of making a
-pass _under_ the rope as the -under variant requires. Uniquely among the
-Simple-Simon knots, the rope ends are ultimately diagonal from each other.
+pass _under_ the rope as the -under variant requires. For this reason, I
+hypothesized (incorrectly, it seems) that this bend would be just as secure as the
+Simple-Simon-under. Uniquely among the Simple-Simon knots, the rope ends are
+ultimately diagonal from each other.
+
+In all of the Simple-Simon knots, when tied with identical lines, surely the
+bight will slip before the wrapping around it does. 
 
 ![][simple-simon-crossover-photo]
 *Simple-Simon crossover*
