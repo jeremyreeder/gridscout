@@ -38,10 +38,11 @@ knots just won't slip.
 | Sheetbend                                | 1089      | Slip    |
 | Double sheetbend                         | 891       | Slip    |
 
-\* I wonder if some parts of this line had suffered damage from a prior fishing
-excursion. If so, then all of the bends which failed by breaking may have
-otherwise broken at a higher limit. I'd like to retest them in the future with
-pristine line.
+\* It's astonishing that the almighty zeppelin bend broke so much more easily
+than the butterfly bend. I wonder if some parts of this line had suffered
+undetected damage from a prior fishing excursion. If so, then all of the bends
+which failed by breaking may have otherwise broken at a higher limit. I'd like
+to retest them in the future with pristine line.
 {:.tangent}
 
 
