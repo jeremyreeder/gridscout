@@ -20,6 +20,7 @@ I hoped and expected that my own invention, the Simple-Simon-crossover, would
 perform exactly the same as the Simple-Simon-under.
 
 ### Results
+
 | Bend Knot              | Limit (g) | Failure |
 |------------------------|-----------|---------|
 | Butterfly Bend         | 3056      | Break   |
