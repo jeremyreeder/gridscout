@@ -27,16 +27,16 @@ knots just won't slip.
 
 ### Results
 
-| Bend Knot                                | Limit (kg) | Failure |
-|------------------------------------------|------------|---------|
-| [Butterfly bend][butterfly-bend]         | 6.1        | Break*  |
-| [Simple-Simon under][simple-simon-under] | 5.4        | Break*  |
-| Simple-Simon crossover                   | 4.4        | Slip    |
-| Simple-Simon over                        | 4.0        | Slip    |
-| Simple-Simon double                      | 3.9        | Break*  |
-| [Zeppelin bend][zeppelin-bend]           | 3.7        | Break*  |
-| Sheetbend                                | 2.2        | Slip    |
-| Double sheetbend                         | 1.8        | Slip    |
+| Bend Knot                                        | Limit (kg) | Failure |
+|--------------------------------------------------|------------|---------|
+| [Butterfly bend][butterfly-bend]                 | 6.1        | Break*  |
+| [Simple-Simon under][simple-simon-under]         | 5.4        | Break*  |
+| [Simple-Simon crossover][simple-simon-crossover] | 4.4        | Slip    |
+| Simple-Simon over                                | 4.0        | Slip    |
+| Simple-Simon double                              | 3.9        | Break*  |
+| [Zeppelin bend][zeppelin-bend]                   | 3.7        | Break*  |
+| Sheetbend                                        | 2.2        | Slip    |
+| Double sheetbend                                 | 1.8        | Slip    |
 
 \* It's astonishing that the almighty zeppelin bend broke so much more easily
 than the butterfly bend. I wonder if some parts of this line had suffered
@@ -62,6 +62,7 @@ worst of these two.
 
 
 ### Simple-Simon-crossover bend
+{:#simple-simon-crossover}
 
 This new knot is a variant of the Simple-Simon-over that varies only in
 swapping the standing part and working end of the first rope's bight around
@@ -72,15 +73,13 @@ hypothesized (incorrectly, it seems) that this bend would be just as secure as t
 Simple-Simon-under. Uniquely among the Simple-Simon knots, the rope ends are
 ultimately diagonal from each other.
 
-In all of the Simple-Simon knots, when tied with identical lines, surely the
-bight will slip before the wrapping around it does. 
-
 ![][simple-simon-crossover-photo]
 *Simple-Simon crossover*
 
 
 [simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
 
-[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
-[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
+[butterfly-bend]:         https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[simple-simon-crossover]: #simple-simon-crossover
+[simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
+[zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
