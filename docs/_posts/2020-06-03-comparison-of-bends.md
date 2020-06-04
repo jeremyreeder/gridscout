@@ -27,16 +27,16 @@ knots just won't slip.
 
 ### Results
 
-| Bend Knot                                | Limit (g) | Failure |
-|------------------------------------------|-----------|---------|
-| [Butterfly bend][butterfly-bend]         | 3056      | Break*  |
-| [Simple-Simon under][simple-simon-under] | 2721      | Break*  |
-| Simple-Simon crossover                   | 2214      | Slip    |
-| Simple-Simon over                        | 1982      | Slip    |
-| Simple-Simon double                      | 1933      | Break*  |
-| [Zeppelin bend][zeppelin-bend]           | 1827      | Break*  |
-| Sheetbend                                | 1089      | Slip    |
-| Double sheetbend                         | 891       | Slip    |
+| Bend Knot                                | Limit (kg) | Failure |
+|------------------------------------------|------------|---------|
+| [Butterfly bend][butterfly-bend]         | 6.1        | Break*  |
+| [Simple-Simon under][simple-simon-under] | 5.4        | Break*  |
+| Simple-Simon crossover                   | 4.4        | Slip    |
+| Simple-Simon over                        | 4.0        | Slip    |
+| Simple-Simon double                      | 3.9        | Break*  |
+| [Zeppelin bend][zeppelin-bend]           | 3.7        | Break*  |
+| Sheetbend                                | 2.2        | Slip    |
+| Double sheetbend                         | 1.8        | Slip    |
 
 \* It's astonishing that the almighty zeppelin bend broke so much more easily
 than the butterfly bend. I wonder if some parts of this line had suffered
