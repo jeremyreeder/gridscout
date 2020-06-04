@@ -18,8 +18,6 @@ why I chose a material that's intentionally super slippery, hoping that in most
 cases I'd reach the security limit before I reach the strength limit. But alas,
 some knots just won't slip.
 
-I hoped and expected that my own invention, the Simple-Simon-crossover, would
-perform exactly the same as the Simple-Simon-under.
 
 ### Results
 
@@ -34,13 +32,14 @@ perform exactly the same as the Simple-Simon-under.
 | Sheetbend              | 1089      | Slip    |
 | Double Sheetbend       | 891       | Slip    |
 
+
 ### Conclusions
 
 I like the butterfly bend and find it easy to tie, so I'm happy to learn that
 it holds so well. I'm surprised that the zeppelin did so much worse. I find it
 a bit harder to tie and less versatile, so I may stop bothering with it.
 
-My Simple-Simon-crossover bend outperformed all but one of the Simple-Simon knots. Since it's also the easiest Simple-Simon to tie,
+The Simple-Simon-crossover bend is my own invention. In this test it outperformed all but one of Harry Asher's Simple-Simon knots. Since it's also the easiest Simple-Simon to tie,
 this is pretty satisfying. I had hoped, though, that it would equal the security of the Simple-Simon-under. Not quite.
 
 As expected, the sheetbend and double sheetbend slipped way too easily to be
