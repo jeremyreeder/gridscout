@@ -6,6 +6,8 @@ date: 2020-06-03
 tags: knot
 ---
 
+### Experiment
+
 I've been wondering about the relative security of various bend knots. By this
 I mean how much force each knot can take before coming untied. So I did a
 little experiment with eight bends tied in greased fishing line.
@@ -32,15 +34,14 @@ perform exactly the same as the Simple-Simon-under.
 | Sheetbend              | 1089      | Slip    |
 | Double Sheetbend       | 891       | Slip    |
 
+### Conclusions
+
 I like the butterfly bend and find it easy to tie, so I'm happy to learn that
 it holds so well. I'm surprised that the zeppelin did so much worse. I find it
-a bit harder to tie and less versatile, so I may stop bothering with it. As for
-the Simple-Simon-crossover, it outperformed two of the original Simple-Simon
-knots and is one of the easiest to tie.
+a bit harder to tie and less versatile, so I may stop bothering with it.
 
-My Simple-Simon-crossover bend outperformed all of the Simple-Simon knots
-except the -under version. Since it's also the easiest Simple-Simon to tie,
-this is pretty satisfying.
+My Simple-Simon-crossover bend outperformed all but one of the Simple-Simon knots. Since it's also the easiest Simple-Simon to tie,
+this is pretty satisfying. I had hoped, though, that it would equal the security of the Simple-Simon-under.
 
 As expected, the sheetbend and double sheetbend slipped way too easily to be
 worth using. What's surprising is that the double sheetbend actually did the
