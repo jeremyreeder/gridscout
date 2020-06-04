@@ -34,7 +34,7 @@ perform exactly the same as the Simple-Simon-under.
 
 I like the butterfly bend and find it easy to tie, so I'm happy to learn that
 it holds so well. I'm surprised that the zeppelin did so much worse. I find it
-a bit harder to tie and less versatile, so I'll stop bothering with it. As for
+a bit harder to tie and less versatile, so I may stop bothering with it. As for
 the Simple-Simon-crossover, it outperformed two of the original Simple-Simon
 knots and is one of the easiest to tie.
 
