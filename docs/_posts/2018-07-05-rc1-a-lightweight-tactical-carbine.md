@@ -148,7 +148,7 @@ one.
 </div>
 
 ![][to-be-continued]
-*Coming soon — Trigger*
+*Coming 2020-06 — Trigger*
 
 ## Performance
 When the RC1 is complete, I will assess the performance of this weapon in a
