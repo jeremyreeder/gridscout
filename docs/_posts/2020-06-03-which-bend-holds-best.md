@@ -24,7 +24,7 @@ minimum slip limit.
 I was most interested in measuring the "security", or resistance to slipping,
 as opposed to breaking strength. That's why I chose slippery material and made
 it even slipperier, hoping that each bend would slip before having a chance to
-break; but alas, some knots just won't slip.
+break. But alas, some knots just won't slip.
 
 
 ### Results
