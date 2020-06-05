@@ -12,7 +12,7 @@ redirect_from:
 ### Experiment
 
 A "bend" is a knot for joining two ropes together. Thinking that it would be
-helpful to know which bends do this job best, I took eight pieces of my
+helpful to know which bends do this job best, I took several pieces of my
 daughter's fishing line and did a little experiment.
 
 In each piece I tied a different bend, which I greased before pulling it tight.
@@ -38,6 +38,8 @@ before having a chance to break; but alas, some knots just won't slip.
 | [Zeppelin bend][zeppelin-bend]                   | 3.7        | Break*  |
 | [Sheetbend][sheetbend]                           | 2.2        | Slip    |
 | [Double sheetbend][sheetbend-double]             | 1.8        | Slip    |
+| Hunter's bend                                    | TBD        | -       |
+| Vice-versa bend                                  | TBD        | -       |
 
 \* It's astonishing that the almighty zeppelin bend broke so much more easily
 than the butterfly bend, and that the Simple-Simon-double bend, supposedly the
