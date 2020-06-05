@@ -30,8 +30,8 @@ before having a chance to break; but alas, some knots just won't slip.
 
 | Bend Knot                                        | Limit (kg) | Failure |
 |--------------------------------------------------|------------|---------|
-| [Butterfly bend][butterfly-bend]                 | 6.1        | Break*  |
-| [Simple-Simon under][simple-simon-under]         | 5.4        | Break*  |
+| [Butterfly bend][butterfly-bend]                 | 6.1        | Break   |
+| [Simple-Simon under][simple-simon-under]         | 5.4        | Break   |
 | [Simple-Simon crossover][simple-simon-crossover] | 4.4        | Slip    |
 | [Simple-Simon over][simple-simon-over]           | 4.0        | Slip    |
 | [Simple-Simon double][simple-simon-double]       | 3.9        | Break*  |
@@ -40,10 +40,9 @@ before having a chance to break; but alas, some knots just won't slip.
 | [Double sheetbend][sheetbend-double]             | 1.8        | Slip    |
 
 \* It's astonishing that the almighty zeppelin bend broke so much more easily
-than the butterfly bend. I wonder if some parts of this line had suffered
-undetected damage from a prior fishing excursion. If so, then all of the bends
-which failed by breaking may have otherwise broken at a higher limit. I'd like
-to retest them in the future with pristine line.
+than the butterfly bend, and that the Simple-Simon-double bend, supposedly the
+most secure of the Simple Simons, broke before it had a chance to show off its
+grip. Further testing is needed.
 {:.tangent}
 
 
