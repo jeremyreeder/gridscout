@@ -26,7 +26,7 @@ slipperiest material available to me. I hoped that all eight lines would slip
 before having a chance to break; but alas, some knots just won't slip.
 
 
-### Results
+### Results (SO FAR)
 
 | Bend Knot                                        | Limit (kg) | Failure |
 |--------------------------------------------------|------------|---------|
@@ -48,7 +48,7 @@ grip. Further testing is needed.
 {:.tangent}
 
 
-### Conclusions
+### Conclusions (INTERIM)
 
 I'll have to test a few more times before I can draw any conclusive
 conclusions, but for now here are some thoughts to serve as interim
