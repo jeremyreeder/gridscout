@@ -151,8 +151,8 @@ one.
 *Coming 2020-06 — Trigger*
 
 ## Performance
-When the RC1 is complete, I will assess the performance of this weapon in a
-future post. I'll provide a link here to make it easy on you.
+When the RC1 is complete, its performance will be assessed in a separate post,
+a link to which will be conveniently provided here.
 
 
 [concept-2018-07-31]:           {{ '/images/rc1-concept-2018-07-31.jpg'           | prepend: site.url }}
