@@ -29,16 +29,16 @@ break; but alas, some knots just won't slip.
 
 ### Results
 
-| Bend knot                                        | Security (kilograms of rocks) |
-|--------------------------------------------------|-------------------------------|
-| [Butterfly bend][butterfly-bend]                 | 5.4+                          |
-| [Zeppelin bend][zeppelin-bend]                   | 5.4+                          |
-| [Simple-Simon double][simple-simon-double]       | 5.4+                          |
-| [Simple-Simon under][simple-simon-under]         | 5.4+                          |
-| [Simple-Simon crossover][simple-simon-crossover] | 4.9                           |
-| [Simple-Simon over][simple-simon-over]           | 4.0                           |
-| [Double sheetbend][sheetbend-double]             | 3.3                           |
-| [Sheetbend][sheetbend]                           | 2.2                           |
+| Bend knot                                        | Security (kg of rocks) |
+|--------------------------------------------------|------------------------|
+| [Butterfly bend][butterfly-bend]                 | 5.4+                   |
+| [Zeppelin bend][zeppelin-bend]                   | 5.4+                   |
+| [Simple-Simon double][simple-simon-double]       | 5.4+                   |
+| [Simple-Simon under][simple-simon-under]         | 5.4+                   |
+| [Simple-Simon crossover][simple-simon-crossover] | 4.9                    |
+| [Simple-Simon over][simple-simon-over]           | 4.0                    |
+| [Double sheetbend][sheetbend-double]             | 3.3                    |
+| [Sheetbend][sheetbend]                           | 2.2                    |
 
 The '+' symbol indicates that the knot's slip limit, even tied in grease,
 exceeds the breaking strength of the line in which it was tested.
