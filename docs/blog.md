@@ -1,11 +1,11 @@
 ---
 layout: default
-title: What's new in the manly arts?
+title: The Manly Arts
 permalink: /blog/
 ---
 
 # GridScout™ Blog
-Here's what's new in the manly arts, from the [GridScout][gridscout] team.
+Here's what's going on in the manly arts, from the [GridScout][gridscout] team.
 
 Subscribe: [Atom feed][feed]
 
