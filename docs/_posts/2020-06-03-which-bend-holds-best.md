@@ -9,7 +9,7 @@ redirect_from:
   - 2020/06/03/comparison-of-bends.html
 ---
 
-### Experiment
+### Experiment (IN PROGRESS)
 
 A "bend" is a knot for joining two ropes together. Thinking that it would be
 helpful to know which bends do this job best, I took several pieces of my
