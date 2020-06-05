@@ -39,13 +39,16 @@ long. A shank that easily shakes loose obviously won't do.
 
 ### Bends
 - **[Simple-Simon-under bend.][simple-simon-under]** Use in place of sheetbend
-  for joining slippery or dissimilar ropes. As easy as the name suggests.
+  for joining slippery or dissimilar ropes. About as easy as the name suggests.
 - **[Vice-versa bend.][vice-versa-bend]** Use in place of sheetbend for
   joining stretchy rope.
 - **Butterfly bend.** Use alpine butterfly in place of sheetbend wherever ease
   of untying after extreme stress is valued more than tidiness.
 - **[Zeppelin bend.][zeppelin-bend]** Use anywhere you'd use the butterfly
   bend, like when mooring blimps.
+
+I tested the security of eight bends. Check out the [results][bend-test].
+{:.tangent}
 
 
 ### Bindings
@@ -106,6 +109,7 @@ bights for only half of the knot disrupts that symmetry.
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
+[bend-test]:           {{ '/2020/06/03/which-bend-holds-best.html' | prepend: site.url }}
 [butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
