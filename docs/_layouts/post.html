@@ -10,10 +10,12 @@ layout: default
 
 	{{content}}
 
-	<div class="post-metadata">© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net</div>
-	{% if page.tags %}
-	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-	{% endif %}
+	<div class="post-metadata">
+		© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net
+	</div>
 </div>
 
 <p>Subscribe to GridScout™ Blog: <a href="/feed.xml">Atom feed</a></p>
+{% if page.tags %}
+  <p><small style="display: none">tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small></p>
+{% endif %}
