@@ -46,12 +46,14 @@ grip. Further testing is needed.
 {:.tangent}
 
 
-### Conclusions
+### Conclusions, kind of
+
+I'll have to test a few more times before I can draw any conclusive conclusions, but for now here are some interim conclusion substitutes. I'll update this post when I've done more testing.
 
 I like the butterfly bend and find it easy to tie, so I'm happy to confirm that
 it holds so well.
 
-The Simple-Simon-crossover bend is my own invention. In this test it
+The Simple-Simon-crossover bend is my own creation. In this test it
 outperformed the Simple-Simon-over on which it is based. Since it's no harder
 to tie, this is fairly satisfying. I had hoped, though, that it would equal the
 security of the Simple-Simon-under. Maybe not.
