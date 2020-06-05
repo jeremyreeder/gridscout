@@ -14,7 +14,7 @@ Subscribe: [Atom feed][feed]
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
 {{ post.content }}
-<div class="post-metadata">© {{ post.date | date: "%Y" }} gridscout.net &amp; {{ post.author }}</div>
+<div class="post-metadata">© {{ post.date | date: "%Y" }} {{ post.author }} &amp; gridscout.net </div>
 </div>
 {% endfor %}
 

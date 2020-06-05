@@ -10,7 +10,7 @@ layout: default
 
 	{{content}}
 
-	<div class="post-metadata">© {{ page.date | date: "%Y" }} gridscout.net</div>
+	<div class="post-metadata">© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net</div>
 	{% if page.tags %}
 	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 	{% endif %}
