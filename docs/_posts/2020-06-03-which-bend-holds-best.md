@@ -48,7 +48,9 @@ grip. Further testing is needed.
 
 ### Conclusions, kind of
 
-I'll have to test a few more times before I can draw any conclusive conclusions, but for now here are some interim conclusion substitutes. I'll update this post when I've done more testing.
+I'll have to test a few more times before I can draw any conclusive
+conclusions, but for now here are some interim conclusion substitutes. I'll
+update this post when I've done more testing.
 
 I like the butterfly bend and find it easy to tie, so I'm happy to confirm that
 it holds so well.
