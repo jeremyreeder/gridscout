@@ -10,10 +10,10 @@ layout: default
 
 	{{content}}
 
+	<div class="post-metadata">© {{ page.date | date: "%Y" }} gridscout.net</div>
 	{% if page.tags %}
 	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 	{% endif %}
 </div>
 
 <p>Subscribe to GridScout™ Blog: <a href="/feed.xml">Atom feed</a></p>
-<div class="post-metadata">© {{ page.date | date: "%Y" }} gridscout.net</div>
