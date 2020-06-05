@@ -130,8 +130,7 @@ Subscribe to [GridScout™ Blog][blog] to keep up on this and other manly pursui
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
 licensed under [Creative Commons BY 3.0][icon-license].
 
-All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
-terms of the [MIT License][mit-license].
+<div class="post-metadata">© 2018-2020 gridscout.net &amp; Jeremy Reeder</div>
 
 
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
@@ -148,7 +147,6 @@ terms of the [MIT License][mit-license].
 [jeremy]:           mailto:jeremy@gridscout.net
 [jeremy-key]:       publickey.jeremy@gridscout.net.asc
 [mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System
-[mit-license]:      https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
 [mytopo]:           https://www.mytopo.com
 [protonmail]:       https://protonmail.com
 [protonvpn]:        https://protonvpn.com

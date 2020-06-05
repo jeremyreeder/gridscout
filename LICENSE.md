@@ -1,5 +1,5 @@
-GridScout™ © 2018 Jeremy Reeder. Use and distribution are subject to the terms
-of the MIT License, as follows.
+GridScout™ © 2018-2020 Jeremy Reeder. Use and distribution are subject to the
+terms of the MIT License, as follows.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
