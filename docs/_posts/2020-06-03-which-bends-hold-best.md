@@ -19,7 +19,7 @@ daughter's fishing line and did a little experiment.
 In each piece I tied a different bend, which I greased before pulling it tight.
 I then hung the resulting loop on a hook and suspended a bag from it. I filled
 the bag with rocks till the fishing line either broke or slipped to a
-completely untied state. I then repeated the experiment and recorded the lowest mass of rocks that had caused the knot to slip.
+completely untied state. I then repeated the experiment and recorded the average mass of of the bag of rocks that had caused the knot to slip.
 
 I was most interested in measuring the "security", or resistance to slipping,
 as opposed to breaking strength. That's why I chose slippery material and made
@@ -37,8 +37,8 @@ break. But alas, some knots just won't slip.
 | [Simple-Simon under][simple-simon-under]         | 5.4+                   |
 | [Simple-Simon crossover][simple-simon-crossover] | 4.9                    |
 | [Simple-Simon over][simple-simon-over]           | 4.0                    |
-| [Double sheetbend][sheetbend-double]             | 1.8                    |
-| [Sheetbend][sheetbend]                           | 1.5                    |
+| [Double sheetbend][sheetbend-double]             | 3.3                    |
+| [Sheetbend][sheetbend]                           | 1.8                    |
 
 The '+' symbol indicates that the knot's slip limit, even tied in grease,
 exceeds the breaking strength of the line in which it was tested.
@@ -57,8 +57,8 @@ out to be as secure as the Simple-Simon-under. It seems that it may not be
 _quite_ as secure, but it's unclear to me why there would be any difference at
 all. I'd like to do additional testing of these two knots in the future.
 
-The classic sheetbend and double sheetbend slip far more easily than every
-other bend tested. So much so, that it's hard to justify their use.
+The classic sheetbend and double sheetbend are the least secure of all bends tested.
+The former slips so easily in comparison that its use is hard to justify.
 
 
 ### Simple-Simon-crossover bend
