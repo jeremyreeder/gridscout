@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Which bend holds best?
+title: Which bends hold best?
 author: Jeremy Reeder
 date: 2020-06-03
 tags: knot
 redirect_from:
   - /bends
-  - 2020/06/03/comparison-of-bends.html
+  - /2020/06/03/comparison-of-bends.html
+  - /2020/06/03/which-bend-holds-best.html
 ---
 
 ### Experiment
