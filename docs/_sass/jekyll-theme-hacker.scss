@@ -161,6 +161,10 @@ ul li {
   margin: 1em 0;
 }
 
+ol li {
+  list-style: lower-roman;
+}
+
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
