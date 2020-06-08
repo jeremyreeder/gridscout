@@ -18,7 +18,7 @@ hitch, and shoelace knot.
 {:.tangent}
 
 
-### Loops
+### Fixed loops
 
 - **[Cossack loop.][cossack-loop]**
 Use at the end of a rope in place of bowline loop. Favored by Russians and
@@ -101,11 +101,13 @@ bights for only half of the knot disrupts that symmetry.
 This binding serves well as a simple hitch.
 
 - **[Steeplejack's knot.][steeplejacks-knot]**
-Use in place of rolling hitch or two half-hitches.
+A simple friction hitch that actually holds. Use in place of rolling hitch or
+two half-hitches.
 
 - **[Safety-belt hitch.][safety-belt-hitch]**
-Use in place of midshipman's hitch to tie down an aircraft or tension a
-guyline.
+Consists of a steeplejack's knot tied around the standing part to form an
+adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
+to tension a guyline.
 
 - **Trucker’s hitch (fixed-loop variant, securely locked).**
 Everybody ties this differently. Here's one that stays put. Make a fixed
@@ -131,7 +133,7 @@ and cinch it tight.
 [double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
 [safety-belt-hitch]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
-[steeplejacks-knot:    https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
+[steeplejacks-knot]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
 [simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
 [vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
