@@ -104,7 +104,7 @@ This binding serves well as a simple hitch.
 A simple friction hitch that actually holds. Use in place of rolling hitch or
 two half-hitches.
 
-- **[Safety-belt hitch.][safety-belt-hitch]**
+- **Safety-belt hitch.**
 Consists of a steeplejack's knot tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
 to tension a guyline.
@@ -133,7 +133,6 @@ Use this compound knot to secure a load.
 [cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
 [double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
-[safety-belt-hitch]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [steeplejacks-knot]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
 [simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
