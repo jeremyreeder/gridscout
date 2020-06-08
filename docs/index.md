@@ -124,7 +124,7 @@ Build an Area Study for Emergencies and Community Security][area-study],
 courtesy of [Forward Observer][forward-observer].
 
 # Blog
-Subscribe to [GridScout™ Blog][blog] to keep up on this and other manly pursuits.
+Subscribe to [GridScout™ Journal][blog] to keep up on this and other manly pursuits.
 
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
@@ -135,7 +135,7 @@ licensed under [Creative Commons BY 3.0][icon-license].
 
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
 [battalion]:        https://adacountylightfoot.github.io
-[blog]:             blog/
+[blog]:             journal/
 [contributing]:     contributing
 [duralar]:          https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
