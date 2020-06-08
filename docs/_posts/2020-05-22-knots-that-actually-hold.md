@@ -102,15 +102,20 @@ bights for only half of the knot disrupts that symmetry.
 - **Double constrictor knot, or slipped variant.**
 This binding serves well as a simple hitch.
 
-- **[Camel hitch][camel-hitch]**
+- **[Camel hitch.][camel-hitch]**
 Consists of two double-throw half-hitches. Use to hitch your camel, or anywhere
 that your 19th-century counterpart would've used two half-hitches or a rolling
 hitch.
 
-- **Camel-hitch loop**
+- **Sub-lieutenant's hitch.**
 When the camel hitch is tied around the standing part, it forms a secure
 adjustable loop. Use in place of midshipman's hitch to tie down an aircraft or
-to tension a guyline.
+to tension a guyline. Sub-lieutentant is the rank directly above midshipman in
+the Royal Navy, so I consider this an apt name for this improvement upon the
+midshipman's hitch.
+
+I just made that one up. You're welcome.
+{:.tangent}
 
 - **Trucker’s hitch (fixed-loop variant, securely locked).**
 Everybody ties this differently. Here's one that stays put. Make a fixed
