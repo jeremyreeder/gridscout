@@ -109,11 +109,12 @@ Consists of a steeplejack's knot tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
 to tension a guyline.
 
-- **Trucker’s hitch (fixed-loop variant, securely locked).**
-Everybody ties this differently. Here's one that stays put. Make a fixed
-upper loop (e.g. alpine butterfly). Pass the end around an object and through
-the upper loop. Then tie a steeplejack's hitch around the resulting lower loop
-and cinch it tight.
+- **Trucker’s hitch (secure & adjustable variant).**
+Use this compound knot to secure a load.
+  1. Make a fixed upper loop with the alpine butterfly.
+  2. Pass the end around an object and through that upper loop.
+  3. Tie a safety-belt hitch around the resulting lower loop.
+  4. Adjust the safety-belt hitch to remove all slack.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
