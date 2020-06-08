@@ -74,8 +74,6 @@ but easily untied binding.
 *Double constrictor knots: unslipped & slipped*
 </div>
 
-- **[Strangle knot.][strangle-knot]**
-Use in place of one or two half-hitches to lock any unfinished knot.
 - **Double-throw reef knot.**
 Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Simply a reef
 knot with its two halves converted to double overhand knots by an additional
@@ -102,26 +100,18 @@ bights for only half of the knot disrupts that symmetry.
 - **Double constrictor knot, or slipped variant.**
 This binding serves well as a simple hitch.
 
-- **[Camel hitch.][camel-hitch]**
-Consists of two double-throw half-hitches. Use to hitch your camel, or anywhere
-that your 19th-century counterpart would've used two half-hitches or a rolling
-hitch.
+- **[Steeplejack's knot.][steeplejacks-knot]**
+Use in place of rolling hitch or two half-hitches.
 
-- **Sub-lieutenant's hitch.**
-When the camel hitch is tied around the standing part, it forms a secure
-adjustable loop. Use in place of midshipman's hitch to tie down an aircraft or
-to tension a guyline. Sub-lieutentant is the rank directly above midshipman in
-the Royal Navy, so I consider this an apt name for this improvement upon the
-midshipman's hitch.
-
-I just made that one up. You're welcome.
-{:.tangent}
+- **[Safety-belt hitch.][safety-belt-hitch]**
+Use in place of midshipman's hitch to tie down an aircraft or tension a
+guyline.
 
 - **Trucker’s hitch (fixed-loop variant, securely locked).**
 Everybody ties this differently. Here's one that stays put. Make a fixed
 upper loop (e.g. alpine butterfly). Pass the end around an object and through
-the upper loop. Then tie a camel hitch around the resulting lower loop and
-cinch it tight.
+the upper loop. Then tie a steeplejack's hitch around the resulting lower loop
+and cinch it tight.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
@@ -134,15 +124,15 @@ cinch it tight.
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
-[bend-test]:            {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
-[butterfly-bend]:       https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
-[camel-hitch]:          https://www.survivalworld.com/knots/camel-hitch/
-[cossack-loop]:         https://en.wikipedia.org/wiki/Cossack_knot
-[double-constrictor]:   https://captnmike.com/2011/10/15/double-constrictor/
-[flemish-loop]:         https://www.netknots.com/rope_knots/figure-eight
-[surgical-knot-study]:  {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
-[simple-simon-under]:   https://en.wikipedia.org/wiki/Simple_Simon_under
-[strangle-knot]:        https://en.m.wikipedia.org/wiki/Strangle_knot
-[vice-versa-bend]:      https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:        https://www.netknots.com/rope_knots/zeppelin-bend
+[bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
+[butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
+[cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
+[double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
+[flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
+[safety-belt-hitch]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
+[steeplejacks-knot:    https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
+[surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
+[simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
+[vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
