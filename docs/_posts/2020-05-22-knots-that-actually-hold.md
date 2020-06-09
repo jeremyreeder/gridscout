@@ -110,7 +110,7 @@ adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
 to tension a guyline.
 
 - **Trucker’s hitch (secure & adjustable variant).**
-Use this compound knot to secure a load.
+Use this compound hitch to secure a heavy load.
   1. Make a fixed upper loop with the alpine butterfly.
   2. Pass the end around an object to form a lower loop.
   3. With the remainder of the rope, tie a safety-belt hitch onto the upper loop.
