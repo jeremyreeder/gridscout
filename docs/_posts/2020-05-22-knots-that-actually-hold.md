@@ -113,7 +113,7 @@ to tension a guyline.
 Use this compound knot to secure a load.
   1. Make a fixed upper loop with the alpine butterfly.
   2. Pass the end around an object to form a lower loop.
-  3. With the remainder of the rope, tie a safety-belt hitch interlocked with the upper loop.
+  3. With the remainder of the rope, tie a safety-belt hitch onto the upper loop.
   4. Adjust the safety-belt hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
