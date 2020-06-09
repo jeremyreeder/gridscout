@@ -10,7 +10,7 @@ redirect_from: /knots
 Some knots in common use have never been all that good. Others have grown less
 secure as we've turned to synthetic ropes. These ropes are strong and resist
 rotting, but they're a bit slippery. So we just can't keep depending on knots
-that kinda sorta worked in the 19th century. Here's a list of loops, shanks,
+that kinda sorta worked with the tarred hemp ropes of the 19th century. Here's a list of loops, shanks,
 bends, bindings, and hitches that'll actually hold in modern rope.
 
 FYI, the worst offenders are the sheepshank, sheetbend, half-hitch, clove
