@@ -112,8 +112,8 @@ to tension a guyline.
 - **Trucker’s hitch (secure & adjustable variant).**
 Use this compound knot to secure a load.
   1. Make a fixed upper loop with the alpine butterfly.
-  2. Pass the end around an object and through that upper loop.
-  3. Tie a safety-belt hitch around the resulting lower loop.
+  2. Pass the end around an object.
+  3. Tie it in a safety-belt hitch, interlocked with the upper loop.
   4. Adjust the safety-belt hitch to remove all slack.
 
 ![][truckers-hitch-photo]
