@@ -16,7 +16,7 @@ daughter's fishing line and did a little experiment.
 
 ### Experiment
 
-In each piece I tied a different bend, which I greased before pulling it tight.
+In each line I tied a different bend, which I greased before pulling it tight.
 I then hung the resulting loop on a hook and suspended a bag from it. I filled
 the bag with rocks till the fishing line either broke or slipped to a
 completely untied state. I then repeated the experiment and recorded the average mass of the bag of rocks that had caused the knot to fail.
