@@ -10,11 +10,11 @@ redirect_from:
   - /2020/06/03/which-bend-holds-best.html
 ---
 
-### Experiment
-
 A "bend" is a knot for joining two ropes together. Thinking that it would be
 helpful to know which bends do this job best, I took several pieces of my
 daughter's fishing line and did a little experiment.
+
+### Experiment
 
 In each piece I tied a different bend, which I greased before pulling it tight.
 I then hung the resulting loop on a hook and suspended a bag from it. I filled
