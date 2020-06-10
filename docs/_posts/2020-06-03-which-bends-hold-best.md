@@ -48,7 +48,7 @@ exceeds the breaking strength of the line in which it was tested.
 ### Conclusions
 
 I love the alpine butterfly as a bend, a shank, and a loop. It's versatile and
-easy to tie, so I'm happy to confirm that it consistently refuses to slip.
+easy to tie, so I'm happy to confirm that it refuses to slip.
 
 The Simple-Simon-crossover bend is my own creation. In this test it
 outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
