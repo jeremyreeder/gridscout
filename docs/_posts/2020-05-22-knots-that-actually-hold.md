@@ -34,7 +34,7 @@ Use in place of Flemish loop in the middle of a rope, if ease of untying is
 important.
 
 - **[Angler's loop.][anglers-loop]**
-Use for a permanent loop in bungee line.
+Use for a permanent loop in extremely slick cordage or bungee line.
 
 
 ### Shanks
