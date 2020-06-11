@@ -49,12 +49,12 @@ long. A shank that easily shakes loose obviously won't do.
 Use in place of sheetbend for joining slippery or dissimilar ropes. About as
 easy as the name suggests.
 - **[Vice-versa bend.][vice-versa-bend]**
-Use in place of sheetbend for joining stretchy rope.
+Use in place of sheetbend for joining bungee lines.
 - **Butterfly bend.**
 Use alpine butterfly in place of sheetbend wherever ease of untying after
 extreme stress is valued more than tidiness.
 - **[Zeppelin bend.][zeppelin-bend]**
-Use anywhere you'd use the butterfly bend, like when mooring blimps.
+Use anywhere that you might use the butterfly bend, such as for mooring blimps. Also suitable for joining bungee lines.
 
 I tested the security of eight bends. Check out the [results][bend-test].
 {:.tangent}
