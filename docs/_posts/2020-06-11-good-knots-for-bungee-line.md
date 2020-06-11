@@ -18,10 +18,12 @@ Tie this for a permanent loop.
 
 
 ### Bends
+
 - **[Vice-versa bend.][vice-versa-bend]**
 Use for joining two bungee lines. The ends are tidily parallel to the standing
 parts, convenient if you have to reeve the knot through an eye. Fairly
 difficult to untie after heavily loading.
+
 - **[Zeppelin bend.][zeppelin-bend]**
 Use in place of the vice-versa bend wherever ease of untying after extreme
 stress is valued more than tidiness.
