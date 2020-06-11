@@ -35,3 +35,5 @@ stress is valued more than tidiness.
 
 [anglers-loop]:    https://en.wikipedia.org/wiki/Angler's_loop
 [synthetic-knots]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
+[vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
