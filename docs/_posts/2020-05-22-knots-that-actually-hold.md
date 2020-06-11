@@ -142,8 +142,8 @@ with most traditional knots. So here's a reading list for specialty cordage.
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
-[bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
-[bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee.html' | prepend: site.url }}
+[bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'      | prepend: site.url }}
+[bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
 [butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
 [cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
