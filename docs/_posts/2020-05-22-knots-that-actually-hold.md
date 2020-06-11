@@ -33,6 +33,9 @@ untie after stressing though.
 Use in place of Flemish loop in the middle of a rope, if ease of untying is
 important.
 
+- **[Angler's loop.][anglers-loop]**
+Use for a permanent loop in bungee line.
+
 
 ### Shanks
 - **Butterfly shank.**
@@ -127,6 +130,7 @@ Use this compound hitch to secure a heavy load.
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
+[anglers-loop]: https://en.wikipedia.org/wiki/Angler's_loop
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
 [butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
