@@ -10,8 +10,9 @@ redirect_from: /knots
 Some knots in common use have never been all that good. Others have grown less
 secure as we've turned to synthetic ropes. These ropes are strong and resist
 rotting, but they're a bit slippery. So we just can't keep depending on knots
-that kinda sorta worked with the tarred hemp ropes of the 19th century. Here's a list of loops, shanks,
-bends, bindings, and hitches that'll actually hold in modern rope.
+that kinda sorta worked with the tarred hemp ropes of the 19th century. Here's
+a list of loops, shanks, bends, bindings, and hitches that'll actually hold in
+modern rope.
 
 FYI, the worst offenders are the sheepshank, sheetbend, half-hitch, clove
 hitch, and shoelace knot.
@@ -33,9 +34,6 @@ untie after stressing though.
 Use in place of Flemish loop in the middle of a rope, if ease of untying is
 important.
 
-- **[Angler's loop.][anglers-loop]**
-Use for a permanent loop in extremely slick cordage or bungee line.
-
 
 ### Shanks
 - **Butterfly shank.**
@@ -50,14 +48,17 @@ long. A shank that easily shakes loose obviously won't do.
 ### Bends
 - **[Simple-Simon-under bend.][simple-simon-under]**
 Use in place of sheetbend for joining slippery or dissimilar ropes. About as
-easy as the name suggests.
+easy as the name suggests. Its ends are tidily parallel to its standing parts,
+convenient if you have to reeve the knot through an eye.
 - **[Vice-versa bend.][vice-versa-bend]**
-Use in place of sheetbend for joining bungee lines.
+Use in place of sheetbend for joining stretchy rope. Tidy like the Simple
+Simon.
 - **Butterfly bend.**
 Use alpine butterfly in place of sheetbend wherever ease of untying after
 extreme stress is valued more than tidiness.
 - **[Zeppelin bend.][zeppelin-bend]**
-Use anywhere that you might use the butterfly bend, such as for mooring blimps. Also suitable for joining bungee lines.
+Use anywhere that you might use the butterfly bend, especially in stretchy
+rope. The untidiest of the bunch, buts the most easily untied.
 
 I tested the security of eight bends. Check out the [results][bend-test].
 {:.tangent}
@@ -123,6 +124,17 @@ Use this compound hitch to secure a heavy load.
 *A secure trucker's hitch*
 
 
+### Different strokes for different ropes
+
+Different types of cordage present different challenges. Fishing line, for
+example, is slicker than the slipperiest of synthetic ropes. And some cordage,
+especially bungee line, is so oddly stretchy that it can't be fastened well
+with most traditional knots. So here's a reading list for specialty cordage.
+
+- **Good knots for fishing line** (coming)
+- **[Good knots for bungee line][bungee-knots]**
+
+
 [dbl-constrictor-photo]:   {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
 [dbl-constrictor-s-photo]: {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
 [reef-2t-photo]:           {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
@@ -130,8 +142,8 @@ Use this compound hitch to secure a heavy load.
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
-[anglers-loop]: https://en.wikipedia.org/wiki/Angler's_loop
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
+[bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee.html' | prepend: site.url }}
 [butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
 [cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
