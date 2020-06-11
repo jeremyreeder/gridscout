@@ -58,7 +58,7 @@ Use alpine butterfly in place of sheetbend wherever ease of untying after
 extreme stress is valued more than tidiness.
 - **[Zeppelin bend.][zeppelin-bend]**
 Use anywhere that you might use the butterfly bend, especially in stretchy
-rope. The untidiest of the bunch, buts the most easily untied.
+rope. The untidiest of the bunch, but the most easily untied.
 
 I tested the security of eight bends. Check out the [results][bend-test].
 {:.tangent}
