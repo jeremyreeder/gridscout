@@ -14,7 +14,10 @@ bungee.
 ### Fixed loops
 
 - **[Angler's loop.][anglers-loop]**
-Tie this for a permanent loop.
+For a permanent loop.
+
+- **[Zeppelin loop.][zeppelin-loop]**
+For a secure temporary loop.
 
 
 ### Bends
@@ -37,3 +40,4 @@ stress is valued more than tidiness.
 [synthetic-knots]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
 [vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
+[zeppelin-loop]: https://en.wikipedia.org/wiki/Zeppelin_loop
