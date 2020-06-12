@@ -32,6 +32,11 @@ Use in place of the vice-versa bend wherever ease of untying after extreme
 stress is valued more than tidiness.
 
 
+### Stopper knots
+
+- **Figure-9 stopper.**
+A nice round knot that stays put.
+
 ### Additional reading
 - **[Knots that actually hold (in synthetic rope)][synthetic-knots]**
 
