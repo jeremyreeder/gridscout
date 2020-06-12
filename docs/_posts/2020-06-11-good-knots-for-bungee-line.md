@@ -14,10 +14,10 @@ bungee.
 ### Fixed loops
 
 - **[Angler's loop.][anglers-loop]**
-For a permanent loop.
+A great loop knot for permanent use, but nearly impossible to untie.
 
 - **[Zeppelin loop.][zeppelin-loop]**
-For a secure temporary loop.
+A secure loop knot that can actually be untied.
 
 
 ### Bends
