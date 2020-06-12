@@ -8,7 +8,7 @@ redirect_from: /bungee-knots
 ---
 
 Bungee line and other super stretchy cordage can't be fastened securely with
-most traditional knots. Here are a few knots that work exceptionally well in
+traditional knots. Here are a few knots that work exceptionally well in
 bungee.
 
 ### Fixed loops
