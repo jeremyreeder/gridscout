@@ -38,6 +38,10 @@ stress is valued more than tidiness.
 Based on the figure-8 but with an extra wrap, this is a moderately bulky
 stopper knot that stays put.
 
+- **Anything but an overhand.**
+Most stopper knots seem to do fine in bungee line, but the overhand knot slips
+far too easily.
+
 ### Additional reading
 - **[Knots that actually hold (in synthetic rope)][synthetic-knots]**
 
