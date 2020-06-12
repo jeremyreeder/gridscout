@@ -34,15 +34,17 @@ stress is valued more than tidiness.
 
 ### Stopper knots
 
-- **Figure-9 stopper.**
-A nice round knot that stays put.
+- **[Stevedore knot.][stevedore-knot]**
+Based on the figure-8 but with an extra wrap, this is a moderately bulky
+stopper knot that stays put.
 
 ### Additional reading
 - **[Knots that actually hold (in synthetic rope)][synthetic-knots]**
 
 
 [anglers-loop]:    https://en.wikipedia.org/wiki/Angler's_loop
+[stevedore-knot]:  https://www.netknots.com/rope_knots/stevedore-stopper-knot
 [synthetic-knots]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
-[vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
-[zeppelin-loop]: https://en.wikipedia.org/wiki/Zeppelin_loop
+[vice-versa-bend]: https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:   https://www.netknots.com/rope_knots/zeppelin-bend
+[zeppelin-loop]:   https://en.wikipedia.org/wiki/Zeppelin_loop
