@@ -21,9 +21,8 @@ hitch, and shoelace knot.
 
 ### Fixed loops
 
-- **[Cossack loop.][cossack-loop]**
-Use at the end of a rope in place of bowline loop. Favored by Russians and
-Eskimos.
+- **[Zeppelin loop.][zeppelin-loop]**
+Use at the end of a rope in place of bowline loop.
 
 - **[Flemish loop.][flemish-loop]**
 Use at the end of a rope or in the middle.  One of the fastest fixed loops to
@@ -146,7 +145,6 @@ with most traditional knots. So here's a reading list for specialty cordage.
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
 [butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
-[cossack-loop]:        https://en.wikipedia.org/wiki/Cossack_knot
 [double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
 [steeplejacks-knot]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
@@ -154,3 +152,4 @@ with most traditional knots. So here's a reading list for specialty cordage.
 [simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
 [vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
+[zeppelin-loop]:       https://notableknotindex.webs.com/zeppelinloop.html
