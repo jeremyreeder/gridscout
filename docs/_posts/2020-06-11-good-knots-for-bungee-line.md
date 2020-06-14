@@ -14,7 +14,7 @@ bungee.
 ### Fixed loops
 
 - **[Angler's loop.][anglers-loop]**
-A great loop knot for permanent use, but nearly impossible to untie.
+A good loop knot for permanent use, but nearly impossible to untie.
 
 - **[Zeppelin loop.][zeppelin-loop]**
 A secure loop knot that can actually be untied.
@@ -51,4 +51,4 @@ far too easily.
 [synthetic-knots]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
 [vice-versa-bend]: https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:   https://www.netknots.com/rope_knots/zeppelin-bend
-[zeppelin-loop]:   https://en.wikipedia.org/wiki/Zeppelin_loop
+[zeppelin-loop]:   https://notableknotindex.webs.com/zeppelinloop.html
