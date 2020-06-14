@@ -112,7 +112,7 @@ Consists of a steeplejack's knot tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
 to tension a guyline.
 
-- **Trucker’s hitch (the Reeder way).**
+- **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
   1. Make a fixed upper loop with the alpine butterfly.
   2. Pass the end around an object to form a lower loop.
