@@ -48,7 +48,7 @@ far too easily.
 
 [anglers-loop]:    https://en.wikipedia.org/wiki/Angler's_loop
 [stevedore-knot]:  https://www.netknots.com/rope_knots/stevedore-stopper-knot
-[synthetic-knots]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
+[synthetic-knots]: {{ '/2020/05/22/knots-that-actually-hold.html' | prepend: site.url }}
 [vice-versa-bend]: https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:   https://www.netknots.com/rope_knots/zeppelin-bend
 [zeppelin-loop]:   https://notableknotindex.webs.com/zeppelinloop.html
