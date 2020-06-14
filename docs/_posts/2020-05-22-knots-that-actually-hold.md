@@ -130,8 +130,8 @@ example, is slicker than the slipperiest of synthetic ropes. And some cordage,
 especially bungee line, is so oddly stretchy that it can't be fastened well
 with most traditional knots. So here's a reading list for specialty cordage.
 
-- **Good knots for fishing line** (coming)
 - **[Good knots for bungee line][bungee-knots]**
+- **Good knots for fishing line** (coming)
 
 
 [dbl-constrictor-photo]:   {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
