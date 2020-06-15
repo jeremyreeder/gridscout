@@ -30,7 +30,7 @@ In lieu of the inferior clove hitch or right-angle knot.
 {:.tangent}
 
 
-3. **[Alpine butterfly][butterfly-loop] (ABoK #331)**
+3. **[Alpine butterfly][butterfly-loop]**
 
 Excellent as a mid-rope loop, as a shank, or as a bend.
 {:.tangent}
