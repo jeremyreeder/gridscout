@@ -18,34 +18,20 @@ room or with your vision of the rope otherwise completely obstructed, correctly
 tie each of the following knots.
 
 
-1. **[Double constrictor knot][double-constrictor]**
-
+1. **[Double constrictor knot.][double-constrictor]**
 In lieu of the inferior clove hitch or right-angle knot.
-{:.tangent}
 
-
-2. **[Simple-Simon-crossover bend][simple-simon-crossover]**
-
+2. **[Simple-Simon-crossover bend.][simple-simon-crossover]**
 [172% more secure][bend-comparison] than the sheetbend.
-{:.tangent}
-
 
 3. **[Alpine butterfly][butterfly-loop]**
-
 Excellent as a mid-rope loop, as a shank, or as a bend.
-{:.tangent}
-
 
 4. **[Zeppelin loop][zeppelin-loop]**
-
 A fixed loop for the end of a rope, better than the bowline in every way.
-{:.tangent}
-
 
 5. **[Sub-lieutenant's hitch][sublieutenants-hitch]**
-
-A secure adjustable loop, preferred over the midshipman's hitch.
-{:.tangent}
+A secure adjustable loop with more grip than the midshipman's hitch.
 
 
 [bend-comparison]:        {{ '/2020/06/03/which-bends-hold-best.html'                        | prepend: site.url }}
