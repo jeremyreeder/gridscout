@@ -106,18 +106,30 @@ This binding serves well as a simple hitch.
 - **[Steeplejack's knot.][steeplejacks-knot]**
 A simple friction hitch that actually holds. Use in place of rolling hitch or
 two half-hitches.
+{:#steeplejacks-knot}
 
-- **Safety-belt hitch.**
+- **Sub-lieutenant's hitch.**
 Consists of a steeplejack's knot tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
 to tension a guyline.
 
+I call it the sub-lieutenant's hitch because it's an improved midshipman's
+hitch and, in the Royal Navy, the rank of sub-lieutenant follows that of
+midshipman.
+{:.tangent}
+
 - **Trucker’s hitch (Reeder variant).**
+
 Use this compound hitch to secure a heavy load.
-  1. Make a fixed upper loop with the alpine butterfly.
-  2. Pass the end around an object to form a lower loop.
-  3. With the remainder of the rope, tie a safety-belt hitch onto the upper loop.
-  4. Adjust the safety-belt hitch to tighten the lower loop.
+
+	1. Make a fixed upper loop with the alpine butterfly.
+
+	2. Pass the end around an object to form a lower loop.
+
+	3. With the remainder of the rope, tie a sub-lieutenant's hitch onto the
+	upper loop.
+
+	4. Adjust the safety-belt hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
