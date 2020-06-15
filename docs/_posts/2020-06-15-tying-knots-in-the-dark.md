@@ -22,7 +22,7 @@ tie each of the following knots.
 In lieu of the inferior clove hitch or right-angle knot.
 
 2. **[Simple-Simon-crossover bend.][simple-simon-crossover]**
-[172% more secure][bend-comparison] than the sheetbend.
+172% more secure than the sheetbend.
 
 3. **[Alpine butterfly][butterfly-loop]**
 Excellent as a mid-rope loop, as a shank, or as a bend.
@@ -34,7 +34,6 @@ A fixed loop for the end of a rope, better than the bowline in every way.
 A secure adjustable loop with more grip than the midshipman's hitch.
 
 
-[bend-comparison]:        {{ '/2020/06/03/which-bends-hold-best.html'                        | prepend: site.url }}
 [simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
 [sublieutenants-hitch]:   {{ '/2020/05/22/knots-that-actually-hold.html#steeplejacks-knot'   | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
