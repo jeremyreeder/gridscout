@@ -4,7 +4,7 @@ title: Knots in the dark
 author: Leeroy Jenkins
 date: 2020-06-15
 tags: knot
-redirect_from: /06/15/tying-knots-in-the-dark.html
+redirect_from: /2020/06/15/tying-knots-in-the-dark.html
 ---
 
 Inspired by [naval demolition trainees tying knots][underwater-test] —albeit
@@ -25,7 +25,8 @@ In lieu of the inferior clove hitch or right-angle knot.
 172% more secure than the sheetbend.
 
 3. **[Alpine butterfly.][butterfly-loop]**
-Excellent as a mid-rope loop, or as a "shank" to bypass a section of rope, or as a "bend" to join ropes.
+Excellent as a mid-rope loop, or as a "shank" to bypass a section of rope, or
+as a "bend" to join ropes.
 
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
