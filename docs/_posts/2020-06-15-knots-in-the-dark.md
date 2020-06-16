@@ -25,7 +25,7 @@ In lieu of the inferior clove hitch or right-angle knot.
 172% more secure than the sheetbend.
 
 3. **[Alpine butterfly.][butterfly-loop]**
-Excellent as a mid-rope loop, as a [shank][shank], or as a [bend][bend].
+Excellent as a mid-rope loop, as a "shank" to bypass a section of rope, or as a "bend" to join ropes.
 
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
@@ -43,8 +43,6 @@ and downright useful in everyday life.
 [sublieutenants-hitch]:   {{ '/2020/05/22/knots-that-actually-hold.html#steeplejacks-knot'   | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 
-[bend]: https://en.m.wikipedia.org/wiki/Bend_knot
-[shank]: https://en.m.wikipedia.org/wiki/Sheepshank
 [butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:   https://captnmike.com/2011/10/15/double-constrictor/
 [underwater-test]:      https://www.itstactical.com/skillcom/knots/how-to-tie-knots-like-a-navy-seal-underwater/
