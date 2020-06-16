@@ -8,7 +8,7 @@ redirect_from: /06/15/tying-knots-in-the-dark.html
 ---
 
 Inspired by [naval demolition trainees tying knots][underwater-test] —albeit
-inferior ones— underwater, and also by firefighters doing it in thick fireproof
+inferior ones— _underwater_, and also by firefighters doing it in thick fireproof
 gloves, I present to you the GridScout™ tactile knot-tying challenge!
 
 
