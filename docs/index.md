@@ -85,7 +85,7 @@ searches. If this is a serious problem for you, then don't use the aerial view.
 
 # Who are you, and why are you doing this?
 {:#jeremy}
-My name is Jeremy Reeder. Professionally, I'm a corporate security analyst and a
+My name is Jeremy. Professionally, I'm a corporate security analyst and a
 retired [bank-vault engineer][safehouse]. I take an interest in the security
 of my home and my community, so I make a point of protecting them as well. In
 the past I have volunteered as a firefighter, a home security advisor, and a
