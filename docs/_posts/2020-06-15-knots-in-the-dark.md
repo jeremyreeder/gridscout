@@ -25,7 +25,7 @@ In lieu of the inferior clove hitch or right-angle knot.
 172% more secure than the sheetbend.
 
 3. **[Alpine butterfly.][butterfly-loop]**
-Excellent as a mid-rope loop, as a "shank" to bypass a section of rope, or as a "bend" to join ropes.
+Excellent as a mid-rope loop, or as a "shank" to bypass a section of rope, or as a "bend" to join ropes.
 
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
