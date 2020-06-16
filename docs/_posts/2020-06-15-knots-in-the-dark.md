@@ -24,10 +24,10 @@ In lieu of the inferior clove hitch or right-angle knot.
 2. **[Simple-Simon-crossover bend.][simple-simon-crossover]**
 172% more secure than the sheetbend.
 
-3. **[Alpine butterfly][butterfly-loop]**
+3. **[Alpine butterfly.][butterfly-loop]**
 Excellent as a mid-rope loop, as a shank, or as a bend.
 
-4. **[Zeppelin loop][zeppelin-loop]**
+4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
 5. **[Sub-lieutenant's hitch.][sublieutenants-hitch]**
