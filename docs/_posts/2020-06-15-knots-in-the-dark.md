@@ -14,7 +14,7 @@ gloves, I present to you the GridScout™ tactile knot-tying challenge!
 
 ### Challenge
 
-Darkness may be a more practical obstacle. So, periodically, in a completely
+_Darkness_ may be a more practical obstacle. So, periodically, in a completely
 dark room or with your vision of the rope otherwise obstructed, test your
 ability to correctly tie each of the following knots.
 
