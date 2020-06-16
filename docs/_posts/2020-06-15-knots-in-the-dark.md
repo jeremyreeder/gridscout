@@ -30,7 +30,7 @@ Excellent as a mid-rope loop, as a shank, or as a bend.
 4. **[Zeppelin loop][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Sub-lieutenant's hitch][sublieutenants-hitch]**
+5. **[Sub-lieutenant's hitch.][sublieutenants-hitch]**
 A secure adjustable loop with more grip than the midshipman's hitch.
 
 If you can properly tie great knots like these without even looking, then
