@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Tying knots in the dark
+title: Knots in the dark
 author: Leeroy Jenkins
 date: 2020-06-15
 tags: knot
+redirect_from: /06/15/tying-knots-in-the-dark.html
 ---
 
 Inspired by [naval demolition trainees tying knots][underwater-test] —albeit
