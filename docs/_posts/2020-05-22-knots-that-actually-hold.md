@@ -110,8 +110,8 @@ two half-hitches.
 
 - **Sub-lieutenant's hitch.**
 Consists of a steeplejack's knot tied around the standing part to form an
-adjustable loop. Use in place of midshipman's hitch to tie down an aircraft, or
-to tension a guyline.
+adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie down an aircraft or
+tension a guyline.
 
 I call it the sub-lieutenant's hitch because it's an improved midshipman's
 hitch and, in the Royal Navy, the rank of sub-lieutenant follows that of
