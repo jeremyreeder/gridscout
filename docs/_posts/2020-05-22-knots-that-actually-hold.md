@@ -122,14 +122,14 @@ midshipman.
 
 Use this compound hitch to secure a heavy load.
 
-	1. Make a fixed upper loop with the alpine butterfly.
+1. Make a fixed upper loop with the alpine butterfly.
 
-	2. Pass the end around an object to form a lower loop.
+2. Pass the end around an object to form a lower loop.
 
-	3. With the remainder of the rope, tie a sub-lieutenant's hitch onto the
+3. With the remainder of the rope, tie a sub-lieutenant's hitch onto the
 	upper loop.
 
-	4. Adjust the safety-belt hitch to tighten the lower loop.
+4. Adjust the safety-belt hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
