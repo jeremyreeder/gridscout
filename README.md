@@ -1,9 +1,9 @@
-# GridScout™
+# GridScout™ Map
 
 
 ## Search Google Maps from the terminal, get results in MGRS
 
-GridScout™ is a console-based tool for bulk collection of location data,
+GridScout™ Map is a console-based tool for bulk collection of location data,
 including MGRS coordinates, to be used by intelligence analysts. It uses
 Google's _Places API_.
 
@@ -17,7 +17,7 @@ it's concise, minimizes distortion, and makes for easy math. It's a whole-world
 variant of the UTM coordinate system.  Latitude and longitude are so 1941.
 
 
-## Installing GridScout™
+## Installing GridScout™ Map
 
 1. Python 2.7 required. Your OS probably already has it installed.
 
@@ -25,7 +25,7 @@ variant of the UTM coordinate system.  Latitude and longitude are so 1941.
 
     pip2 install --user colorama googlemaps mgrs schema
 
-3. Download GridScout™. You can get it as a [zipball][zipball] or
+3. Download GridScout™ Map. You can get it as a [zipball][zipball] or
 [tarball][tarball], or through the Git repo as follows:
 
     cd
@@ -38,13 +38,13 @@ variant of the UTM coordinate system.  Latitude and longitude are so 1941.
     vi ~/gridscout/config/google_places.key
 
 
-## Running GridScout™
+## Running GridScout™ Map
 
     cd gridscout
 
     ./gridscout
 
-![Screenshot of a GridScout™ search for newspaper
+![Screenshot of a GridScout™ Map search for newspaper
 publishers](docs/images/search-screenshot.png)
 
 
