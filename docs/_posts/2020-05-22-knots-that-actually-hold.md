@@ -105,7 +105,7 @@ This binding serves well as a simple hitch.
 
 - **[Steeplejack's knot.][steeplejacks-knot]**
 A friction hitch that actually holds. Slidable except when loaded. Use in place of rolling hitch or
-two half-hitches. Suitable for attaching your belt to a backup line in case you fall from a church steeple.
+two half-hitches. Suitable for attaching your belt to a backup line in case you fall from, say, a church steeple.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
