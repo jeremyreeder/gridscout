@@ -104,7 +104,7 @@ bights for only half of the knot disrupts that symmetry.
 This binding serves well as a simple hitch.
 
 - **[Steeplejack's knot.][steeplejacks-knot]**
-A friction hitch that actually holds. Use in place of rolling hitch or
+A friction hitch that actually holds. Slidable except when loaded. Use in place of rolling hitch or
 two half-hitches. Suitable for attaching your belt to a backup line in case you fall from a church steeple.
 {:#steeplejacks-knot}
 
