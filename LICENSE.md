@@ -1,4 +1,4 @@
-GridScout™ © 2018-2020 Jeremy Reeder. Use and distribution are subject to the
+GridScout™ Map © 2018-2020 Jeremy Reeder. Use and distribution are subject to the
 terms of the MIT License, as follows.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: GridScout™ Mapper
+title: GridScout™ Map
 permalink: /
 ---
 
 
-GridScout™ Mapper is the console-based Google Maps search tool that you didn't
+GridScout™ Map is the console-based Google Maps search tool that you didn't
 know you needed. It'll help you make better use of your paper maps. Without it,
 the process of finding and marking places of interest is tedious. Let
-GridScout™ solve that so you can get on with your duty of planning for the
+GridScout™ Map solve that so you can get on with your duty of planning for the
 impending apocalypse, or whatever it is that you do.
 
-![Screenshot of a GridScout™ Mapper search for newspaper
+![Screenshot of a GridScout™ Map search for newspaper
 publishers](images/search-screenshot.png)
 
 As you can see, it's a tool for bulk collection of location data, including
@@ -25,7 +25,7 @@ printed with an MGRS (aka USNG) or UTM grid.
 3. Search for points of interest: "power plant", "tank farm", "distribution
 center", etc.
 4. Select individual results to see aerial and street-level views as needed.
-5. Edit the GridScout™ Mapper search log (log/gridscout.log), removing any
+5. Edit the GridScout™ Map search log (log/gridscout.log), removing any
 irrelevant search results.
 6. Using either the search log or the console output as a reference, plot
 points on the overlays.
@@ -33,12 +33,12 @@ points on the overlays.
 
 # What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
-output in a terminal works well. But GridScout™ Mapper does integrate with
+output in a terminal works well. But GridScout™ Map does integrate with
 [GISsurfer][gis-surfer] to give aerial views in your web browser. From there,
 you can easily access other online resources such as topographic and street-map
-views. Strictly speaking, however, these are not part of GridScout™ Mapper.
+views. Strictly speaking, however, these are not part of GridScout™ Map.
 
-![Sceenshot of a GridScout™ Mapper aerial view of a petroleum
+![Sceenshot of a GridScout™ Map aerial view of a petroleum
 refinery](images/aerial-screenshot.png)
 
 # Seriously, paper maps?
@@ -46,7 +46,7 @@ Going into battle dependent on vulnerable infrastructure is unwise. So yes,
 actual printed maps and overlays are advantageous. They work independently of
 power and communication grids. They're durable, highly portable, and
 low-maintenance. Fancy technology has its place, but printed maps excel in the
-field. With GridScout™ Mapper, you can apply the technology without the
+field. With GridScout™ Map, you can apply the technology without the
 vulnerabilities. That is, it puts your computer and the Internet to good use
 now, and it helps you record on more durable media the information that you'll
 need later.
@@ -59,7 +59,7 @@ greatly lacking in these qualities. Map vendors such as [MyTopo][mytopo] allow
 you to have your maps printed with a UTM grid, and for the aforementioned
 reasons I suggest that you take them up on that option.
 
-# How do I get GridScout™ Mapper?
+# How do I get GridScout™ Map?
 It's on [GitHub][github], where you'll find installation instructions. And it's
 free!
 
@@ -97,7 +97,7 @@ called an emergency response team, an emergency service, a posse, or a militia.
 If you're in search of ways to contribute to the defense of your own community,
 I've got some [ideas][contributing].
 
-I created GridScout™ Mapper to help me in my role as a community defense
+I created GridScout™ Map to help me in my role as a community defense
 analyst for [my local battalion][battalion] of Idaho's unorganized militia. I
 share it to help the people of other communities in the development of their
 own defense intelligence. On this website, I write occasionally about this and
