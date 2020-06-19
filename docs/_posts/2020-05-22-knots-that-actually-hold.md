@@ -82,6 +82,7 @@ Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Simply a reef
 knot with its two halves converted to double overhand knots by an additional
 pass through the center. Consider using in place of reef knot, especially
 against a non-convex surface or in stretchy rope.
+
 - **Reef knot in two bights.**
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form bights, then simply tie them in a reef knot.
@@ -94,7 +95,8 @@ over to form bights, then simply tie them in a reef knot.
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
-bights for only half of the knot disrupts that symmetry.
+bights for only half of the knot disrupts that symmetry. So use this two-bight
+version, or just the [classic reef knot with shorter laces][short-shoelaces].
 {:.tangent}
 
 
@@ -159,6 +161,7 @@ with most traditional knots. So here's a reading list for specialty cordage.
 [butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
+[short-shoelaces]:     http://shortshoelaces.jackdesert.com/
 [steeplejacks-knot]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
 [simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
