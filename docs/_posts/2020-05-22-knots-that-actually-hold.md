@@ -131,7 +131,7 @@ Use this compound hitch to secure a heavy load.
 3. With the remainder of the rope, tie a sub-lieutenant's hitch onto the
 	upper loop.
 
-4. Adjust the safety-belt hitch to tighten the lower loop.
+4. Adjust the sub-lieutenant's hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
