@@ -33,10 +33,10 @@ break. But alas, some knots just won't slip.
 |--------------------------------------------------|------------------------|
 | [Butterfly bend][butterfly-bend]                 | 5.4+                   |
 | [Zeppelin bend][zeppelin-bend]                   | 5.4+                   |
-| [Simple-Simon double][simple-simon-double]       | 5.4+                   |
-| [Simple-Simon under][simple-simon-under]         | 5.4+                   |
-| [Simple-Simon crossover][simple-simon-crossover] | 4.9                    |
-| [Simple-Simon over][simple-simon-over]           | 4.0                    |
+| [Simple-Simon DOUBLE][simple-simon-double]       | 5.4+                   |
+| [Simple-Simon UNDER][simple-simon-under]         | 5.4+                   |
+| [Simple-Simon CROSSOVER][simple-simon-crossover] | 4.9                    |
+| [Simple-Simon OVER][simple-simon-over]           | 4.0                    |
 | [Double sheetbend][sheetbend-double]             | 3.3                    |
 | [Sheetbend][sheetbend]                           | 1.8                    |
 
@@ -54,7 +54,7 @@ The Simple-Simon-crossover bend is my own creation. In this test it
 outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
 harder to tie, this is a satisfying discovery.
 
-As I hoped, it seems to be more secure against slippage of the bight (in the first line) around which the second line is tied. Its resistance to slippage of the second line, however, is unimproved by this variation, leaving its overall security a bit inferior to that of the Simple-Simon-under when used to join two identical lines. Results may differ greatly when the two lines differ.
+As I hoped, the Simple-Simon-crossover seems to be more secure against slippage of the bight (in the first line) around which the second line is tied. Its resistance to slippage of the second line, however, is unimproved by this variation, leaving its overall security a bit inferior to that of the Simple-Simon-under when used to join two identical lines. Results may differ greatly when the two lines differ.
 {:.tangent}
 
 The classic sheetbend and double sheetbend are the least secure of all bends tested.
