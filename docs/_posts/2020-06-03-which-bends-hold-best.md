@@ -70,6 +70,9 @@ The second rope is tied around a bight in that first rope just as usual.
 Uniquely among the Simple-Simon knots, the rope ends are ultimately diagonal
 from each other.
 
+![][simple-simon-crossover-photo]
+*Simple-Simon crossover*
+
 The result is that the bight of the first rope is clamped just as in the
 _Simple-Simon-under_ bend without the relative difficulty of making a pass
 _under_ the rope. The intention is that this new knot will serve as a
@@ -78,10 +81,6 @@ Simple-Simon-over, at no cost at all in required effort.
 
 WARNING: Despite this success, under a certain circumstance, I've found that the _Simple-Simon-under_ and the _Simple-Simon-double_ are far better choices. That is, when tying a skinny line around the bight of a soft, fat one.
 {:.tangent}
-
-
-![][simple-simon-crossover-photo]
-*Simple-Simon crossover*
 
 
 [simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
