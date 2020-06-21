@@ -54,7 +54,7 @@ The Simple-Simon-crossover bend is my own creation. In this test it
 outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
 harder to tie, this is a satisfying discovery.
 
-As I hoped, the Simple-Simon-crossover seems to be more secure against slippage of the bight (in the first line) around which the second line is tied. Its resistance to slippage of the second line, however, is unimproved by this variation, leaving its overall security slightly inferior to that of the Simple-Simon-under when used to join two identical lines. The difference in security may be greater when the two lines differ.
+As I hoped, the Simple-Simon-crossover seems to be more secure against slippage of the bight (in the first line) around which the second line is tied. Its resistance to slippage of the second line, however, is unimproved by this variation, leaving its overall security slightly inferior to that of the Simple-Simon-under when used to join two identical lines. The difference in security is likely much greater when the two lines differ.
 {:.tangent}
 
 The classic sheetbend and double sheetbend are the least secure of all bends tested.
