@@ -63,7 +63,7 @@ harder to tie, this is a satisfying discovery.
 
 This new knot is a variant of the Simple-Simon-over bend. The only difference
 is that the standing part and the working end of the first rope are swapped.
-The second rope is tied around a bight in that first rope just as usual.
+The second rope is tied around a bight in that rope just as usual.
 Uniquely among the Simple-Simon knots, the rope ends are ultimately diagonal
 from each other.
 
