@@ -80,7 +80,6 @@ As I hoped, the Simple-Simon-crossover seems to be more secure against slippage 
 {:.tangent}
 
 WARNING: When tying a skinny line around the bight of a soft, fat one, I've found that the _Simple-Simon-under_ and the _Simple-Simon-double_ are far better choices.
-{:.tangent}
 
 
 [simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
