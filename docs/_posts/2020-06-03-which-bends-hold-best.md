@@ -52,10 +52,7 @@ easy to tie, so I'm happy to confirm that it refuses to slip.
 
 The Simple-Simon-crossover bend is my own creation. In this test it
 outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
-harder to tie, this is a satisfying discovery. I had hoped that it would turn
-out to be as secure as the Simple-Simon-under. It seems that it may not be
-_quite_ as secure, but it's unclear to me why there would be any difference at
-all. I'd like to do additional testing of these two knots in the future.
+harder to tie, this is a satisfying discovery. As I hoped, it seems to be more secure against slippage of the bight (in the first line) around which the second line is tied. Its resistance to slippage of the second line, however, is unimproved by this variation, leaving its overall security a bit inferior to that of the Simple-Simon-under when used to join two identical lines. Results may differ greatly when the two lines differ.
 
 The classic sheetbend and double sheetbend are the least secure of all bends tested.
 The former slips so easily in comparison that its use is hard to justify.
@@ -75,6 +72,9 @@ _Simple-Simon-under_ bend without the relative difficulty of making a pass
 _under_ the rope. The intention is that this new knot will serve as a
 substantial security upgrade to the easiest Simple-Simon knot, the
 Simple-Simon-over, at no cost at all in required effort.
+
+WARNING: Despite this success, under a certain circumstance, I've found that the _Simple-Simon-under_ and the _Simple-Simon-double_ are far better choices. That is, when tying a skinny line around the bight of a soft, fat one.
+{:.tangent}
 
 
 ![][simple-simon-crossover-photo]
