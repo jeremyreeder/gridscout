@@ -147,8 +147,13 @@ one.
 *2019-09 — Thread protector*
 </div>
 
+![Velocity 4-lb trigger, Aero lower parts kit, Seekins bolt-release paddle, V-Seven short-throw selector. With these parts, the lower is nearly complete. Still missing are the two trigger pins and the pin and screw for mounting the trigger guard.][progress-2020-06-21]
+*2020-06 — Trigger & other lower innards*
+
+The weight so far is 4 lb 8 oz. Projected total weight when complete, including scope and a full magazine, is 7 lb 2 oz.
+
 ![][to-be-continued]
-*Coming 2020-06 — Trigger*
+*Coming 2020-11 — Piston kit to complete the upper*
 
 ## Performance
 When the RC1 is complete, its performance will be assessed in a separate post,
@@ -169,7 +174,8 @@ a link to which will be conveniently provided here.
 [progress-2019-06-16T15:00:15]: {{ '/images/rc1-progress-2019-06-16T15:00:15.jpg' | prepend: site.url }}
 [progress-2019-06-16T15:00:53]: {{ '/images/rc1-progress-2019-06-16T15:00:53.jpg' | prepend: site.url }}
 [progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'          | prepend: site.url }}
-[to-be-continued]:              {{ '/images/to-be-continued.jpg'                      | prepend: site.url }}
+[progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'          | prepend: site.url }}
+[to-be-continued]:              {{ '/images/to-be-continued.jpg'                  | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
