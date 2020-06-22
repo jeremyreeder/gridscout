@@ -150,7 +150,9 @@ one.
 ![Velocity 4-lb trigger, Aero lower parts kit, Seekins bolt-release paddle, V-Seven short-throw selector. With these parts, the lower is nearly complete. Still missing are the two trigger pins and the pin and screw for mounting the trigger guard.][progress-2020-06-21]
 *2020-06 — Trigger & other lower innards*
 
-The weight so far is 4 lb 8 oz. Projected total weight when complete, including scope and a full magazine, is 7 lb 2 oz.
+The weight so far is 4 lb 8 oz. Projected total weight when complete, including
+scope and a full magazine, is now 7 lb 2 oz. That's 5 oz heavier than originally
+anticipated, so I better start workin' out.
 
 ![][to-be-continued]
 *Coming 2020-11 — Piston kit to complete the upper*
