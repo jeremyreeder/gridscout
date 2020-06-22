@@ -33,10 +33,10 @@ break. But alas, some knots just won't slip.
 |--------------------------------------------------|------------------------|
 | [Butterfly bend][butterfly-bend]                 | 5.4+                   |
 | [Zeppelin bend][zeppelin-bend]                   | 5.4+                   |
-| [Simple-Simon double][simple-simon-double]       | 5.4+                   |
-| [Simple-Simon under][simple-simon-under]         | 5.4+                   |
-| [Simple-Simon crossover][simple-simon-crossover] | 4.9                    |
-| [Simple-Simon over][simple-simon-over]           | 4.0                    |
+| [Simple-Simon DOUBLE][simple-simon-double]       | 5.4+                   |
+| [Simple-Simon UNDER][simple-simon-under]         | 5.4+                   |
+| [Simple-Simon CROSSOVER][simple-simon-crossover] | 4.9                    |
+| [Simple-Simon OVER][simple-simon-over]           | 4.0                    |
 | [Double sheetbend][sheetbend-double]             | 3.3                    |
 | [Sheetbend][sheetbend]                           | 1.8                    |
 
@@ -50,15 +50,12 @@ exceeds the breaking strength of the line in which it was tested.
 I love the alpine butterfly as a bend, a shank, and a loop. It's versatile and
 easy to tie, so I'm happy to confirm that it refuses to slip.
 
-The Simple-Simon-crossover bend is my own creation. In this test it
-outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
-harder to tie, this is a satisfying discovery. I had hoped that it would turn
-out to be as secure as the Simple-Simon-under. It seems that it may not be
-_quite_ as secure, but it's unclear to me why there would be any difference at
-all. I'd like to do additional testing of these two knots in the future.
-
 The classic sheetbend and double sheetbend are the least secure of all bends tested.
 The former slips so easily in comparison that its use is hard to justify.
+
+The Simple-Simon-crossover bend is my own creation. In this test it
+outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
+harder to tie, this is a satisfying discovery.
 
 
 ### Simple-Simon-crossover bend
@@ -66,9 +63,12 @@ The former slips so easily in comparison that its use is hard to justify.
 
 This new knot is a variant of the Simple-Simon-over bend. The only difference
 is that the standing part and the working end of the first rope are swapped.
-The second rope is tied around a bight in that first rope just as usual.
+The second rope is tied around a bight in that rope just as usual.
 Uniquely among the Simple-Simon knots, the rope ends are ultimately diagonal
 from each other.
+
+![][simple-simon-crossover-photo]
+*Simple-Simon crossover*
 
 The result is that the bight of the first rope is clamped just as in the
 _Simple-Simon-under_ bend without the relative difficulty of making a pass
@@ -76,9 +76,10 @@ _under_ the rope. The intention is that this new knot will serve as a
 substantial security upgrade to the easiest Simple-Simon knot, the
 Simple-Simon-over, at no cost at all in required effort.
 
+As I hoped, the Simple-Simon-crossover seems to be more secure against slippage of the bight around which the second rope is tied. Its resistance to slippage of the second rope, however, is unimproved by this variation, leaving its overall security slightly inferior to that of the Simple-Simon-under when used to join two identical ropes.
+{:.tangent}
 
-![][simple-simon-crossover-photo]
-*Simple-Simon crossover*
+WARNING: When tying a skinny line around the bight of a soft, fat one, I've found that the _Simple-Simon-under_ and the _Simple-Simon-double_ are far better choices.
 
 
 [simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
