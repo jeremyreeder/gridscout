@@ -115,7 +115,7 @@ Consists of a steeplejack's knot tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie down an aircraft or
 tension a guyline.
 
-I call it the sub-lieutenant's hitch because it's an improved midshipman's
+I call it the sub-lieutenant's hitch because it seems to be a more secure alternative to the midshipman's
 hitch and, in the Royal Navy, the rank of sub-lieutenant follows that of
 midshipman.
 {:.tangent}
