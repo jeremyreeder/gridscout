@@ -158,8 +158,8 @@ anticipated, so I better start workin' out.
 *Coming 2020-11 — Piston kit to complete the upper*
 
 ## Performance
-When the RC1 is complete, its performance will be assessed in a separate post,
-a link to which will be conveniently provided here.
+When the RC1 is complete, we'll assess its performance in a separate post, a
+link to which will be conveniently provided here.
 
 
 [concept-2018-07-31]:           {{ '/images/rc1-concept-2018-07-31.jpg'           | prepend: site.url }}
