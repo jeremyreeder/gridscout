@@ -111,7 +111,7 @@ two half-hitches.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
-Consists of a safety-belt hitch (above) tied around the standing part to form an
+Consists of a safety-belt hitch tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie down an aircraft or
 tension a guyline.
 
