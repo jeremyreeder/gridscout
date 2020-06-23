@@ -113,10 +113,12 @@ place of rolling hitch or two half-hitches.
 
 - **Sub-lieutenant's hitch.**
 Consists of a safety-belt hitch tied around the standing part to form an
-adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie down an aircraft or
-tension a guyline.
+adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie
+down an aircraft or tension a guyline.
 
-In the Royal Navy, the sub-lieutenant rank is one level above midshipman.
+In the Royal Navy, the sub-lieutenant rank is one level above midshipman. But I
+named the sub-lieutenant's hitch myself, so don't be fooled into thinking that
+it originated there.
 {:.tangent}
 
 - **Trucker’s hitch (Reeder variant).**
