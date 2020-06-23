@@ -106,8 +106,9 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 This binding serves well as a simple hitch.
 
 - **[Safety-belt hitch.][safety-belt-hitch]**
-A good friction hitch, slidable by hand except when loaded. Trusted by steeplejacks to attach their belts to backup lines in case of a fall. Use in place of rolling hitch or
-two half-hitches.
+A good friction hitch, slidable by hand except when loaded. Trusted by
+steeplejacks to attach their belts to backup lines in case of a fall. Use in
+place of rolling hitch or two half-hitches.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
