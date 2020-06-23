@@ -100,52 +100,24 @@ length of about 32 inches.
 *2018-06 — Receivers & handguard*
 </div>
 
-![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. Compared to other stocks with an integral buffer tube, it appears to be the lightest on the planet. I plan to use a fixed-power scope such as the Weaver K6 (9.8 oz + rings). As the other paper-doll accessories show, I plan to use the 14° PDW grip by Tactical Link™, an E-Lander™ 17-round steel magazine, an Alexander™ Incursion barrel, and a very short muzzle brake.][concept-2018-07-31]
-*2018-07 — Buttstock & paper mockup*
-
 <div class="gallery" markdown="1">
 ![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
 *2018-11 — 17-round steel magazine*
 </div>
 
-![The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably lacks the backstrap of the originally planned Tactical Link™ PDW grip, allowing the palm to rise slightly for better recoil management and extending the index finger forward toward the magazine release that so many people otherwise need to enlarge for ease of reach. The Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware) are also installed. Total weight as pictured is 3 lb 5 oz. The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.][progress-2018-12-25]
-*2018-12 — Grip & barrel*
+![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.Total weight as pictured is 3 lb 5 oz.][progress-2018-12-25]
+*2018-12 — Buttstock, grip, & barrel*
 
 <div class="gallery" markdown="1">
-![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway.][progress-2019-04-21T09]
-![As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
-*2019-04 — Charging handle*
-</div>
-
-<div class="gallery" markdown="1">
-![I made this oversized trigger guard with a Prusa 3D printer, model i3-MK2S, using solid carbon-fiber copolyester. It weighs in at 0.21 oz.][progress-2019-05-02T09]
-![The 3D-printed trigger guard fits nicely in the receiver. It provides sufficient room for a gloved finger as is, so it does not require or support swinging it out of the way for gloves as the original AR15 trigger guard does.][progress-2019-05-02T19]
-*2019-05 — Trigger guard*
-</div>
-
-This 3D-printed trigger guard is based on a [model by Gregory Spicer][guard-model].
-{:.tangent}
-
-![For visualization, I mounted some cheesy airsoft-quality offset sights and a scope borrowed from another rifle.][progress-2019-05-01]
-*2019-05 — Mockup*
-
-In contrast to this variable-power scope borrowed from a G3, the Weaver K6 that
-I intend to use will be lighter, a bit longer, and of fixed 6X power. Still,
-it's more satisfying to see the RC1 with a real scope on it than with a paper
-one.
-{:.tangent}
-
-<div class="gallery" markdown="1">
+![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
+![This 3D-printed trigger guard of carbon-fiber copolyester weighs in at 0.21 oz.][progress-2019-05-02T19]
 ![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
-![][progress-2019-06-16T15:00:15]
-![][progress-2019-06-16T15:00:53]
-*2019-06 — Endplate with QD & nut*
+![For now, I have a simple thread protector in lieu of a muzzle brake. I 3D-printed it out of carbon-fiber copolyester.][progress-2019-09-11]
+*2019 — Charging handle, trigger guard, endplate, & thread protector*
 </div>
 
-<div class="gallery" markdown="1">
-![For now, I have a simple thread protector in lieu of a muzzle brake. I 3D-printed it out of carbon-fiber copolyester.][progress-2019-09-11]
-*2019-09 — Thread protector*
-</div>
+I made the trigger guard based on a [model by Gregory Spicer][guard-model].
+{:.tangent}
 
 ![Velocity 4-lb trigger, ArmaSpec carbine "stealth" recoil spring, Seekins enlarged bolt-release paddle, V-Seven short-throw titanium selector, Aero lower parts kit. With these parts, the lower is nearly complete. Still missing are the two trigger pins and the pin and screw for mounting the trigger guard.][progress-2020-06-21]
 *2020-06 — Trigger & other lower innards*
@@ -162,19 +134,13 @@ When the RC1 is complete, we'll assess its performance in a separate post, a
 link to which will be conveniently provided here.
 
 
-[concept-2018-07-31]:           {{ '/images/rc1-concept-2018-07-31.jpg'           | prepend: site.url }}
 [progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'          | prepend: site.url }}
 [progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'          | prepend: site.url }}
 [progress-2018-11-14]:          {{ '/images/rc1-progress-2018-11-14.jpg'          | prepend: site.url }}
 [progress-2018-12-25]:          {{ '/images/rc1-progress-2018-12-25.jpg'          | prepend: site.url }}
-[progress-2019-04-21T09]:       {{ '/images/rc1-progress-2019-04-21T09.jpg'       | prepend: site.url }}
 [progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'       | prepend: site.url }}
-[progress-2019-05-01]:          {{ '/images/rc1-progress-2019-05-01.jpg'          | prepend: site.url }}
-[progress-2019-05-02T09]:       {{ '/images/rc1-progress-2019-05-02T09.jpg'       | prepend: site.url }}
 [progress-2019-05-02T19]:       {{ '/images/rc1-progress-2019-05-02T19.jpg'       | prepend: site.url }}
 [progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg'    | prepend: site.url }}
-[progress-2019-06-16T15:00:15]: {{ '/images/rc1-progress-2019-06-16T15:00:15.jpg' | prepend: site.url }}
-[progress-2019-06-16T15:00:53]: {{ '/images/rc1-progress-2019-06-16T15:00:53.jpg' | prepend: site.url }}
 [progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'          | prepend: site.url }}
 [progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'          | prepend: site.url }}
 [to-be-continued]:              {{ '/images/to-be-continued.jpg'                  | prepend: site.url }}
