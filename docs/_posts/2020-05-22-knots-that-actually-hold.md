@@ -109,8 +109,7 @@ This binding serves well as a simple hitch.
 A rolling hitch with an extra turn before the final half hitch. In the
 _nautical_ variant, that extra turn is wrapped around the preceding turns
 rather than around the standing part. Tied firmly onto another rope, this friction hitch grips very well
-when loaded but remains adjustable when unloaded. Use in place of nautical
-rolling hitch or _\<gasp>_ landlubber's rolling hitch.
+when loaded but remains adjustable when unloaded.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
