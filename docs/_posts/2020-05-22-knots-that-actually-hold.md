@@ -108,11 +108,9 @@ This binding serves well as a simple hitch.
 - **Nautical [safety-belt hitch][safety-belt-hitch].**
 A rolling hitch with an extra turn before the final half hitch. In the
 _nautical_ variant, that extra turn is wrapped around the preceding turns
-rather than around the standing part. When tied around another rope with the
-end yanked hard across the first three turns while the standing part is yanked
-in the opposite direction, the result is a friction hitch that grips very well
+rather than around the standing part. Tied firmly onto another rope, this friction hitch grips very well
 when loaded but remains adjustable when unloaded. Use in place of nautical
-rolling hitch or landlubber's rolling hitch.
+rolling hitch or _\<gasp>_ landlubber's rolling hitch.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
