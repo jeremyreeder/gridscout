@@ -126,8 +126,9 @@ hitch.
 {:.tangent}
 
 <div class="gallery" markdown="1">
+![][nautical-safety-belt-hitch-photo]
 ![][sublieutenants-hitch-photo]
-*Sublieutenant's hitch: a grippier midshipman's hitch*
+*Nautical safety-belt hitch & sublieutenant's hitch*
 </div>
 
 - **Trucker’s hitch (Reeder variant).**
@@ -154,13 +155,14 @@ with most traditional knots. So here's a reading list for specialty cordage.
 - **Good knots for fishing line** (coming)
 
 
-[dbl-constrictor-photo]:      {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
-[dbl-constrictor-s-photo]:    {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
-[reef-2t-photo]:              {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
-[reef-2s2t-photo]:            {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
-[reef-2bights-photo]:         {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
-[sublieutenants-hitch-photo]: {{ '/images/sublieutenants-hitch.jpg'                  | prepend: site.url }}
-[truckers-hitch-photo]:       {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
+[dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
+[dbl-constrictor-s-photo]:          {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
+[nautical-safety-belt-hitch-photo]: {{ '/images/nautical-safety-belt-hitch.jpg'            | prepend: site.url }}
+[reef-2t-photo]:                    {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
+[reef-2s2t-photo]:                  {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[sublieutenants-hitch-photo]:       {{ '/images/sublieutenants-hitch.jpg'                  | prepend: site.url }}
+[truckers-hitch-photo]:             {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'      | prepend: site.url }}
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
