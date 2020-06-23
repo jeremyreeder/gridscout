@@ -109,8 +109,11 @@ This binding serves well as a simple hitch.
 A rolling hitch with an extra turn before the final half hitch. In the
 _nautical_ variant, that extra turn is wrapped around the preceding turns
 rather than around the standing part. Tied firmly onto another rope, this friction hitch grips very well
-when loaded but remains adjustable when unloaded.
+when loaded but remains moveable when unloaded.
 {:#steeplejacks-knot}
+
+The _landlubber's_ variant was historically used by steeplejacks to secure their safety belts to backup ropes in case of a fall.
+{:.tangent}
 
 - **Sub-lieutenant's hitch.**
 Consists of a nautical safety-belt hitch tied around the standing part to form
