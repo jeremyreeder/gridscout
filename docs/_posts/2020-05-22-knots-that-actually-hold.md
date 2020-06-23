@@ -102,7 +102,7 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 
 ### Hitches
 
-- **Double constrictor knot, or slipped variant.**
+- **Double constrictor knot (or slipped variant).**
 This binding serves well as a simple hitch.
 
 - **Nautical [safety-belt hitch][safety-belt-hitch].**
