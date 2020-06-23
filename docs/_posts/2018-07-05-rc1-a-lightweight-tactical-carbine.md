@@ -115,7 +115,8 @@ length of about 32 inches.
 I made the trigger guard based on a [model by Gregory Spicer][guard-model].
 {:.tangent}
 
-![Velocity™ 4-lb trigger, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-21]
+![Velocity™ 4-lb trigger, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-22]
+![][progress-2020-06-21]
 *2020-06 — Trigger, selector, mag release, & other lower innards*
 
 The lower is now complete. Total weight so far is 4 lb 8 oz. Projected total
@@ -139,6 +140,7 @@ link to which will be conveniently provided here.
 [progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg'    | prepend: site.url }}
 [progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'          | prepend: site.url }}
 [progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'          | prepend: site.url }}
+[progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'          | prepend: site.url }}
 [to-be-continued]:              {{ '/images/to-be-continued.jpg'                  | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
