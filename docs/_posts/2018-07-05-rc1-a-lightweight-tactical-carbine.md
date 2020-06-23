@@ -115,8 +115,8 @@ length of about 32 inches.
 I made the trigger guard based on a [model by Gregory Spicer][guard-model].
 {:.tangent}
 
-![Velocity 4-lb trigger, ArmaSpec carbine "stealth" recoil spring, Seekins enlarged bolt-release paddle, V-Seven short-throw titanium selector, Aero lower parts kit.][progress-2020-06-21]
-*2020-06 — Trigger, mag release, & other lower innards*
+![Velocity™ 4-lb trigger, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-21]
+*2020-06 — Trigger, selector, mag release, & other lower innards*
 
 The lower is now complete. Total weight so far is 4 lb 8 oz. Projected total
 weight when complete and fully loaded is now 7 lb 2 oz. That's 5 oz heavier
