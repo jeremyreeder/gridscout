@@ -147,7 +147,7 @@ one.
 *2019-09 — Thread protector*
 </div>
 
-![Velocity 4-lb trigger, ArmaSpec Stealth Recoil Spring, Seekins bolt-release paddle, V-Seven short-throw titanium selector, Aero lower parts kit. With these parts, the lower is nearly complete. Still missing are the two trigger pins and the pin and screw for mounting the trigger guard.][progress-2020-06-21]
+![Velocity 4-lb trigger, ArmaSpec carbine "stealth" recoil spring, Seekins enlarged bolt-release paddle, V-Seven short-throw titanium selector, Aero lower parts kit. With these parts, the lower is nearly complete. Still missing are the two trigger pins and the pin and screw for mounting the trigger guard.][progress-2020-06-21]
 *2020-06 — Trigger & other lower innards*
 
 The weight so far is 4 lb 8 oz. Projected total weight when complete, including
