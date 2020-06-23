@@ -112,7 +112,7 @@ end in the opposite direction. Tied firmly onto another rope, this friction
 hitch grips very well when loaded but remains moveable when unloaded.
 
 - **[Midshipman's hitch.][midshipmans-hitch]**
-Consists of a nautical rolling hitch tied around the standing part to form an
+Consists of a nautical rolling hitch (above) tied around the standing part to form an
 adjustable loop. Remember to cinch the snot out of that rolling hitch. Use in place of taut-line hitch, to tie down an aircraft or
 tension a guyline.
 
