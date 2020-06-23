@@ -64,12 +64,12 @@ I tested the security of eight bends. Check out the [results][bend-test].
 
 
 ### Bindings
-- **[Double constrictor knot.][double-constrictor]** The most manly of
-bindings. Use in place of clove hitch or right-angle knot. The old-timers say
-you have to cut it off; but with synthetic rope, untying is often perfectly
-feasible.
-- **Slipped double constrictor knot.** Use in place of clove hitch as a secure
-but easily untied binding.
+- **[Double constrictor knot.][double-constrictor]**
+The most manly of bindings. Use in place of clove hitch or right-angle knot.
+The old-timers say you have to cut it off; but with synthetic rope, untying is
+often perfectly feasible.
+- **Slipped double constrictor knot.**
+Use in place of clove hitch as a secure but easily untied binding.
 
 <div class="gallery" markdown="1">
 ![][dbl-constrictor-photo]
@@ -155,14 +155,15 @@ with most traditional knots. So here's a reading list for specialty cordage.
 
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'      | prepend: site.url }}
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
-[butterfly-bend]:      https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[butterfly-loop]:      https://www.netknots.com/rope_knots/butterfly-knot
-[double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
-[flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
-[short-shoelaces]:     http://shortshoelaces.jackdesert.com/
-[safety-belt-hitch]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
-[surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
-[simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
-[vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:       https://www.netknots.com/rope_knots/zeppelin-bend
-[zeppelin-loop]:       https://notableknotindex.webs.com/zeppelinloop.html
+[surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'   | prepend: site.url }}
+
+[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
+[double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
+[flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
+[safety-belt-hitch]:  https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
+[short-shoelaces]:    http://shortshoelaces.jackdesert.com/
+[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
+[vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
+[zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html
