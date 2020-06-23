@@ -105,20 +105,24 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot, or slipped variant.**
 This binding serves well as a simple hitch.
 
-- **[Safety-belt hitch.][safety-belt-hitch]**
-A good friction hitch, slidable by hand except when loaded. Trusted by
-steeplejacks to attach their belts to backup lines in case of a fall. Use in
-place of rolling hitch or two half-hitches.
+- **Nautical [safety-belt hitch][safety-belt-hitch].**
+A rolling hitch with an extra turn before the final half hitch. In the
+_nautical_ variant, that extra turn is wrapped around the preceding turns
+rather than around the standing part. When tied around another rope with the
+end yanked hard across the first three turns while the standing part is yanked
+in the opposite direction, the result is a friction hitch which grips very well
+when loaded but remains adjustable when unloaded. Use in place of nautical
+rolling hitch or landlubber's rolling hitch.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
-Consists of a safety-belt hitch tied around the standing part to form an
-adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie
-down an aircraft or tension a guyline.
+Consists of a nautical safety-belt hitch tied around the standing part to form
+an adjustable loop. Use in place of midshipmans' hitch or taut-line hitch, to
+tie down an aircraft or tension a guyline.
 
-In the Royal Navy, the sub-lieutenant rank is one level above midshipman. But I
-named the sub-lieutenant's hitch myself, so don't be fooled into thinking that
-it originated there.
+In the Royal Navy, the sub-lieutenant rank is one level above midshipman. I
+named the sub-lieutenant's hitch for its status as an upgraded version of the
+midshipman's hitch on which it is based.
 {:.tangent}
 
 - **Trucker’s hitch (Reeder variant).**
