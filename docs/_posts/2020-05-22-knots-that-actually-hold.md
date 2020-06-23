@@ -125,8 +125,10 @@ named the sub-lieutenant's hitch for its status as an upgraded midshipman's
 hitch.
 {:.tangent}
 
+<div class="gallery" markdown="1">
 ![][sublieutenants-hitch-photo]
-*Sublieutenant's hitch -- a grippier midshipman's hitch*
+*Sublieutenant's hitch: a grippier midshipman's hitch*
+</div>
 
 - **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
