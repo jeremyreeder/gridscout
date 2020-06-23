@@ -121,8 +121,8 @@ an adjustable loop. Use in place of midshipmans' hitch or taut-line hitch, to
 tie down an aircraft or tension a guyline.
 
 In the Royal Navy, the sub-lieutenant rank is one level above midshipman. I
-named the sub-lieutenant's hitch for its status as an upgraded version of the
-midshipman's hitch on which it is based.
+named the sub-lieutenant's hitch for its status as an upgraded midshipman's
+hitch.
 {:.tangent}
 
 - **Trucker’s hitch (Reeder variant).**
