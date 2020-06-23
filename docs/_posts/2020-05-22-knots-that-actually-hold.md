@@ -113,7 +113,7 @@ hitch grips very well when loaded but remains moveable when unloaded.
 
 - **[Midshipman's hitch.][midshipmans-hitch]**
 Consists of a nautical rolling hitch tied around the standing part to form an
-adjustable loop. Use in place of taut-line hitch, to tie down an aircraft or
+adjustable loop. Remember to cinch the snot out of that rolling hitch. Use in place of taut-line hitch, to tie down an aircraft or
 tension a guyline.
 
 - **Trucker’s hitch (Reeder variant).**
@@ -121,7 +121,7 @@ Use this compound hitch to secure a heavy load.
 
 1. Make a fixed upper loop with the alpine butterfly.
 2. Pass the end around an object to form a lower loop.
-3. With the remainder of the rope, tie a midshipman's hitch onto the upper
+3. With the remainder of the rope, tie a midshipman's hitch securely to the upper
 loop.
 4. Adjust the midshipman's hitch to tighten the lower loop.
 
