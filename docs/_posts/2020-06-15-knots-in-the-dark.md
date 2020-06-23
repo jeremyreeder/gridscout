@@ -31,8 +31,8 @@ as a "bend" to join ropes.
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Sub-lieutenant's hitch.][sublieutenants-hitch]**
-An adjustable loop with more grip than the midshipman's hitch.
+5. **[Midshipman's hitch.][midshipmans-hitch]**
+An adjustable loop with more grip than the taut-line hitch.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
@@ -41,10 +41,10 @@ and downright useful in everyday life.
 
 
 [simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
-[sublieutenants-hitch]:   {{ '/2020/05/22/knots-that-actually-hold.html#steeplejacks-knot'   | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 
 [butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:   https://captnmike.com/2011/10/15/double-constrictor/
+[midshipmans-hitch]:    https://www.animatedknots.com/midshipmans-hitch-knot
 [underwater-test]:      https://www.itstactical.com/skillcom/knots/how-to-tie-knots-like-a-navy-seal-underwater/
 [zeppelin-loop]:        https://notableknotindex.webs.com/zeppelinloop.html

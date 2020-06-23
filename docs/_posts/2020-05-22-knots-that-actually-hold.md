@@ -105,40 +105,25 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot (or slipped variant).**
 This binding serves well as a simple hitch.
 
-- **Nautical [safety-belt hitch][safety-belt-hitch].**
-A rolling hitch with an extra turn before the final half hitch. In the
-_nautical_ variant, that extra turn is wrapped around the preceding turns
-rather than around the standing part. Tied firmly onto another rope, this friction hitch grips very well
-when loaded but remains moveable when unloaded.
-{:#steeplejacks-knot}
+- **[Rolling hitch (nautical variant).][nautical-rolling-hitch]**
+An awning hitch followed by a half-hitch. For maximum security, cinch it tight
+by yanking the standing part in the direction of the half-hitch and the working
+end in the opposite direction. Tied firmly onto another rope, this friction
+hitch grips very well when loaded but remains moveable when unloaded.
 
-The _landlubber's_ variant was historically used by steeplejacks to secure their safety belts to backup ropes in case of a fall.
-{:.tangent}
-
-- **Sub-lieutenant's hitch.**
-Consists of a nautical safety-belt hitch tied around the standing part to form
-an adjustable loop. Use in place of midshipmans' hitch or taut-line hitch, to
-tie down an aircraft or tension a guyline.
-
-In the Royal Navy, the sub-lieutenant rank is one level above midshipman. I
-named the sub-lieutenant's hitch for its status as an upgraded midshipman's
-hitch.
-{:.tangent}
-
-<div class="gallery" markdown="1">
-![][nautical-safety-belt-hitch-photo]
-![][sublieutenants-hitch-photo]
-*Nautical safety-belt hitch & sublieutenant's hitch*
-</div>
+- **[Midshipman's hitch.][midshipmans-hitch]**
+Consists of a nautical rolling hitch tied around the standing part to form an
+adjustable loop. Use in place of taut-line hitch, to tie down an aircraft or
+tension a guyline.
 
 - **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
 
 1. Make a fixed upper loop with the alpine butterfly.
 2. Pass the end around an object to form a lower loop.
-3. With the remainder of the rope, tie a sub-lieutenant's hitch onto the upper
+3. With the remainder of the rope, tie a midshipman's hitch onto the upper
 loop.
-4. Adjust the sub-lieutenant's hitch to tighten the lower loop.
+4. Adjust the midshipman's hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
@@ -161,20 +146,20 @@ with most traditional knots. So here's a reading list for specialty cordage.
 [reef-2t-photo]:                    {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
 [reef-2s2t-photo]:                  {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
 [reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
-[sublieutenants-hitch-photo]:       {{ '/images/sublieutenants-hitch.jpg'                  | prepend: site.url }}
 [truckers-hitch-photo]:             {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'      | prepend: site.url }}
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'   | prepend: site.url }}
 
-[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
-[double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
-[flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
-[safety-belt-hitch]:  https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
-[short-shoelaces]:    http://shortshoelaces.jackdesert.com/
-[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
-[vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
+[butterfly-bend]:         https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[butterfly-loop]:         https://www.netknots.com/rope_knots/butterfly-knot
+[double-constrictor]:     https://captnmike.com/2011/10/15/double-constrictor/
+[flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
+[midshipmans-hitch]:      https://www.animatedknots.com/midshipmans-hitch-knot
+[nautical-rolling-hitch]: https://www.animatedknots.com/rolling-hitch-knot
+[short-shoelaces]:        http://shortshoelaces.jackdesert.com/
+[simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
+[vice-versa-bend]:        https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
 [zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html
