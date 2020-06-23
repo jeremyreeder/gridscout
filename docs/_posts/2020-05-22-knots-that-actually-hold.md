@@ -105,19 +105,17 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot, or slipped variant.**
 This binding serves well as a simple hitch.
 
-- **[Steeplejack's knot.][steeplejacks-knot]**
-A friction hitch that actually holds. Slidable except when loaded. Use in place of rolling hitch or
-two half-hitches. Suitable for attaching your belt to a backup line in case you fall from, say, a church steeple.
+- **[Safety-belt hitch.][safety-belt-hitch]**
+A good friction hitch, slidable by hand except when loaded. Trusted by steeplejacks to attach their belts to backup lines in case of a fall. Use in place of rolling hitch or
+two half-hitches.
 {:#steeplejacks-knot}
 
 - **Sub-lieutenant's hitch.**
-Consists of a steeplejack's knot tied around the standing part to form an
+Consists of a safety-belt hitch (above) tied around the standing part to form an
 adjustable loop. Use in place of midshipman's hitch or taut-line hitch, to tie down an aircraft or
 tension a guyline.
 
-I call it the sub-lieutenant's hitch because it seems to be a more secure alternative to the midshipman's
-hitch and, in the Royal Navy, the rank of sub-lieutenant follows that of
-midshipman.
+In the Royal Navy, the sub-lieutenant rank is one level above midshipman.
 {:.tangent}
 
 - **Trucker’s hitch (Reeder variant).**
@@ -162,7 +160,7 @@ with most traditional knots. So here's a reading list for specialty cordage.
 [double-constrictor]:  https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:        https://www.netknots.com/rope_knots/figure-eight
 [short-shoelaces]:     http://shortshoelaces.jackdesert.com/
-[steeplejacks-knot]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
+[safety-belt-hitch]:   https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf' | prepend: site.url }}
 [simple-simon-under]:  https://en.wikipedia.org/wiki/Simple_Simon_under
 [vice-versa-bend]:     https://en.wikipedia.org/wiki/Reever_Knot
