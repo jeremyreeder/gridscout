@@ -40,11 +40,11 @@ hoisting a carbide chainsaw up to a rooftop; but it's sexy enough, cool enough,
 and downright useful in everyday life.
 
 
+[midshipmans-hitch]:        {{ '/2020/05/22/knots-that-actually-hold.html#midshipmans-hitch'                     | prepend: site.url }}
 [simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 
 [butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:   https://captnmike.com/2011/10/15/double-constrictor/
-[midshipmans-hitch]:    https://www.animatedknots.com/midshipmans-hitch-knot
 [underwater-test]:      https://www.itstactical.com/skillcom/knots/how-to-tie-knots-like-a-navy-seal-underwater/
 [zeppelin-loop]:        https://notableknotindex.webs.com/zeppelinloop.html
