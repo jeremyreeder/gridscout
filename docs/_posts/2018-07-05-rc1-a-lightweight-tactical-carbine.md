@@ -47,8 +47,7 @@ Incursion][incursion], which is relatively light and fires one of the most
 effective general-purpose cartridges yet devised for modern sporting rifles.
 The Incursion, however, isn't everything that I want it to be.
 
-It's slightly longer than I prefer for close-quarters maneuvering. More
-importantly, it still relies on the direct-impingement gas system that got M16
+It's slightly longer than I prefer in close quarters, and it still relies on the direct-impingement gas system that got M16
 operators killed in Vietnam.
 {:.tangent}
 
