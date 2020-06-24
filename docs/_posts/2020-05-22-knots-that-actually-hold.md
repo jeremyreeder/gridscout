@@ -109,7 +109,7 @@ This binding serves well as a simple hitch.
 An awning hitch followed by a half-hitch. Cinch it tight
 by yanking the standing part across the half-hitch, and the working
 end in the opposite direction. This friction
-hitch grips well when loaded but remains moveable when unloaded. Use in place of two half-hitches.
+hitch grips well when loaded but otherwise remains moveable. Use in place of two half-hitches.
 
 - **[Midshipman's hitch.][midshipmans-hitch]**
 Consists of a nautical rolling hitch (above) tied around the standing part to form an
