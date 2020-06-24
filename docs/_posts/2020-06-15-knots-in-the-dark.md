@@ -32,7 +32,7 @@ as a "bend" to join ropes.
 A fixed loop for the end of a rope, better than the bowline in every way.
 
 5. **[Schwabisch hitch.][schwabisch-hitch]**
-A friction hitch to keep you from falling to your death.
+A friction hitch good enough to stop you from falling to your death.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
