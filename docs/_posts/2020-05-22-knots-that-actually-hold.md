@@ -111,7 +111,7 @@ loaded but otherwise slides easily for adjustment of position. Use in place of
 safety-belt hitch for attachment to a life-support line.
 
 - **Schwabisch loop.**
-An adjustable loop formed by tying a Schwabish hitch around its own standing
+An adjustable loop formed by tying a Schwabisch hitch around its own standing
 part. Use in place of midshipman's hitch or taut-line hitch, to tie down an
 aircraft or tension a guyline.
 {:#schwabisch-loop}
