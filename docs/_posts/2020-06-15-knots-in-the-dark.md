@@ -31,9 +31,8 @@ as a "bend" to join ropes.
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Schwabisch loop.][schwabisch-loop]**
-An adjustable loop with better grip and easier adjustment than the midshipman's
-hitch.
+5. **[Schwabisch hitch.][schwabisch-hitch]**
+A friction hitch to keep you from falling to your death.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
@@ -41,7 +40,7 @@ hoisting a carbide chainsaw up to a rooftop; but it's sexy enough, cool enough,
 and downright useful in everyday life.
 
 
-[schwabisch-loop]:        {{ '/2020/05/22/knots-that-actually-hold.html#schwabisch-loop'     | prepend: site.url }}
+[schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
 [simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 
