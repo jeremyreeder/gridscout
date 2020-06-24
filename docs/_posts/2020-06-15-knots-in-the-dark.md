@@ -31,8 +31,9 @@ as a "bend" to join ropes.
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Midshipman's hitch.][midshipmans-hitch]**
-An adjustable loop with good grip. Just remember to cinch the snot out of it.
+5. **[Schwabisch loop.][schwabisch-loop]**
+An adjustable loop with better grip and easier adjustment than the midshipman's
+hitch.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
@@ -40,7 +41,7 @@ hoisting a carbide chainsaw up to a rooftop; but it's sexy enough, cool enough,
 and downright useful in everyday life.
 
 
-[midshipmans-hitch]:        {{ '/2020/05/22/knots-that-actually-hold.html#midshipmans-hitch'                     | prepend: site.url }}
+[schwabisch-loop]:        {{ '/2020/05/22/knots-that-actually-hold.html#schwabisch-loop'     | prepend: site.url }}
 [simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 

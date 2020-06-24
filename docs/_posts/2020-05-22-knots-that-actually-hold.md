@@ -105,26 +105,24 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot (or slipped variant).**
 This binding serves well as a simple pole hitch.
 
-- **[Rolling hitch (nautical variant).][nautical-rolling-hitch]**
-An awning hitch followed by a half-hitch. Cinch it tight
-by yanking the standing part across the half-hitch, and the working
-end in the opposite direction. This friction
-hitch grips well when loaded but otherwise remains moveable. Use in place of two half-hitches.
+- **[Schwabisch hitch.][swabisch-hitch]**
+A magnus hitch with two extra turns. Grips better than a rolling hitch when
+loaded but otherwise slides easily for adjustment of position.
 
-- **[Midshipman's hitch.][midshipmans-hitch]**
-Consists of a nautical rolling hitch (above) tied around the standing part to form an
-adjustable loop. Remember to cinch the snot out of that rolling hitch. Use in place of taut-line hitch, to tie down an aircraft or
-tension a guyline.
-{:#midshipmans-hitch}
+- **Schwabisch loop.**
+An adjustable loop formed by tying a Schwabish hitch around its own standing
+part. Use in place of midshipman's hitch or taut-line hitch, to tie down an
+aircraft or tension a guyline.
+{:#schwabisch-loop}
 
 - **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
 
     1. Make a fixed upper loop with the alpine butterfly.
     2. Pass the end around an object to form a lower loop.
-    3. With the remainder of the rope, tie a midshipman's hitch securely to the upper
-loop.
-    4. Adjust the midshipman's hitch to tighten the lower loop.
+	 3. With the remainder of the rope, tie a Schwabisch loop interlinked with
+the upper loop.
+    4. Adjust the Schwabisch loop to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
@@ -142,7 +140,6 @@ with most traditional knots.
 
 [dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
 [dbl-constrictor-s-photo]:          {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
-[nautical-safety-belt-hitch-photo]: {{ '/images/nautical-safety-belt-hitch.jpg'            | prepend: site.url }}
 [reef-2t-photo]:                    {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
 [reef-2s2t-photo]:                  {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
 [reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
@@ -156,10 +153,9 @@ with most traditional knots.
 [butterfly-loop]:         https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:     https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
-[midshipmans-hitch]:      https://www.animatedknots.com/midshipmans-hitch-knot
-[nautical-rolling-hitch]: https://www.animatedknots.com/rolling-hitch-knot
 [short-shoelaces]:        http://shortshoelaces.jackdesert.com/
 [simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
+[schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
 [vice-versa-bend]:        https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
 [zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html
