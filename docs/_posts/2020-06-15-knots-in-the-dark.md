@@ -32,7 +32,7 @@ as a "bend" to join ropes.
 A fixed loop for the end of a rope, better than the bowline in every way.
 
 5. **[Midshipman's hitch.][midshipmans-hitch]**
-An adjustable loop with more grip than the taut-line hitch.
+An adjustable loop with good grip. Just remember to cinch the snot out of it.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
