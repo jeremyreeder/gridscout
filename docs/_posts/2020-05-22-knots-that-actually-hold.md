@@ -105,7 +105,7 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot (or slipped variant).**
 This binding serves well as a simple pole hitch.
 
-- **[Schwabisch hitch.][swabisch-hitch]**
+- **[Schwabisch hitch.][schwabisch-hitch]**
 A magnus hitch with two extra turns. Grips better than a rolling hitch when
 loaded but otherwise slides easily for adjustment of position. Use in place of
 safety-belt hitch for attachment to a life-support line.
