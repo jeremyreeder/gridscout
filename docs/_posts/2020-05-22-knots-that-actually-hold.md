@@ -120,11 +120,11 @@ tension a guyline.
 - **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
 
-1. Make a fixed upper loop with the alpine butterfly.
-2. Pass the end around an object to form a lower loop.
-3. With the remainder of the rope, tie a midshipman's hitch securely to the upper
+    1. Make a fixed upper loop with the alpine butterfly.
+    2. Pass the end around an object to form a lower loop.
+    3. With the remainder of the rope, tie a midshipman's hitch securely to the upper
 loop.
-4. Adjust the midshipman's hitch to tighten the lower loop.
+    4. Adjust the midshipman's hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
