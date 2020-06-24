@@ -103,7 +103,7 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 ### Hitches
 
 - **Double constrictor knot (or slipped variant).**
-This binding serves well as a simple hitch.
+This binding serves well as a simple pole hitch.
 
 - **[Rolling hitch (nautical variant).][nautical-rolling-hitch]**
 An awning hitch followed by a half-hitch. Cinch it tight
