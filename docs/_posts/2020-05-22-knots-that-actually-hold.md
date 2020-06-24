@@ -106,10 +106,10 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 This binding serves well as a simple hitch.
 
 - **[Rolling hitch (nautical variant).][nautical-rolling-hitch]**
-An awning hitch followed by a half-hitch. For maximum security, cinch it tight
-by yanking the standing part in the direction of the half-hitch and the working
+An awning hitch followed by a half-hitch. Cinch it tight
+by yanking the standing part across the half-hitch, and the working
 end in the opposite direction. This friction
-hitch grips very well when loaded but remains moveable when unloaded. Use in place of two half-hitches.
+hitch grips well when loaded but remains moveable when unloaded. Use in place of two half-hitches.
 
 - **[Midshipman's hitch.][midshipmans-hitch]**
 Consists of a nautical rolling hitch (above) tied around the standing part to form an
