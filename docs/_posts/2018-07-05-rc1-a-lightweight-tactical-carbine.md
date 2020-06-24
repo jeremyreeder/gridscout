@@ -88,8 +88,7 @@ The RC1 will be equipped with two sighting systems:
 - Simple offset iron sights for quick target acquisition within 100 yards
 
 ## Progress
-Progress on this project is as follows. Initially, a few paper parts stand in
-for some of the major parts that I have not yet acquired. With a scope and a
+Progress on this project is as follows. With a scope and a
 full magazine, I anticipate a total weight of about 6 lb 13 oz, and a total
 length of about 32 inches.
 
