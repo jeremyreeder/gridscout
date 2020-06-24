@@ -115,6 +115,7 @@ hitch grips very well when loaded but remains moveable when unloaded.
 Consists of a nautical rolling hitch (above) tied around the standing part to form an
 adjustable loop. Remember to cinch the snot out of that rolling hitch. Use in place of taut-line hitch, to tie down an aircraft or
 tension a guyline.
+{:#midshipmans-hitch}
 
 - **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
