@@ -125,7 +125,7 @@ than originally anticipated, so I better start workin' out.
 
 <div class="gallery" markdown="1">
 ![][progress-2020-06-25]
-*2020-06 — Under consideration: mag-well flair
+*2020-06 — Under consideration: mag-well flair*
 </div>
 
 ![][to-be-continued]
