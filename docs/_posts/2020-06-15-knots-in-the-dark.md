@@ -21,8 +21,8 @@ ability to correctly tie each of the following knots.
 1. **[Double constrictor knot.][double-constrictor]**
 In lieu of the inferior clove hitch or right-angle knot.
 
-2. **[Simple-Simon-crossover bend.][simple-simon-crossover]**
-172% more secure than the sheetbend.
+2. **[Simple-Simon-under bend.][simple-simon-under]**
+At least 200% more secure than the sheetbend.
 
 3. **[Alpine butterfly.][butterfly-loop]**
 Excellent as a mid-rope loop, or as a "shank" to bypass a section of rope, or
@@ -40,8 +40,8 @@ hoisting a carbide chainsaw up to a rooftop; but it's sexy enough, cool enough,
 and downright useful in everyday life.
 
 
-[safety-belt-hitch]:       https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
-[simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
+[safety-belt-hitch]:      https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
+[simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 
 [butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
