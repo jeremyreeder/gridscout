@@ -123,6 +123,11 @@ The lower is now complete. Total weight so far is 4 lb 8 oz. Projected total
 weight when complete and fully loaded is now 7 lb 2 oz. That's 5 oz heavier
 than originally anticipated, so I better start workin' out.
 
+<div class="gallery" markdown="1">
+![][progress-2020-06-25]
+*2020-06 — Under consideration: huge mag-well flair
+</div>
+
 ![][to-be-continued]
 *Coming 2020-11 — Piston kit to complete the upper*
 
@@ -131,17 +136,18 @@ When the RC1 is complete, we'll assess its performance in a separate post, a
 link to which will be conveniently provided here.
 
 
-[progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'          | prepend: site.url }}
-[progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'          | prepend: site.url }}
-[progress-2018-11-14]:          {{ '/images/rc1-progress-2018-11-14.jpg'          | prepend: site.url }}
-[progress-2018-12-25]:          {{ '/images/rc1-progress-2018-12-25.jpg'          | prepend: site.url }}
-[progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'       | prepend: site.url }}
-[progress-2019-05-02T19]:       {{ '/images/rc1-progress-2019-05-02T19.jpg'       | prepend: site.url }}
-[progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg'    | prepend: site.url }}
-[progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'          | prepend: site.url }}
-[progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'          | prepend: site.url }}
-[progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'          | prepend: site.url }}
-[to-be-continued]:              {{ '/images/to-be-continued.jpg'                  | prepend: site.url }}
+[progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
+[progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'       | prepend: site.url }}
+[progress-2018-11-14]:          {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
+[progress-2018-12-25]:          {{ '/images/rc1-progress-2018-12-25.jpg'       | prepend: site.url }}
+[progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'    | prepend: site.url }}
+[progress-2019-05-02T19]:       {{ '/images/rc1-progress-2019-05-02T19.jpg'    | prepend: site.url }}
+[progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg' | prepend: site.url }}
+[progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'       | prepend: site.url }}
+[progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'       | prepend: site.url }}
+[progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'       | prepend: site.url }}
+[progress-2020-06-25]:          {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
+[to-be-continued]:              {{ '/images/to-be-continued.jpg'               | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
