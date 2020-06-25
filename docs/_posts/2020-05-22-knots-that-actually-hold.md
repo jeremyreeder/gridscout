@@ -110,7 +110,7 @@ A good friction hitch. Grips superbly when loaded; slideable otherwise. Use for 
 
 - **Taut-line hitch (magnus safety-belt variant).**
 An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
-part. Use in place of midshipman's hitch or taut-line hitch, to tie down an
+part. Use in place of midshipman's hitch or other taut-line variants, to tie down an
 aircraft or tension a guyline.
 {:#sublieutenants-hitch}
 
