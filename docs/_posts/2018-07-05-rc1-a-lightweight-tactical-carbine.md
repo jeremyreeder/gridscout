@@ -124,8 +124,8 @@ weight when complete and fully loaded is now 7 lb 2 oz. That's 5 oz heavier
 than originally anticipated, so I better start workin' out.
 
 <div class="gallery" markdown="1">
-![][progress-2020-06-25]
-*2020-06 — Under consideration: mag-well flair*
+![This enormous mag-well flair, 3D-printed out of carbon-fiber copolyester, makes my magazine changes so much faster. It sure does make the magazine look puny though!][progress-2020-06-25]
+*2020-06-25 — Flaired magazine well*
 </div>
 
 ![][to-be-continued]
