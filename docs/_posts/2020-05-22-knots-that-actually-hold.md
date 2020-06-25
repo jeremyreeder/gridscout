@@ -115,6 +115,9 @@ An adjustable loop formed by tying a magnus safety-belt hitch around its own sta
 part. Use in place of midshipman's hitch or other taut-line variants, to tie down an
 aircraft or tension a guyline.
 
+![][magnus-safetybelt-tautline-photo]
+*Magnus safety-belt taut-line*
+
 - **Trucker’s hitch (butterfly variant finished with magnus safety-belt).**
 Use this compound hitch to secure a heavy load.
 
@@ -139,6 +142,7 @@ with most traditional knots.
 
 [dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
 [dbl-constrictor-s-photo]:          {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
+[magnus-safetybelt-tautline-photo]: {{ '/images/magnus-safetybelt-tautline.jpg'            | prepend: site.url }}
 [reef-2t-photo]:                    {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
 [reef-2s2t-photo]:                  {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
 [reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
