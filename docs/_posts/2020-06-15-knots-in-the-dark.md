@@ -31,7 +31,7 @@ as a "bend" to join ropes.
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Schwabisch hitch.][schwabisch-hitch]**
+5. **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
 A friction hitch good enough to stop you from falling to your death.
 
 If you can properly tie great knots like these without even looking, then
@@ -40,7 +40,7 @@ hoisting a carbide chainsaw up to a rooftop; but it's sexy enough, cool enough,
 and downright useful in everyday life.
 
 
-[schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
+[safety-belt-hitch]:       https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [simple-simon-crossover]: {{ '/2020/06/03/which-bends-hold-best.html#simple-simon-crossover' | prepend: site.url }}
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
 
