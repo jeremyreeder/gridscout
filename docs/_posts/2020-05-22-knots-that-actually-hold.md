@@ -114,14 +114,13 @@ part. Use in place of midshipman's hitch or other taut-line variants, to tie dow
 aircraft or tension a guyline.
 {:#sublieutenants-hitch}
 
-- **Trucker’s hitch (Reeder variant).**
+- **Trucker’s hitch (fixed-loop variant finished with magnus safety-belt).**
 Use this compound hitch to secure a heavy load.
 
-    1. Make a fixed upper loop with the alpine butterfly.
-    2. Pass the end around an object to form a lower loop.
-	 3. With the remainder of the rope, tie a Schwabisch loop interlinked with
-the upper loop.
-    4. Adjust the Schwabisch loop to tighten the lower loop.
+    1. Make a fixed upper loop -- an alpine butterfly, for instance. Tie it far enough from your final anchor point to allow room for cinching.
+    2. Pass the working end around the anchor point and through the upper loop. This forms a lower loop.
+    3. Pull the end back toward the lower loop and fasten to one of its legs with a magnus safety-belt hitch.
+    4. Adjust the safety-belt hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
