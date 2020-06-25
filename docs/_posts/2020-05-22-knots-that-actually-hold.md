@@ -105,15 +105,14 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot (or slipped variant).**
 This binding serves well as a simple pole hitch.
 
-- **[Schwabisch hitch.][schwabisch-hitch]**
-A modern friction hitch that grips well when loaded. Use
-in place of safety-belt hitch for attachment to a life-support line.
+- **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
+A good friction hitch. Grips superbly when loaded; slideable otherwise. Use for attachment to a life-support line.
 
-- **Schwabisch loop.**
-An adjustable loop formed by tying a Schwabisch hitch around its own standing
+- **Taut-line hitch (magnus safety-belt variant).**
+An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
 part. Use in place of midshipman's hitch or taut-line hitch, to tie down an
 aircraft or tension a guyline.
-{:#schwabisch-loop}
+{:#sublieutenants-hitch}
 
 - **Trucker’s hitch (Reeder variant).**
 Use this compound hitch to secure a heavy load.
