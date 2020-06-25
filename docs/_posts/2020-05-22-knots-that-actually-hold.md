@@ -106,8 +106,7 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 This binding serves well as a simple pole hitch.
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
-A magnus hitch with two extra turns. Grips better than a magnus or rolling
-hitch when loaded but otherwise slides easily for adjustment of position. Use
+A modern friction hitch that grips well when loaded. Use
 in place of safety-belt hitch for attachment to a life-support line.
 
 - **Schwabisch loop.**
