@@ -106,7 +106,8 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 This binding serves well as a simple pole hitch.
 
 - **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
-Once used by steeplejacks for attachment to life-support lines. Still a real good friction hitch. Grips superbly when loaded; slideable otherwise.
+Once used by steeplejacks for attachment to life-support lines. Still a real
+good friction hitch. Grips superbly when loaded; slideable otherwise.
 {:#steeplejacks-knot}
 
 - **Taut-line hitch (magnus safety-belt variant).**
@@ -117,10 +118,10 @@ aircraft or tension a guyline.
 - **Trucker’s hitch (butterfly variant finished with magnus safety-belt).**
 Use this compound hitch to secure a heavy load.
 
-    1. Make a fixed upper loop with the alpine butterfly. Tie it far enough from your final anchor point to allow room for cinching.
-    2. Pass the working end around the anchor point and through the upper loop. This forms a lower loop.
-    3. Pull the end back toward the lower loop and fasten to one of its legs with a magnus safety-belt hitch.
-    4. Adjust the safety-belt hitch to tighten the lower loop.
+	1. Make a fixed upper loop with the alpine butterfly. Tie it far enough from your final anchor point to allow room for cinching.
+	2. Pass the working end around the anchor point and through the upper loop. This forms a lower loop.
+	3. Pull the end back toward the lower loop and fasten to one of its legs with a magnus safety-belt hitch.
+	4. Adjust the safety-belt hitch to tighten the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
