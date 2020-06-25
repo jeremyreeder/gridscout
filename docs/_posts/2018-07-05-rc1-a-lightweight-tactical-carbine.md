@@ -110,7 +110,8 @@ length of about 32 inches.
 *2019 — Charging handle, trigger guard, endplate, & thread protector*
 </div>
 
-I made the trigger guard based on a [model by Gregory Spicer][guard-model].
+[Trigger-guard design][guard-model] courtesy of Gregory Spicer.
+{:.tangent}
 
 <div class="gallery" markdown="1">
 ![Velocity™ 4-lb trigger, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-22]
