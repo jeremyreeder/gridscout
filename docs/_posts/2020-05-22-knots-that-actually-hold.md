@@ -107,12 +107,12 @@ This binding serves well as a simple pole hitch.
 
 - **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
 A good friction hitch. Grips superbly when loaded; slideable otherwise. Use for attachment to a life-support line.
+{:#steeplejacks-knot}
 
 - **Taut-line hitch (magnus safety-belt variant).**
 An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
 part. Use in place of midshipman's hitch or other taut-line variants, to tie down an
 aircraft or tension a guyline.
-{:#sublieutenants-hitch}
 
 - **Trucker’s hitch (fixed-loop variant finished with magnus safety-belt).**
 Use this compound hitch to secure a heavy load.
@@ -153,7 +153,7 @@ with most traditional knots.
 [flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
 [short-shoelaces]:        http://shortshoelaces.jackdesert.com/
 [simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
-[schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
+[safety-belt-hitch]:       https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [vice-versa-bend]:        https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
 [zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html
