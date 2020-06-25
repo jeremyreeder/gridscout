@@ -115,8 +115,10 @@ An adjustable loop formed by tying a magnus safety-belt hitch around its own sta
 part. Use in place of midshipman's hitch or other taut-line variants, to tie down an
 aircraft or tension a guyline.
 
+<div class="gallery" markdown="1">
 ![][magnus-safetybelt-tautline-photo]
 *Magnus safety-belt taut-line*
+</div>
 
 - **Trucker’s hitch (butterfly variant finished with magnus safety-belt).**
 Use this compound hitch to secure a heavy load.
