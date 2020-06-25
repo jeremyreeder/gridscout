@@ -111,7 +111,6 @@ length of about 32 inches.
 </div>
 
 I made the trigger guard based on a [model by Gregory Spicer][guard-model].
-{:.tangent}
 
 <div class="gallery" markdown="1">
 ![Velocity™ 4-lb trigger, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-22]
