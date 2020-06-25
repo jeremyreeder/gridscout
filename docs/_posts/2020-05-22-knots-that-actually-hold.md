@@ -107,7 +107,7 @@ This binding serves well as a simple pole hitch.
 
 - **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
 Once used by steeplejacks for attachment to life-support lines. Still a real
-good friction hitch. Grips superbly when loaded; slideable otherwise.
+good friction hitch. Grips well but is easily adjusted.
 {:#steeplejacks-knot}
 
 - **Taut-line hitch (magnus safety-belt variant).**
