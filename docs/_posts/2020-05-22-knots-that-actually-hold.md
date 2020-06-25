@@ -106,7 +106,7 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 This binding serves well as a simple pole hitch.
 
 - **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
-A good friction hitch. Grips superbly when loaded; slideable otherwise. Use for attachment to a life-support line.
+Once used by steeplejacks for attachment to life-support lines. Still a real good friction hitch. Grips superbly when loaded; slideable otherwise.
 {:#steeplejacks-knot}
 
 - **Taut-line hitch (magnus safety-belt variant).**
