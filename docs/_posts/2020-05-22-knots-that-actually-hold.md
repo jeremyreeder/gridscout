@@ -110,8 +110,8 @@ Once used by steeplejacks for attachment to life-support lines. Still a real
 good friction hitch. Grips well but is easily adjusted.
 {:#steeplejacks-knot}
 
-    For actual life-support use in synthetic rope, a modern equivalent is the closely related [Schwabisch hitch][schwabisch-hitch].
-    {:.tangent}
+For actual life-support use in synthetic rope, a modern equivalent is the closely related [Schwabisch hitch][schwabisch-hitch].
+{:.tangent}
 
 - **Taut-line hitch (magnus safety-belt variant).**
 An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
