@@ -95,7 +95,7 @@ over to form bights, then simply tie them in a reef knot.
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
-bights for only half of the knot disrupts that symmetry. So use this two-bight
+bights for only half of the knot breaks that symmetry. So use this two-bight
 version, or just the [classic reef knot with shorter laces][short-shoelaces].
 {:.tangent}
 
