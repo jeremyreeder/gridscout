@@ -110,6 +110,9 @@ Once used by steeplejacks for attachment to life-support lines. Still a real
 good friction hitch. Grips well but is easily adjusted.
 {:#steeplejacks-knot}
 
+For actual life-support use in synthetic rope, a modern equivalent is the [Schwabisch hitch][schwabisch-hitch].
+{:.tangent}
+
 - **Taut-line hitch (magnus safety-belt variant).**
 An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
 part. Use in place of midshipman's hitch or other taut-line variants, to tie down an
@@ -158,6 +161,7 @@ with most traditional knots.
 [butterfly-loop]:         https://www.netknots.com/rope_knots/butterfly-knot
 [double-constrictor]:     https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
+[schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:        http://shortshoelaces.jackdesert.com/
 [simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
 [safety-belt-hitch]:       https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
