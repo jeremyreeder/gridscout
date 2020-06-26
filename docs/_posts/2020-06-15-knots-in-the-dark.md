@@ -42,7 +42,7 @@ and downright useful in everyday life.
 
 
 ### Additional reading
-- **[Knots that actually hold (in synthetic rope)][synthetic-knots]**
+- **[Knots that actually hold][synthetic-knots]**
 
 
 
