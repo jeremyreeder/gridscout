@@ -39,9 +39,9 @@ important.
 Use alpine butterfly in place of sheepshank, which is the best known but most
 unreliable of shanks, lest you die.
 
-    The point of a shank is to bypass a section of rope that is damaged or overly
-    long. A shank that easily shakes loose obviously won't do.
-    {:.tangent}
+The point of a shank is to bypass a section of rope that is damaged or overly
+long. A shank that easily shakes loose obviously won't do.
+{:.tangent}
 
 
 ### Bends
