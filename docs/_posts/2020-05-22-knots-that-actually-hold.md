@@ -93,11 +93,11 @@ over to form bights, then simply tie them in a reef knot.
 *Double-throw reef knot & reef in 2 bights*
 </div>
 
-Most people use a standard shoelace knot (double-slipped reef), but it works
-loose easily. The reef knot's grip seems to rely on its symmetry, and using
-bights for only half of the knot breaks that symmetry. So use this two-bight
-version, or just the [classic reef knot with shorter laces][short-shoelaces].
-{:.tangent}
+    Most people use a standard shoelace knot (double-slipped reef), but it works
+    loose easily. The reef knot's grip seems to rely on its symmetry, and using
+    bights for only half of the knot breaks that symmetry. So use this two-bight
+    version, or just the [classic reef knot with shorter laces][short-shoelaces].
+    {:.tangent}
 
 
 ### Hitches
@@ -110,8 +110,8 @@ Once used by steeplejacks for attachment to life-support lines. Still a real
 good friction hitch. Grips well but is easily adjusted.
 {:#steeplejacks-knot}
 
-For actual life-support use in synthetic rope, a modern equivalent is the closely related [Schwabisch hitch][schwabisch-hitch].
-{:.tangent}
+    For actual life-support use in synthetic rope, a modern equivalent is the closely related [Schwabisch hitch][schwabisch-hitch].
+    {:.tangent}
 
 - **Taut-line hitch (magnus safety-belt variant).**
 An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
