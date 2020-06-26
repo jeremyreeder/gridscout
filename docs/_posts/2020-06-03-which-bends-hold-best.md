@@ -72,7 +72,7 @@ from each other.
 
 The result is that the bight of the first rope is clamped just as in the
 _Simple-Simon-under_ bend without the relative difficulty of making a pass
-_under_ the rope. The intention is that this new knot will serve as a
+_under_ the rope. The intention was that this new knot will serve as a
 substantial security upgrade to the easiest Simple-Simon knot, the
 Simple-Simon-over, at no cost at all in required effort.
 
