@@ -41,6 +41,11 @@ hoisting a carbide chainsaw up to a rooftop; but it's sexy enough, cool enough,
 and downright useful in everyday life.
 
 
+### Additional reading
+- **[Knots that actually hold (in synthetic rope)][synthetic-knots]**
+
+
+
 [safety-belt-hitch]:      https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
 [synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
