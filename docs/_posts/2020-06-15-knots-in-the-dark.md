@@ -18,6 +18,9 @@ _Darkness_ may be a more practical obstacle. So, periodically, in a completely
 dark room or with your vision of the rope otherwise obstructed, test your
 ability to correctly tie each of the following knots.
 
+Don't let me talk you out of tying knots underwater. You should totally do that too.
+{:.tangent}
+
 1. **[Double constrictor knot.][double-constrictor]**
 In lieu of the inferior clove hitch or right-angle knot.
 
