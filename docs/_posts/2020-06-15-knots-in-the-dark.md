@@ -36,7 +36,7 @@ A fixed loop for the end of a rope, better than the bowline in every way.
 
 5. **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
 A friction hitch once used by steeplejacks to stop them from falling to their
-death. Still grippy enough to be downright useful.
+deaths.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
