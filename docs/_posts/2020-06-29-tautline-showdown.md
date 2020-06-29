@@ -23,7 +23,7 @@ which end slipped first.
 | Rolling safety-belt taut-line | ★★★★       | ★★★        | ★★                 | ★                            |
 | Midshipman's hitch            | ★★★        | ★★★★       | ★★                 | ★                            |
 | Cawley hitch                  | ★★★★       | ★★★★       | ★★★★               | ★★★★★                        |
-| Ezelius hitch                 | ★★★★★      | ★★★        | ★★★                | ★★★                          |
+| Ezelius loop                  | ★★★★★      | ★★★        | ★★★                | ★★                           |
 | Blake's hitch                 | ★★★★★      | ★          | ★★                 | ★★★★                         |
 
 
