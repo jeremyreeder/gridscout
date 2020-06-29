@@ -34,9 +34,8 @@ as a "bend" to join ropes.
 4. **[Zeppelin loop.][zeppelin-loop]**
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
-A friction hitch once used by steeplejacks to stop them from falling to their
-deaths.
+5. **[Cawley hitch.][cawley-hitch]**
+A simple, more secure alternative to the taut-line hitch.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
@@ -48,12 +47,11 @@ and downright useful in everyday life.
 - **[Knots that actually hold][synthetic-knots]**
 
 
-
-[safety-belt-hitch]:      https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
-[simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
-[synthetic-knots]:        {{ '/2020/05/22/knots-that-actually-hold.html'                     | prepend: site.url }}
+[synthetic-knots]:    {{ '/2020/05/22/knots-that-actually-hold.html' | prepend: site.url }}
 
 [butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
+[cawley-hitch]:       https://en.wikipedia.org/wiki/Adjustable_grip_hitch
 [double-constrictor]:   https://captnmike.com/2011/10/15/double-constrictor/
+[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
 [underwater-test]:      https://www.itstactical.com/skillcom/knots/how-to-tie-knots-like-a-navy-seal-underwater/
 [zeppelin-loop]:        https://notableknotindex.webs.com/zeppelinloop.html

@@ -105,31 +105,20 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 - **Double constrictor knot (or slipped variant).**
 This binding serves well as a simple pole hitch.
 
-- **[Safety-belt hitch][safety-belt-hitch] (magnus variant).**
-Once used by steeplejacks for attachment to life-support lines. Still a real
-good friction hitch. Grips well but is easily adjusted.
-{:#steeplejacks-knot}
+- **[Schwabisch hitch.][schwabisch-hitch]**
+A friction hitch for connection to a life-support line.
 
-For actual life-support use in synthetic rope, a modern equivalent is the closely related [Schwabisch hitch][schwabisch-hitch].
-{:.tangent}
+- **Cawley hitch.**
+An adjustable loop. Use in place of the midshipman's hitch or taut-line hitch,
+to die down an aircraft or tension a guyline.
 
-- **Taut-line hitch (magnus safety-belt variant).**
-An adjustable loop formed by tying a magnus safety-belt hitch around its own standing
-part. Use in place of midshipman's hitch or other taut-line variants, to tie down an
-aircraft or tension a guyline.
-
-<div class="gallery" markdown="1">
-![][magnus-safetybelt-tautline-photo]
-*Magnus safety-belt taut-line*
-</div>
-
-- **Trucker’s hitch (butterfly variant finished with magnus safety-belt).**
+- **Trucker’s hitch (butterfly variant finished with Cawley hitch).**
 Use this compound hitch to secure a heavy load.
 
 	1. Make a fixed upper loop with the alpine butterfly. Tie it far enough from your final anchor point to allow room for cinching.
-	2. Pass the working end around the anchor point and through the upper loop. This forms a lower loop.
-	3. Pull the end back toward the lower loop and fasten to one of its legs with a magnus safety-belt hitch.
-	4. Adjust the safety-belt hitch to tighten the lower loop.
+	2. Pass the working end around the anchor point. This forms a lower loop.
+	3. Hook onto the upper loop with a Cawley hitch.
+	4. Adjust the Cawley hitch to tension the lower loop.
 
 ![][truckers-hitch-photo]
 *A secure trucker's hitch*
@@ -147,7 +136,6 @@ with most traditional knots.
 
 [dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
 [dbl-constrictor-s-photo]:          {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
-[magnus-safetybelt-tautline-photo]: {{ '/images/magnus-safetybelt-tautline.jpg'            | prepend: site.url }}
 [reef-2t-photo]:                    {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
 [reef-2s2t-photo]:                  {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
 [reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
@@ -164,7 +152,6 @@ with most traditional knots.
 [schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:        http://shortshoelaces.jackdesert.com/
 [simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
-[safety-belt-hitch]:       https://archive.org/stream/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots#page/n73/mode/1up
 [vice-versa-bend]:        https://en.wikipedia.org/wiki/Reever_Knot
 [zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
 [zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html
