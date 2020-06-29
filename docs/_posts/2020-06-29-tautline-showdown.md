@@ -39,7 +39,6 @@ point where it becomes hard to adjust the tension of the rope.
 If anybody asks the best way to make an apple pie, I say make it with peaches.
 And if anybody asks the best way to tie a taut-line, I say tie a Cawley hitch
 instead.
-{:.tangent}
 
 
 [cawley-hitch]: https://en.wikipedia.org/wiki/Adjustable_grip_hitch
