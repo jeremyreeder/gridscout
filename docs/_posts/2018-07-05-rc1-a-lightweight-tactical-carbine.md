@@ -119,14 +119,14 @@ length of about 32 inches.
 *2020-06 — Trigger, selector, mag release, & other lower innards*
 </div>
 
-The lower is now complete. Total weight so far is 4 lb 8 oz. Projected total
-weight when complete and fully loaded is now 7 lb 2 oz. That's 5 oz heavier
-than originally anticipated, so I better start workin' out.
-
 <div class="gallery" markdown="1">
-![This enormous mag-well flair, 3D-printed out of carbon-fiber copolyester, makes my magazine changes so much faster. It sure does make the magazine look puny though!][progress-2020-06-25]
+![This enormous mag-well flair, 3D-printed of carbon-fiber copolyester, makes my magazine changes so much faster.][progress-2020-06-25]
 *2020-06-25 — Flaired magazine well*
 </div>
+
+The lower is now complete. Total weight so far is 4 lb 9 oz. Projected total
+weight when complete and fully loaded is now 7 lb 3 oz. That's 6 oz heavier
+than originally anticipated, so I better start workin' out.
 
 ![][to-be-continued]
 *Coming 2020-11 — Piston kit to complete the upper*
