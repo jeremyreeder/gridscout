@@ -12,19 +12,24 @@ when you need to support a tent or hammock, tie an aircraft down, or fix a
 telescope in orbit. You know, everday stuff.
 
 But there are several variants. Which friction loop works best? I tested eight
-such knots by repeatedly tying loops in the ends of a parachute cord and noting
-which end slipped first.
+of them in parachute cord, and here are the results.
 
-| Friction-loop knot            | Security   | Simplicity | Ease of tightening | Resistance to overtightening |
-|-------------------------------|------------|------------|--------------------|------------------------------|
-| Magnus taut-line              | ★          | ★★★★       | ★                  | ★★★                          |
-| Rolling taut-line             | ★★         | ★★★★       | ★★                 | ★                            |
-| Magnus safety-belt taut-line  | ★★★        | ★★★        | ★                  | ★★                           |
-| Rolling safety-belt taut-line | ★★★★       | ★★★        | ★★                 | ★                            |
-| Midshipman's hitch            | ★★★        | ★★★★       | ★★                 | ★                            |
-| Cawley hitch                  | ★★★★       | ★★★★       | ★★★★               | ★★★★★                        |
-| Ezelius loop                  | ★★★★★      | ★★★        | ★★★                | ★★                           |
-| Blake's hitch                 | ★★★★★      | ★          | ★★                 | ★★★★                         |
+For this test, I used no special equipment. Just hands and feet and rope. To
+compare the security of two knots, I simply tied both in one rope and pulled to
+see which would slip first. My simplicity measures are inversely related to the
+length of rope required for each knot.
+{:.tangent}
+
+| Rank | Friction-loop knot            | Security   | Simplicity | Ease of tightening | Resistance to overtightening |
+|------|-------------------------------|------------|------------|--------------------|------------------------------|
+| 1    | Cawley hitch                  | ★★★★       | ★★★★       | ★★★★               | ★★★★★                        |
+| 2    | Ezelius loop                  | ★★★★★      | ★★★        | ★★★                | ★★                           |
+| 3    | Blake's hitch                 | ★★★★★      | ★          | ★★                 | ★★★★                         |
+| 4    | Rolling safety-belt taut-line | ★★★★       | ★★★        | ★★                 | ★                            |
+| 5    | Midshipman's hitch            | ★★★        | ★★★★       | ★★                 | ★                            |
+| 6    | Magnus safety-belt taut-line  | ★★★        | ★★★        | ★                  | ★★                           |
+| 7    | Rolling taut-line             | ★★         | ★★★★       | ★★                 | ★                            |
+| 8    | Magnus taut-line              | ★          | ★★★★       | ★                  | ★★★                          |
 
 
 ### Winner: Cawley hitch
