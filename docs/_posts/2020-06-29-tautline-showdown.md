@@ -37,8 +37,8 @@ shake loose. And it seems to be impossible to overtighten this knot to the
 point where it becomes hard to adjust the tension of the rope.
 
 If anybody asks the best way to make an apple pie, I say make it with peaches.
-And if anybody asks the best way to tie a taut-line, I say tie a Cawley hitch
-instead.
+And if anybody asks the best way to tie a taut-line, I'll tell him to tie a
+Cawley hitch instead.
 
 
 [cawley-hitch]: https://en.wikipedia.org/wiki/Adjustable_grip_hitch

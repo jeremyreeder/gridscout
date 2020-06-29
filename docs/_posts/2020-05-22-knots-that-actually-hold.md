@@ -109,7 +109,7 @@ This binding serves well as a simple pole hitch.
 A friction hitch suitable for connection to a life-support line in case you
 fall.
 
-- **Cawley hitch.**
+- **[Cawley hitch.][cawley-hitch]**
 An adjustable loop. Use in place of the midshipman's hitch or taut-line hitch,
 to die down an aircraft or tension a guyline.
 
@@ -148,6 +148,7 @@ with most traditional knots.
 
 [butterfly-bend]:         https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:         https://www.netknots.com/rope_knots/butterfly-knot
+[cawley-hitch]:           https://en.wikipedia.org/wiki/Adjustable_grip_hitch
 [double-constrictor]:     https://captnmike.com/2011/10/15/double-constrictor/
 [flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
 [schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
