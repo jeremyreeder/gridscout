@@ -58,7 +58,7 @@ outperformed the Simple-Simon-over, on which it is based, by 23%. Since it's no
 harder to tie, this is a satisfying discovery. But it still can't compete with the security of the Simple-Simon-under, so I'll stick with that.
 
 
-### Simple-Simon-crossover bend
+### Spotlight: Simple-Simon-crossover bend
 {:#simple-simon-crossover}
 
 This new knot is a variant of the Simple-Simon-over bend. The only difference
