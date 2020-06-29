@@ -126,7 +126,7 @@ length of about 32 inches.
 
 The lower is now complete. Total weight so far is 4 lb 9 oz. Projected total
 weight when complete and fully loaded is now 7 lb 3 oz. That's 6 oz heavier
-than originally anticipated, so I better start workin' out.
+than originally anticipated, so I better start workin' out. ;)
 
 ![][to-be-continued]
 *Coming 2020-11 — Piston kit to complete the upper*
