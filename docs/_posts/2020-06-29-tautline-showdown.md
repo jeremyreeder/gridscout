@@ -27,7 +27,7 @@ which end slipped first.
 | Blake's hitch                 | ★★★★★      | ★          | ★★                 | ★★★★                         |
 
 
-### Spotlight: Cawley hitch
+### Winner: Cawley hitch
 
 Also known as the _adjustable-grip hitch_, the [Cawley hitch][cawley-hitch]
 seems to be the most practical of the tested friction loops. It's one of the
