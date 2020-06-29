@@ -122,7 +122,7 @@ Use this compound hitch to secure a heavy load.
 	4. Adjust the Cawley hitch to tension the lower loop.
 
 ![][truckers-hitch-photo]
-*A secure trucker's hitch*
+*Butterfly-Cawley trucker's hitch*
 
 
 ### Different strokes for different ropes
