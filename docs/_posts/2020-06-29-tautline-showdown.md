@@ -17,14 +17,14 @@ which end slipped first.
 
 | Friction-loop knot            | Security   | Simplicity | Ease of tightening | Resistance to overtightening |
 |-------------------------------|------------|------------|--------------------|------------------------------|
-| Magnus taut-line              | ⦿          | ⦿ ⦿ ⦿ ⦿    | ⦿                  | ⦿ ⦿ ⦿                        |
-| Rolling taut-line             | ⦿ ⦿        | ⦿ ⦿ ⦿ ⦿    | ⦿ ⦿                | ⦿                            |
-| Magnus safety-belt taut-line  | ⦿ ⦿ ⦿      | ⦿ ⦿ ⦿      | ⦿                  | ⦿ ⦿                          |
-| Rolling safety-belt taut-line | ⦿ ⦿ ⦿ ⦿    | ⦿ ⦿ ⦿      | ⦿ ⦿                | ⦿                            |
-| Midshipman's hitch            | ⦿ ⦿ ⦿      | ⦿ ⦿ ⦿ ⦿    | ⦿ ⦿                | ⦿                            |
-| Cawley hitch                  | ⦿ ⦿ ⦿ ⦿    | ⦿ ⦿ ⦿ ⦿    | ⦿ ⦿ ⦿ ⦿            | ⦿ ⦿ ⦿ ⦿ ⦿                    |
-| Ezelius hitch                 | ⦿ ⦿ ⦿ ⦿ ⦿  | ⦿ ⦿ ⦿      | ⦿ ⦿ ⦿              | ⦿ ⦿ ⦿                        |
-| Blake's hitch                 | ⦿ ⦿ ⦿ ⦿ ⦿  | ⦿          | ⦿ ⦿                | ⦿ ⦿ ⦿ ⦿                      |
+| Magnus taut-line              | ⦿          | ⦿⦿⦿⦿       | ⦿                  | ⦿⦿⦿                          |
+| Rolling taut-line             | ⦿⦿         | ⦿⦿⦿⦿       | ⦿⦿                 | ⦿                            |
+| Magnus safety-belt taut-line  | ⦿⦿⦿        | ⦿⦿⦿        | ⦿                  | ⦿⦿                           |
+| Rolling safety-belt taut-line | ⦿⦿⦿⦿       | ⦿⦿⦿        | ⦿⦿                 | ⦿                            |
+| Midshipman's hitch            | ⦿⦿⦿        | ⦿⦿⦿⦿       | ⦿⦿                 | ⦿                            |
+| Cawley hitch                  | ⦿⦿⦿⦿       | ⦿⦿⦿⦿       | ⦿⦿⦿⦿               | ⦿⦿⦿⦿⦿                        |
+| Ezelius hitch                 | ⦿⦿⦿⦿⦿      | ⦿⦿⦿        | ⦿⦿⦿                | ⦿⦿⦿                          |
+| Blake's hitch                 | ⦿⦿⦿⦿⦿      | ⦿          | ⦿⦿                 | ⦿⦿⦿⦿                         |
 
 
 ### Spotlight: Cawley hitch
