@@ -106,7 +106,8 @@ version, or just the [classic reef knot with shorter laces][short-shoelaces].
 This binding serves well as a simple pole hitch.
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
-A friction hitch for connection to a life-support line.
+A friction hitch suitable for connection to a life-support line in case you
+fall.
 
 - **Cawley hitch.**
 An adjustable loop. Use in place of the midshipman's hitch or taut-line hitch,
