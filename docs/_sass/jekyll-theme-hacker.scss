@@ -206,7 +206,7 @@ th {
   padding: 5px 10px;
 }
 
-tr:last-of-type th {
+thead > tr:last-of-type > th {
   border-bottom: 1px dashed #b5e853;
 }
 
