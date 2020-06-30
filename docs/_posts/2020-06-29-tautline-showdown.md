@@ -19,7 +19,6 @@ of two knots, I simply tied both in one rope and pulled to see which would slip
 first. Simplicity scores are inversely related to length of rope required.
 {:.tangent}
 
-<div markdown="1" style="td:nth-child(2) {min-width:15em}">
 | Rank | Friction-loop knot   | Security   | Simplicity | Ease of tightening | Resistance to overtightening |
 |------|----------------------|------------|------------|--------------------|------------------------------|
 | 1    | Cawley hitch         | ★★★★       | ★★★★       | ★★★★               | ★★★★★                        |
@@ -30,7 +29,6 @@ first. Simplicity scores are inversely related to length of rope required.
 | 6    | Magnus taut-line +1  | ★★★        | ★★★        | ★                  | ★★                           |
 | 7    | Rolling taut-line    | ★★         | ★★★★       | ★★                 | ★                            |
 | 8    | Magnus taut-line     | ★          | ★★★★       | ★                  | ★★★                          |
-</div>
 
 The most common friction loops are the midshipman's hitch (for sailors), the
 rolling taut-line hitch (for landlubbers), and the magnus taut-line hitch (for
