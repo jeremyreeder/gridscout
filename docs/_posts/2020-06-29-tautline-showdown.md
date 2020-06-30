@@ -40,8 +40,8 @@ tighten to the point where it grips well and gives confidence that it won't
 shake loose. And it seems to be impossible to overtighten this knot to the
 point where it becomes hard to adjust the tension of the rope.
 
-If anybody asks the best way to make an apple pie, I say make it with peaches.
-And if anybody asks the best way to tie a taut-line, I'll tell him to tie a
+When people ask me the best way to make an apple pie, I say make it with peaches. Okay, nobody asks me that.
+But when they ask the best way to tie a taut-line, a more likely scenario, I'll tell them to tie a
 Cawley hitch instead.
 
 
