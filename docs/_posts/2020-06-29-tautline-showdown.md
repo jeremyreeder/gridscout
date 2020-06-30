@@ -32,8 +32,8 @@ first. Simplicity scores are inversely related to length of rope required.
 
 The most common friction loops are the midshipman's hitch (for sailors), the
 rolling taut-line hitch (for landlubbers), and the magnus taut-line hitch (for
-pilots). The "+1" taut-line variants simply have an extra turn before the
-finishing half-hitch.
+pilots). The "+1" taut-line variants have an extra turn before the finishing
+half-hitch.
 {:.tangent}
 
 ### Winner: CAWLEY HITCH!
