@@ -110,8 +110,11 @@ A friction hitch suitable for connection to a life-support line in case you
 fall.
 
 - **[Cawley hitch.][cawley-hitch]**
-An adjustable loop. Use in place of the midshipman's hitch or taut-line hitch,
-to die down an aircraft or tension a guyline.
+A friction loop. Use in place of the midshipman's hitch or taut-line hitch,
+to tie down an aircraft or tension a guyline.
+
+I tested eight friction loops. Check out the [results][friction-loop-test].
+{:.tangent}
 
 - **Trucker’s hitch (butterfly variant finished with Cawley hitch).**
 Use this compound hitch to secure a heavy load.
@@ -144,6 +147,7 @@ with most traditional knots.
 
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'      | prepend: site.url }}
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
+[friction-loop-test]:  {{ '/2020/06/29/tautline-showdown.html'          | prepend: site.url }}
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'   | prepend: site.url }}
 
 [butterfly-bend]:         https://www.netknots.com/rope_knots/alpine-butterfly-bend
