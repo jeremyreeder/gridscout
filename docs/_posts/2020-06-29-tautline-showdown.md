@@ -14,9 +14,10 @@ telescope in orbit. You know, everyday stuff.
 But there are several variants. Which friction loop works best? I tested eight
 of them in parachute cord, and here are the results.
 
-I used no special equipment. Just hands and feet and rope. To compare security
-of two knots, I simply tied both in one rope and pulled to see which would slip
-first. Simplicity scores are inversely related to length of rope required.
+I used no special equipment. Just hands and feet and rope. To compare the grip
+of two knots, I simply tied both in one rope to equal tightess and then pulled
+to see which would slip first. Simplicity scores are inversely related to
+length of rope required.
 {:.tangent}
 
 | Rank | Friction-loop knot   | Grip  | Simplicity | Tightening ease | Overtightening resistance |
