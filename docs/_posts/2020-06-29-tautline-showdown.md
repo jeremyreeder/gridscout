@@ -14,9 +14,9 @@ telescope in orbit. You know, everyday stuff.
 But there are several variants. Which friction loop works best? I tested eight
 of them in parachute cord, and here are the results.
 
-I used no special equipment. Just hands and feet and rope. To
-compare security of two knots, I simply tied both in one rope and pulled to
-see which would slip first. Simplicity scores are inversely related to length of rope required.
+I used no special equipment. Just hands and feet and rope. To compare security
+of two knots, I simply tied both in one rope and pulled to see which would slip
+first. Simplicity scores are inversely related to length of rope required.
 {:.tangent}
 
 | Rank | Friction-loop knot            | Security   | Simplicity | Ease of tightening | Resistance to overtightening |
@@ -31,18 +31,19 @@ see which would slip first. Simplicity scores are inversely related to length of
 | 8    | Magnus taut-line              | ★          | ★★★★       | ★                  | ★★★                          |
 
 
-### Winner: Cawley hitch
+### Winner: CAWLEY HITCH!
 
 The [Cawley hitch][cawley-hitch]
-seems to be the most practical of these friction loops. It's one of the
-easiest to tie and uses the shortest amount of rope. It's the easiest to
-tighten to the point where it grips well and gives confidence that it won't
-shake loose. And it seems to be impossible to overtighten this knot to the
-point where it becomes hard to adjust the tension of the rope.
+seems to be the most practical of these friction loops. It's one of the easiest
+to tie and uses the shortest amount of rope. It's the easiest to tighten to the
+point where it grips well and gives confidence that it won't shake loose. And
+it seems to be impossible to overtighten this knot to the point where it
+becomes hard to adjust the tension of the rope.
 
-When people ask me the best way to make an apple pie, I say make it with peaches. Okay, nobody asks me that.
-But when they ask the best way to tie a taut-line, a more likely scenario, I'll tell them to tie a
-Cawley hitch instead.
+When people ask me the best way to make an apple pie, I say make it with
+peaches. Okay, nobody asks me that. But when they ask the best way to tie a
+taut-line, a more likely scenario, I'll tell them to tie a Cawley hitch
+instead.
 
 
 [cawley-hitch]: https://en.wikipedia.org/wiki/Adjustable_grip_hitch
