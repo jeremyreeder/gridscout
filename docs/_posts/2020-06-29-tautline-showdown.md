@@ -19,16 +19,16 @@ of two knots, I simply tied both in one rope and pulled to see which would slip
 first. Simplicity scores are inversely related to length of rope required.
 {:.tangent}
 
-| Rank | Friction-loop knot   | Grip  | Simplicity | Ease of tightening | Resistance to overtightening |
-|------|----------------------|-------|------------|--------------------|------------------------------|
-| 1    | Cawley hitch         | ★★★★  | ★★★★       | ★★★★               | ★★★★★                        |
-| 2    | Ezelius loop         | ★★★★★ | ★★★        | ★★★                | ★★                           |
-| 3    | Blake's hitch 5/3    | ★★★★★ | ★          | ★★                 | ★★★★                         |
-| 4    | Rolling taut-line +1 | ★★★★  | ★★★        | ★★                 | ★                            |
-| 5    | Midshipman's hitch   | ★★★   | ★★★★       | ★★                 | ★                            |
-| 6    | Magnus taut-line +1  | ★★★   | ★★★        | ★                  | ★★                           |
-| 7    | Rolling taut-line    | ★★    | ★★★★       | ★★                 | ★                            |
-| 8    | Magnus taut-line     | ★     | ★★★★       | ★                  | ★★★                          |
+| Rank | Friction-loop knot   | Grip  | Simplicity | Tightening ease | Overtightening resistance |
+|------|----------------------|-------|------------|-----------------|---------------------------|
+| 1    | Cawley hitch         | ★★★★  | ★★★★       | ★★★★            | ★★★★★                     |
+| 2    | Ezelius loop         | ★★★★★ | ★★★        | ★★★             | ★★                        |
+| 3    | Blake's hitch 5/3    | ★★★★★ | ★          | ★★              | ★★★★                      |
+| 4    | Rolling taut-line +1 | ★★★★  | ★★★        | ★★              | ★                         |
+| 5    | Midshipman's hitch   | ★★★   | ★★★★       | ★★              | ★                         |
+| 6    | Magnus taut-line +1  | ★★★   | ★★★        | ★               | ★★                        |
+| 7    | Rolling taut-line    | ★★    | ★★★★       | ★★              | ★                         |
+| 8    | Magnus taut-line     | ★     | ★★★★       | ★               | ★★★                       |
 
 The most common friction loops are the midshipman's hitch (for sailors), the
 rolling taut-line hitch (for landlubbers), and the magnus taut-line hitch (for
