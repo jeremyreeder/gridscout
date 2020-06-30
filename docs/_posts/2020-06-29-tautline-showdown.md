@@ -30,9 +30,9 @@ first. Simplicity scores are inversely related to length of rope required.
 | 7    | Rolling taut-line    | ★★         | ★★★★       | ★★                 | ★                            |
 | 8    | Magnus taut-line     | ★          | ★★★★       | ★                  | ★★★                          |
 
-The three most common friction loops are the midshipman's hitch (for sailors),
-the rolling taut-line hitch (for landlubber's), and the magnus taut-line hitch
-(for pilots). The "+1" taut-line variants simply have an extra turn before the
+The most common friction loops are the midshipman's hitch (for sailors), the
+rolling taut-line hitch (for landlubber's), and the magnus taut-line hitch (for
+pilots). The "+1" taut-line variants simply have an extra turn before the
 finishing half-hitch.
 {:.tangent}
 
