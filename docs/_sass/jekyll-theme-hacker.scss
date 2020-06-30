@@ -197,6 +197,10 @@ table {
   margin: 0 0 20px 0;
 }
 
+tr:nth-child(even) {
+  background-color: #222;
+}
+
 th {
   text-align: left;
   border-bottom: 1px dashed #b5e853;
