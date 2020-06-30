@@ -33,8 +33,8 @@ see which would slip first. Simplicity scores are inversely related to length of
 
 ### Winner: Cawley hitch
 
-Also known as the _adjustable-grip hitch_, the [Cawley hitch][cawley-hitch]
-seems to be the most practical of the tested friction loops. It's one of the
+The [Cawley hitch][cawley-hitch]
+seems to be the most practical of these friction loops. It's one of the
 easiest to tie and uses the shortest amount of rope. It's the easiest to
 tighten to the point where it grips well and gives confidence that it won't
 shake loose. And it seems to be impossible to overtighten this knot to the
