@@ -7,7 +7,7 @@ tags: knot
 ---
 
 Friction-loop knots, several of which go by the name _taut-line_, are
-adjustable loops commonly used to make guy-lines easily adjusted. They're handy
+adjustable loops commonly used to make guy-lines easily tensioned. They're handy
 when you need to support a tent or hammock, tie an aircraft down, or fix a
 telescope in orbit. You know, everyday stuff.
 
