@@ -16,7 +16,7 @@ of them in parachute cord, and here are the results.
 
 I used no special equipment. Just hands and feet and rope. To compare the grip
 of two knots, I simply tied both in one rope to what felt like equal tightness and then pulled
-to see which would slip first. Simplicity scores are inversely related to
+to see which would slip first. I tied and tested each knot at least three times. Simplicity scores are inversely related to
 length of rope required.
 {:.tangent}
 
