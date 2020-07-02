@@ -72,11 +72,11 @@ from each other.
 
 The result is that the bight of the first rope is clamped just as in the
 _Simple-Simon-under_ bend without the relative difficulty of making a pass
-_under_ the rope. The intention was that this new knot will serve as a
+_under_ the rope. The hope was that this new knot will serve as a
 substantial security upgrade to the easiest Simple-Simon knot, the
 Simple-Simon-over, at no cost at all in required effort.
 
-As I hoped, the Simple-Simon-crossover seems to be more secure against slippage of the bight around which the second rope is tied. Its resistance to slippage of the second rope, however, is unimproved by this variation, leaving its overall security slightly inferior to that of the Simple-Simon-under when used to join two identical ropes.
+Ghe Simple-Simon-crossover does seem to be more secure against slippage of the bight around which the second rope is tied. Its resistance to slippage of the second rope, however, is unimproved by this variation, leaving its overall security slightly inferior to that of the Simple-Simon-under when used to join two identical ropes.
 {:.tangent}
 
 WARNING: When tying a skinny line around the bight of a soft, fat one, I've found that the _Simple-Simon-under_ and the _Simple-Simon-double_ are far better choices.
