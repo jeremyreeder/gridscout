@@ -61,7 +61,7 @@ harder to tie, this is a satisfying discovery. But it still can't compete with t
 ### Spotlight: Simple-Simon-crossover bend
 {:#simple-simon-crossover}
 
-This new knot is a variant of the Simple-Simon-over bend. The only difference
+This experimental knot is a variant of the Simple-Simon-over bend. The only difference
 is that the standing part and the working end of the first rope are swapped.
 The second rope is tied around a bight in that rope just as usual.
 Uniquely among the Simple-Simon knots, the rope ends are ultimately diagonal
@@ -72,15 +72,9 @@ from each other.
 
 The result is that the bight of the first rope is clamped just as in the
 _Simple-Simon-under_ bend without the relative difficulty of making a pass
-_under_ the rope. The hope was that this new knot will serve as a
-substantial security upgrade to the easiest Simple-Simon knot, the
-Simple-Simon-over, at no cost at all in required effort.
+_under_ the rope. I wanted to see how this knot fares against the other Simple-Simon knots.
 
-Ghe Simple-Simon-crossover does seem to be more secure against slippage of the bight around which the second rope is tied. Its resistance to slippage of the second rope, however, is unimproved by this variation, leaving its overall security slightly inferior to that of the Simple-Simon-under when used to join two identical ropes.
-{:.tangent}
-
-WARNING: When tying a skinny line around the bight of a soft, fat one, I've found that the _Simple-Simon-under_ and the _Simple-Simon-double_ are far better choices.
-
+The Simple-Simon-crossover does seem to be more secure than the Simple-Simon-over against slippage of the inner bight around which the other rope is wrapped. Its resistance to slippage of the wrapped rope, however, is unimproved by this variation. This leaves the overall security at least slightly inferior to that of the Simple-Simon-under.
 
 [simple-simon-crossover-photo]: {{ '/images/simple-simon-crossover-bend.jpg' | prepend: site.url }}
 
