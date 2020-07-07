@@ -46,7 +46,7 @@ confidence that it won't shake loose. And it seems to be impossible to
 overtighten this knot to the point where it becomes hard to adjust the tension
 of the rope.
 
-Just as the best Mustang is a Camaro IROC-Z and the best apple pie is made with peaches, the best version of the taut-line hitch is actually the Cawley hitch.
+So just as the best Mustang is a Camaro and the best apple pie is made with peaches, the best version of the taut-line hitch is actually the _Cawley hitch_.
 
 
 [cawley-hitch]: https://en.wikipedia.org/wiki/Adjustable_grip_hitch
