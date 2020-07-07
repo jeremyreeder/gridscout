@@ -35,7 +35,7 @@ as a "bend" to join ropes.
 A fixed loop for the end of a rope, better than the bowline in every way.
 
 5. **[Cawley hitch.][cawley-hitch]**
-A simple and far more secure alternative to the taut-line hitch.
+A far more secure alternative to the taut-line hitch.
 
 If you can properly tie great knots like these without even looking, then
 you're good to go. It may not be as sexy as splicing det cord or as cool as
