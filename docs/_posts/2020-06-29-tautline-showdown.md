@@ -46,10 +46,7 @@ confidence that it won't shake loose. And it seems to be impossible to
 overtighten this knot to the point where it becomes hard to adjust the tension
 of the rope.
 
-When people ask me the best way to make an apple pie, I say make it with
-peaches. Okay, nobody asks me that. But when they ask the best way to tie a
-taut-line, a more likely scenario, I'll tell them to tie a Cawley hitch
-instead.
+So just as the best Mustang is a Camaro and the best apple pie is made with peaches, the best version of the taut-line hitch is actually the _Cawley hitch_.
 
 
 [cawley-hitch]: https://en.wikipedia.org/wiki/Adjustable_grip_hitch
