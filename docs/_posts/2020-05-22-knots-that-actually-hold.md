@@ -110,8 +110,9 @@ A friction hitch suitable for connection to a life-support line in case you
 fall.
 
 - **[Cawley hitch.][cawley-hitch]**
-A good friction loop. Use in place of the midshipman's hitch or taut-line hitch,
-to tie down an aircraft or tension a guyline.
+A good friction loop. Use in place of the midshipman's hitch or taut-line
+hitch, for use in tensioning guylines or mooring a jet-ski. To tie down an
+aircraft, use nested pairs of Cawley hitches.
 
 I tested eight friction loops. Check out the [results][friction-loop-test].
 {:.tangent}
