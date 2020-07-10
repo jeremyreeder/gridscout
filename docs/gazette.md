@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # GridScout Gazette™ <a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
-Here's what's going on in the manly arts, from the [GridScout™][gridscout] team.
+Here's what's going on in the manly arts, from the GridScout™ team.
 
 
 {% for post in site.posts %}
@@ -21,6 +21,3 @@ Here's what's going on in the manly arts, from the [GridScout™][gridscout] tea
 {% endfor %}
 
 <a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
-
-
-[gridscout]: /
