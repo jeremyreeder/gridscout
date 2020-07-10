@@ -41,7 +41,7 @@ until we reach our destination.
 *Primary & secondary routes*
 </div>
 
-The [zombies][zombie-preparedness] don't stand a chance against such cunning.
+[Zombies][zombie-preparedness] don't stand a chance against such cunning.
 
 
 [gridscout-map]: {{ site.url }}
