@@ -15,6 +15,6 @@ layout: default
 		© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net
 	</span>
 	{% if page.tags %}
-	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+	  <span class="tags" >[{{ page.tags | join: " " }}]</span>
 	{% endif %}
 </p>
