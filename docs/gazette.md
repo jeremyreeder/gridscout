@@ -1,11 +1,13 @@
 ---
 layout: default
-title: GridScout™ Journal
-permalink: /journal/
-redirect_from: /blog/
+title: GridScout Gazette℠
+permalink: /gazette/
+redirect_from:
+  - /blog/
+  - /journal/
 ---
 
-# GridScout™ Journal
+# GridScout Gazette℠
 Here's what's going on in the manly arts, from the [GridScout™][gridscout] team.
 
 Subscribe: [Atom feed][feed]
@@ -19,7 +21,8 @@ Subscribe: [Atom feed][feed]
 </div>
 {% endfor %}
 
-Subscribe to GridScout™ Journal: [Atom feed][feed]
+[Subscribe][feed]
+{:.btn}
 
 
 [feed]:      /feed.xml
