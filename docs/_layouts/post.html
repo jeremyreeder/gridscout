@@ -10,7 +10,7 @@ layout: default
 </div>
 <p>
 	<a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a>
-	<a class="btn" href="/feed.xml">Subscribe</a>
+	<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
 	<span class="post-metadata">
 		© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net
 	</span>

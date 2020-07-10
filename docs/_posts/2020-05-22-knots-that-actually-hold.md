@@ -150,15 +150,15 @@ Different types of cordage present different challenges.
 [friction-loop-test]:  {{ '/2020/06/29/tautline-showdown.html'          | prepend: site.url }}
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'   | prepend: site.url }}
 
-[butterfly-bend]:         https://www.netknots.com/rope_knots/alpine-butterfly-bend
-[butterfly-loop]:         https://www.netknots.com/rope_knots/butterfly-knot
-[cawley-hitch]:           https://en.wikipedia.org/wiki/Adjustable_grip_hitch
-[double-constrictor]:     https://captnmike.com/2011/10/15/double-constrictor/
-[fishing-knots]:          https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
-[flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
-[schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
-[short-shoelaces]:        http://shortshoelaces.jackdesert.com/
-[simple-simon-under]:     https://en.wikipedia.org/wiki/Simple_Simon_under
-[vice-versa-bend]:        https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:          https://www.netknots.com/rope_knots/zeppelin-bend
+[butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
+[butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
+[cawley-hitch]:       https://en.wikipedia.org/wiki/Adjustable_grip_hitch
+[double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
+[fishing-knots]:      https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
+[flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
+[schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
+[short-shoelaces]:    http://shortshoelaces.jackdesert.com/
+[simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
+[vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
+[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
 [zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html

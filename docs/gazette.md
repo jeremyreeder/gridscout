@@ -7,7 +7,7 @@ redirect_from:
   - /journal/
 ---
 
-# GridScout Gazette™ <a class="btn" href="/feed.xml">Subscribe</a>
+# GridScout Gazette™ <a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
 Here's what's going on in the manly arts, from the [GridScout™][gridscout] team.
 
 
@@ -20,7 +20,7 @@ Here's what's going on in the manly arts, from the [GridScout™][gridscout] tea
 </div>
 {% endfor %}
 
-<a class="btn" href="/feed.xml">Subscribe</a>
+<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
 
 
 [gridscout]: /
