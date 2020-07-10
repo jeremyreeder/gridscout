@@ -7,10 +7,10 @@ tags: google map gmap4
 ---
 
 Google recently changed its API usage policy, effectively putting the
-non-profit [Gmap4][gmap4] out of business. That's unfortunate, as Gmap4 was
+non-profit [Gmap4℠][gmap4] out of business. That's unfortunate, as Gmap4 was
 designed to benefit disaster-management organizations and was doing a great
-deal of good in that realm. Since [GridScout™][gridscout] used Gmap4 for its
-aerial views, that feature currently won't work. While this does not affect
+deal of good in that realm. Since [GridScout Map™][gridscout] used Gmap4 for
+its aerial views, that feature currently won't work. While this does not affect
 GridScout's primary goal of searching Google Maps and performing bulk
 collection of MGRS location data, it does make it harder to verify the
 relevance of unfamiliar search results. The maker of Gmap4 has made appeals to
