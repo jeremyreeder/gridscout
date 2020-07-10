@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p><a href="/journal/">GridScout™ Journal</a></p>
+<p><a href="/gazette/">GridScout Gazette℠</a></p>
 <div class="post">
 	<h1>{{ page.title }}</h1>
 	<div class="post-metadata">{{ page.date | date: "%Y-%m-%d" }} — by {{ page.author }}</div>
@@ -11,10 +11,10 @@ layout: default
 <p>
 	<a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a>
 	<a class="btn" href="/feed.xml">Subscribe</a>
+	<span class="post-metadata">
+		© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net
+	</span>
 	{% if page.tags %}
 	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 	{% endif %}
 </p>
-<div class="post-metadata">
-	© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net
-</div>
