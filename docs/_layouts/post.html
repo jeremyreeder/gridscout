@@ -15,7 +15,10 @@ layout: default
 	</div>
 </div>
 
-<p><a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a> <a class="btn" href="/feed.xml">Subscribe</a></p>
-{% if page.tags %}
-  <p><small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small></p>
-{% endif %}
+<p>
+	<a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a>
+	<a class="btn" href="/feed.xml">Subscribe</a>
+	{% if page.tags %}
+	  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+	{% endif %}
+</p>
