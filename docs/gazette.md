@@ -21,9 +21,7 @@ Subscribe: [Atom feed][feed]
 </div>
 {% endfor %}
 
-[Subscribe][feed]
-{:.btn}
+<a class="btn" href="/feed.xml">Subscribe</a>
 
 
-[feed]:      /feed.xml
 [gridscout]: /
