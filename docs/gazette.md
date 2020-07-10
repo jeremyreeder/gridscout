@@ -1,16 +1,16 @@
 ---
 layout: default
-title: GridScout Gazette℠
+title: GridScout Gazette™
 permalink: /gazette/
 redirect_from:
   - /blog/
   - /journal/
 ---
 
-# GridScout Gazette℠
+# GridScout Gazette™
 Here's what's going on in the manly arts, from the [GridScout™][gridscout] team.
 
-Subscribe: [Atom feed][feed]
+<a class="btn" href="/feed.xml">Subscribe</a>
 
 {% for post in site.posts %}
 <div class="post" markdown="1">
