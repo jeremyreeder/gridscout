@@ -131,12 +131,11 @@ Use this compound hitch to secure a heavy load.
 
 ### Different strokes for different ropes
 
-Different types of cordage present different challenges. Fishing line, for
-example, is slicker than the slipperiest of synthetic ropes. And some cordage,
-especially bungee line, is so oddly stretchy that it can't be fastened well
-with most traditional knots.
+Different types of cordage present different challenges.
 
 - **[Good knots for bungee line][bungee-knots]**
+- **Good knots for flat straps** (coming)
+- **Good knots for fishing line** (maybe someday)
 
 
 [dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
