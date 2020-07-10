@@ -134,8 +134,8 @@ Use this compound hitch to secure a heavy load.
 Different types of cordage present different challenges.
 
 - **[Good knots for bungee line][bungee-knots]**
+- **[Good knots for fishing line][fishing-knots]**
 - **Good knots for flat straps** (coming)
-- **Good knots for fishing line** (maybe someday)
 
 
 [dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
@@ -154,6 +154,7 @@ Different types of cordage present different challenges.
 [butterfly-loop]:         https://www.netknots.com/rope_knots/butterfly-knot
 [cawley-hitch]:           https://en.wikipedia.org/wiki/Adjustable_grip_hitch
 [double-constrictor]:     https://captnmike.com/2011/10/15/double-constrictor/
+[fishing-knots]:          https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
 [flemish-loop]:           https://www.netknots.com/rope_knots/figure-eight
 [schwabisch-hitch]:       https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:        http://shortshoelaces.jackdesert.com/
