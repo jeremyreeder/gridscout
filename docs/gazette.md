@@ -18,7 +18,7 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 {{ post.content }}
 <a class="btn" href="https://dissenter.com/discussion/begin?url={{ post.url | prepend: site.url }}">Comment</a>
 <span class="post-metadata">
-	© {{ page.date | date: "%Y" }} {{ post.author }} &amp; gridscout.net
+	© {{ post.date | date: "%Y" }} {{ post.author }} &amp; gridscout.net
 </span>
 </div>
 {% endfor %}
