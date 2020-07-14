@@ -39,15 +39,6 @@ section {
   font-size: 70%;
   font-style: oblique;
   opacity: 0.7;
-  max-width: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.post-metadata:hover {
-  white-space: normal;
-  max-height: 6em;
-  overflow: visible;
 }
 
 .tags {
