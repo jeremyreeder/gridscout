@@ -11,9 +11,9 @@ layout: default
 <p>
 	<a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a>
 	<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
-	<div class="post-metadata">
+	<span class="post-metadata">
 		© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net
-	</div>
+	</span>
 	{% if page.tags %}
 	  <span class="tags" >[{{ page.tags | join: " " }}]</span>
 	{% endif %}
