@@ -3,7 +3,7 @@ layout: post
 title: Why we need guns
 author: Leeroy Jenkins
 date: 2019-09-26
-tags: weapon tyranny
+tags: militia tyrant weapon
 ---
 
 <div class="tangent" markdown="1">
