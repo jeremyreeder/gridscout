@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Militia Act of 1792
+title: Uncle Sam wants YOU for U.S. Militia
 author: Leeroy Jenkins
 date: 2020-07-15
 tags: militia weapon
+redirect_from: /2020/07/15/militia-act-of-1792.html
 ---
 
 The [Second Militia Act of 1792][act] was passed by the second U.S. Congress and
@@ -22,5 +23,9 @@ would mandate the opposite, that you be _disarmed_ and useless in the defense
 of your family and community. That is absurdity.
 {:.tangent}
 
+![][uncle-sam-poster]
+
+
+[uncle-sam-poster]: {{ '/images/i-want-you.jpg' | prepend: site.url }}
 
 [act]: https://web.archive.org/web/20200614024951/https://www.constitution.org/mil/mil_act_1792.htm
