@@ -6,8 +6,8 @@ date: 2020-07-20
 tags: knot
 ---
 
-The zeppelin bend is a great knot for joining two ropes together. The zeppelin
-loop is a great knot for making a fixed loop. This is how I tie them.
+The zeppelin bend is a good knot for joining two ropes together. The zeppelin
+loop is a good knot for making a fixed loop. This is how I tie them.
 
 # Zeppelin bend
 
