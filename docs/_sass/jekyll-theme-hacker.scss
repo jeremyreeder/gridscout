@@ -190,7 +190,7 @@ ol li {
   counter-increment: li;
 }
 
-li > p {
+li > p:first-of-type {
   display: contents;
 }
 
