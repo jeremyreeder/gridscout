@@ -73,15 +73,13 @@ often perfectly feasible.
 Use in place of clove hitch as a secure but easily untied binding.
 
 - **Reef knot.**
-Also ambiguously called a "square knot", this is a good knot for common binding
-uses like tying a bag shut or [fastening your short-laced
-shoes][short-shoelaces].
+Also ambiguously called a "square knot", this is a good knot for binding
+against a convex surface, such as for tying a sack shut or [fastening your
+short-laced shoes][short-shoelaces].
 
 - **Double-throw reef knot.**
-Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Simply a reef
-knot with its two halves converted to double overhand knots by an additional
-pass through the center. Consider using in place of reef knot, especially
-against a non-convex surface or in stretchy rope.
+Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Use in place of
+reef knot against flat or concave surfaces.
 
 <div class="gallery" markdown="1">
 ![][dbl-constrictor-s-photo]
