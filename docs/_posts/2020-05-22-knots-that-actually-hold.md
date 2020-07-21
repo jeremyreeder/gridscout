@@ -72,6 +72,11 @@ often perfectly feasible.
 - **Slipped double constrictor knot.**
 Use in place of clove hitch as a secure but easily untied binding.
 
+- **Reef knot.**
+Also ambiguously called a "square knot", this is a good knot for common binding
+uses like tying a bag shut or [fastening your short-laced
+shoes][short-shoelaces].
+
 - **Double-throw reef knot.**
 Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Simply a reef
 knot with its two halves converted to double overhand knots by an additional
@@ -100,8 +105,9 @@ king's bidding, until he chooses himself to loosen them.
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
-bights for only half of the knot breaks that symmetry. So use this two-bight
-version, or just the [classic reef knot with shorter laces][short-shoelaces].
+bights for only half of the knot breaks that symmetry. The two-bight variant
+keeps the symmetry, while the freedom knot makes up for its asymmetry through
+additional locking features.
 {:.tangent}
 
 
