@@ -115,7 +115,7 @@ additional locking features.
 
 ### Hitches
 
-- **Double constrictor knot (or slipped variant).**
+- **Double constrictor knot** (or slipped variant)**.**
 This binding serves well as a simple pole hitch.
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
