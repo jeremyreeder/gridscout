@@ -189,6 +189,7 @@ ol li {
   list-style-image: none;
   counter-increment: li;
   padding-top: 1em;
+  margin: 0;
 }
 
 li > p:first-of-type {
