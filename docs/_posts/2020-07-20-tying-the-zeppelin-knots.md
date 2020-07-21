@@ -69,7 +69,7 @@ and under its own standing part.
 </div>
 
 A worthy alternative to the mediocre bowline loop, the zeppelin loop is derived
-from the zeppelin bend in the same way that the bowline is derived from the
+from the zeppelin _bend_ in the same way that the bowline is derived from the
 sheetbend.
 {:.tangent}
 
