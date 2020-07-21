@@ -29,11 +29,11 @@ your hand is.
 5. Pull the standing parts, then pull the ends. Repeat till tight.
 
 <div class="gallery" markdown="1">
-![Step 1][bend-1]
-![Step 2][bend-2]
-![Step 3][bend-3]
-![Step 4][bend-4]
-![Step 5][bend-5]
+![Step 1][bend-1-photo]
+![Step 2][bend-2-photo]
+![Step 3][bend-3-photo]
+![Step 4][bend-4-photo]
+![Step 5][bend-5-photo]
 *Zeppelin bend in five steps*
 </div>
 
@@ -47,8 +47,7 @@ six other bends. [See how they compare.][bend-test]
 # Zeppelin loop
 {:#loop}
 
-This loop is based on the zeppelin bend, so it shares the bend's excellent
-qualities. To tie it:
+This fixed loop knot shares the zeppelin bend's excellent qualities. To tie it:
 
 1. Tie an overhand knot some distance from the end of the rope, then pass the
 end around an object (optionally) and back through the far opening in the
@@ -62,24 +61,28 @@ and under its own standing part.
 4. Pull the standing part, then pull the end.
 
 <div class="gallery" markdown="1">
-![Step 1][loop-1]
-![Step 2][loop-2]
-![Step 3][loop-3]
-![Step 4][loop-4]
+![Step 1][loop-1-photo]
+![Step 2][loop-2-photo]
+![Step 3][loop-3-photo]
+![Step 4][loop-4-photo]
 *Zeppelin loop in four steps*
 </div>
 
+This is a worthy alternative to the mediocre bowline loop. It is derived from
+the zeppelin bend in the same way that the bowline is derived from the
+sheetbend.
+{:.tangent}
 
 
-[bend-1]: {{ '/images/zeppelin-bend-step1.jpg' | prepend: site.url }}
-[bend-2]: {{ '/images/zeppelin-bend-step2.jpg' | prepend: site.url }}
-[bend-3]: {{ '/images/zeppelin-bend-step3.jpg' | prepend: site.url }}
-[bend-4]: {{ '/images/zeppelin-bend-step4.jpg' | prepend: site.url }}
-[bend-5]: {{ '/images/zeppelin-bend-step5.jpg' | prepend: site.url }}
 
-[loop-1]: {{ '/images/zeppelin-loop-step1.jpg' | prepend: site.url }}
-[loop-2]: {{ '/images/zeppelin-loop-step2.jpg' | prepend: site.url }}
-[loop-3]: {{ '/images/zeppelin-loop-step3.jpg' | prepend: site.url }}
-[loop-4]: {{ '/images/zeppelin-loop-step4.jpg' | prepend: site.url }}
+[bend-1-photo]: {{ '/images/zeppelin-bend-step1.jpg' | prepend: site.url }}
+[bend-2-photo]: {{ '/images/zeppelin-bend-step2.jpg' | prepend: site.url }}
+[bend-3-photo]: {{ '/images/zeppelin-bend-step3.jpg' | prepend: site.url }}
+[bend-4-photo]: {{ '/images/zeppelin-bend-step4.jpg' | prepend: site.url }}
+[bend-5-photo]: {{ '/images/zeppelin-bend-step5.jpg' | prepend: site.url }}
+[loop-1-photo]: {{ '/images/zeppelin-loop-step1.jpg' | prepend: site.url }}
+[loop-2-photo]: {{ '/images/zeppelin-loop-step2.jpg' | prepend: site.url }}
+[loop-3-photo]: {{ '/images/zeppelin-loop-step3.jpg' | prepend: site.url }}
+[loop-4-photo]: {{ '/images/zeppelin-loop-step4.jpg' | prepend: site.url }}
 
 [bend-test]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
