@@ -10,6 +10,7 @@ The zeppelin bend is a good knot for joining two ropes together. The zeppelin
 loop is a good knot for making a fixed loop. This is how I tie them.
 
 # Zeppelin bend
+{:#bend}
 
 This bend won't slip or shake loose, ever. It reduces the breaking strength of
 a rope by only 25%. And it remains easy to untie after being subjected to an
@@ -37,6 +38,7 @@ your hand is.
 
 
 # Zeppelin loop
+{:#loop}
 
 This loop is based on the zeppelin bend, so it shares the bend's excellent
 qualities. To tie it:

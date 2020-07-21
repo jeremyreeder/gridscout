@@ -43,9 +43,10 @@ stopper knot that stays put.
 - **[Knots that actually hold (in synthetic rope)][synthetic-knots]**
 
 
+[synthetic-knots]: {{ '/2020/05/22/knots-that-actually-hold.html'      | prepend: site.url }}
+[zeppelin-bend]:   {{ '/2020/07/20/tying-the-zeppelin-knots.html#bend' | prepend: site.url }}
+[zeppelin-loop]:   {{ '/2020/07/20/tying-the-zeppelin-knots.html#loop' | prepend: site.url }}
+
 [anglers-loop]:    https://en.wikipedia.org/wiki/Angler's_loop
 [stevedore-knot]:  https://www.netknots.com/rope_knots/stevedore-stopper-knot
-[synthetic-knots]: {{ '/2020/05/22/knots-that-actually-hold.html' | prepend: site.url }}
 [vice-versa-bend]: https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:   https://www.netknots.com/rope_knots/zeppelin-bend
-[zeppelin-loop]:   https://notableknotindex.webs.com/zeppelinloop.html

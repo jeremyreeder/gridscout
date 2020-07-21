@@ -145,10 +145,12 @@ Different types of cordage present different challenges.
 [reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
 [truckers-hitch-photo]:             {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
-[bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'      | prepend: site.url }}
-[bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html' | prepend: site.url }}
-[friction-loop-test]:  {{ '/2020/06/29/tautline-showdown.html'          | prepend: site.url }}
-[surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'   | prepend: site.url }}
+[bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'         | prepend: site.url }}
+[bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html'    | prepend: site.url }}
+[friction-loop-test]:  {{ '/2020/06/29/tautline-showdown.html'             | prepend: site.url }}
+[surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'      | prepend: site.url }}
+[zeppelin-bend]:       {{ '/2020/07/20/tying-the-zeppelin-knots.html#bend' | prepend: site.url }}
+[zeppelin-loop]:       {{ '/2020/07/20/tying-the-zeppelin-knots.html#loop' | prepend: site.url }}
 
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
@@ -160,5 +162,3 @@ Different types of cordage present different challenges.
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
 [vice-versa-bend]:    https://en.wikipedia.org/wiki/Reever_Knot
-[zeppelin-bend]:      https://www.netknots.com/rope_knots/zeppelin-bend
-[zeppelin-loop]:      https://notableknotindex.webs.com/zeppelinloop.html

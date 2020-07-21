@@ -47,11 +47,11 @@ and downright useful in everyday life.
 - **[Knots that actually hold][synthetic-knots]**
 
 
-[synthetic-knots]:    {{ '/2020/05/22/knots-that-actually-hold.html' | prepend: site.url }}
+[synthetic-knots]: {{ '/2020/05/22/knots-that-actually-hold.html'      | prepend: site.url }}
+[zeppelin-loop]:   {{ '/2020/07/20/tying-the-zeppelin-knots.html#loop' | prepend: site.url }}
 
-[butterfly-loop]:       https://www.netknots.com/rope_knots/butterfly-knot
+[butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
 [cawley-hitch]:       https://en.wikipedia.org/wiki/Adjustable_grip_hitch
-[double-constrictor]:   https://captnmike.com/2011/10/15/double-constrictor/
+[double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
-[underwater-test]:      https://www.itstactical.com/skillcom/knots/how-to-tie-knots-like-a-navy-seal-underwater/
-[zeppelin-loop]:        https://notableknotindex.webs.com/zeppelinloop.html
+[underwater-test]:    https://www.itstactical.com/skillcom/knots/how-to-tie-knots-like-a-navy-seal-underwater/
