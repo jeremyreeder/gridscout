@@ -68,8 +68,8 @@ and under its own standing part.
 *Zeppelin loop in four steps*
 </div>
 
-This is a worthy alternative to the mediocre bowline loop. It is derived from
-the zeppelin bend in the same way that the bowline is derived from the
+A worthy alternative to the mediocre bowline loop, the zeppelin loop is derived
+from the zeppelin bend in the same way that the bowline is derived from the
 sheetbend.
 {:.tangent}
 
