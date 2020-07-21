@@ -176,12 +176,11 @@ ol {
 }
 
 ol li::before {
-  content: counter(li);
+  content: '(' counter(li);
   color: $conifer;
   display: inline-block;
+  padding-right: 0.5em;
   width: 1em;
-  margin-left: -1em;
-  margin-right: 0.5em;
   text-align: right;
   direction: rtl;
 }
