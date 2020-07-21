@@ -190,6 +190,10 @@ ol li {
   counter-increment: li;
 }
 
+li > p {
+  display: contents;
+}
+
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
