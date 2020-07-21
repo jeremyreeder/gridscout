@@ -21,20 +21,20 @@ ability to correctly tie each of the following knots.
 Don't let me talk you out of tying knots underwater. You should totally do that too.
 {:.tangent}
 
-1. **[Double constrictor knot.][double-constrictor]**
+1. [Double constrictor knot.][double-constrictor]
 In lieu of the inferior clove hitch or right-angle knot.
 
-2. **[Simple-Simon-under bend.][simple-simon-under]**
+2. [Simple-Simon-under bend.][simple-simon-under]
 At least 200% more secure than the sheetbend.
 
-3. **[Alpine butterfly.][butterfly-loop]**
+3. [Alpine butterfly.][butterfly-loop]
 Excellent as a mid-rope loop, or as a "shank" to bypass a section of rope, or
 as a "bend" to join ropes.
 
-4. **[Zeppelin loop.][zeppelin-loop]**
+4. [Zeppelin loop.][zeppelin-loop]
 A fixed loop for the end of a rope, better than the bowline in every way.
 
-5. **[Cawley hitch.][cawley-hitch]**
+5. [Cawley hitch.][cawley-hitch]
 A far more secure alternative to the taut-line hitch.
 
 If you can properly tie great knots like these without even looking, then
