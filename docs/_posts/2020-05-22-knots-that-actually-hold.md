@@ -68,14 +68,9 @@ I tested the security of eight bends. Check out the [results][bend-test].
 The most manly of bindings. Use in place of clove hitch or right-angle knot.
 The old-timers say you have to cut it off; but with synthetic rope, untying is
 often perfectly feasible.
+
 - **Slipped double constrictor knot.**
 Use in place of clove hitch as a secure but easily untied binding.
-
-<div class="gallery" markdown="1">
-![][dbl-constrictor-photo]
-![][dbl-constrictor-s-photo]
-*Double constrictor knots: unslipped & slipped*
-</div>
 
 - **Double-throw reef knot.**
 Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Simply a reef
@@ -83,14 +78,24 @@ knot with its two halves converted to double overhand knots by an additional
 pass through the center. Consider using in place of reef knot, especially
 against a non-convex surface or in stretchy rope.
 
-- **Reef knot in two bights.**
+<div class="gallery" markdown="1">
+![][dbl-constrictor-s-photo]
+![][reef-2t-photo]
+*Slipped double constrictor & double-throw reef knot*
+</div>
+
+- **Two-bight reef knot.**
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
-over to form bights, then simply tie them in a reef knot.
+over to form two bights, then simply tie them in a reef knot.
+
+- **[Freedom knot.][freedom-knot]**
+A quick-release bow that keeps a man's shoes well tied, in defiance of the
+king's bidding, until he chooses himself to loosen them.
 
 <div class="gallery" markdown="1">
-![][reef-2t-photo]
 ![][reef-2bights-photo]
-*Double-throw reef knot & reef in 2 bights*
+![][freedom-knot-photo]
+*Two-bight reef knot & freedom knot*
 </div>
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
@@ -138,12 +143,12 @@ Different types of cordage present different challenges.
 - **Good knots for flat straps** (coming)
 
 
-[dbl-constrictor-photo]:            {{ '/images/double-constrictor-knot.jpg'               | prepend: site.url }}
-[dbl-constrictor-s-photo]:          {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
-[reef-2t-photo]:                    {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
-[reef-2s2t-photo]:                  {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
-[reef-2bights-photo]:               {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
-[truckers-hitch-photo]:             {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
+[dbl-constrictor-s-photo]: {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
+[freedom-knot-photo]:      {{ '/images/freedom-knot.jpg'                          | prepend: site.url }}
+[reef-2t-photo]:           {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
+[reef-2s2t-photo]:         {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
+[reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'         | prepend: site.url }}
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html'    | prepend: site.url }}
@@ -158,6 +163,7 @@ Different types of cordage present different challenges.
 [double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
 [fishing-knots]:      https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
+[freedom-knot]:       https://fieggen.com/shoelace/freedomknotflipbook.htm
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
