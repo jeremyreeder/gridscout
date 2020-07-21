@@ -37,6 +37,12 @@ your hand is.
 *Zeppelin bend in five steps*
 </div>
 
+For contrast, consider that the sheetbend reduces a rope's breaking strength by
+a whopping 55% and that in synthetic rope it slips before even reaching that
+limit. I recently tested the security of the zeppelin bend, the sheetbend, and
+six other bends. [See how they compare.][bend-test]
+{:.tangent}
+
 
 # Zeppelin loop
 {:#loop}
@@ -75,3 +81,5 @@ and under its own standing part.
 [loop-2]: {{ '/images/zeppelin-loop-step2.jpg' | prepend: site.url }}
 [loop-3]: {{ '/images/zeppelin-loop-step3.jpg' | prepend: site.url }}
 [loop-4]: {{ '/images/zeppelin-loop-step4.jpg' | prepend: site.url }}
+
+[bend-test]: {{ '/2020/06/03/which-bends-hold-best.html' | prepend: site.url }}
