@@ -130,7 +130,7 @@ aircraft, use nested pairs of Cawley hitches.
 I tested eight friction loops. Check out the [results][friction-loop-test].
 {:.tangent}
 
-- **Trucker’s hitch** (butterfly variant finished with Cawley hitch)**.**
+- **Trucker’s hitch** (butterfly-Cawley variant)**.**
 Use this compound hitch to secure a heavy load.
 
 	1. Make a fixed upper loop with the alpine butterfly. Tie it far enough from your final anchor point to allow room for cinching.
