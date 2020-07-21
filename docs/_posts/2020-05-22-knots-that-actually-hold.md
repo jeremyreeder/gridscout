@@ -77,6 +77,10 @@ Also ambiguously called a "square knot", this is a good knot for binding
 against a convex surface, such as for tying a sack shut or [fastening your
 short-laced shoes][short-shoelaces].
 
+The _other_ "square knot", so called by the British, is the Chinese [friendship
+knot][friendship-knot]. It is decidedly the more square of the two.
+{:.tangent}
+
 - **Double-throw reef knot.**
 Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Use in place of
 reef knot against flat or concave surfaces.
@@ -168,6 +172,7 @@ Different types of cordage present different challenges.
 [fishing-knots]:      https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
 [freedom-knot]:       https://fieggen.com/shoelace/freedomknotflipbook.htm
+[friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
