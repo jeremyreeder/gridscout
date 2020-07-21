@@ -34,6 +34,7 @@ your hand is.
 ![Step 3][bend-3]
 ![Step 4][bend-4]
 ![Step 5][bend-5]
+*Zeppelin bend in 5 steps*
 </div>
 
 
@@ -59,6 +60,7 @@ and under its own standing part.
 ![Step 2][loop-2]
 ![Step 3][loop-3]
 ![Step 4][loop-4]
+*Zeppelin loop in 4 steps*
 </div>
 
 
