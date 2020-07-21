@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 li {
-  line-height: 1.4 ;
+  line-height: 1.4;
 }
 
 /* Header, <header>
@@ -170,8 +170,24 @@ ul li {
   margin: 1em 0;
 }
 
+ol {
+  list-style: none;
+  counter-reset: li;
+}
+
+ol li::before {
+  content: counter(li);
+  color: $conifer;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  margin-right: 0.5em;
+  text-align: right;
+  direction: rtl;
+}
+
 ol li {
-  list-style: decimal;
+  counter-increment: li;
 }
 
 blockquote {
