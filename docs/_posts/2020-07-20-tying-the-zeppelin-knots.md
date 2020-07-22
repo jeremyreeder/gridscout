@@ -16,25 +16,20 @@ This bend won't slip or shake loose, ever. It reduces the breaking strength of
 a rope by only 25%. And it remains easy to untie after being subjected to an
 extreme load, although not _while_ loaded. To tie it:
 
-1. Near the end of the first rope, make a turn around your hand.
+1. Take one end of each rope, and drape them over your index finger as illustrated.
 
-2. Do the same with the second rope in the opposite direction, positioning the
-rope ends at opposite ends of your hand.
+2. Take the end of the left rope _under_ its standing part, _over and under_ the end of the right rope, then back under itself to form an overhand knot around both ropes.
 
-3. Pass the end of one rope over the other rope, then through both ropes where
-your hand is.
+3. Take the end of the right rope around _behind_ the index finger and _under both ropes to form another overhand knot around them.
 
-4. Do the same with the other rope.
-
-5. Pull the standing parts, then pull the ends. Repeat till tight.
+4. Pull the standing parts tight, then the ends, then the standing parts again.
 
 <div class="gallery" markdown="1">
 ![Step 1][bend-1-photo]
 ![Step 2][bend-2-photo]
 ![Step 3][bend-3-photo]
 ![Step 4][bend-4-photo]
-![Step 5][bend-5-photo]
-*Zeppelin bend in five steps*
+*Zeppelin bend in four steps*
 </div>
 
 For contrast, consider that the sheetbend reduces a rope's breaking strength by
@@ -79,7 +74,6 @@ sheetbend.
 [bend-2-photo]: {{ '/images/zeppelin-bend-step2.jpg' | prepend: site.url }}
 [bend-3-photo]: {{ '/images/zeppelin-bend-step3.jpg' | prepend: site.url }}
 [bend-4-photo]: {{ '/images/zeppelin-bend-step4.jpg' | prepend: site.url }}
-[bend-5-photo]: {{ '/images/zeppelin-bend-step5.jpg' | prepend: site.url }}
 [loop-1-photo]: {{ '/images/zeppelin-loop-step1.jpg' | prepend: site.url }}
 [loop-2-photo]: {{ '/images/zeppelin-loop-step2.jpg' | prepend: site.url }}
 [loop-3-photo]: {{ '/images/zeppelin-loop-step3.jpg' | prepend: site.url }}
