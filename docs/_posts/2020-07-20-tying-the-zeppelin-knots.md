@@ -16,13 +16,17 @@ This bend won't slip or shake loose, ever. It reduces the breaking strength of
 a rope by only 25%. And it remains easy to untie after being subjected to an
 extreme load, although not _while_ loaded. To tie it:
 
-1. Take one end of each rope, and drape them over your index finger as illustrated.
+1. Take one end of each rope, and drape them over your index finger as
+illustrated.
 
-2. Take the end of the left rope _under_ its standing part, _over and under_ the end of the right rope, then back under itself to form an overhand knot around both ropes.
+2. Take the end of the left rope _under_ its standing part, _over and under_
+the end of the right rope, then back under itself to form an overhand knot
+around both ropes.
 
-3. Take the end of the right rope around _behind_ the index finger and _under both ropes to form another overhand knot around them.
+3. Take the end of the right rope around _behind_ the index finger and _under
+both ropes to form another overhand knot around them.
 
-4. Pull the standing parts tight, then the ends, then the standing parts again.
+4. Pull the standing parts, then the ends.
 
 <div class="gallery" markdown="1">
 ![Step 1][bend-1-photo]
