@@ -64,7 +64,6 @@ and under its own standing part.
 ![Step 2][loop-2-photo]
 ![Step 3][loop-3-photo]
 ![Step 4][loop-4-photo]
-*Zeppelin loop in four steps*
 </div>
 
 A worthy alternative to the mediocre bowline loop, the zeppelin loop is derived
