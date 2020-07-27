@@ -95,8 +95,8 @@ reef knot against flat or concave surfaces.
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot.
 
-- **[Freedom knot.][freedom-knot]**
-A quick-release bow that keeps a man's shoes well tied, in defiance of the
+- **[Freedom bow.][freedom-bow]**
+A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
 king's bidding, until he chooses himself to loosen them.
 
 <div class="gallery" markdown="1">
@@ -171,7 +171,7 @@ Different types of cordage present different challenges.
 [double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
 [fishing-knots]:      https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
-[freedom-knot]:       https://fieggen.com/shoelace/freedomknotflipbook.htm
+[freedom-bow]:       https://fieggen.com/shoelace/freedomknotflipbook.htm
 [friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
