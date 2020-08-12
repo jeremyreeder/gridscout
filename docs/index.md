@@ -4,6 +4,7 @@ title: GridScout Map™
 permalink: /
 ---
 
+# GridScout Map™
 
 GridScout Map™ is the console-based Google Maps search tool that you didn't
 know you needed. It'll help you make better use of your paper maps. Without it,
@@ -18,7 +19,7 @@ As you can see, it's a tool for bulk collection of location data, including
 MGRS coordinates, to be used by intelligence analysts. Finally, MGRS search for
 Google Maps!
 
-# Suggested workflow
+## Suggested workflow
 1. Order [waterproof paper maps][mytopo] of your areas of interest. Have them
 printed with an MGRS (aka USNG) or UTM grid.
 2. Get some [clear plastic overlays][duralar].
@@ -31,7 +32,7 @@ irrelevant search results.
 points on the overlays.
 7. File the search log away for future reference.
 
-# What, no GUI?
+## What, no GUI?
 For its primary purpose of bulk collection of MGRS coordinates, simple text
 output in a terminal works well. But GridScout Map™ does integrate with
 [GISsurfer][gis-surfer] to give aerial views in your web browser. From there,
@@ -41,7 +42,7 @@ views. Strictly speaking, however, these are not part of GridScout Map™.
 ![Sceenshot of a GridScout Map™ aerial view of a petroleum
 refinery](images/aerial-screenshot.png)
 
-# Seriously, paper maps?
+## Seriously, paper maps?
 Going into battle dependent on vulnerable infrastructure is unwise. So yes,
 actual printed maps and overlays are advantageous. They work independently of
 power and communication grids. They're durable, highly portable, and
@@ -51,7 +52,7 @@ vulnerabilities. That is, it puts your computer and the Internet to good use
 now, and it helps you record on more durable media the information that you'll
 need later.
 
-# Why MGRS coordinates?
+## Why MGRS coordinates?
 The [Military Grid Reference System][mgrs] is a whole-world variant of the
 UTM coordinate system. It's used by NATO militaries because it's concise,
 minimizes distortion, and makes for easy math. Latitude and longitude are
@@ -59,11 +60,11 @@ greatly lacking in these qualities. Map vendors such as [MyTopo][mytopo] allow
 you to have your maps printed with a UTM grid, and for the aforementioned
 reasons I suggest that you take them up on that option.
 
-# How do I get GridScout Map™?
+## How do I get GridScout Map™?
 It's on [GitHub][github], where you'll find installation instructions. And it's
 free!
 
-# Are my searches secure?
+## Are my searches secure?
 Searches go through Google. They are encrypted so that only you and Google can
 read them. They're associated with whatever Google account you choose to use
 when you create a Google Places API key. If you require complete anonymity,
@@ -83,7 +84,7 @@ configuration of your browser, it may be possible for GISsurfer to determine
 your actual location regardless of the base location that you used for your
 searches. If this is a serious problem for you, then don't use the aerial view.
 
-# Who are you, and why are you doing this?
+## Who are you, and why are you doing this?
 {:#jeremy}
 My name is Jeremy. Professionally, I'm a corporate security analyst and a
 retired [bank-vault engineer][safehouse]. I take an interest in the security
@@ -107,7 +108,7 @@ You can reach me at [jeremy@gridscout.net][jeremy]. To encrypt the
 conversation, use [ProtonMail][protonmail] or an OpenPGP-based email client.
 Here's my [public key][jeremy-key].
 
-# How can I learn more about defense intelligence?
+## How can I learn more about defense intelligence?
 Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
 Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
 - Intelligence goals — tactical, operational, & strategic
