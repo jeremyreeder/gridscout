@@ -67,15 +67,17 @@ free!
 ## Are my searches secure?
 Searches go through Google. They are encrypted so that only you and Google can
 read them. They're associated with whatever Google account you choose to use
-when you create a Google Places API key. If you require complete anonymity,
-then create a Google account that is not associated in any way with your actual
-identity. Then use it only in public places like libraries and coffee shops,
-and only while wearing a mask; or use an anonymous VPN service such as
-[ProtonVPN][protonvpn] or [Tor][tor], which will conceal your location with
-less trouble. Lastly, when setting your base location, don't use your exact
-actual location unless you're okay with Google knowing it. Truncate your
-coordinates to 10-kilometer precision if you like, or set a base location on
-the other side of town; your search results won't be drastically affected.
+when you create a Google Places API key. No, you can't trust Google. If a
+better service can be found elsewhere, then we may ditch Google in the future.
+In the meantime, if you require complete anonymity, then create a Google
+account that is not associated in any way with your actual identity. Then use
+it only in public places like libraries and coffee shops, and only while
+wearing a mask; or use an anonymous VPN service such as [ProtonVPN][protonvpn]
+or [Tor][tor], which will conceal your location with less trouble. Lastly, when
+setting your base location, don't use your exact actual location unless you're
+okay with Google knowing it. Truncate your coordinates to 10-kilometer
+precision if you like, or set a base location on the other side of town; your
+search results won't be drastically affected.
 
 Aerial views are accessed through [GISsurfer][gis-surfer]. When you access
 the aerial view of a location, your web browser will submit that location's
