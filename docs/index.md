@@ -126,7 +126,7 @@ map-related information could come in very handy, read the article [How to
 Build an Area Study for Emergencies and Community Security][area-study],
 courtesy of [Forward Observer][forward-observer].
 
-# Blog
+## Blog
 Subscribe to [GridScout™ Journal][blog] to keep up on this and other manly pursuits.
 
 # Legal notice
