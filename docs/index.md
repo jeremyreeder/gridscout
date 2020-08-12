@@ -6,11 +6,11 @@ permalink: /
 
 # GridScout Map™
 
-GridScout Map™ is the console-based Google Maps search tool that you didn't
-know you needed. It'll help you make better use of your paper maps. Without it,
-the process of finding and marking places of interest is tedious. Let
-GridScout Map™ solve that so you can get on with your duty of planning for the
-impending apocalypse, or whatever it is that you do.
+This is the console-based Google Maps search tool that you didn't know you
+needed. It'll help you make better use of your paper maps. Without it, the
+process of finding and marking places of interest is tedious. Let GridScout
+Map™ solve that so you can get on with your duty of planning for the impending
+apocalypse, or whatever it is that you do.
 
 ![Screenshot of a GridScout Map™ search for newspaper
 publishers](images/search-screenshot.png)
