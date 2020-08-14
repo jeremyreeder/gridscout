@@ -128,7 +128,7 @@ hitch, for use in tensioning guylines or for mooring a boat to a tree. To tie
 down an aircraft, use nested pairs of Cawley hitches.
 
 I tested eight friction loops. Check out the [results][friction-loop-test].
-{:.tangent}
+{:.tangent .indent}
 
 - **[Cleat hitch.][cleat-hitch]**
 The right way to moor a boat to a dock.
