@@ -124,11 +124,14 @@ fall.
 
 - **[Cawley hitch.][cawley-hitch]**
 A good friction loop. Use in place of the midshipman's hitch or taut-line
-hitch, for use in tensioning guylines or for mooring a boat. To tie down an
-aircraft, use nested pairs of Cawley hitches.
+hitch, for use in tensioning guylines or for mooring a boat to a tree. To tie
+down an aircraft, use nested pairs of Cawley hitches.
 
 I tested eight friction loops. Check out the [results][friction-loop-test].
 {:.tangent}
+
+- **[Cleat hitch.][cleat-hitch]**
+The right way to moor a boat to a dock.
 
 - **Trucker’s hitch** (butterfly-Cawley variant)**.**
 Use this compound hitch to secure a heavy load.
@@ -168,10 +171,11 @@ Different types of cordage present different challenges.
 [butterfly-bend]:     https://www.netknots.com/rope_knots/alpine-butterfly-bend
 [butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
 [cawley-hitch]:       https://en.wikipedia.org/wiki/Adjustable_grip_hitch
+[cleat-hitch]:        https://riggingdoctor.com/life-aboard/2016/1/11/cleat-hitch
 [double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
 [fishing-knots]:      https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
-[freedom-bow]:       https://fieggen.com/shoelace/freedomknotflipbook.htm
+[freedom-bow]:        https://fieggen.com/shoelace/freedomknotflipbook.htm
 [friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
