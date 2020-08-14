@@ -41,7 +41,7 @@ unreliable of shanks, lest you die.
 
 The point of a shank is to bypass a section of rope that is damaged or overly
 long. A shank that easily shakes loose obviously won't do.
-{:.tangent}
+{:.tangent .indent}
 
 
 ### Bends
@@ -79,7 +79,7 @@ short-laced shoes][short-shoelaces].
 
 The _other_ "square knot", so called by the British, is the Chinese [friendship
 knot][friendship-knot]. It is decidedly the more square of the two.
-{:.tangent}
+{:.tangent .indent}
 
 - **Double-throw reef knot.**
 Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Use in place of
