@@ -59,7 +59,8 @@ extreme stress is valued more than tidiness.
 Use anywhere that you might use the butterfly bend, especially in stretchy
 rope. The untidiest of the bunch, but the most easily untied.
 
-I tested the security of eight bends. Check out the [results][bend-test].
+I tested the security of eight bends for comparison. Check out the
+[results][bend-test].
 {:.tangent}
 
 
