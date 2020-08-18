@@ -152,7 +152,7 @@ Different types of cordage present different challenges.
 
 - **[Good knots for bungee line][bungee-knots]**
 - **[Good knots for fishing line][fishing-knots]**
-- **Good knots for flat straps** (coming)
+- **Good knots for flat straps** (coming, maybe)
 
 
 [dbl-constrictor-s-photo]: {{ '/images/slipped-double-constrictor-knot.jpg'       | prepend: site.url }}
