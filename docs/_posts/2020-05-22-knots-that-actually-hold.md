@@ -147,7 +147,7 @@ Use this compound hitch to secure a heavy load.
 	1. Make a fixed upper loop with the alpine butterfly. Tie it far enough from your final anchor point to allow room for cinching.
 	2. Pass the working end around the anchor point. This forms a lower loop.
 	3. Hook onto the upper loop with a Cawley hitch.
-	4. Adjust the Cawley hitch to tension your lower loop.
+	4. Adjust the Cawley hitch to tension the lower loop.
 
 ![][truckers-hitch-photo]
 *Butterfly-Cawley trucker's hitch*
