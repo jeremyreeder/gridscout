@@ -145,6 +145,17 @@ Use this compound hitch to secure a heavy load.
 ![][truckers-hitch-photo]
 *Butterfly-Cawley trucker's hitch*
 
+- **[Gripping sailor's hitch.][sailors-hitch]**
+A friction hitch most useful for attaching to another line in order to apply a
+strong lengthwise pull, such as to detension one end of a heavily loaded line
+so that its knot can be untied. Also useful anywhere else that a lengthwise
+pull on a rope or pole is needed, even if what you're pulling is slippery or
+tapered.
+
+This knot is a replacement for the _icicle hitch_, the difference being that it
+stays tied.
+{:.tangent .indent}
+
 
 ### Different strokes for different ropes
 
@@ -178,6 +189,7 @@ Different types of cordage present different challenges.
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
 [freedom-bow]:        https://fieggen.com/shoelace/freedomknotflipbook.htm
 [friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
+[sailors-hitch:       https://notableknotindex.webs.com/sailorhitches.html
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
