@@ -124,7 +124,8 @@ A good friction loop. Use in place of the midshipman's hitch or taut-line
 hitch, for use in tensioning guylines or for mooring a boat to a tree. To tie
 down an aircraft, use nested pairs of Cawley hitches.
 
-I tested eight friction loops. Check out the [results][friction-loop-test].
+For comparison, I tested eight friction loops. Check out the
+[results][friction-loop-test].
 {:.tangent .indent}
 
 - **[Cleat hitch.][cleat-hitch]**
