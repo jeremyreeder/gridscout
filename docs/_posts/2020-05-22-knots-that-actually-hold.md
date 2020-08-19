@@ -59,8 +59,7 @@ extreme stress is valued more than tidiness.
 Use anywhere that you might use the butterfly bend, especially in stretchy
 rope. The untidiest of the bunch, but the most easily untied.
 
-I tested the security of eight bends for comparison. Check out the
-[results][bend-test].
+I tested the security of eight bends for comparison. [See results.][bend-test]
 {:.tangent}
 
 
@@ -124,8 +123,8 @@ A good friction loop. Use in place of the midshipman's hitch or taut-line
 hitch, for use in tensioning guylines or for mooring a boat to a tree. To tie
 down an aircraft, use nested pairs of Cawley hitches.
 
-For comparison, I tested eight friction loops. Check out the
-[results][friction-loop-test].
+I tested eight friction loops for comparison. [See
+results.][friction-loop-test]
 {:.tangent .indent}
 
 - **[Cleat hitch.][cleat-hitch]**
