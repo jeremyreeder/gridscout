@@ -141,6 +141,13 @@ This knot is a replacement for the _icicle hitch_, the difference being that
 it's better at staying tied.
 {:.tangent .indent}
 
+- **[Schwabisch hitch.][schwabisch-hitch]**
+A nifty friction hitch for connection to a life-support line in case you
+fall.
+
+
+### Compound knots
+
 - **Trucker’s hitch** (butterfly-Cawley variant)**.**
 Use this compound hitch to secure a heavy load.
 
@@ -151,11 +158,6 @@ Use this compound hitch to secure a heavy load.
 
 ![][truckers-hitch-photo]
 *Butterfly-Cawley trucker's hitch*
-
-- **[Schwabisch hitch.][schwabisch-hitch]**
-A friction hitch suitable for connection to a life-support line in case you
-fall.
-
 
 
 ### Different strokes for different ropes
