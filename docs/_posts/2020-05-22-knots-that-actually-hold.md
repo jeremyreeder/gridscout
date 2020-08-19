@@ -137,8 +137,8 @@ so that its knot can be untied. Also useful anywhere else that a lengthwise
 pull on a rope or pole is needed, even if what you're pulling is slippery or
 tapered.
 
-This knot is a replacement for the _icicle hitch_, the difference being that it
-stays tied.
+This knot is a replacement for the _icicle hitch_, the difference being that
+it's better at staying tied.
 {:.tangent .indent}
 
 - **Trucker’s hitch** (butterfly-Cawley variant)**.**
