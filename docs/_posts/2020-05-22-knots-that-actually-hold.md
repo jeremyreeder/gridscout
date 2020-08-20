@@ -114,8 +114,8 @@ king's bidding, until he chooses himself to loosen them.
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
 bights for only half of the knot breaks that symmetry. The two-bight variant
-keeps the symmetry, while the freedom knot makes up for its asymmetry through
-additional locking features.
+stays secure by keeping the symmetry. The freedom bow makes up for its
+asymmetry by converting the half-wrap around each loop into a full wrap.
 {:.tangent}
 
 
