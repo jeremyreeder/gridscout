@@ -108,7 +108,7 @@ king's bidding, until he chooses himself to loosen them.
 <div class="gallery" markdown="1">
 ![][reef-2bights-photo]
 ![][freedom-knot-photo]
-*Two-bight reef knot & freedom knot*
+*Two-bight reef knot & freedom bow*
 </div>
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
