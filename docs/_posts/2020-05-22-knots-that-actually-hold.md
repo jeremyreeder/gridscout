@@ -138,7 +138,7 @@ pull on a rope or pole is needed, even if what you're pulling is slippery or
 tapered.
 
 This knot is a replacement for the _icicle hitch_, the difference being that
-it's better at staying tied. I like to tie it with five initial wraps for grip and finish with a riding turn around the part that crosses diagonally over them, as I've found that this makes the knot far more secure. I'm thinking of calling this variant the "stalactite hitch".
+it's better at staying tied. I like to tie it with five initial wraps for grip and finish with a riding turn around the part that crosses diagonally over them, as I've found that this makes the knot far more secure. I think I'll calling this variant the "stalactite hitch". I'll post an illustration soon.
 {:.tangent .indent}
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
