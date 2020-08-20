@@ -143,7 +143,9 @@ first wrap.
 {:.tangent .indent}
 
 ![][stalactite-hitch-photo]
+{:.indent}
 *Stalactite hitch*
+{:.indent}
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
 A nifty friction hitch for connection to a life-support line in case you
@@ -161,7 +163,9 @@ Use this compound hitch to secure a heavy load.
 	4. Adjust the Cawley hitch to tension the lower loop.
 
 ![][truckers-hitch-photo]
+{:.indent}
 *Butterfly-Cawley trucker's hitch*
+{:.indent}
 
 
 ### Different strokes for different ropes
