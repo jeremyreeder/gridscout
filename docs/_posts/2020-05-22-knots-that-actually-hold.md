@@ -72,6 +72,12 @@ often perfectly feasible.
 - **Slipped double constrictor knot.**
 Use in place of clove hitch as a secure but easily untied binding.
 
+<div class="gallery" markdown="1">
+![][dbl-constrictor-s-photo]
+*Slipped double constrictor knot*
+{:.indent}
+</div>
+
 - **Reef knot.**
 Also ambiguously called a "square knot", this is a good knot for binding
 against a convex surface, such as for tying a sack shut or [fastening your
@@ -86,9 +92,9 @@ Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Use in place of
 reef knot against flat or concave surfaces.
 
 <div class="gallery" markdown="1">
-![][dbl-constrictor-s-photo]
 ![][reef-2t-photo]
-*Slipped double constrictor & double-throw reef knot*
+*Double-throw reef knot*
+{:.indent}
 </div>
 
 - **Two-bight reef knot.**
