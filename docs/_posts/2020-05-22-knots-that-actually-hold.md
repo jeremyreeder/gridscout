@@ -130,16 +130,20 @@ results.][friction-loop-test]
 - **[Cleat hitch.][cleat-hitch]**
 The right way to moor a boat to a dock.
 
-- **[Gripping sailor's hitch.][sailors-hitch]**
-A friction hitch most useful for attaching to another line in order to apply a
-strong lengthwise pull, such as to detension one end of a heavily loaded line
-so that its knot can be untied. Also useful anywhere else that a lengthwise
-pull on a rope or pole is needed, even if what you're pulling is slippery or
-tapered.
+- **[Stalactite hitch.]**
+A friction hitch with enough grip to pull on a heavily loaded line, relieving
+the tension on one end of that line so that its knot can be untied. Also useful
+anywhere that a lengthwise pull on a rope or pole is needed, even if that
+object is slippery or tapered.
 
-This knot is a replacement for the _icicle hitch_, the difference being that
-it's better at staying tied. I like to tie it with five initial wraps for grip and finish with a riding turn around the part that crosses diagonally over them, as I've found that this makes the knot far more secure. I think I'll calling this variant the "stalactite hitch". I'll post an illustration soon.
+Whereas the _gripping sailor's hitch_ improves slightly on the _icicle hitch_
+by tucking the end under a second wrap, the _stalactite hitch_ improves upon
+the _gripping sailor's hitch_ with the addition of a riding turn around the
+first wrap.
 {:.tangent .indent}
+
+![][stalactite-hitch-photo]
+*Stalactite hitch*
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
 A nifty friction hitch for connection to a life-support line in case you
