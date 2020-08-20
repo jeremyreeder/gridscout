@@ -166,6 +166,7 @@ Use this compound hitch to secure a heavy load.
 <div class="gallery" markdown="1">
 ![][truckers-hitch-photo]
 *Butterfly-Cawley trucker's hitch*
+{:.indent}
 </div>
 
 
