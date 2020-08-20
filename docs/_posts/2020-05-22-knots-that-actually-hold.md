@@ -138,8 +138,8 @@ object is slippery or tapered.
 
 My _stalactite hitch_ improves upon the security of the five-turn variant of
 the _gripping sailor's hitch_ by finishing with a riding turn around its
-diagonal part. Both knots are more secure than the similar but better-known
-_icicle hitch_.
+diagonal part. Both knots are more secure against repeated tension cycles than
+the similar but better-known _icicle hitch_.
 {:.tangent .indent}
 
 <div class="gallery" markdown="1">
