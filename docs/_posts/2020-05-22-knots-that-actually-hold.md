@@ -136,16 +136,17 @@ the tension on one end of that line so that its knot can be untied. Also useful
 anywhere that a lengthwise pull on a rope or pole is needed, even if that
 object is slippery or tapered.
 
-Whereas the _gripping sailor's hitch_ improves slightly on the _icicle hitch_
-by tucking the end under a second wrap, the _stalactite hitch_ improves upon
-the _gripping sailor's hitch_ with the addition of a riding turn around the
-wrap under which it was first tucked. It now stays tied even through repeated
-tensioning and detensioning cycles.
+The _stalactite hitch_ improves upon the security of the five-turn variant of
+the _gripping sailor's hitch_ by finishing with a riding turn around its
+diagonal part. Both knots are more secure than the similar but better-known
+_icicle hitch_.
 {:.tangent .indent}
 
+<div class="gallery" markdown="1">
 ![][stalactite-hitch-photo]
 *Stalactite hitch*
 {:.indent}
+</div>
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
 A nifty friction hitch for connection to a life-support line in case you
@@ -162,8 +163,10 @@ Use this compound hitch to secure a heavy load.
 	3. Hook onto the upper loop with a Cawley hitch.
 	4. Adjust the Cawley hitch to tension the lower loop.
 
+<div class="gallery" markdown="1">
 ![][truckers-hitch-photo]
 *Butterfly-Cawley trucker's hitch*
+</div>
 
 
 ### Different strokes for different ropes
