@@ -81,16 +81,27 @@ Use in place of clove hitch as a secure but easily untied binding.
 - **Reef knot.**
 Also ambiguously called a "square knot", this is a good knot for binding
 against a convex surface -- such as for reefing a sail, tying a sack shut or
-[fastening your short-laced shoes][short-shoelaces]. Just don't use it anywhere
-else, or it [may get you killed][reef-knot-misuse].
+[fastening your short-laced shoes][short-shoelaces].
 
 The _other_ "square knot", so called by the British, is the Chinese [friendship
 knot][friendship-knot]. It is decidedly the more square of the two.
 {:.tangent .indent}
 
+Never use a reef knot away from a convex surface, or for joining two ropes.
+That's what a _bend_ is for. Misusing a reef knot as a bend [may get you
+killed][reef-knot-misuse].
+{:.tangent .indent}
+
 - **Double-throw reef knot.**
 Variant [H2H2s][surgical-knot-study] of the surgeon's knot. Use in place of
 reef knot against flat or concave surfaces.
+
+Unlike the standard _reef knot_, the double-throw variant is suitable as a
+bend. That's why it can handle non-convex surfaces. But its best use is as a
+binding knot because, while it's easy to tighten it against the bindee, other
+bends significantly outperform it in jam-resistance and in maintaining rope
+strength.
+{:.tangent .indent}
 
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
