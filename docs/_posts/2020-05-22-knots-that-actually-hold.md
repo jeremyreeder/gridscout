@@ -148,6 +148,10 @@ results.][friction-loop-test]
 - **[Cleat hitch.][cleat-hitch]**
 The right way to moor a boat to a dock.
 
+- **[Schwabisch hitch.][schwabisch-hitch]**
+A very good closed-system hitch for connection to an auxiliary life-support
+line, in case you fall when ascending or descending crazy heights.
+
 - **Stalactite hitch.**
 A friction hitch with enough grip to pull on a heavily loaded line, relieving
 the tension on one end of that line so that its knot can be untied. Also useful
@@ -165,10 +169,6 @@ cycles than the similar but better-known _icicle hitch_.
 *Stalactite hitch*
 {:.indent}
 </div>
-
-- **[Schwabisch hitch.][schwabisch-hitch]**
-The ideal friction hitch for connection to a life-support line in case you
-fall.
 
 
 ### Compound knots
