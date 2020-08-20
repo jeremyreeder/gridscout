@@ -149,7 +149,7 @@ _icicle hitch_.
 </div>
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
-A nifty friction hitch for connection to a life-support line in case you
+The ideal friction hitch for connection to a life-support line in case you
 fall.
 
 
