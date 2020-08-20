@@ -98,9 +98,8 @@ reef knot against flat or concave surfaces.
 
 Unlike the standard _reef knot_, the double-throw variant is suitable as a
 bend. That's why it can handle non-convex surfaces. But its best use is as a
-binding knot because, while it's easy to tighten it against the bindee, other
-bends significantly outperform it in jam-resistance and in maintaining rope
-strength.
+binding knot because, although it tightens well against a bindee, other bends
+significantly outperform it in jam-resistance and in maintaining rope strength.
 {:.tangent .indent}
 
 <div class="gallery" markdown="1">
