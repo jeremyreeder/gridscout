@@ -130,7 +130,7 @@ results.][friction-loop-test]
 - **[Cleat hitch.][cleat-hitch]**
 The right way to moor a boat to a dock.
 
-- **[Stalactite hitch.]**
+- **Stalactite hitch.**
 A friction hitch with enough grip to pull on a heavily loaded line, relieving
 the tension on one end of that line so that its knot can be untied. Also useful
 anywhere that a lengthwise pull on a rope or pole is needed, even if that
@@ -178,6 +178,7 @@ Different types of cordage present different challenges.
 [reef-2t-photo]:           {{ '/images/double-throw-reef-knot.png'                | prepend: site.url }}
 [reef-2s2t-photo]:         {{ '/images/double-slipped-double-throw-reef-knot.jpg' | prepend: site.url }}
 [reef-2bights-photo]:      {{ '/images/reef-knot-in-2-bights.jpg'                 | prepend: site.url }}
+[stalactite-hitch-photo]:  {{ '/images/stalactite-hitch.jpg'                      | prepend: site.url }}
 [truckers-hitch-photo]:    {{ '/images/truckers-hitch.jpg'                        | prepend: site.url }}
 
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'         | prepend: site.url }}
@@ -196,7 +197,6 @@ Different types of cordage present different challenges.
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
 [freedom-bow]:        https://fieggen.com/shoelace/freedomknotflipbook.htm
 [friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
-[sailors-hitch]:       https://notableknotindex.webs.com/sailorhitches.html
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
