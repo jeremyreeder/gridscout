@@ -136,7 +136,7 @@ the tension on one end of that line so that its knot can be untied. Also useful
 anywhere that a lengthwise pull on a rope or pole is needed, even if that
 object is slippery or tapered.
 
-The _stalactite hitch_ improves upon the security of the five-turn variant of
+My _stalactite hitch_ improves upon the security of the five-turn variant of
 the _gripping sailor's hitch_ by finishing with a riding turn around its
 diagonal part. Both knots are more secure than the similar but better-known
 _icicle hitch_.
