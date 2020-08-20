@@ -93,7 +93,7 @@ reef knot against flat or concave surfaces.
 
 <div class="gallery" markdown="1">
 ![][reef-2t-photo]
-*Double-throw reef knot*
+*Double-throw reef knot, untightened*
 {:.indent}
 </div>
 
