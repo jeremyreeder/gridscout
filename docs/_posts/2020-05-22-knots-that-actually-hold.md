@@ -80,8 +80,9 @@ Use in place of clove hitch as a secure but easily untied binding.
 
 - **Reef knot.**
 Also ambiguously called a "square knot", this is a good knot for binding
-against a convex surface, such as for tying a sack shut or [fastening your
-short-laced shoes][short-shoelaces].
+against a convex surface -- such as for reefing a sail, tying a sack shut or
+[fastening your short-laced shoes][short-shoelaces]. Just don't use it anywhere
+else, or it [may get you killed][reef-knot-misuse].
 
 The _other_ "square knot", so called by the British, is the Chinese [friendship
 knot][friendship-knot]. It is decidedly the more square of the two.
@@ -210,6 +211,7 @@ Different types of cordage present different challenges.
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
 [freedom-bow]:        https://fieggen.com/shoelace/freedomknotflipbook.htm
 [friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
+[reef-knot-misuse]:   https://en.wikipedia.org/wiki/Reef_knot#Misuse_as_a_bend
 [sailors-hitch]:      https://notableknotindex.webs.com/sailorhitches.html
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
