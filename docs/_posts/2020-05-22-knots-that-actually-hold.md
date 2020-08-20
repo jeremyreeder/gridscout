@@ -137,9 +137,9 @@ anywhere that a lengthwise pull on a rope or pole is needed, even if that
 object is slippery or tapered.
 
 My _stalactite hitch_ improves upon the security of the five-turn variant of
-the _gripping sailor's hitch_ by finishing with a riding turn around its
-diagonal part. Both knots are more secure against repeated tension cycles than
-the similar but better-known _icicle hitch_.
+the _[gripping sailor's hitch][sailors-hitch]_ by finishing with a riding turn
+around its diagonal part. Both knots are more secure against repeated tension
+cycles than the similar but better-known _icicle hitch_.
 {:.tangent .indent}
 
 <div class="gallery" markdown="1">
@@ -203,6 +203,7 @@ Different types of cordage present different challenges.
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
 [freedom-bow]:        https://fieggen.com/shoelace/freedomknotflipbook.htm
 [friendship-knot]:    https://en.wikipedia.org/wiki/Friendship_knot
+[sailors-hitch]:      https://notableknotindex.webs.com/sailorhitches.html
 [schwabisch-hitch]:   https://www.netknots.com/rope_knots/schwabisch-hitch
 [short-shoelaces]:    http://shortshoelaces.jackdesert.com/
 [simple-simon-under]: https://en.wikipedia.org/wiki/Simple_Simon_under
