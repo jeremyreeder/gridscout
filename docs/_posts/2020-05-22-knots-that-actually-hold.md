@@ -139,11 +139,13 @@ object is slippery or tapered.
 Whereas the _gripping sailor's hitch_ improves slightly on the _icicle hitch_
 by tucking the end under a second wrap, the _stalactite hitch_ improves upon
 the _gripping sailor's hitch_ with the addition of a riding turn around the
-first wrap.
+wrap under which it was first tucked. It now stays tied even through repeated
+tensioning and detensioning cycles.
 {:.tangent .indent}
 
 ![][stalactite-hitch-photo]
 *Stalactite hitch*
+{:.indent}
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
 A nifty friction hitch for connection to a life-support line in case you
