@@ -112,14 +112,20 @@ significantly outperform it in jam-resistance and in maintaining rope strength.
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot.
 
+<div class="gallery" markdown="1">
+![][reef-2bights-photo]
+*Two-bight reef knot*
+{:.indent}
+</div>
+
 - **[Freedom bow.][freedom-bow]**
 A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
 king's bidding, until he chooses himself to loosen them.
 
 <div class="gallery" markdown="1">
-![][reef-2bights-photo]
 ![][freedom-knot-photo]
-*Two-bight reef knot & freedom bow*
+*Freedom bow*
+{:.indent}
 </div>
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
