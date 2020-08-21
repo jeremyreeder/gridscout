@@ -87,7 +87,7 @@ The _other_ "square knot", so called by the British, is the Chinese [friendship
 knot][friendship-knot]. It is decidedly the more square of the two.
 {:.tangent .indent}
 
-Never use a reef knot away from a convex surface, or for joining two ropes.
+Never use a reef knot away from a convex surface or for joining two ropes.
 That's what a _bend_ is for. Misusing a reef knot as a bend [may get you
 killed][reef-knot-misuse].
 {:.tangent .indent}
