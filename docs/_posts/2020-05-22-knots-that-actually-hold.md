@@ -152,7 +152,8 @@ The right way to moor a boat to a dock.
 A very good closed-system hitch for connection to an auxiliary life-support
 line, in case you fall when ascending or descending crazy heights.
 
-- **Stalactite hitch.**
+- **[Stalactite hitch.][stalactite-hitch]**
+{:#stalactite-hitch}
 A friction hitch with enough grip to pull on a heavily loaded line, relieving
 the tension on one end of that line so that its knot can be untied. Also useful
 anywhere that a lengthwise pull on a rope or pole is needed, even if that
@@ -208,6 +209,7 @@ Different types of cordage present different challenges.
 [bend-test]:           {{ '/2020/06/03/which-bends-hold-best.html'         | prepend: site.url }}
 [bungee-knots]:        {{ '/2020/06/11/good-knots-for-bungee-line.html'    | prepend: site.url }}
 [friction-loop-test]:  {{ '/2020/06/29/tautline-showdown.html'             | prepend: site.url }}
+[stalactite-hitch]:    {{ '/images/stalactite-hitch-diagram.jpg'           | prepend: site.url }}
 [surgical-knot-study]: {{ '/images/romeo-2018-best-surgeons-knot.pdf'      | prepend: site.url }}
 [zeppelin-bend]:       {{ '/2020/07/20/tying-the-zeppelin-knots.html#bend' | prepend: site.url }}
 [zeppelin-loop]:       {{ '/2020/07/20/tying-the-zeppelin-knots.html#loop' | prepend: site.url }}
