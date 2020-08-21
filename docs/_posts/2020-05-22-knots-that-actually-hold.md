@@ -69,7 +69,7 @@ I tested the security of eight bends for comparison. [See results.][bend-test]
 ![][dbl-constrictor-s-photo]
 ![][reef-2t-photo]
 ![][reef-2bights-photo]
-*Slipped constrictor, double-throw reef, & two-bight reef*
+*Slipped double constrictor, double-throw reef knot, & two-bight reef*
 </div>
 
 - **[Double constrictor knot.][double-constrictor]**
@@ -79,12 +79,6 @@ often perfectly feasible.
 
 - **Slipped double constrictor knot.**
 Use in place of clove hitch as a secure but easily untied binding.
-
-<div class="gallery" markdown="1">
-![][dbl-constrictor-s-photo]
-*Slipped double constrictor knot*
-{:.indent}
-</div>
 
 - **Reef knot.**
 Also ambiguously called a "square knot", this is a good knot for binding
@@ -110,12 +104,6 @@ binding knot because, although it tightens well against a bindee, other bends
 significantly outperform it in jam-resistance and in maintaining rope strength.
 {:.tangent .indent}
 
-<div class="gallery" markdown="1">
-![][reef-2t-photo]
-*Double-throw reef knot, untightened*
-{:.indent}
-</div>
-
 - **Two-bight reef knot.**
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot.
@@ -123,12 +111,6 @@ over to form two bights, then simply tie them in a reef knot.
 - **[Freedom bow.][freedom-bow]**
 A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
 king's bidding, until he chooses himself to loosen them.
-
-<div class="gallery" markdown="1">
-![][reef-2bights-photo]
-![][freedom-knot-photo]
-*Two-bight reef knot & freedom bow*
-</div>
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
