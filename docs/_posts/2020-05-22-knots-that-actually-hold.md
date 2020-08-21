@@ -64,6 +64,14 @@ I tested the security of eight bends for comparison. [See results.][bend-test]
 
 
 ### Bindings
+
+<div class="gallery" markdown="1">
+![][dbl-constrictor-s-photo]
+![][reef-2t-photo]
+![][reef-2bights-photo]
+*Slipped constrictor, double-throw reef, & two-bight reef*
+</div>
+
 - **[Double constrictor knot.][double-constrictor]**
 The most manly of bindings. Use in place of clove hitch or right-angle knot.
 The old-timers say you have to cut it off; but with synthetic rope, untying is
