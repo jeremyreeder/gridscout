@@ -149,10 +149,10 @@ anywhere that a lengthwise pull on a rope or pole is needed, even if that
 object is slippery or tapered.
 {:#stalactite-hitch}
 
-My _stalactite hitch_ improves upon the security of the five-turn variant of
+My _stalactite hitch_ improves upon the stability of the five-turn variant of
 the _[gripping sailor's hitch][sailors-hitch]_ by finishing with a riding turn
-around its diagonal part. Both knots are more secure against repeated tension
-cycles than the similar but better-known _icicle hitch_.
+around its diagonal part. This enables it to handle cycles of jerky tensioning
+and detensioning.
 {:.tangent .indent}
 
 <div class="gallery" markdown="1">
