@@ -69,7 +69,7 @@ I tested the security of eight bends for comparison. [See results.][bend-test]
 ![][dbl-constrictor-s-photo]
 ![][reef-2t-photo]
 ![][reef-2bights-photo]
-*Slipped double constrictor, double-throw reef knot, & two-bight reef*
+*Slipped double constrictor knot, double-throw reef knot, & two-bight reef knot*
 </div>
 
 - **[Double constrictor knot.][double-constrictor]**
