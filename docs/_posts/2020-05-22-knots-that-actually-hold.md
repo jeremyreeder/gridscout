@@ -153,11 +153,11 @@ A very good closed-system hitch for connection to an auxiliary life-support
 line, in case you fall when ascending or descending crazy heights.
 
 - **[Stalactite hitch.][stalactite-hitch]**
-{:#stalactite-hitch}
 A friction hitch with enough grip to pull on a heavily loaded line, relieving
 the tension on one end of that line so that its knot can be untied. Also useful
 anywhere that a lengthwise pull on a rope or pole is needed, even if that
 object is slippery or tapered.
+{:#stalactite-hitch}
 
 My _stalactite hitch_ improves upon the security of the five-turn variant of
 the _[gripping sailor's hitch][sailors-hitch]_ by finishing with a riding turn
