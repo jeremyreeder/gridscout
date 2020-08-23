@@ -140,7 +140,7 @@ The right way to moor a boat to a dock.
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
 A very good closed-system hitch for connection to a life-support
-line, in case you fall when ascending or descending crazy heights.
+line, in case you fall when climbing crazy heights.
 
 - **[Stalactite hitch.][stalactite-hitch]**
 A friction hitch with enough grip to pull on a heavily loaded line, relieving
