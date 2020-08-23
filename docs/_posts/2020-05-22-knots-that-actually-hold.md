@@ -139,7 +139,7 @@ results.][friction-loop-test]
 The right way to moor a boat to a dock.
 
 - **[Schwabisch hitch.][schwabisch-hitch]**
-A very good closed-system hitch for connection to an auxiliary life-support
+A very good closed-system hitch for connection to a life-support
 line, in case you fall when ascending or descending crazy heights.
 
 - **[Stalactite hitch.][stalactite-hitch]**
