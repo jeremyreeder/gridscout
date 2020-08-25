@@ -54,10 +54,10 @@ Use in place of sheetbend for joining stretchy rope. Tidy like the Simple
 Simon.
 - **Butterfly bend.**
 Use alpine butterfly in place of sheetbend wherever ease of untying after
-extreme stress is valued more than tidiness.
+extreme stress is valued more than reevable tidiness.
 - **[Zeppelin bend.][zeppelin-bend]**
 Use anywhere that you might use the butterfly bend, especially in stretchy
-rope. The untidiest of the bunch, but the most easily untied.
+rope. The least reevable of the bunch, but the most easily untied.
 
 I tested the security of eight bends for comparison. [See results.][bend-test]
 {:.tangent}
