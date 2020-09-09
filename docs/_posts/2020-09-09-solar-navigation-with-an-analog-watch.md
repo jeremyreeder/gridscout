@@ -3,7 +3,7 @@ layout: post
 title: Solar navigation with an analog watch
 author: Jeremy Reeder
 date: 2020-09-09
-tags: knot
+tags: compass watch
 redirect_from: /watch-navigation
 ---
 
