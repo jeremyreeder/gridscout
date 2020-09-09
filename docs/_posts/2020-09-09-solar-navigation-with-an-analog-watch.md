@@ -16,7 +16,7 @@ misleading, so let's just call them lies. Here I present _actual_ truths about
 the position of the sun and a better way to find directions. No equipment
 necessary except an analog watch.
 
-## Lie #1: The sun rises in the east and sets in the west.
+### Lie #1: The sun rises in the east and sets in the west.
 
 At my home near the 43rd parallel, trusting that the sun rises in the east can
 mislead a fella by up to 34 degrees in winter and summer. It's even less
@@ -30,7 +30,7 @@ The deviation increases at higher latitudes.
 Around the summer solstice in or near a polar circle, the sun may not set at all.
 {:.indent}
 
-## Lie #2: The sun is directly south at noon.
+### Lie #2: The sun is directly south at noon.
 
 Yeah, okay, but when is noon? Do you trust the government to tell you? They may
 mislead you by an hour or two. Local solar noon may not come at 12:00 civil
@@ -48,13 +48,13 @@ you trust your civil time with the simple exception of converting from daylight
 saving time in the summer to get an _approximate_ local solar noon, the
 directions found with a watch still produce far less error.
 
-## Navigating with a 12-hour dial
+### Navigating with a 12-hour dial
 - When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's local solar noon position.
 - When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
 
-## Navigating with a 24-hour dial
+### Navigating with a 24-hour dial
 - When you're north of the sun's path and the hour hand of a 24-hour watch dial on a horizontal plane is pointed at the sun, the dial's local solar noon position points approximately southward.
 - When you're south of the sun's path and the local solar noon position of a 24-hour watch dial on a horizontal plane is pointed at the sun, the hour hand points approximately northward.
 - The hour hand on a 24-hour dial revolves only once per day, matching the sun. Hence these simplified methods that don't require bisection of angles.
