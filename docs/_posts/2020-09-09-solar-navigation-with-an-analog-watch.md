@@ -4,6 +4,7 @@ title: Solar navigation with an analog watch
 author: Jeremy Reeder
 date: 2020-09-09
 tags: knot
+redirect_from: /watch-navigation
 ---
 
 You probably already know some basic solar navigation:
