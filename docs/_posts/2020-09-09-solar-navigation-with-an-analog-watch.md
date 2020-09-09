@@ -39,7 +39,7 @@ daylight saving time moves it an hour clockwise. Today my solar noon is at
 1:42pm.
 
 Don't forget, of course, that in parts of the world the sun is _north_ at
-solar noon. And in the tropics, it actually alternates.
+solar noon. And in the tropics, it alternates.
 
 ## Analog watch as navigational aid
 
