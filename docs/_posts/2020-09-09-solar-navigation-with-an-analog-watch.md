@@ -38,6 +38,9 @@ time. It varies with your longitudinal position within the time zone, and
 daylight saving time moves it an hour clockwise. Today my solar noon is at
 1:42pm.
 
+Don't forget, of course, that in parts of the world the sun is _north_ at
+solar noon. And in the tropics, it actually alternates.
+
 ## Analog watch as navigational aid
 
 When the sun is visible and you're at least a few degrees of latitude away from
