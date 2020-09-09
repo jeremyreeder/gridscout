@@ -42,7 +42,7 @@ daylight saving time moves it an hour clockwise. Today my solar noon is at
 - When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - At sunrise and sunset, these methods produce only a third of the error given by the basic methods. At local solar noon, they produce no error at all.
-- Navigation is easier with a _24-hour_ dial.
+- NOTE: Navigation is easier with a _24-hour_ dial.
 
 ## Navigating with a 24-hour dial
 - When you're north of the sun's path and the hour hand of a 24-hour watch dial on a horizontal plane is pointed at the sun, the dial's local solar noon position points approximately southward.
