@@ -10,12 +10,12 @@ You probably already know some basic solar navigation:
 - The sun rises in the east and sets in the west.
 - The sun is directly south at noon.
 
-But these are only rough approximations of the truth.* Here I present _actual_
+But these are only rough approximations of the truth. Here I present _actual_
 truths about the position of the sun and a better way to find directions. No
 equipment necessary except an analog watch.
 
-\* At my home near the 43rd parallel, trusting that the sun rises in the east
-can mislead a fella by up to 34 degrees in winter and summer. It's even less
+At my home near the 43rd parallel, trusting that the sun rises in the east can
+mislead a fella by up to 34 degrees in winter and summer. It's even less
 accurate at higher latitudes. Trusting the government to tell you what time it
 is can mislead you by an hour or two, which is just as bad.
 {:.tangent}
@@ -23,7 +23,7 @@ is can mislead you by an hour or two, which is just as bad.
 # Approximate truth #1
 The sun rises in the east and sets in the west.
 
-# Actual truth #1
+## Actual truth
 - The sun rises approximately in the east and sets approximately in the west.
 - Twice a year, at the equinoxes, any deviation from due east and due west is negligible.
 - The sun deviates northward in both rising and setting as we approach the June solstice.
@@ -34,7 +34,7 @@ The sun rises in the east and sets in the west.
 # Approximate truth #2
 When the hour hand of a 12-hour watch dial is pointed at the sun, south is halfway between it and the 12:00 position.
 
-# Actual truth #2
+## Actual truth
 - When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's local solar noon position.
 - When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
@@ -45,7 +45,7 @@ When the hour hand of a 12-hour watch dial is pointed at the sun, south is halfw
 # Approximate truth #3
 When the hour hand of a 24-hour watch dial is pointed at the sun, the 12:00 position points southward.
 
-# Actual truth #3
+## Actual truth
 - When you're north of the sun's path and the hour hand of a 24-hour watch dial on a horizontal plane is pointed at the sun, the dial's local solar noon position points approximately southward.
 - When you're south of the sun's path and the local solar noon position of a 24-hour watch dial on a horizontal plane is pointed at the sun, the hour hand points approximately northward.
 - The hour hand on a 24-hour dial revolves only once per day, matching the sun. Hence these simplified methods that don't require bisection of angles.
