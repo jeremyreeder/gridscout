@@ -19,14 +19,14 @@ necessary except an analog watch.
 ### Lie #1: The sun rises in the east and sets in the west.
 
 At my home near the 43rd parallel, trusting that the sun rises in the east can
-mislead a fella by up to 34 degrees in winter and summer. It's even less
+mislead a fella by up to 34° in winter and summer. It's even less
 accurate at higher latitudes. Here's the truth:
 
 The sun rises approximately in the east and sets approximately in the west.
 Twice a year, at the equinoxes, any deviation from due east and due west is negligible.
 But the sun deviates northward in both rising and setting as we approach the June solstice.
 And it deviates southward as we approach the December solstice.
-At each solstice you'll get at least 25 degrees of deviation, depending on your latitude.
+At each solstice you'll get at least 25° of deviation, depending on your latitude.
 Inside the polar circles, the sun won't actually rise or set at all, it'll only circle around you just above or just below the horizon.
 {:.indent}
 
