@@ -53,7 +53,7 @@ third of the error given by trusting that the sun rises in the east. Maximum err
 - When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
-- 
+
 If you're not sure when your local solar noon is, look it up. Or at least don't use the 12:00 position during daylight saving time, use 1:00 instead.
 {:.tangent}
 
