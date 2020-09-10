@@ -54,7 +54,7 @@ third of the error given by trusting that the sun rises in the east. Maximum err
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
 
-If you're not sure when your local solar noon is, look it up. Or at least don't use the 12:00 position during daylight saving time. For crying out loud, use 1:00 in summertime!
+If you're not sure when your local solar noon is, then look it up. Or at least, for crying out loud, don't use the 12:00 position during daylight saving time! Use 1:00 to compensate.
 {:.tangent}
 
 ### Navigating with a 24-hour dial
