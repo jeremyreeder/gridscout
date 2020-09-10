@@ -48,6 +48,9 @@ the sun's path, the hour hand of an analog watch comes in handy as a compass.
 It follows the actual path of the sun pretty closely, producing no more than a
 third of the error given by trusting that the sun rises in the east. Maximum error seems to be about 12°.
 
+[Rob Bicevskis][bicevskis-dissent] argues that the accuracy of these methods varies substantially from hour to hour. I'm investigating his claims and will experiment further.
+{:.tangent}
+
 ### Navigating with a 12-hour dial
 - When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's local solar noon position.
 - When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
@@ -64,10 +67,11 @@ If you're not sure when your local solar noon is, then look it up. Or at least, 
 - These methods are easiest with daytime at the top of the dial and nighttime at the bottom, as is common in Russian military watches.
 
 <div class="gallery" markdown="1">
-![][russian-watch]
+![][russian-watch-photo]
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 {:.indent}
 </div>
 
+[russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
 
-[russian-watch]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
+[bicevskis-dissent]: http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
