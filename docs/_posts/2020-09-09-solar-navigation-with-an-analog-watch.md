@@ -24,10 +24,10 @@ accurate at higher latitudes. Here's the truth:
 
 The sun rises approximately in the east and sets approximately in the west.
 Twice a year, at the equinoxes, any deviation from due east and due west is negligible.
-The sun deviates northward in both rising and setting as we approach the June solstice.
-It deviates southward as we approach the December solstice.
-The deviation increases at higher latitudes.
-Around the summer solstice in or near a polar circle, the sun may not set at all.
+But the sun deviates northward in both rising and setting as we approach the June solstice.
+And it deviates southward as we approach the December solstice.
+At each solstice you'll get at least 25 degrees of deviation, depending on your latitude.
+Inside the polar circles, the sun won't actually rise or set at all, it'll only circle around you just above or just below the horizon.
 {:.indent}
 
 ### Lie #2: The sun is directly south at noon.
