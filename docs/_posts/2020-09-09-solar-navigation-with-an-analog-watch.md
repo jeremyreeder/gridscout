@@ -46,16 +46,16 @@ solar noon. And in the tropics, it alternates.
 When the sun is visible and you're at least a few degrees of latitude away from
 the sun's path, the hour hand of an analog watch comes in handy as a compass.
 It follows the actual path of the sun pretty closely, producing no more than a
-third of the error given by trusting that the sun rises in the east. Even if
-you trust your civil time with the simple exception of converting from daylight
-saving time in the summer to get an _approximate_ local solar noon, the
-directions found with a watch still produce far less error.
+third of the error given by trusting that the sun rises in the east. Maximum error seems to be about 12°.
 
 ### Navigating with a 12-hour dial
 - When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's local solar noon position.
 - When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
+- 
+If you're not sure when your local solar noon is, look it up. Or at least don't use the 12:00 position during daylight saving time, use 1:00 instead.
+{:.tangent}
 
 ### Navigating with a 24-hour dial
 - When you're north of the sun's path and the hour hand of a 24-hour watch dial on a horizontal plane is pointed at the sun, the dial's local solar noon position points approximately southward.
