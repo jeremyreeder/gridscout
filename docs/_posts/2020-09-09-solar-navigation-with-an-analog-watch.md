@@ -18,7 +18,7 @@ necessary except an analog watch.
 
 ### Lie #1: The sun rises in the east and sets in the west.
 
-At my home near the 43rd parallel, trusting that the sun rises in the east can
+At my home near the 43<sup>rd</sup> parallel, trusting that the sun rises in the east can
 mislead a fella by up to 34° in winter and summer. It's even less
 accurate at higher latitudes. Here's the truth:
 
