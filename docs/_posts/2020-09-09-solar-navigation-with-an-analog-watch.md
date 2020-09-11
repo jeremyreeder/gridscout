@@ -66,7 +66,7 @@ sense of his less favorable results.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
 
-If you're not sure when your local solar noon is, then look it up. Or at least, for crying out loud, don't use the 12:00 position during daylight saving time! Use 1:00 in summertime to compensate for DST.
+If you're not sure when your local solar noon is, then look it up. Or at least, for crying out loud, don't use the 12:00 position during daylight saving time! Instead, use 1:00 in summertime to compensate for DST.
 {:.tangent}
 
 ### Navigating with a 24-hour dial
