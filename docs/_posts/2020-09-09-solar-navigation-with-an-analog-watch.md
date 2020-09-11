@@ -47,9 +47,10 @@ noon. And in the tropics, it alternates.
 
 ## How 'bout a reverse sundial?
 
-The hour hand of an analog watch follows the path of the sun pretty closely at
-moderate to high latitudes. So when the sun is visible and you're at least 20°
-of latitude away from the sun's path, it comes in pretty handy as a compass.
+The hour hand of an analog watch follows the apparent path of the sun pretty
+closely at moderate to high latitudes. So when the sun is visible and you're at
+least 20° of latitude away from the sun's path, it comes in pretty handy as a
+compass.
 
 ### Navigating with a 12-hour dial
 - When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's solar noon position.
