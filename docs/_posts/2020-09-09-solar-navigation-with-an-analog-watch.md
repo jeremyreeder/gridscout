@@ -72,7 +72,7 @@ latitudes.
 | 75°                        | 0°                                   | 1°                       | 0°            |
 | 80°                        | 0°                                   | 0°                       | 0°            |
 
-\* These latitudes refer to distance from the sun's path, not from the equator.
+\* Solar latitudes refer to distance from the sun's path, not from the equator.
 Your solar latitude at the summer solstice is 23° less than your equatorial
 latitude, making your reverse sundial less accurate. Your solar latitude at the
 winter solstice is likewise 23° greater than your equatorial latitude, making
