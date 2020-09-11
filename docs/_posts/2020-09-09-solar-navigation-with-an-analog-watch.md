@@ -53,8 +53,8 @@ least 20° of latitude away from the sun's path, it comes in pretty handy as a
 compass.
 
 ### Navigating with a 12-hour dial
-- When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's solar noon position.
-- When you're south of the sun's path and the solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
+- When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is about halfway between it and the dial's solar noon position.
+- When you're south of the sun's path and the solar noon position on a 12-hour watch dial is pointed at the sun, north is about halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
 
