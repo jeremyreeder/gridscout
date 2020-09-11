@@ -52,7 +52,7 @@ the sun's path, the hour hand of an analog watch comes in handy as a compass.
 It follows the actual path of the sun pretty closely at moderate to high
 latitudes.
 
-|                            | Error in calculated directions, based on time till/since solar noon             |
+|                            | DIRECTIONAL ERROR                    |
 | Solar latitude<sup>*</sup> | 6 hours from noon (±4°<sup>**</sup>) | 3 hours from noon (±4°)  | At solar noon |
 |----------------------------|--------------------------------------|--------------------------|---------------|
 | 5°                         | 0°                                   | 40°                      | 0°            |
