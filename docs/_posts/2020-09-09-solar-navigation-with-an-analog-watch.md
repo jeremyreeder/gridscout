@@ -104,20 +104,24 @@ shown in the following table.
 | 75°                        | 0°                                   | 1°                       | 0°            | 0°                |
 | 80°                        | 0°                                   | 0°                       | 0°            | 0°                |
 
-\* Solar latitudes refer to distance from the sun's path, not from the equator.
-Your solar latitude at the summer solstice is 23° less than your equatorial
-latitude, making your reverse sundial less accurate. Your solar latitude at the
-winter solstice is likewise 23° greater than your equatorial latitude, making
-it _more_ accurate.
+\* Solar latitude (which I just made up) refers to distance from the sun's
+path, not from the equator. Your solar latitude at the summer solstice is 23°
+less than your equatorial latitude, making your reverse sundial less accurate.
+Your solar latitude at the winter solstice is likewise 23° greater than your
+equatorial latitude, making it _more_ accurate.
 {:.tangent}
 
 \** Earth's orbit is slightly elliptical, so the sun's apparent movement varies
 by up to 4° from what you'd see with a perfectly round orbit.
 {:.tangent}
 
-These calculations come from the [North American Sundial
-Society][calculations], but of course I've repurposed them.
+These calculations are derived from calculations provided by the [North
+American Sundial Society][calculations] for marking horizontal sundials at
+various latitudes.
 {:.tangent}
+
+DISCLAIMER: I'm new to this. I think I've got it right, but time will tell.
+I'll be testing it through the upcoming equinox and the next two solstices.
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
