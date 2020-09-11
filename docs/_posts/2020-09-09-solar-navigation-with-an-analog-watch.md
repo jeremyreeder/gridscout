@@ -43,7 +43,7 @@ daylight saving time moves it an hour clockwise. Today my solar noon is at
 Don't forget, of course, that in parts of the world the sun is _north_ at solar
 noon. And in the tropics, it alternates.
 
-## Analog watch as navigational aid
+## How 'bout a reverse sundial?
 
 When the sun is visible and you're at least a few degrees of latitude away from
 the sun's path, the hour hand of an analog watch comes in handy as a compass.
