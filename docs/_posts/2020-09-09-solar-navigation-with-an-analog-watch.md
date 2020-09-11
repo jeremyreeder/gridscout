@@ -14,7 +14,7 @@ You probably already know some basic solar navigation:
 - The sun is directly south at noon.
 
 But these are only rough approximations of the truth. And they can be plenty
-misleading, so let's just call them lies. Here I present _actual_ truths about
+misleading, so let's just call them LIES. Here I present _actual_ truths about
 the position of the sun and a sometimes better way to find directions. No
 equipment necessary except an analog watch.
 
