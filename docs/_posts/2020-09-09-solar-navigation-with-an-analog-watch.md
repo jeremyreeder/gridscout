@@ -51,10 +51,13 @@ It follows the actual path of the sun pretty closely, so you can use it to find
 directions within 4° regardless of your latitude.
 
 A sundial likewise tracks the passage of time within 16 minutes, which is
-equivalent to 4° of apparent angular movement of the sun. Note that [Rob
-Bicevskis][bicevskis-dissent] has a dissenting opinion on the accuracy of
-watch-based solar navigation. I will attempt to reproduce and make sense of his
-less favorable results.
+equivalent to 4° of apparent angular movement of the sun. That error is due to
+Earth's elliptical orbit.
+{:.tangent}
+
+Note that [Rob Bicevskis][bicevskis-dissent] has a dissenting opinion on the
+accuracy of watch-based solar navigation. I will attempt to reproduce and make
+sense of his less favorable results.
 {:.tangent}
 
 ### Navigating with a 12-hour dial
