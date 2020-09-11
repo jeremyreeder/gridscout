@@ -52,46 +52,6 @@ the sun's path, the hour hand of an analog watch comes in handy as a compass.
 It follows the actual path of the sun pretty closely at moderate to high
 latitudes.
 
-Any directional error produced by using your watch as a reverse sundial is
-minimal at intervals of 6 hours from solar noon. And it peaks at odd multiples
-of 3 hours. The extent of the error at those peaks depends on how close you are
-to the sun's path, as shown in the following table.
-
-|                            | DIRECTIONAL ERROR                    |
-| Solar latitude<sup>*</sup> | 6 hours from noon (±4°<sup>**</sup>) | 3 hours from noon (±4°)  | At solar noon | At solar midnight |
-|----------------------------|--------------------------------------|--------------------------|---------------|-------------------|
-| 5°                         | 0°                                   | 40°                      | 0°            | 0°                |
-| 10°                        | 0°                                   | 35°                      | 0°            | 0°                |
-| 15°                        | 0°                                   | 30°                      | 0°            | 0°                |
-| 20°                        | 0°                                   | 26°                      | 0°            | 0°                |
-| 25°                        | 0°                                   | 22°                      | 0°            | 0°                |
-| 30°                        | 0°                                   | 18°                      | 0°            | 0°                |
-| 35°                        | 0°                                   | 15°                      | 0°            | 0°                |
-| 40°                        | 0°                                   | 12°                      | 0°            | 0°                |
-| 45°                        | 0°                                   | 10°                      | 0°            | 0°                |
-| 50°                        | 0°                                   | 8°                       | 0°            | 0°                |
-| 55°                        | 0°                                   | 6°                       | 0°            | 0°                |
-| 60°                        | 0°                                   | 4°                       | 0°            | 0°                |
-| 65°                        | 0°                                   | 3°                       | 0°            | 0°                |
-| 70°                        | 0°                                   | 2°                       | 0°            | 0°                |
-| 75°                        | 0°                                   | 1°                       | 0°            | 0°                |
-| 80°                        | 0°                                   | 0°                       | 0°            | 0°                |
-
-\* Solar latitudes refer to distance from the sun's path, not from the equator.
-Your solar latitude at the summer solstice is 23° less than your equatorial
-latitude, making your reverse sundial less accurate. Your solar latitude at the
-winter solstice is likewise 23° greater than your equatorial latitude, making
-it _more_ accurate.
-{:.tangent}
-
-\** Earth's orbit is slightly elliptical, so the sun's apparent movement varies
-by up to 4° from what you'd see with a perfectly round orbit.
-{:.tangent}
-
-These calculations come from the [North American Sundial
-Society][calculations], but of course I've repurposed them.
-{:.tangent}
-
 ### Navigating with a 12-hour dial
 - When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's solar noon position.
 - When you're south of the sun's path and the solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
@@ -112,6 +72,48 @@ If you're not sure when your local solar noon is, then look it up. Or at least, 
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 {:.indent}
 </div>
+
+## How accurate is watch-based navigation?
+
+Any directional error produced by using your watch as a reverse sundial is
+minimal at intervals of 6 hours from solar noon. And it peaks at odd multiples
+of 3 hours. The extent of the error at those peaks depends on how close you are
+to the sun's path, as shown in the following table.
+
+|                            | DIRECTIONAL ERROR               |
+| Solar latitude<sup>*</sup> | 6h from noon (±4°<sup>**</sup>) | 3h from noon (±4°)  | At solar noon | At solar midnight |
+|----------------------------|---------------------------------|---------------------|---------------|-------------------|
+| 5°                         | 0°                              | 40°                 | 0°            | 0°                |
+| 10°                        | 0°                              | 35°                 | 0°            | 0°                |
+| 15°                        | 0°                              | 30°                 | 0°            | 0°                |
+| 20°                        | 0°                              | 26°                 | 0°            | 0°                |
+| 25°                        | 0°                              | 22°                 | 0°            | 0°                |
+| 30°                        | 0°                              | 18°                 | 0°            | 0°                |
+| 35°                        | 0°                              | 15°                 | 0°            | 0°                |
+| 40°                        | 0°                              | 12°                 | 0°            | 0°                |
+| 45°                        | 0°                              | 10°                 | 0°            | 0°                |
+| 50°                        | 0°                              | 8°                  | 0°            | 0°                |
+| 55°                        | 0°                              | 6°                  | 0°            | 0°                |
+| 60°                        | 0°                              | 4°                  | 0°            | 0°                |
+| 65°                        | 0°                              | 3°                  | 0°            | 0°                |
+| 70°                        | 0°                              | 2°                  | 0°            | 0°                |
+| 75°                        | 0°                              | 1°                  | 0°            | 0°                |
+| 80°                        | 0°                              | 0°                  | 0°            | 0°                |
+
+\* Solar latitudes refer to distance from the sun's path, not from the equator.
+Your solar latitude at the summer solstice is 23° less than your equatorial
+latitude, making your reverse sundial less accurate. Your solar latitude at the
+winter solstice is likewise 23° greater than your equatorial latitude, making
+it _more_ accurate.
+{:.tangent}
+
+\** Earth's orbit is slightly elliptical, so the sun's apparent movement varies
+by up to 4° from what you'd see with a perfectly round orbit.
+{:.tangent}
+
+These calculations come from the [North American Sundial
+Society][calculations], but of course I've repurposed them.
+{:.tangent}
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
