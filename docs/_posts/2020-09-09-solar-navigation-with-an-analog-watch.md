@@ -52,7 +52,7 @@ directions within 4° regardless of your latitude.
 
 A sundial likewise tracks the passage of time within 16 minutes, which is
 equivalent to 4° of apparent angular movement of the sun. That error is due to
-Earth's elliptical orbit.
+Earth having a slightly elliptical orbit rather than a perfectly round one.
 {:.tangent}
 
 Note that [Rob Bicevskis][bicevskis-dissent] has a dissenting opinion on the
