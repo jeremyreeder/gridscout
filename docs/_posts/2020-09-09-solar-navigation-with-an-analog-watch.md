@@ -77,10 +77,12 @@ daylight saving time! Instead, use 1:00 in summertime to compensate for DST.
 
 ### How accurate is watch-based navigation?
 
-Any directional error produced by using your watch as a reverse sundial is
-minimal at intervals of 6 hours from solar noon. And it peaks at odd multiples
-of 3 hours. The extent of the error at those peaks depends on how close you are
-to the sun's path, as shown in the following table.
+It's best for summertime polar expeditions, but it can be plenty useful
+elsewhere as well. Any directional error produced by using your watch as a
+reverse sundial is minimal at intervals of 6 hours from solar noon. The error
+peaks, however, at odd multiples of 3 hours. The magnitude of those peaks
+depends on how close you are to the sun's path, as shown in the following
+table.
 
 |                            | DIRECTIONAL ERROR                    |
 | Solar latitude<sup>*</sup> | 6 hours from noon (±4°<sup>**</sup>) | 3 hours from noon (±4°)  | At solar noon | At solar midnight |
