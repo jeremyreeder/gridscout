@@ -50,7 +50,7 @@ the sun's path, the hour hand of an analog watch comes in handy as a compass.
 It follows the actual path of the sun pretty closely, so you can use it to find
 directions within 4° regardless of the date and your latitude.
 
-That's the theory, anyway. In practice I see up to 17° of error. Still workin' out why. No error at solar noon though, and just 3° at sunrise or sunset.
+That's the theory, anyway. In practice I see up to 17° of error. Still workin' out why.
 {:.tangent}
 
 A sundial likewise tracks the passage of time within 16 minutes, which is
