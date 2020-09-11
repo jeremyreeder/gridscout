@@ -78,10 +78,8 @@ winter solstice is likewise 23° greater than your equatorial latitude, making
 it _more_ accurate.
 {:.tangent}
 
-\** The sundials on which this navigation method is based track the passage of time
-within 16 minutes, which is equivalent to 4° of apparent angular movement of
-the sun. This error is due to Earth having a slightly elliptical orbit rather
-than a perfectly round one.
+\** Earth's orbit is slightly elliptical, so the sun's apparent movement varies
+by up to 4° from what you'd see with a perfectly round orbit.
 {:.tangent}
 
 These calculations come from the [North American Sundial
