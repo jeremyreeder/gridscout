@@ -18,16 +18,18 @@ necessary except an analog watch.
 
 ### Lie #1: The sun rises in the east and sets in the west.
 
-At my home near the 43<sup>rd</sup> parallel, trusting that the sun rises in the east can
-mislead a fella by up to 34° in winter and summer. It's even less
+At my home near the 43<sup>rd</sup> parallel, trusting that the sun rises in
+the east can mislead a fella by up to 34° in winter and summer. It's even less
 accurate at higher latitudes. Here's the truth:
 
 The sun rises approximately in the east and sets approximately in the west.
-Twice a year, at the equinoxes, any deviation from due east and due west is negligible.
-But the sun deviates northward in both rising and setting as we approach the June solstice.
-And it deviates southward as we approach the December solstice.
-At each solstice you'll get at least 25° of deviation, depending on your latitude.
-Inside the polar circles, the sun won't actually rise or set at all, it'll only circle around you just above or below the horizon.
+Twice a year, at the equinoxes, any deviation from due east and due west is
+negligible.  But the sun deviates northward in both rising and setting as we
+approach the June solstice.  And it deviates southward as we approach the
+December solstice.  At each solstice you'll get at least 25° of deviation,
+depending on your latitude.  Inside the polar circles, the sun won't actually
+rise or set at all, it'll only circle around you just above or below the
+horizon.
 {:.indent}
 
 ### Lie #2: The sun is directly south at noon.
@@ -38,17 +40,21 @@ time. It varies with your longitudinal position within the time zone, and
 daylight saving time moves it an hour clockwise. Today my solar noon is at
 1:42pm.
 
-Don't forget, of course, that in parts of the world the sun is _north_ at
-solar noon. And in the tropics, it alternates.
+Don't forget, of course, that in parts of the world the sun is _north_ at solar
+noon. And in the tropics, it alternates.
 
 ## Analog watch as navigational aid
 
 When the sun is visible and you're at least a few degrees of latitude away from
 the sun's path, the hour hand of an analog watch comes in handy as a compass.
-It follows the actual path of the sun pretty closely, producing no more than a
-third of the error given by trusting that the sun rises in the east. Maximum error seems to be about 12°.
+It follows the actual path of the sun pretty closely, so you can use it to find
+directions within 4° regardless of your latitude.
 
-[Rob Bicevskis][bicevskis-dissent] argues that the accuracy of these methods varies substantially from hour to hour. I'm investigating his claims and will experiment further.
+A sundial likewise tracks the passage of time within 16 minutes, which is
+equivalent to 4° of apparent angular movement of the sun. Note that [Rob
+Bicevskis][bicevskis-dissent] has a dissenting opinion on the accuracy of
+watch-based solar navigation. I will attempt to reproduce and make sense of his
+less favorable results.
 {:.tangent}
 
 ### Navigating with a 12-hour dial
@@ -71,6 +77,7 @@ If you're not sure when your local solar noon is, then look it up. Or at least, 
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 {:.indent}
 </div>
+
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
 
