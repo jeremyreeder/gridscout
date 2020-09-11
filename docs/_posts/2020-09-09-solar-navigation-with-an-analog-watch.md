@@ -48,7 +48,10 @@ noon. And in the tropics, it alternates.
 When the sun is visible and you're at least a few degrees of latitude away from
 the sun's path, the hour hand of an analog watch comes in handy as a compass.
 It follows the actual path of the sun pretty closely, so you can use it to find
-directions within 4° regardless of the date and your latitude. (That's the theory, anyway, but I see up to 17° in practice. Still workin' out why.)
+directions within 4° regardless of the date and your latitude.
+
+That's the theory, anyway, but I see up to 17° in practice. Still workin' out why.
+{:.tangent}
 
 A sundial likewise tracks the passage of time within 16 minutes, which is
 equivalent to 4° of apparent angular movement of the sun. That error is due to
