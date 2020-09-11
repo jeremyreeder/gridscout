@@ -13,8 +13,8 @@ You probably already know some basic solar navigation:
 
 But these are only rough approximations of the truth. And they can be plenty
 misleading, so let's just call them lies. Here I present _actual_ truths about
-the position of the sun and a better way to find directions. No equipment
-necessary except an analog watch.
+the position of the sun and a sometimes better way to find directions. No
+equipment necessary except an analog watch.
 
 ### Lie #1: The sun rises in the east and sets in the west.
 
@@ -47,21 +47,57 @@ noon. And in the tropics, it alternates.
 
 When the sun is visible and you're at least a few degrees of latitude away from
 the sun's path, the hour hand of an analog watch comes in handy as a compass.
+<<<<<<< HEAD
+It follows the actual path of the sun pretty closely at moderate to high
+latitudes.
+
+| Solar latitude* | 6:00 error (±4°**) | 9:00 error (±4°)  | 12:00 error |
+|-----------------|--------------------|-------------------|-------------|
+| 5°              | 0°                 | 40°               | 0°          |
+| 10°             | 0°                 | 35°               | 0°          |
+| 15°             | 0°                 | 30°               | 0°          |
+| 20°             | 0°                 | 26°               | 0°          |
+| 25°             | 0°                 | 22°               | 0°          |
+| 30°             | 0°                 | 18°               | 0°          |
+| 35°             | 0°                 | 15°               | 0°          |
+| 40°             | 0°                 | 12°               | 0°          |
+| 45°             | 0°                 | 10°               | 0°          |
+| 50°             | 0°                 | 8°                | 0°          |
+| 55°             | 0°                 | 6°                | 0°          |
+| 60°             | 0°                 | 4°                | 0°          |
+| 65°             | 0°                 | 3°                | 0°          |
+| 70°             | 0°                 | 2°                | 0°          |
+| 75°             | 0°                 | 1°                | 0°          |
+| 80°             | 0°                 | 0°                | 0°          |
+
+\* These latitudes refer to distance from the sun's path, not from the equator.
+Your solar latitude at the summer solstice is 23° less than your equatorial
+latitude, making your reverse sundial less accurate. Your solar latitude at the
+winter solstice is likewise 23° greater than your equatorial latitude, making
+it _more_ accurate.
+=======
 It follows the actual path of the sun pretty closely, so you can use it to find
 directions within 4° regardless of the date and your latitude.
 
 That's the theory, anyway. But in practice I see up to 17° of error. Still workin' out why.
+>>>>>>> f71101a5ea6755f807eb54576c1a60071996fd7c
 {:.tangent}
 
-A sundial likewise tracks the passage of time within 16 minutes, which is
-equivalent to 4° of apparent angular movement of the sun. That error is due to
-Earth having a slightly elliptical orbit rather than a perfectly round one.
+\** The sundials on which this navigation method is based track the passage of time
+within 16 minutes, which is equivalent to 4° of apparent angular movement of
+the sun. This error is due to Earth having a slightly elliptical orbit rather
+than a perfectly round one.
 {:.tangent}
 
+<<<<<<< HEAD
+These calculations come from the [North American Sundial
+Society][calculations], but of course I've repurposed them.
+=======
 <!--
 Note that [Rob Bicevskis][bicevskis-dissent] has a lower opinion on the
 accuracy of watch-based solar navigation. I will attempt to reproduce and make
 sense of his less favorable results.
+>>>>>>> f71101a5ea6755f807eb54576c1a60071996fd7c
 {:.tangent}
 -->
 
@@ -89,4 +125,4 @@ If you're not sure when your local solar noon is, then look it up. Or at least, 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
 
-[bicevskis-dissent]: http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
+[calculations]:      https://sundials.org/index.php/teachers-corner/sundial-mathematics
