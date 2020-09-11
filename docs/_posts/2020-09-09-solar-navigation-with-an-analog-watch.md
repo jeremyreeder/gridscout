@@ -61,8 +61,8 @@ sense of his less favorable results.
 {:.tangent}
 
 ### Navigating with a 12-hour dial
-- When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's local solar noon position.
-- When you're south of the sun's path and the local solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
+- When you're north of the sun's path and the hour hand of a 12-hour watch dial on a horizontal plane is pointed at the sun, south is halfway between it and the dial's solar noon position.
+- When you're south of the sun's path and the solar noon position on a 12-hour watch dial is pointed at the sun, north is halfway between it and the hour hand.
 - When the sun is high in the sky, it helps to hold a small pole (such as a pen) vertically next to your watch and align the hour hand with its shadow.
 - NOTE: Navigation is easier with a _24-hour_ dial.
 
@@ -70,8 +70,8 @@ If you're not sure when your local solar noon is, then look it up. Or at least, 
 {:.tangent}
 
 ### Navigating with a 24-hour dial
-- When you're north of the sun's path and the hour hand of a 24-hour watch dial on a horizontal plane is pointed at the sun, the dial's local solar noon position points approximately southward.
-- When you're south of the sun's path and the local solar noon position of a 24-hour watch dial on a horizontal plane is pointed at the sun, the hour hand points approximately northward.
+- When you're north of the sun's path and the hour hand of a 24-hour watch dial on a horizontal plane is pointed at the sun, the dial's solar noon position points approximately southward.
+- When you're south of the sun's path and the solar noon position of a 24-hour watch dial on a horizontal plane is pointed at the sun, the hour hand points approximately northward.
 - The hour hand on a 24-hour dial revolves only once per day, matching the sun. Hence these simplified methods that don't require bisection of angles.
 - These methods are easiest with daytime at the top of the dial and nighttime at the bottom, as is common in Russian military watches.
 
