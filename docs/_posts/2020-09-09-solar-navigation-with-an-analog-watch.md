@@ -84,8 +84,8 @@ where you are. Maximum error, however, occurs at odd multiples of 3 hours. The
 magnitude of those peaks depends on how close you are to the sun's path, as
 shown in the following table.
 
-|                            | DIRECTIONAL ERROR                    |
-| Solar latitude<sup>*</sup> | 6 hours from noon (±4°<sup>**</sup>) | 3 hours from noon (±4°)  | At solar noon | At solar midnight |
+|                            | DIRECTIONAL ERROR<sup>1</sup> |
+| Solar latitude<sup>2</sup> | 6 hours from noon (±4°<sup>3</sup>) | 3 hours from noon (±4°<sup>3</sup>)  | At solar noon | At solar midnight |
 |----------------------------|--------------------------------------|--------------------------|---------------|-------------------|
 | 5°                         | 0°                                   | 40°                      | 0°            |
 | 10°                        | 0°                                   | 35°                      | 0°            |
@@ -104,23 +104,24 @@ shown in the following table.
 | 75°                        | 0°                                   | 1°                       | 0°            | 0°                |
 | 80°                        | 0°                                   | 0°                       | 0°            | 0°                |
 
-Note that directional error is eastward in the morning and westward in the afternoon.
+<sup>1</sup>
+These calculations are derived from calculations provided by the [North
+American Sundial Society][calculations] for marking horizontal sundials at
+various latitudes.
+All error is eastward in the morning and westward in the afternoon.
 {:.tangent}
 
-\* Solar latitude (which I just made up) refers to distance from the sun's
-path, not from the equator. Your solar latitude at the summer solstice is 23°
+<sup>2</sup>
+_Solar latitude_ (a term that I just made up) refers to distance from the sun's
+path, as opposed to from the equator. Your solar latitude at the summer solstice is 23°
 less than your equatorial latitude, making your reverse sundial less accurate.
 Your solar latitude at the winter solstice is likewise 23° greater than your
 equatorial latitude, making it _more_ accurate.
 {:.tangent}
 
-\** Earth's orbit is slightly elliptical, so the sun's apparent movement varies
+<sup>3</sup>
+Earth's orbit is slightly elliptical, so the sun's apparent movement varies
 by up to 4° from what you'd see with a perfectly round orbit.
-{:.tangent}
-
-These calculations are derived from calculations provided by the [North
-American Sundial Society][calculations] for marking horizontal sundials at
-various latitudes.
 {:.tangent}
 
 DISCLAIMER: I'm new to this. I think I've got it right, but time will tell.
