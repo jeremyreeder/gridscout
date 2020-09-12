@@ -85,7 +85,7 @@ magnitude of those peaks depends on how close you are to the sun's path, as
 shown in the following table.
 
 |                            | DIRECTIONAL ERROR<sup>1</sup> |
-| Solar latitude<sup>2</sup> | 6 hours from noon (±4°)<sup>3</sup> | 3 hours from noon (±4°)<sup>3</sup>  | At solar noon | At solar midnight |
+| Solar latitude<sup>2</sup> | 6 hours from noon (±4°)<sup>3</sup> | 3 hours from noon (±2°)<sup>3</sup>  | At solar noon | At solar midnight |
 |----------------------------|--------------------------------------|--------------------------|---------------|-------------------|
 | 5°                         | 0°                                   | 40°                      | 0°            |
 | 10°                        | 0°                                   | 35°                      | 0°            |
@@ -121,7 +121,7 @@ equatorial latitude, making it _more_ accurate.
 
 <sup>3</sup>
 Earth's orbit is slightly elliptical, so the sun's apparent movement varies
-by up to 4° from what you'd see with a perfectly round orbit. For this reason, error can be up to 4° eastward or westward of the values shown in this table.
+a bit from what you'd see with a perfectly round orbit.
 {:.tangent}
 
 DISCLAIMER: I'm new to this. I think I've got it right, but time will tell.
