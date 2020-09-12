@@ -104,6 +104,9 @@ shown in the following table.
 | 75°                        | 0°                                   | 1°                       | 0°            | 0°                |
 | 80°                        | 0°                                   | 0°                       | 0°            | 0°                |
 
+Note that directional error is eastward in the morning and westward in the afternoon.
+{:.tangent}
+
 \* Solar latitude (which I just made up) refers to distance from the sun's
 path, not from the equator. Your solar latitude at the summer solstice is 23°
 less than your equatorial latitude, making your reverse sundial less accurate.
