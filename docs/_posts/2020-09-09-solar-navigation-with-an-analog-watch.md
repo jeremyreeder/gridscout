@@ -47,7 +47,7 @@ noon. And in the tropics, it alternates.
 
 ## How 'bout a reverse sundial?
 
-WARNING: From this point forward, you're reading what I _think_ is the truth. If my current understanding turns out to contain inaccuracies, then I will correct them as my understanding progresses.
+WARNING: From this point forward, you're reading what I _think_ is the truth. If my current understanding turns out to contain inaccuracies, then I will correct them as my understanding progresses. What I know for sure is that the oversimplified pseudotruths that I've been fed on this topic have proven intolerably bogus.
 {:.tangent}
 
 The hour hand of an analog watch follows the apparent path of the sun pretty
