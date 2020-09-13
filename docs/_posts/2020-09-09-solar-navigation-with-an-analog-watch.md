@@ -77,7 +77,7 @@ daylight saving time! Instead, use 1:00 in summertime to compensate for DST.
 
 ### How accurate is watch-based navigation?
 
-These methods have no error at solar noon, nor at solar midnight.
+These methods have no error at solar noon, nor at solar midnight. Any error _before_ solar noon is always eastward. Any error _after_ solar noon is always westward.
 
 Six hours before or after solar noon, I've observed an error at the equator equal to the declination of the sun. It decreases as my latitude increases. So this error is worst at either solstice, when it's about 23° at the equator or 17° in southern Idaho.
 
