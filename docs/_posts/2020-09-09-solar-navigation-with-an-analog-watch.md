@@ -81,7 +81,7 @@ These methods have no error at solar noon, nor at solar midnight.
 
 Six hours before or after solar noon, I've observed that the error at the equator is equal to the declination of the sun and that it decreases as my latitude increases. So this error is worst at either solstice, when it's about 23° at the equator or 17° in southern Idaho.
 
-Error at odd intervals of 3 hours from solar noon seems to be highest when the declination of the sun approaches your latitude. Outside of the tropics, that means that it peaks at the summer solstice. I'm still working out how much error to expect at these intervals.
+Error at odd intervals of 3 hours from solar noon seems to be at its greatest when the declination of the sun approaches your latitude. Outside of the tropics, that means that it peaks at the summer solstice. I'm still working out how much error to expect at these intervals.
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
