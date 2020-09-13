@@ -47,9 +47,6 @@ noon. And in the tropics, it alternates.
 
 ## How 'bout a reverse sundial?
 
-WARNING: From this point forward, you're reading what I _think_ is the truth. If my current understanding turns out to contain inaccuracies, then I will correct them as my understanding progresses. What I know for sure is that the oversimplified pseudotruths that I've been fed on this topic have proven intolerably bogus.
-{:.tangent}
-
 The hour hand of an analog watch follows the apparent path of the sun pretty
 closely at moderate to high latitudes. So when the sun is visible and you're at
 least 20° of latitude away from the sun's path, it comes in pretty handy as a
@@ -79,6 +76,9 @@ daylight saving time! Instead, use 1:00 in summertime to compensate for DST.
 </div>
 
 ### How accurate is watch-based navigation?
+
+WARNING: From this point forward, you're reading what I _think_ is the truth. If my current understanding turns out to contain inaccuracies, then I will correct them as my understanding progresses. What I know for sure is that the oversimplified pseudotruths that I've been fed on this topic have proven intolerably bogus.
+{:.tangent}
 
 It's best for summertime polar expeditions, but it can be plenty useful
 elsewhere as well. Any directional error produced by using your watch as a
