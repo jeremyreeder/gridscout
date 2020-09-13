@@ -47,6 +47,9 @@ noon. And in the tropics, it alternates.
 
 ## How 'bout a reverse sundial?
 
+WARNING: From this point forward, you're reading what I _think_ is the truth. If my current understanding turns out to contain inaccuracies, then I will correct them as my understanding progresses.
+{:.tangent}
+
 The hour hand of an analog watch follows the apparent path of the sun pretty
 closely at moderate to high latitudes. So when the sun is visible and you're at
 least 20° of latitude away from the sun's path, it comes in pretty handy as a
