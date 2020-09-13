@@ -87,5 +87,8 @@ Error at odd intervals of 3 hours from solar noon seems to be at its greatest wh
 
 Watch-based navigation seems particularly well suited for a summertime polar expedition, where the sun's always up and error is minimal. Who wants to come with me?
 
+DISCLAIMER: My understanding may be imperfect. I'm fairly new at this.
+{:.tangent}
+
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
