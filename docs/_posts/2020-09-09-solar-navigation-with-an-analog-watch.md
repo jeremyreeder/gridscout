@@ -77,60 +77,11 @@ daylight saving time! Instead, use 1:00 in summertime to compensate for DST.
 
 ### How accurate is watch-based navigation?
 
-WARNING: From this point forward, you're reading what I _think_ is the truth. If my current understanding turns out to contain inaccuracies, then I will correct them as my understanding progresses. What I know for sure is that the oversimplified pseudotruths that I've been fed on this topic have proven intolerably bogus.
-{:.tangent}
+These methods have no error at solar noon, nor at solar midnight.
 
-It's best for summertime polar expeditions, but it can be plenty useful
-elsewhere as well. Any directional error produced by using your watch as a
-reverse sundial is minimal at intervals of 6 hours from solar noon, no matter
-where you are. Maximum error, however, occurs at odd multiples of 3 hours. The
-magnitude of those peaks depends on how close you are to the sun's path, as
-shown in the following table.
+Six hours before or after solar noon, I've observed that the error at the equator is equal to the declination of the sun and that it decreases as my latitude increases. So this error is worst at either solstice, when it's about 23° at the equator 17° at my home.
 
-|                            | DIRECTIONAL ERROR<sup>1</sup> |
-| Solar latitude<sup>2</sup> | 6 hours from noon (±4°)<sup>3</sup> | 3 hours from noon (±2°)<sup>3</sup>  | At solar noon | At solar midnight |
-|----------------------------|--------------------------------------|--------------------------|---------------|-------------------|
-| 5°                         | 0°                                   | 40°                      | 0°            |
-| 10°                        | 0°                                   | 35°                      | 0°            |
-| 15°                        | 0°                                   | 30°                      | 0°            |
-| 20°                        | 0°                                   | 26°                      | 0°            |
-| 25°                        | 0°                                   | 22°                      | 0°            |
-| 30°                        | 0°                                   | 18°                      | 0°            |
-| 35°                        | 0°                                   | 15°                      | 0°            |
-| 40°                        | 0°                                   | 12°                      | 0°            |
-| 45°                        | 0°                                   | 10°                      | 0°            | 0°                |
-| 50°                        | 0°                                   | 8°                       | 0°            | 0°                |
-| 55°                        | 0°                                   | 6°                       | 0°            | 0°                |
-| 60°                        | 0°                                   | 4°                       | 0°            | 0°                |
-| 65°                        | 0°                                   | 3°                       | 0°            | 0°                |
-| 70°                        | 0°                                   | 2°                       | 0°            | 0°                |
-| 75°                        | 0°                                   | 1°                       | 0°            | 0°                |
-| 80°                        | 0°                                   | 0°                       | 0°            | 0°                |
-
-<sup>1</sup>
-These calculations are derived from calculations provided by the [North
-American Sundial Society][calculations] for marking horizontal sundials at
-various latitudes.
-All error is eastward in the morning and westward in the afternoon.
-{:.tangent}
-
-<sup>2</sup>
-_Solar latitude_ (a term that I just made up) refers to distance from the sun's
-path, as opposed to from the equator. Your solar latitude at the summer solstice is 23°
-less than your equatorial latitude, making your reverse sundial less accurate.
-Your solar latitude at the winter solstice is likewise 23° greater than your
-equatorial latitude, making it _more_ accurate.
-{:.tangent}
-
-<sup>3</sup>
-Earth's orbit is slightly elliptical, so the sun's apparent movement varies
-a bit from what you'd see with a perfectly round orbit.
-{:.tangent}
-
-DISCLAIMER: I'm new to this. I think I've got it right, but time will tell.
-I'll be testing it through the upcoming equinox and the next two solstices.
+Error at odd intervals of 3 hours from solar noon seems to be highest when the declination of the sun approaches your latitude. Outside of the tropics, that means that it peaks at the summer solstice. I'm still working out how much error to expect at these intervals.
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
-
-[calculations]:      https://sundials.org/index.php/teachers-corner/sundial-mathematics
