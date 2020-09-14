@@ -76,7 +76,9 @@ allows you to navigate without removing the watch from your wrist.
 <sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
 {:.tangent .indent}
 
-<sup>2</sup> The shadow of a knife blade can help you align the hand without looking at the sun.
+<sup>2</sup> When the sun is north of the equator, you can use a knife blade to
+cast a shadow on the hour hand. So you can aim your watch accurately without
+looking at the sun.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
@@ -87,7 +89,9 @@ allows you to navigate without removing the watch from your wrist.
 <sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
 {:.tangent .indent}
 
-<sup>2</sup> The shadow of a knife blade can help you align the hand without looking at the sun.
+<sup>2</sup> When the sun is south of the equator, you can use a knife blade to
+cast a shadow on the solar-noon position. So you can aim your watch accurately
+without looking at the sun.
 {:.tangent .indent}
 
 ### Navigating with a 12-hour dial
@@ -100,7 +104,9 @@ allows you to navigate without removing the watch from your wrist.
 <sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
 {:.tangent .indent}
 
-<sup>2</sup> The shadow of a knife blade can help you align the hand without looking at the sun.
+<sup>2</sup> When the sun is north of the equator, you can use a knife blade to
+cast a shadow on the hour hand. So you can aim your watch accurately without
+looking at the sun.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
@@ -111,13 +117,16 @@ allows you to navigate without removing the watch from your wrist.
 <sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
 {:.tangent .indent}
 
-<sup>2</sup> The shadow of a knife blade can help you align the hand without looking at the sun.
+<sup>2</sup> When the sun is south of the equator, you can use a knife blade to
+cast a shadow on the solar-noon position. So you can aim your watch accurately
+without looking at the sun.
 {:.tangent .indent}
 
 ### How accurate is watch-based navigation?
 
-The accuracy of these methods depends primarily on your identification of local
-solar noon and the alignment of your watch dial with the equatorial plane.
+The accuracy of this _reverse equatorial sundial_ depends primarily on your
+identification of local solar noon and the alignment of your watch dial with
+the equatorial plane.
 
 #### Solar noon error
 
@@ -132,10 +141,20 @@ time.
 
 #### Equatorial-alignment error
 
-Holding the watch horizontally like an amateur can add up to 45° of error at
+Holding your watch horizontally like an amateur can add up to 45° of error at
 the equator, or 17° in southern Idaho. This error peaks westward at 09:00 and
 eastward at 15:00 solar time. But if you can hold it within 10° of correct
 equatorial alignment, then this error shrinks to just 3° at its peaks.
 
+### Where to, then?
+
+Although useful anywhere with sun, watch-based navigation is _particularly_
+well suited for a summertime polar expedition. The sun is up all day, the
+equatorial plane is conveniently near horizontal, and the sun is on the right
+side of it to cast a shadow on your dial. Handy, since magnetic compasses are
+[useless][compass-failure] inside the polar circles.
+
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
+
+[compass-failure]: https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
