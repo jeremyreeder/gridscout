@@ -92,8 +92,7 @@ Error at odd intervals of 3 hours from solar noon seems to be at its greatest
 when the declination of the sun approaches your latitude. At its worst, this
 means a 45° error in the tropics on those days when the sun passes directly
 over your head. Outside of the tropics, it means a milder peak at the summer
-solstice. I'm still working out exactly how much error I can expect at a given
-latitudinal distance from the sun's path at these intervals.
+solstice.
 
 error<sub>0900</sub> = [sin<sup>-1</sup>(90-lat+dec<sub>sun</sub>)] ÷ 2 ?
 
