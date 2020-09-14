@@ -94,7 +94,7 @@ means a 45° error in the tropics on those days when the sun passes directly
 over your head. Outside of the tropics, it means a milder peak at the summer
 solstice.
 
-error<sub>0900</sub> = [sin<sup>-1</sup>(90-lat+dec<sub>sun</sub>)] ÷ 2 ?
+error<sub>0900</sub> = [sin<sup>-1</sup>( (90°-lat+dec<sub>sun</sub>) ÷ 90°)] ÷ 2 ?
 
 Watch-based navigation seems particularly well suited for a summertime polar
 expedition, where the sun's always up and error is minimal. Who wants to come
