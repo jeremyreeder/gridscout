@@ -48,13 +48,17 @@ noon. And in the tropics, it alternates.
 ## How 'bout a reverse sundial?
 
 The hour hand of a 24-hour analog watch follows the apparent path of the sun,
-so it comes in pretty handy as a compass. With the addition of an
-angle-bisection step, even a 12-hour watch will do.
+so it comes in pretty handy as a compass. With a little trickery, even a
+12-hour watch will do.
 
 First you'll have to identify your local solar noon. Calculate it or look it
 up. Use 12:00 as a rough approximation if you must, or 13:00 during daylight
 saving time.
-{:.tangent}
+
+Next, let's use your watch as an equatorial sundial and align it with the
+current time to find the north-south line. Whereas sundials usually aligned
+with the north-south line and then used to determine the current time, they
+work equally well in reverse.
 
 ### Navigating with a 24-hour dial
 
