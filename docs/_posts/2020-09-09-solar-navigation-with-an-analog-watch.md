@@ -97,24 +97,26 @@ allows you to navigate without removing the watch from your wrist.
 
 ### How accurate is watch-based navigation?
 
-Accuracy of these methods depends on the following:
+The accuracy of these methods depends primarily on your identification of local
+solar noon and the alignment of your watch dial with the equatorial plane.
 
-- Identification of local solar noon
+#### Solar noon error
 
-Using civil noon rather than solar noon can introduce up to 12° of error, or 27°
-during daylight saving time.
-{:.tangent .indent}
+Using civil noon rather than solar noon can introduce up to 12° of
+error<sup>*</sup>. You can blame Earth's elliptic orbit for a third of that.
+The rest comes from your unknown longitudinal distance from the center of your
+time zone.
 
-- Alignment of the watch with the equatorial plane
+<sup>*</sup> Make that 27° if you forget to compensate for daylight saving
+time.
+{:.tangent}
 
-Holding the watch horizontally adds up to 45° of error at the equator, or 17°
-in southern Idaho. This error peaks westward at 09:00 and eastward at 15:00
-solar time.
-{:.tangent .indent}
+#### Equatorial-alignment error
 
-Watch-based navigation seems particularly well suited for a summertime polar
-expedition, where the sun's always up and the equatorial plane is conveniently
-aligned pretty well with the horizontal plane. Who wants to come with me?
+Holding the watch horizontally like an amateur can add up to 45° of error at
+the equator, or 17° in southern Idaho. This error peaks westward at 09:00 and
+eastward at 15:00 solar time. But if you can hold it within 10° of correct
+equatorial alignment, then you can reduce this error to just 3°.
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
