@@ -125,7 +125,7 @@ time.
 Holding the watch horizontally like an amateur can add up to 45° of error at
 the equator, or 17° in southern Idaho. This error peaks westward at 09:00 and
 eastward at 15:00 solar time. But if you can hold it within 10° of correct
-equatorial alignment, then you can reduce this error to just 3°.
+equatorial alignment, then this error shrinks to just 3° at its peaks.
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
