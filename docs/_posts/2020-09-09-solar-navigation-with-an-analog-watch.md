@@ -59,6 +59,16 @@ saving time.
 
 ### Navigating with a 24-hour dial
 
+It's easiest with daytime at the top of the dial and nighttime at the bottom,
+as is common in Russian military watches. This arrangement generally allows you
+to navigate without removing the watch from your wrist.
+
+<div class="gallery" markdown="1">
+![][russian-watch-photo]
+*Raketa Sputnik -- a 24-hour watch from St Petersburg*
+</div>
+
+
 #### (when north of the sun's path)
 1. Align the face of the dial with the equatorial plane, with the solar noon position at the top.<sup>*</sup>
 2. Rotate your body till the hour hand points directly at the sun.
@@ -66,17 +76,6 @@ saving time.
 
 <sup>*</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
 {:.tangent .indent}
-
-This method is easiest with daytime at the top of the dial and nighttime at the
-bottom, as is common in Russian military watches. This arrangement generally
-allows you to navigate without removing the watch from your wrist.
-{:.indent}
-
-<div class="gallery" markdown="1">
-![][russian-watch-photo]
-*Raketa Sputnik -- a 24-hour watch from St Petersburg*
-{:.indent}
-</div>
 
 #### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane, with the hour hand at the top.
