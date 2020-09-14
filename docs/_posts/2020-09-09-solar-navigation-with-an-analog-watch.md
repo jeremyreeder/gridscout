@@ -51,25 +51,23 @@ The hour hand of a 24-hour analog watch follows the apparent path of the sun,
 so it comes in pretty handy as a compass. With the addition of an
 angle-bisection step, even a 12-hour watch will do.
 
-### Navigating with a 24-hour dial
-
-- These methods are easiest with daytime at the top of the dial and nighttime at the bottom, as is common in Russian military watches.
-
-#### (when north of the sun's path)
-
-1. Align the face of the dial with the equatorial plane, with the solar noon position at the top.
-
-Start vertical and tilt the dial away from you by an angle equal to your latitude.
+First you'll have to identify your local solar noon. Calculate it or look it
+up. Use 12:00 as a rough approximation if you must, or 13:00 during daylight
+saving time.
 {:.tangent}
 
-2. Rotate your body till the hour hand is pointed directly at the sun.
 
+### Navigating with a 24-hour dial
+
+#### (when north of the sun's path)
+1. Align the face of the dial with the equatorial plane, with the solar noon position at the top.<sup>*</sup>
+2. Rotate your body till the hour hand points directly at the sun.
 3. The dial's solar noon position now points southward.
 
-#### (when south of the sun's path)
-1. Align the face of the dial with the equatorial plane, with the hour hand at the top.
-2. Rotate your body till the solar noon position is pointed directly at the sun.
-3. The hour hand now points southward.
+<sup>*</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+{:.tangent}
+
+This method is easiest with daytime at the top of the dial and nighttime at the bottom, as is common in Russian military watches.
 
 <div class="gallery" markdown="1">
 ![][russian-watch-photo]
@@ -77,16 +75,22 @@ Start vertical and tilt the dial away from you by an angle equal to your latitud
 {:.indent}
 </div>
 
-If you're not sure when your local solar noon is, then calculate it or look it
-up. Or at least, for crying out loud, don't use the 12:00 position during
-daylight saving time! Instead, use 13:00 in summertime to compensate for DST.
-{:.tangent}
+#### (when south of the sun's path)
+1. Align the face of the dial with the equatorial plane, with the hour hand at the top.
+2. Rotate your body till the solar noon position points directly at the sun.
+3. The hour hand now points southward.
 
 ### Navigating with a 12-hour dial
-- Align the face of the dial with the equatorial plane.
-- When you're north of the sun's path and the hour hand is pointed at the sun, south is halfway between it and the dial's solar noon position.
-- When you're south of the sun's path and the solar noon position is pointed at the sun, north is halfway between it and the hour hand.
-- NOTE: Navigation is easier with a _24-hour_ dial.
+
+#### (when north of the sun's path)
+1. Align the face of the dial with the equatorial plane, with the solar noon position at the top.
+2. Rotate your body till the sun is halfway between the hour hand and solar noon.
+3. The dial's solar noon position now points southward.
+
+#### (when south of the sun's path)
+1. Align the face of the dial with the equatorial plane, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
+2. Rotate your body till the solar-noon position points directly at the sun.
+3. The top of the dial now points northward.
 
 ### How accurate is watch-based navigation?
 
@@ -94,7 +98,7 @@ Accuracy of these methods depends on the following:
 
 - Identification of local solar noon
 
-Using civil noon rather than solar noon can introduce up to 8° of error, or 23°
+Using civil noon rather than solar noon can introduce up to 12° of error, or 27°
 during daylight saving time.
 {:.tangent .indent}
 
