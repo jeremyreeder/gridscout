@@ -71,7 +71,7 @@ allows you to navigate without removing the watch from your wrist.
 
 
 #### (when north of the sun's path)
-1. Align the face of the dial with the equatorial plane, with the solar noon position at the top.<sup>*</sup>
+1. Align the face of the dial with the equatorial plane<sup>*</sup>, with the solar noon position at the top.
 2. Rotate your body till the hour hand points directly at the sun.
 3. The dial's solar noon position now points southward.
 
@@ -79,21 +79,30 @@ allows you to navigate without removing the watch from your wrist.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
-1. Align the face of the dial with the equatorial plane, with the hour hand at the top.
+1. Align the face of the dial with the equatorial plane<sup>*</sup>, with the hour hand at the top.
 2. Rotate your body till the solar noon position points directly at the sun.
 3. The hour hand now points southward.
+
+<sup>*</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+{:.tangent .indent}
 
 ### Navigating with a 12-hour dial
 
 #### (when north of the sun's path)
-1. Align the face of the dial with the equatorial plane, with the solar noon position at the top.
+1. Align the face of the dial with the equatorial plane<sup>*</sup>, with the solar noon position at the top.
 2. Rotate your body till the sun is halfway between the hour hand and solar noon.
 3. The dial's solar noon position now points southward.
 
+<sup>*</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+{:.tangent .indent}
+
 #### (when south of the sun's path)
-1. Align the face of the dial with the equatorial plane, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
+1. Align the face of the dial with the equatorial plane<sup>*</sup>, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
 2. Rotate your body till the solar-noon position points directly at the sun.
 3. The top of the dial now points northward.
+
+<sup>*</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+{:.tangent .indent}
 
 ### How accurate is watch-based navigation?
 
