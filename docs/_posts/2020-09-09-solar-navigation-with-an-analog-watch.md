@@ -56,7 +56,7 @@ up. Use 12:00 as a rough approximation if you must, or 13:00 during daylight
 saving time.
 
 Next, let's use your watch as an equatorial sundial and align it with the
-current time to find the north-south line. Whereas sundials usually aligned
+current time to find the north-south line. Whereas sundials are usually aligned
 with the north-south line and then used to determine the current time, they
 work equally well in reverse.
 
