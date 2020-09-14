@@ -59,13 +59,14 @@ saving time.
 
 ### Navigating with a 24-hour dial
 
-It's easiest with daytime at the top of the dial and nighttime at the bottom,
-as is common in Russian military watches. This arrangement generally allows you
-to navigate without removing the watch from your wrist.
+Note that it's easiest with daytime at the top of the dial and nighttime at the
+bottom, as is common in Russian military watches. This arrangement generally
+allows you to navigate without removing the watch from your wrist.
 
 <div class="gallery" markdown="1">
 ![][russian-watch-photo]
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
+{:.indent}
 </div>
 
 
