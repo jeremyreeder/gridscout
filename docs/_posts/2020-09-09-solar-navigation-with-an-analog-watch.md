@@ -65,9 +65,12 @@ saving time.
 3. The dial's solar noon position now points southward.
 
 <sup>*</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
-{:.tangent}
+{:.tangent .indent}
 
-This method is easiest with daytime at the top of the dial and nighttime at the bottom, as is common in Russian military watches.
+This method is easiest with daytime at the top of the dial and nighttime at the
+bottom, as is common in Russian military watches. This arrangement generally
+allows you to navigate without removing the watch from your wrist.
+{:.indent}
 
 <div class="gallery" markdown="1">
 ![][russian-watch-photo]
