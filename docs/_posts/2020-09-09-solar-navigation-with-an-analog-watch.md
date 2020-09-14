@@ -77,15 +77,27 @@ daylight saving time! Instead, use 1:00 in summertime to compensate for DST.
 
 ### How accurate is watch-based navigation?
 
-These methods have no error at solar noon, nor at solar midnight. Any error _before_ solar noon is always eastward. Any error _after_ solar noon is always westward.
+These methods have no error at solar noon, nor at solar midnight. Any error
+_before_ solar noon is always eastward. Any error _after_ solar noon is always
+westward.
 
-Six hours before or after solar noon, I've observed an error at the equator equal to the declination of the sun. It decreases as my latitude increases. So this error is worst at either solstice, when it's about 23° at the equator or 17° in southern Idaho.
+Six hours before or after solar noon, I've observed an error at the equator
+equal to the declination of the sun. It decreases as my latitude increases. So
+this error is worst at either solstice, when it's about 23° at the equator or
+17° in southern Idaho.
 
 error<sub>0600</sub> = cos(lat) × dec<sub>sun</sub> ?
 
-Error at odd intervals of 3 hours from solar noon seems to be at its greatest when the declination of the sun approaches your latitude. At its worst, this means a 45° error in the tropics on those days when the sun passes directly over your head. Outside of the tropics, it means a milder peak at the summer solstice. I'm still working out exactly how much error I can expect at a given latitudinal distance from the sun's path at these intervals.
+Error at odd intervals of 3 hours from solar noon seems to be at its greatest
+when the declination of the sun approaches your latitude. At its worst, this
+means a 45° error in the tropics on those days when the sun passes directly
+over your head. Outside of the tropics, it means a milder peak at the summer
+solstice. I'm still working out exactly how much error I can expect at a given
+latitudinal distance from the sun's path at these intervals.
 
-Watch-based navigation seems particularly well suited for a summertime polar expedition, where the sun's always up and error is minimal. Who wants to come with me?
+Watch-based navigation seems particularly well suited for a summertime polar
+expedition, where the sun's always up and error is minimal. Who wants to come
+with me?
 
 DISCLAIMER: My understanding may be imperfect. I'm fairly new at this.
 {:.tangent}
