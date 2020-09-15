@@ -126,7 +126,7 @@ need an excuse to go watch-shopping, keep that in mind.
 cast a shadow on the dial as an alignment guide.
 {:.tangent .indent}
 
-	#### (when south of the sun's path)
+#### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>a</sup>, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
 2. Rotate your body till the solar-noon position points at the sun.<sup>d</sup>
 3. The top of the dial now points northward.
