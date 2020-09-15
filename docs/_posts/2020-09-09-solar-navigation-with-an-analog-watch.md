@@ -13,14 +13,15 @@ TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane,
 makes a fantastic solar compass.
 {:.tangent .indent}
 
-You probably already know some basic solar navigation:
+You probably already know some basic solar navigation, but these are only
+rough approximations of the truth.
 - The sun rises in the east and sets in the west.
 - The sun is directly south at noon.
 
-But these are only rough approximations of the truth. And they can be plenty
-misleading, so let's just call them LIES. Here I present _actual_ truths about
-the position of the sun and a sometimes better way to find directions. No
-equipment necessary except an analog watch.
+These approximations can be plenty misleading, so let's just call them LIES.
+Here I present _actual_ truths about the position of the sun and a far better
+way to use it to find directions. No equipment necessary except an analog
+watch and a pocket knife.
 
 ### Lie #1: The sun rises in the east and sets in the west.
 
