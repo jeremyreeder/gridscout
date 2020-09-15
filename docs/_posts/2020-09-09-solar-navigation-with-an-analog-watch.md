@@ -9,6 +9,9 @@ redirect_from:
   - /reverse-sundial
 ---
 
+TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane, makes a fantastic solar compass.
+{:.tangent}
+
 You probably already know some basic solar navigation:
 - The sun rises in the east and sets in the west.
 - The sun is directly south at noon.
