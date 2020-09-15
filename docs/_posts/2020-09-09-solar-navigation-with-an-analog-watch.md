@@ -150,7 +150,7 @@ the equator, or 17° in southern Idaho. This error peaks westward at 09:00 and
 eastward at 15:00 solar time. But if you can hold it within 10° of correct
 equatorial alignment, then this error shrinks to just 3° at its peaks.
 
-<sup>*</sup> Most instruction on this topic assumes that the equally spaced hour marks on a watch dial are suitable for a horizontal sundial. This assumption is true only at the north and south poles. To my knowledge I'm the first person to use a watch as an _equatorial_ sundial, but certainly not the first to reverse a sundial's function.
+<sup>*</sup> Most instruction on this topic assumes that the equally spaced hour marks on a watch dial are suitable for a horizontal sundial. This assumption is true only at the north and south poles. To my knowledge I'm the first person to advocate navigating with a watch as a reverse _equatorial_ sundial.
 {:.tangent}
 
 ### Where to, then?
