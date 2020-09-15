@@ -9,7 +9,8 @@ redirect_from:
   - /reverse-sundial
 ---
 
-TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane, makes a fantastic solar compass.
+TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane,
+makes a fantastic solar compass.
 {:.tangent .indent}
 
 You probably already know some basic solar navigation:
@@ -80,7 +81,8 @@ allows you to navigate without removing the watch from your wrist.
 2. Rotate your body till the hour hand points directly at the sun.<sup>2</sup>
 3. The dial's solar noon position now points southward.
 
-<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
+to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is north of the equator, you can use a knife blade to
@@ -93,7 +95,8 @@ looking at the sun.
 2. Rotate your body till the solar noon position points directly at the sun.<sup>2</sup>
 3. The hour hand now points southward.
 
-<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
+to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is south of the equator, you can use a knife blade to
@@ -111,7 +114,8 @@ Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or ne
 2. Rotate your body till the sun is halfway between the hour hand and solar noon.<sup>2</sup>
 3. The dial's solar noon position now points southward.
 
-<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
+to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is north of the equator, you can use a knife blade to
@@ -124,7 +128,8 @@ looking at the sun.
 2. Rotate your body till the solar-noon position points directly at the sun.<sup>2</sup>
 3. The top of the dial now points northward.
 
-<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal to your latitude.
+<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
+to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is south of the equator, you can use a knife blade to
@@ -151,12 +156,15 @@ time.
 
 #### Equatorial-alignment error
 
-Holding your watch horizontally<sup>*</sup> like an amateur can add up to 45° of error at
-the equator (or 17° in southern Idaho). This error peaks westward at 09:00 and
-eastward at 15:00 solar time. But if you can hold it within 10° of correct
-equatorial alignment, a goal easily met by eyeball, then your misalignment-induced error shrinks to just 3° at its peaks.
+Holding your watch horizontally<sup>*</sup> like an amateur can add up to 45°
+of error at the equator (or 17° in southern Idaho). This error peaks westward
+at 09:00 and eastward at 15:00 solar time. But if you can hold it within 10° of
+correct equatorial alignment, a goal easily met by eyeball, then your
+misalignment-induced error shrinks to just 3° at its peaks.
 
-<sup>*</sup> Most instruction on this topic assumes that the equally spaced marks on a watch dial are suitable for a horizontal sundial. I'm right and they're wrong.
+<sup>*</sup> Most instruction on this topic assumes that the equally spaced
+marks on a watch dial are suitable for a horizontal sundial. I'm right and
+they're wrong.
 {:.tangent}
 
 ### Where to, then?
