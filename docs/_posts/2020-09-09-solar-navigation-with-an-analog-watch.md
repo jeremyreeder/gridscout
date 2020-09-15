@@ -139,7 +139,7 @@ this _reverse equatorial sundial_ depends primarily on your identification of
 local solar noon and on the alignment of your watch dial with the equatorial
 plane.
 
-#### Solar noon error
+#### Solar-noon error
 
 Imagine an Earth perfectly divided into 24 time zones of uniform width where
 civil time at the center of each zone is synchronized with solar mean time. On
