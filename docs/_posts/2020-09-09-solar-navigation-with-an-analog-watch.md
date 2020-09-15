@@ -7,7 +7,6 @@ tags: compass watch sundial
 redirect_from:
   - /watch-navigation
   - /reverse-sundial
-  - /2020/09/09/solar-navigation-with-an-analog-watch.html
 ---
 
 TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane,
