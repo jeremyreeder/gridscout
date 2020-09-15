@@ -65,7 +65,7 @@ current time to find the north-south line. Whereas sundials are usually aligned
 with the north-south line and then used to determine the current time, they
 work equally well in reverse.
 
-Read on to find out how to navigate with an analog watch.
+Read on to find out how to navigate with an analog watch and a pocket knife.
 {:.tangent}
 
 ### Navigating with a 24-hour dial
