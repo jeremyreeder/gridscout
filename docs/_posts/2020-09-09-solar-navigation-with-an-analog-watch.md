@@ -150,7 +150,7 @@ the equator, or 17° in southern Idaho. This error peaks westward at 09:00 and
 eastward at 15:00 solar time. But if you can hold it within 10° of correct
 equatorial alignment, then this error shrinks to just 3° at its peaks.
 
-<sup>*</sup> Most instruction on this topic assumes that equally spaced hour marks are suitable for a horizontal sundial, but they're not.
+<sup>*</sup> Most instruction on this topic assumes that equally spaced hour marks are suitable for a horizontal sundial. This assumption is true only at the north and south poles.
 {:.tangent}
 
 ### Where to, then?
