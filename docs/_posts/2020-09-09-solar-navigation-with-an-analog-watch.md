@@ -57,9 +57,9 @@ to find the _truth_. The hour hand of a 24-hour analog watch follows the
 apparent path of the sun very well, so it comes in pretty handy as a compass.
 With a little trickery, even a 12-hour watch will do.
 
-First you'll have to identify your local solar noon. Calculate it or look it
-up. Use 12:00 as a rough approximation _if you must_, or 13:00 during daylight
-saving time.
+But first you'll have to identify your local solar noon. Calculate it or look
+it up. Use 12:00 as a rough approximation _if you must_, or 13:00 during
+daylight saving time.
 
 Next, you'll set up your watch as a _reverse equatorial sundial_ and pivot your
 body till the sundial reads the correct time. When it does, you'll know which
