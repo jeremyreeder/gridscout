@@ -144,7 +144,7 @@ the equatorial plane.
 
 #### Solar noon error
 
-Using civil noon rather than solar noon can introduce up to 12° of
+Using civil noon rather than today's local solar noon can introduce up to 12° of
 error<sup>*</sup>. You can blame Earth's elliptic orbit for a third of that.
 The rest comes from your longitudinal distance from the center of your
 time zone.
