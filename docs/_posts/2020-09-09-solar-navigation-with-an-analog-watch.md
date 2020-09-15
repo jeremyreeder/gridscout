@@ -148,7 +148,7 @@ summer.
 #### Equatorial-alignment error
 
 Holding your watch horizontally<sup>6</sup> like an amateur can add up to 45°
-of error at the edges of the tropics, or 21° in southern Idaho.<sup>7</sup> But
+of error at the edges of the tropics, or 21° in northern USA.<sup>7</sup> But
 if you can hold it within 9° of correct equatorial alignment, a goal easily met
 by eyeball, then your maximum error due to equatorial misalignment shrinks to
 just 3°.
