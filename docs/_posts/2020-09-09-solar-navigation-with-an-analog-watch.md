@@ -142,10 +142,10 @@ the equatorial plane.
 
 #### Solar-noon error
 
-Imagine an Earth perfectly divided into 24 time zones of uniform width where
-civil time at the center of each zone is synchronized with solar mean time. On
-such an Earth, using civil noon rather than today's local solar noon would
-introduce at most 46 minutes of error, or about 12°.
+Imagine an Earth perfectly divided into 24 time zones of uniform width, where
+each zone's civil time is synchronized with solar mean time at its central
+meridian. On such an Earth, using civil noon rather than today's local solar
+noon would introduce at most 46 minutes of error, or about 12°.
 
 But we don't live on such an Earth. The reality is that time-zone boundaries
 are irregular and most countries observe daylight saving time. So civil time
