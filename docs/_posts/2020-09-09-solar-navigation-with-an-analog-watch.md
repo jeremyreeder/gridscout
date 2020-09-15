@@ -90,41 +90,41 @@ allows you to navigate without removing the watch from your wrist.
 to your latitude.
 {:.tangent .indent}
 
-	<sup>b</sup> When the sun is north of the equator, you can use a knife blade to
-	cast a shadow on the hour hand as an alignment guide.
-	{:.tangent .indent}
+<sup>b</sup> When the sun is north of the equator, you can use a knife blade to
+cast a shadow on the hour hand as an alignment guide.
+{:.tangent .indent}
 
-	<sup>c</sup> In the tropics, the sun may pass directly overhead at solar noon.
-	If it does, all directions will seem to be south. Wait ten minutes.
-	{:.tangent .indent}
+<sup>c</sup> In the tropics, the sun may pass directly overhead at solar noon.
+If it does, all directions will seem to be south. Wait ten minutes.
+{:.tangent .indent}
 
-	#### (when south of the sun's path)
-	1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the hour hand at the top.
-	2. Rotate your body till the solar noon position points at the sun.<sup>d</sup>
-	3. The hour hand now points southward.
+#### (when south of the sun's path)
+1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the hour hand at the top.
+2. Rotate your body till the solar noon position points at the sun.<sup>d</sup>
+3. The hour hand now points southward.
 
-	<sup>a</sup> Start vertical and tilt the dial away from you by an angle equal
-	to your latitude.
-	{:.tangent .indent}
+<sup>a</sup> Start vertical and tilt the dial away from you by an angle equal
+to your latitude.
+{:.tangent .indent}
 
-	<sup>d</sup> When the sun is south of the equator, you can use a knife blade to
-	cast a shadow on the solar-noon position as an alignment guide.
-	{:.tangent .indent}
+<sup>d</sup> When the sun is south of the equator, you can use a knife blade to
+cast a shadow on the solar-noon position as an alignment guide.
+{:.tangent .indent}
 
-	### Navigating with a 12-hour dial
+### Navigating with a 12-hour dial
 
-	Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or
-	need an excuse to go watch-shopping, keep that in mind.
-	{:.tangent}
+Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or
+need an excuse to go watch-shopping, keep that in mind.
+{:.tangent}
 
-	#### (when north of the sun's path or directly on it)
-	1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the solar noon position at the top.
-	2. Rotate your body till the sun is halfway between the hour hand and solar noon.<sup>e</sup>
-	3. The dial's solar noon position now points southward<sup>c</sup>.
+#### (when north of the sun's path or directly on it)
+1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the solar noon position at the top.
+2. Rotate your body till the sun is halfway between the hour hand and solar noon.<sup>e</sup>
+3. The dial's solar noon position now points southward<sup>c</sup>.
 
-	<sup>e</sup> When the sun is north of the equator, you can use a knife blade to
-	cast a shadow on the dial as an alignment guide.
-	{:.tangent .indent}
+<sup>e</sup> When the sun is north of the equator, you can use a knife blade to
+cast a shadow on the dial as an alignment guide.
+{:.tangent .indent}
 
 	#### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>a</sup>, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
