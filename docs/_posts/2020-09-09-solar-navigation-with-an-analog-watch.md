@@ -183,5 +183,4 @@ compasses are [useless][compass-failure] inside the polar circles.
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
 
 [bicevskis-error]:  http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
-[civil-time-error]: http://blog.poormansmath.net/how-much-is-time-wrong-around-the-world
 [compass-failure]:  https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
