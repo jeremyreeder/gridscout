@@ -89,8 +89,7 @@ to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the hour hand. So you can aim your watch accurately without
-looking at the sun.
+cast a shadow on the hour hand as an alignment guide.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
@@ -103,8 +102,7 @@ to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is south of the equator, you can use a knife blade to
-cast a shadow on the solar-noon position. So you can aim your watch accurately
-without looking at the sun.
+cast a shadow on the solar-noon position as an alignment guide.
 {:.tangent .indent}
 
 ### Navigating with a 12-hour dial
@@ -122,8 +120,7 @@ to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the hour hand. So you can aim your watch accurately without
-looking at the sun.
+cast a shadow on the hour hand as an alignment guide.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
@@ -136,8 +133,7 @@ to your latitude.
 {:.tangent .indent}
 
 <sup>2</sup> When the sun is south of the equator, you can use a knife blade to
-cast a shadow on the solar-noon position. So you can aim your watch accurately
-without looking at the sun.
+cast a shadow on the solar-noon position as an alignment guide.
 {:.tangent .indent}
 
 ### How accurate is watch-based navigation?
