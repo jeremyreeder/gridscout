@@ -56,7 +56,7 @@ so it comes in pretty handy as a compass. With a little trickery, even a
 12-hour watch will do.
 
 First you'll have to identify your local solar noon. Calculate it or look it
-up. Use 12:00 as a rough approximation if you must, or 13:00 during daylight
+up. Use 12:00 as a rough approximation _if you must_, or 13:00 during daylight
 saving time.
 
 Next, you'll set up your watch as a _reverse equatorial sundial_ and pivot your
@@ -153,14 +153,12 @@ the equatorial plane.
 
 #### Solar noon error
 
-Using civil noon rather than today's local solar noon can introduce up to 12°
-of error<sup>*</sup>. You can blame Earth's elliptic orbit for a third of that.
-The rest comes from your longitudinal distance from the center of your time
-zone.
+Using civil noon rather than today's local solar noon can introduce up to [30°
+of error][civil-time-error]. You're often within 8°, but some localities fudge
+the time more than others.
 
-<sup>*</sup> Make that 27° if you forget to compensate for daylight saving
-time.
-{:.tangent}
+Add another 15° if you forget to compensate for daylight saving time in the
+summer.
 
 #### Equatorial-alignment error
 
@@ -172,7 +170,7 @@ misalignment-induced error shrinks to just 3° at its peaks.
 
 <sup>*</sup> Most instruction on this topic assumes that the equally spaced
 marks on a watch dial are suitable for a horizontal sundial. I'm right and
-they're wrong.
+[they're wrong][bicevskis-error].
 {:.tangent}
 
 ### Where to, then?
@@ -186,4 +184,6 @@ compasses are [useless][compass-failure] inside the polar circles.
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
 
-[compass-failure]: https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
+[bicevskis-error]:  http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
+[civil-time-error]: http://blog.poormansmath.net/how-much-is-time-wrong-around-the-world
+[compass-failure]:  https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
