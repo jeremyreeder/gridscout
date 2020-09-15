@@ -92,9 +92,8 @@ to your latitude.
 cast a shadow on the hour hand as an alignment guide.
 {:.tangent .indent}
 
-<sup>3</sup> In the tropics, sometimes the sun passes directly overhead. When
-it does, all directions will appear to be south. Wait ten minutes and try
-again.
+<sup>3</sup> In the tropics, the sun may pass directly overhead at solar noon.
+If it does, all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
@@ -128,9 +127,8 @@ to your latitude.
 cast a shadow on the hour hand as an alignment guide.
 {:.tangent .indent}
 
-<sup>3</sup> In the tropics, sometimes the sun passes directly overhead. When
-it does, all directions will appear to be south. Wait ten minutes and try
-again.
+<sup>3</sup> In the tropics, the sun may pass directly overhead at solar noon.
+If it does, all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
