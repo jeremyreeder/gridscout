@@ -84,7 +84,7 @@ allows you to navigate without removing the watch from your wrist.
 
 #### (when north of the sun's path or directly on it)
 1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the solar noon position at the top.
-2. Rotate your body till the hour hand points at the sun.<sup>b</sup>
+2. Rotate your body till the hour hand points toward the sun.<sup>b</sup>
 3. The dial's solar noon position now points southward<sup>c</sup>.
 
 <sup>a</sup> Start vertical and tilt the dial away from you by an angle equal
@@ -101,7 +101,7 @@ If it does, all directions will seem to be south. Wait ten minutes.
 
 #### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the hour hand at the top.
-2. Rotate your body till the solar noon position points at the sun.<sup>d</sup>
+2. Rotate your body till the solar noon position points toward the sun.<sup>d</sup>
 3. The hour hand now points southward.
 
 <sup>a</sup> Start vertical and tilt the dial away from you by an angle equal
@@ -129,7 +129,7 @@ cast a shadow on the dial as an alignment guide.
 
 #### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>a</sup>, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
-2. Rotate your body till the solar-noon position points at the sun.<sup>d</sup>
+2. Rotate your body till the solar-noon position points toward the sun.<sup>d</sup>
 3. The top of the dial now points northward.
 
 ### How accurate is watch-based navigation?
