@@ -67,7 +67,8 @@ facing the direction that it's calibrated for. Whereas sundials are usually
 pointed in the proper direction and then used to determine the current time,
 they work equally well in reverse.
 
-Read on to find out how to navigate with an analog watch and a pocket knife.
+Read on to find out exactly _how_ to navigate with just an analog watch and a
+pocket knife.
 
 ### Navigating with a 24-hour dial
 
