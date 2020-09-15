@@ -27,7 +27,7 @@ watch and a pocket knife.
 
 At my home near the 43<sup>rd</sup> parallel, trusting that the sun rises in
 the east can mislead a fella by up to 34° in winter and summer. It's even less
-accurate at higher latitudes. Here's the truth:
+accurate at higher latitudes. Here's how it _actually_ works:
 
 The sun rises approximately in the east and sets approximately in the west.
 Twice a year, at the equinoxes, any deviation from due east and due west is
@@ -50,11 +50,12 @@ daylight saving time moves it an hour clockwise. Today my solar noon is at
 Don't forget, of course, that in parts of the world the sun is _north_ at solar
 noon. And in the tropics, it alternates.
 
-## How 'bout a reverse sundial?
+## True directions with a reverse sundial
 
-The hour hand of a 24-hour analog watch follows the apparent path of the sun,
-so it comes in pretty handy as a compass. With a little trickery, even a
-12-hour watch will do.
+Now that we've got those directional _lies_ out of the way, let's discuss how
+to find the _truth_. The hour hand of a 24-hour analog watch follows the
+apparent path of the sun very well, so it comes in pretty handy as a compass.
+With a little trickery, even a 12-hour watch will do.
 
 First you'll have to identify your local solar noon. Calculate it or look it
 up. Use 12:00 as a rough approximation _if you must_, or 13:00 during daylight
@@ -134,10 +135,10 @@ cast a shadow on the dial as an alignment guide.
 
 ### How accurate is watch-based navigation?
 
-Perfectly accurate in theory and plenty accurate in practice. The accuracy of
-this _reverse equatorial sundial_ depends primarily on your identification of
-local solar noon and on the alignment of your watch dial with the equatorial
-plane.
+Almost perfectly accurate in theory and plenty accurate in practice. The
+accuracy of this _reverse equatorial sundial_ depends primarily on your
+identification of local solar noon and on the alignment of your watch dial with
+the equatorial plane.
 
 #### Solar-noon error
 
