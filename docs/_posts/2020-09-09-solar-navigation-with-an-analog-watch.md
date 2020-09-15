@@ -162,11 +162,12 @@ summer.
 
 #### Equatorial-alignment error
 
-Holding your watch horizontally<sup>*</sup> like an amateur can add up to 45°
-of error at the equator (or 17° in southern Idaho). This error peaks westward
-at 09:00 and eastward at 15:00 solar time. But if you can hold it within 10° of
-correct equatorial alignment, a goal easily met by eyeball, then your
-misalignment-induced error shrinks to just 3° at its peaks.
+Depending on time of year, holding your watch horizontally<sup>*</sup> like an
+amateur can add up to 45° of error at the edges of the tropics, or 28° in
+southern Idaho. This error peaks westward at 09:00 and eastward at 15:00 solar
+time. But if you can hold it within 10° of correct equatorial alignment, a goal
+easily met by eyeball, then your misalignment-induced error shrinks to just 3°
+at its peaks.
 
 <sup>*</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
