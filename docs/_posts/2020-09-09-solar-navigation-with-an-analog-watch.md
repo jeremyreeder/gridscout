@@ -148,7 +148,7 @@ time.
 Holding your watch horizontally<sup>*</sup> like an amateur can add up to 45° of error at
 the equator, or 17° in southern Idaho. This error peaks westward at 09:00 and
 eastward at 15:00 solar time. But if you can hold it within 10° of correct
-equatorial alignment, then this error shrinks to just 3° at its peaks.
+equatorial alignment, then your error shrinks to just 3° at its peaks.
 
 <sup>*</sup> Most instruction on this topic assumes that the equally spaced hour marks on a watch dial are suitable for a horizontal sundial. I'm right and they're wrong.
 {:.tangent}
