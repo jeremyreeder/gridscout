@@ -182,7 +182,8 @@ Although useful anywhere with sun, watch-based navigation is _particularly_
 well suited for a summertime polar expedition. The sun is up all day, the
 equatorial plane is conveniently near horizontal, and the sun is on the right
 side of it to cast a knife-blade shadow on your dial. Handy, since magnetic
-compasses are [useless][compass-failure] inside the polar circles.
+compasses are [useless][compass-failure] inside the polar circles. Well, who
+wants to come with me?
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
