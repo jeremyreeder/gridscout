@@ -61,10 +61,11 @@ up. Use 12:00 as a rough approximation _if you must_, or 13:00 during daylight
 saving time.
 
 Next, you'll set up your watch as a _reverse equatorial sundial_ and pivot your
-body till the sundial reads the correct time. When it does, you'll either know
-that you're facing south or that you're facing north. Whereas sundials are
-usually aligned with the north-south line and then used to determine the
-current time, they work equally well in reverse.
+body till the sundial reads the correct time. When it does, you'll know which
+direction you're facing because a sundial only reads the correct time when it's
+facing the direction that it's designed for. Whereas sundials are usually
+pointed in the proper direction and then used to determine the current time,
+they work equally well in reverse.
 
 Read on to find out how to navigate with an analog watch and a pocket knife.
 
