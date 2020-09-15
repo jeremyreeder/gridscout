@@ -168,9 +168,9 @@ at 09:00 and eastward at 15:00 solar time. But if you can hold it within 10° of
 correct equatorial alignment, a goal easily met by eyeball, then your
 misalignment-induced error shrinks to just 3° at its peaks.
 
-<sup>*</sup> Most instruction on this topic assumes that the equally spaced
-marks on a watch dial are suitable for a horizontal sundial. I'm right and
-[they're wrong][bicevskis-error].
+<sup>*</sup> Other instruction on navigating with a watch assumes that equally
+spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
+wrong][bicevskis-error].
 {:.tangent}
 
 ### Where to, then?
