@@ -107,8 +107,8 @@ cast a shadow on the solar-noon position as an alignment guide.
 
 ### Navigating with a 12-hour dial
 
-Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or need an excuse to go watch-shopping, keep that in mind.
-{:.tangent}
+Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or
+need an excuse to go watch-shopping, keep that in mind.  {:.tangent}
 
 #### (when north of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>1</sup>, with the solar noon position at the top.
@@ -144,10 +144,10 @@ the equatorial plane.
 
 #### Solar noon error
 
-Using civil noon rather than today's local solar noon can introduce up to 12° of
-error<sup>*</sup>. You can blame Earth's elliptic orbit for a third of that.
-The rest comes from your longitudinal distance from the center of your
-time zone.
+Using civil noon rather than today's local solar noon can introduce up to 12°
+of error<sup>*</sup>. You can blame Earth's elliptic orbit for a third of that.
+The rest comes from your longitudinal distance from the center of your time
+zone.
 
 <sup>*</sup> Make that 27° if you forget to compensate for daylight saving
 time.
@@ -171,8 +171,8 @@ they're wrong.
 Although useful anywhere with sun, watch-based navigation is _particularly_
 well suited for a summertime polar expedition. The sun is up all day, the
 equatorial plane is conveniently near horizontal, and the sun is on the right
-side of it to cast a knife-blade shadow on your dial. Handy, since magnetic compasses are
-[useless][compass-failure] inside the polar circles.
+side of it to cast a knife-blade shadow on your dial. Handy, since magnetic
+compasses are [useless][compass-failure] inside the polar circles.
 
 
 [russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
