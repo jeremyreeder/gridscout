@@ -67,7 +67,6 @@ usually aligned with the north-south line and then used to determine the
 current time, they work equally well in reverse.
 
 Read on to find out how to navigate with an analog watch and a pocket knife.
-{:.tangent}
 
 ### Navigating with a 24-hour dial
 
@@ -115,7 +114,6 @@ cast a shadow on the solar-noon position as an alignment guide.
 
 Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind.
-{:.tangent}
 
 #### (when north of the sun's path or directly on it)
 1. Align the face of the dial with the equatorial plane<sup>a</sup>, with the solar noon position at the top.
