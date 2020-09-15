@@ -42,7 +42,7 @@ horizon.
 ### Lie #2: The sun is directly south at noon.
 
 Yeah, okay, but when is noon? Do you trust the government to tell you? They may
-mislead you by an hour or two. Local solar noon may not come at 12:00 civil
+mislead you by an hour or more. Local solar noon may not come at 12:00 civil
 time. It varies with your longitudinal position within the time zone, and
 daylight saving time moves it an hour clockwise. Today my solar noon is at
 13:42.
@@ -141,12 +141,18 @@ plane.
 
 #### Solar noon error
 
-Using civil noon rather than today's local solar noon can introduce up to [30°
-of error][civil-time-error]. You're often within 8°, but some localities fudge
-the time more than others.
+Imagine an Earth perfectly divided into 24 time zones of uniform width where
+civil time at the center of each zone is synchronized with solar mean time. On
+such an Earth, using civil noon rather than today's local solar noon would
+introduce at most 46 minutes of error, or about 12°.
 
-Add another 15° if you forget to compensate for daylight saving time in the
-summer.
+But we don't live on such an Earth. The reality is that time-zone boundaries
+are irregular and most countries observe daylight saving time. So civil time
+can easily be off by another hour and a half, sometimes more.
+
+It's worth finding out when your solar noon is. It'll vary a bit over the
+seasons, so you may want to just remember what it is at the equinoxes. That'll
+get you within 16 minutes, or 4°.
 
 #### Equatorial-alignment error
 
