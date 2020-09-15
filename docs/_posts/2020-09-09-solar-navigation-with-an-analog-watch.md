@@ -167,7 +167,7 @@ spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
 wrong][bicevskis-error].
 {:.tangent}
 
-<sup>g</sup> This error peaks on the summer solstice, eastward three hours
+<sup>g</sup> These errors peak on the summer solstice, eastward three hours
 before solar noon and westward three hours after.
 {:.tangent}
 
