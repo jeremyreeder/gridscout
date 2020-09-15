@@ -30,7 +30,7 @@ accurate at higher latitudes. Here's the truth:
 
 The sun rises approximately in the east and sets approximately in the west.
 Twice a year, at the equinoxes, any deviation from due east and due west is
-negligible.  But the sun deviates northward in both rising and setting as we
+negligible. But the sun deviates northward in both rising and setting as we
 approach the June solstice.  And it deviates southward as we approach the
 December solstice.  At each solstice you'll get at least 25° of deviation,
 depending on your latitude.  Inside the polar circles, the sun won't actually
@@ -99,14 +99,14 @@ If it does, all directions will seem to be south. Wait ten minutes.
 
 #### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>1</sup>, with the hour hand at the top.
-2. Rotate your body till the solar noon position points at the sun.<sup>2</sup>
+2. Rotate your body till the solar noon position points at the sun.<sup>4</sup>
 3. The hour hand now points southward.
 
 <sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
 to your latitude.
 {:.tangent .indent}
 
-<sup>2</sup> When the sun is south of the equator, you can use a knife blade to
+<sup>4</sup> When the sun is south of the equator, you can use a knife blade to
 cast a shadow on the solar-noon position as an alignment guide.
 {:.tangent .indent}
 
@@ -117,33 +117,17 @@ need an excuse to go watch-shopping, keep that in mind.  {:.tangent}
 
 #### (when north of the sun's path or directly on it)
 1. Align the face of the dial with the equatorial plane<sup>1</sup>, with the solar noon position at the top.
-2. Rotate your body till the sun is halfway between the hour hand and solar noon.<sup>2</sup>
+2. Rotate your body till the sun is halfway between the hour hand and solar noon.<sup>5</sup>
 3. The dial's solar noon position now points southward<sup>3</sup>.
 
-<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
-to your latitude.
-{:.tangent .indent}
-
-<sup>2</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the hour hand as an alignment guide.
-{:.tangent .indent}
-
-<sup>3</sup> In the tropics, the sun may pass directly overhead at solar noon.
-If it does, all directions will seem to be south. Wait ten minutes.
+<sup>5</sup> When the sun is north of the equator, you can use a knife blade to
+cast a shadow on the dial as an alignment guide.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
 1. Align the face of the dial with the equatorial plane<sup>1</sup>, and rotate it so that the position halfway between the hour hand and solar noon is at the top.
-2. Rotate your body till the solar-noon position points at the sun.<sup>2</sup>
+2. Rotate your body till the solar-noon position points at the sun.<sup>4</sup>
 3. The top of the dial now points northward.
-
-<sup>1</sup> Start vertical and tilt the dial away from you by an angle equal
-to your latitude.
-{:.tangent .indent}
-
-<sup>2</sup> When the sun is south of the equator, you can use a knife blade to
-cast a shadow on the solar-noon position as an alignment guide.
-{:.tangent .indent}
 
 ### How accurate is watch-based navigation?
 
@@ -162,16 +146,19 @@ summer.
 
 #### Equatorial-alignment error
 
-Depending on time of year, holding your watch horizontally<sup>*</sup> like an
-amateur can add up to 45° of error at the edges of the tropics, or 28° in
-southern Idaho. This error peaks westward at 09:00 and eastward at 15:00 solar
-time. But if you can hold it within 10° of correct equatorial alignment, a goal
-easily met by eyeball, then your misalignment-induced error shrinks to just 3°
-at its peaks.
+Holding your watch horizontally<sup>6</sup> like an amateur can add up to 45°
+of error at the edges of the tropics, or 21° in southern Idaho.<sup>7</sup> But
+if you can hold it within 9° of correct equatorial alignment, a goal easily met
+by eyeball, then your maximum error due to equatorial misalignment shrinks to
+just 3°.
 
-<sup>*</sup> Other instruction on navigating with a watch assumes that equally
+<sup>6</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
 wrong][bicevskis-error].
+{:.tangent}
+
+<sup>7<sup>This error peaks on the summer solstice, eastward three hours before solar noon
+and westward three hours after.
 {:.tangent}
 
 ### Where to, then?
