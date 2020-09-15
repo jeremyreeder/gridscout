@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane, makes a fantastic solar compass.
-{:.tangent}
+{:.tangent .indent}
 
 You probably already know some basic solar navigation:
 - The sun rises in the east and sets in the west.
