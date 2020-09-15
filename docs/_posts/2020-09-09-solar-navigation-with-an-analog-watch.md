@@ -63,7 +63,7 @@ saving time.
 Next, you'll set up your watch as a _reverse equatorial sundial_ and pivot your
 body till the sundial reads the correct time. When it does, you'll know which
 direction you're facing because a sundial only reads the correct time when it's
-facing the direction that it's designed for. Whereas sundials are usually
+facing the direction that it's calibrated for. Whereas sundials are usually
 pointed in the proper direction and then used to determine the current time,
 they work equally well in reverse.
 
