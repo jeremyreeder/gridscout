@@ -69,7 +69,7 @@ Read on to find out how to navigate with an analog watch.
 
 ### Navigating with a 24-hour dial
 
-Note that it's easiest with daytime at the top of the dial and nighttime at the
+Navigation is easiest with daytime at the top of the dial and nighttime at the
 bottom, as is common in Russian military watches. This arrangement generally
 allows you to navigate without removing the watch from your wrist.
 
