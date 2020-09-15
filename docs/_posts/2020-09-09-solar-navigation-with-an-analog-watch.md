@@ -134,9 +134,10 @@ cast a shadow on the dial as an alignment guide.
 
 ### How accurate is watch-based navigation?
 
-The accuracy of this _reverse equatorial sundial_ depends primarily on your
-identification of local solar noon and the alignment of your watch dial with
-the equatorial plane.
+Perfectly accurate in theory and plenty accurate in practice. The accuracy of
+this _reverse equatorial sundial_ depends primarily on your identification of
+local solar noon and on the alignment of your watch dial with the equatorial
+plane.
 
 #### Solar noon error
 
