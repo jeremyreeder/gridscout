@@ -152,23 +152,26 @@ are irregular and most countries observe daylight saving time. So civil time
 can easily be off by another hour and a half, sometimes more.
 
 It's worth finding out when your solar noon is. It varies a bit over the
-seasons, so you may want to just remember what it is on Christmas Eve. That's
+seasons due to Earth's elliptic orbit, so you may want to just remember what it is on Christmas Eve<sup>f</sup>. That's
 solar mean noon, and it'll get you within 16 minutes, or 4°.
+
+<sup>f</sup> Alternatively, you'd get the same result on April 15, June 15, or September 1.
+{:.tangent}
 
 #### Equatorial-alignment error
 
-Holding your watch horizontally<sup>f</sup> like an amateur can add up to 45°
-of error at the edges of the tropics, or 21° in northern USA.<sup>g</sup> But
+Holding your watch horizontally<sup>g</sup> like an amateur can add up to 45°
+of error at the edges of the tropics, or 21° in northern USA.<sup>h</sup> But
 if you can hold it within 9° of correct equatorial alignment, a goal easily met
 by eyeball, then your maximum error due to equatorial misalignment shrinks to
 just 3°.
 
-<sup>f</sup> Other instruction on navigating with a watch assumes that equally
+<sup>g</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
 wrong][bicevskis-error].
 {:.tangent}
 
-<sup>g</sup> These errors peak on the summer solstice, eastward three hours
+<sup>h</sup> These errors peak on the summer solstice, eastward three hours
 before solar noon and westward three hours after.
 {:.tangent}
 
