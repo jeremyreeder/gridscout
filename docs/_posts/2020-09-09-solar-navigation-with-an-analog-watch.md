@@ -155,10 +155,11 @@ seasons due to Earth's elliptic orbit, so you may want to just remember what tim
 
 #### Equatorial-alignment error
 
+The dial should be parallel to the plane at the equator which bisects Earth.
 Holding your watch horizontally<sup>e</sup> like an amateur can add up to 45°
 of error at the edges of the tropics, or 21° in northern USA.<sup>f</sup> But
-if you can hold it within 9° of correct equatorial alignment, a goal easily met
-by eyeball, then your maximum error due to equatorial misalignment shrinks to
+if you can hold it within 9° of proper alignment, a goal easily met
+by eyeball, then your maximum directional error due to equatorial misalignment shrinks to
 just 3°.
 
 <sup>e</sup> Other instruction on navigating with a watch assumes that equally
