@@ -90,7 +90,8 @@ allows you to navigate without removing the watch from your wrist.
 4. The dial's solar noon position now points southward<sup>b</sup>.
 
 <sup>a</sup> If the sun is north of the equator, you can use a knife blade to
-cast a shadow on the hour hand as an alignment guide. Otherwise, it may be helpful as an extension of the hand.
+cast a shadow on the hour hand as an alignment guide. Otherwise, it may be
+helpful as an extension of the hand.
 {:.tangent .indent}
 
 <sup>b</sup> In the tropics, the sun may pass directly overhead at solar noon.
@@ -104,7 +105,8 @@ If it does, all directions will seem to be south. Wait ten minutes.
 4. The hour hand now points southward.
 
 <sup>c</sup> When the sun is south of the equator, you can use a knife blade to
-cast a shadow on the solar-noon position as an alignment guide. Otherwise, it may be helpful as an extended marker of the position.
+cast a shadow on the solar-noon position as an alignment guide. Otherwise, it
+may be helpful as an extended marker of the position.
 {:.tangent .indent}
 
 ### Navigating with a 12-hour dial
@@ -120,7 +122,8 @@ the most common, so here's how it's done.
 4. The dial's solar noon position now points southward<sup>b</sup>.
 
 <sup>d</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the dial as an alignment guide. Otherwise, it may be helpful as an extension of the hand.
+cast a shadow on the dial as an alignment guide. Otherwise, it may be helpful
+as an extension of the hand.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
@@ -148,9 +151,12 @@ are irregular and most countries observe daylight saving time. So civil time
 can easily be off by another hour and a half, sometimes more.
 
 It's worth finding out when your local solar noon is. It varies a bit over the
-seasons due to Earth's elliptic orbit, so you may want to just remember what time it comes on Christmas Eve<sup>d</sup>. That'll get you within 16 minutes, or 4°.
+seasons due to Earth's elliptic orbit, so you may want to just remember what
+time it comes on Christmas Eve<sup>d</sup>. That'll get you within 16 minutes,
+or 4°.
 
-<sup>d</sup> This is your _solar mean noon_. Your solar noon occurs at this time on April 15 & 16, June 14 & 15, September 1 & 2, and December 24 & 25.
+<sup>d</sup> This is your _solar mean noon_. Your solar noon occurs at this
+time on April 15 & 16, June 14 & 15, September 1 & 2, and December 24 & 25.
 {:.tangent}
 
 #### Equatorial-alignment error
@@ -158,8 +164,8 @@ seasons due to Earth's elliptic orbit, so you may want to just remember what tim
 The dial should be parallel to the plane at the equator which bisects Earth.
 Holding your watch horizontally<sup>e</sup> like an amateur can add up to 45°
 of error at the edges of the tropics, or 21° in northern USA.<sup>f</sup> But
-if you can hold it within 9° of proper alignment, a goal easily met
-by eyeball, then your maximum directional error due to equatorial misalignment shrinks to
+if you can hold it within 9° of proper alignment, a goal easily met by eyeball,
+then your maximum directional error due to equatorial misalignment shrinks to
 just 3°.
 
 <sup>e</sup> Other instruction on navigating with a watch assumes that equally
