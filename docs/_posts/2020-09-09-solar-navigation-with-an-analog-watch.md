@@ -151,11 +151,10 @@ But we don't live on such an Earth. The reality is that time-zone boundaries
 are irregular and most countries observe daylight saving time. So civil time
 can easily be off by another hour and a half, sometimes more.
 
-It's worth finding out when your solar noon is. It varies a bit over the
-seasons due to Earth's elliptic orbit, so you may want to just remember what it is on Christmas Eve<sup>f</sup>. That's
-solar mean noon, and it'll get you within 16 minutes, or 4°.
+It's worth finding out when your local solar noon is. It varies a bit over the
+seasons due to Earth's elliptic orbit, so you may want to just remember what time it comes on Christmas Eve<sup>f</sup>. That'll get you within 16 minutes, or 4°.
 
-<sup>f</sup> Alternatively, you'd get the same result on April 15, June 15, or September 1.
+<sup>f</sup> This is your _solar mean noon_. Your solar noon occurs at this time on April 15 & 16, June 14 & 15, September 1 & 2, and December 24 & 25.
 {:.tangent}
 
 #### Equatorial-alignment error
