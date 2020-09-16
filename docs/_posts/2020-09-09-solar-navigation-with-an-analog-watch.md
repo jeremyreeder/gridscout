@@ -92,8 +92,8 @@ allows you to navigate without removing the watch from your wrist.
 to your latitude.
 {:.tangent .indent}
 
-<sup>b</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the hour hand as an alignment guide.
+<sup>b</sup> If the sun is north of the equator, you can use a knife blade to
+cast a shadow on the hour hand as an alignment guide. Otherwise, it may be helpful as an extension of the hand.
 {:.tangent .indent}
 
 <sup>c</sup> In the tropics, the sun may pass directly overhead at solar noon.
@@ -110,7 +110,7 @@ to your latitude.
 {:.tangent .indent}
 
 <sup>d</sup> When the sun is south of the equator, you can use a knife blade to
-cast a shadow on the solar-noon position as an alignment guide.
+cast a shadow on the solar-noon position as an alignment guide. Otherwise, it may be helpful as an extended marker of the position.
 {:.tangent .indent}
 
 ### Navigating with a 12-hour dial
@@ -125,7 +125,7 @@ the most common, so here's how it's done.
 3. The dial's solar noon position now points southward<sup>c</sup>.
 
 <sup>e</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the dial as an alignment guide.
+cast a shadow on the dial as an alignment guide. Otherwise, it may be helpful as an extension of the hand.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
