@@ -152,7 +152,7 @@ are irregular and most countries observe daylight saving time. So civil time
 can easily be off by another hour and a half, sometimes more.
 
 It's worth finding out when your solar noon is. It varies a bit over the
-seasons, so you may want to just remember what it is at the equinoxes. That's
+seasons, so you may want to just remember what it is on Christmas Eve. That's
 solar mean noon, and it'll get you within 16 minutes, or 4°.
 
 #### Equatorial-alignment error
