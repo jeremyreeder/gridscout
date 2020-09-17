@@ -141,28 +141,30 @@ the equatorial plane.
 
 #### Solar-noon error
 
-If _civil time_ at any place on Earth were defined as the _solar time_ at the nearest of 24 equally spaced meridians, then it could be trusted to be within 30 minutes, or 7½°, of correct.
-
-But in reality our time zones have
-irregular borders and are often made worse in the warmer months by daylight saving time. So civil time
-can easily be off by two hours, sometimes more.
+If _civil time_ at any place on Earth were defined as the _solar time_ at the
+nearest of 24 equally spaced meridians, then it could be trusted to be within
+30 minutes, or 7½°, of correct.  But in reality our time zones have irregular
+borders and are often made worse in the warmer months by daylight saving time.
+So civil time can easily be off by two hours, sometimes more.
 
 It's worth finding out when your local solar noon is. It varies a bit over the
 seasons due to Earth's elliptic orbit, so you may want to just remember what
 time it comes on Christmas Eve<sup>d</sup>. That'll get you within 16 minutes,
 or 4°.
 
-<sup>d</sup> The time that you're looking for is your _solar MEAN noon_. Solar noon occurs around then on April 15 & 16, June 14 & 15, September 1 & 2, and December 24 & 25. Any of these dates will serve equally well.
+<sup>d</sup> The time that you're looking for is your _solar MEAN noon_. Solar
+noon occurs around then on April 15 & 16, June 14 & 15, September 1 & 2, and
+December 24 & 25. Any of these dates will serve equally well.
 {:.tangent}
 
 #### Equatorial-alignment error
 
-The dial should be parallel to the plane at the equator which bisects Earth into its two hemispheres.
-Holding your watch horizontally<sup>e</sup> like an amateur can add up to 45°
-of error at the edges of the tropics, or 21° in northern USA.<sup>f</sup> But
-if you can hold it within 9° of proper alignment, a goal easily met by eyeball,
-then your maximum directional error due to equatorial misalignment shrinks to
-just 3°.
+For accurate readings the dial should be parallel to the plane at the equator
+which bisects Earth into its two hemispheres. Holding your watch
+horizontally<sup>e</sup> like an amateur can add up to 45° of error at the
+edges of the tropics, or 21° in northern USA.<sup>f</sup> But if you can hold
+it within 9° of proper alignment, a goal easily met by eyeball, then your
+maximum directional error due to equatorial misalignment shrinks to just 3°.
 
 <sup>e</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
