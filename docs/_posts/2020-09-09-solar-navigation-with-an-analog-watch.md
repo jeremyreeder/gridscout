@@ -90,8 +90,8 @@ allows you to navigate without removing the watch from your wrist.
 4. You're now facing southward<sup>b</sup>.
 
 <sup>a</sup> If the sun is north of the equator, you can use a knife blade to
-cast a shadow on the hour hand as an alignment guide. Otherwise, it may be
-helpful as an extension of the hour hand.
+cast a shadow on the hour hand as an alignment guide. Otherwise, it may still
+be helpful as an extension of the hour hand.
 {:.tangent .indent}
 
 <sup>b</sup> In the tropics, the sun may pass directly overhead at solar noon.
@@ -106,7 +106,7 @@ If it does, all directions will seem to be south. Wait ten minutes.
 
 <sup>c</sup> When the sun is south of the equator, you can use a knife blade to
 cast a shadow on the solar-noon position as an alignment guide. Otherwise, it
-may be helpful as an extended marker of solar noon.
+may still be helpful as an extended marker of solar noon.
 {:.tangent .indent}
 
 ### Navigating with a 12-hour dial
@@ -121,9 +121,9 @@ more common, so here's how it's done.
 4. Rotate your body till the sun is aligned with its reference point.<sup>d</sup>
 5. You're now facing southward.<sup>b</sup> Unless you're south of the sun's path, in which case you're facing northward.
 
-<sup>d</sup> When the sun is north of the equator, you can use a knife blade to
-cast a shadow on the dial as an alignment guide. Otherwise, it may be helpful
-as an extended marker of the reference point.
+<sup>d</sup> When the sun is on your side of the equator, you can use a knife
+blade to cast a shadow on the dial as an alignment guide. Otherwise, it may
+still be helpful as an extended marker of the reference point.
 {:.tangent .indent}
 
 ### How accurate is watch-based navigation?
