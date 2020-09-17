@@ -32,9 +32,9 @@ accurate at higher latitudes. Here's how it _actually_ works:
 The sun rises approximately in the east and sets approximately in the west.
 Twice a year, at the equinoxes, any deviation from due east and due west is
 negligible. But the sun deviates northward in both rising and setting as we
-approach the June solstice.  And it deviates southward as we approach the
+approach the June solstice. And it deviates southward as we approach the
 December solstice.  At each solstice you'll get at least 25° of deviation,
-depending on your latitude.  Inside the polar circles, the sun won't actually
+depending on your latitude. Inside the polar circles, the sun won't actually
 rise or set at all, it'll only circle around you just above or below the
 horizon.
 {:.indent}
@@ -135,9 +135,9 @@ as an extended marker of the halfway point.
 ### How accurate is watch-based navigation?
 
 Almost perfectly accurate in theory, and plenty accurate in practice. You can
-reasonably expect to limit your maximum error to 10°. As with any other
-_reverse equatorial sundial_, accuracy depends primarily on your identification
-of local solar noon and on the alignment of your watch dial with the equatorial
+reasonably expect to limit your maximum error to 10°. As with any other reverse
+equatorial sundial, accuracy depends primarily on your identification of local
+solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
 #### Solar-noon error
@@ -162,12 +162,13 @@ and December 24.
 
 #### Equatorial-alignment error
 
-For accurate readings the dial should be parallel to the plane at the equator
-which bisects Earth into its two hemispheres. Holding your watch
-horizontally<sup>e</sup> like an amateur can add up to 45° of error at the
-edges of the tropics, or 21° in northern USA.<sup>f</sup> But if you can hold
-it within 9° of proper alignment, a goal easily met by eyeball, then your
-maximum directional error due to equatorial misalignment shrinks to just 3°.
+For the most accurate readings, the dial of your watch should be parallel to
+the plane at the equator which bisects Earth into its two hemispheres. If you
+hold your watch horizontally<sup>e</sup> like an amateur, you'll add up to 45°
+of error at the edges of the tropics or 21° in northern USA.<sup>f</sup> But if
+you can hold it within 9° of proper alignment, a goal easily met by eyeball,
+then your maximum directional error due to equatorial misalignment shrinks to
+just 3°.
 
 <sup>e</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
