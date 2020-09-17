@@ -155,8 +155,7 @@ seasons due to Earth's elliptic orbit, so you may want to just remember what
 time it comes on Christmas Eve<sup>d</sup>. That'll get you within 16 minutes,
 or 4°.
 
-<sup>d</sup> This is your _solar MEAN noon_. Solar noon occurs around that
-time on April 15 & 16, June 14 & 15, September 1 & 2, and December 24 & 25.
+<sup>d</sup> This is your _solar MEAN noon_. Solar noon occurs around then on April 15 & 16, June 14 & 15, September 1 & 2, and December 24 & 25.
 {:.tangent}
 
 #### Equatorial-alignment error
