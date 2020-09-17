@@ -118,7 +118,7 @@ more common, so here's how it's done.
 1. Position the watch dial vertically with the solar noon time at the top.
 2. Tilt the dial away from you by an angle equal to your latitude.
 3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward of solar noon in the morning or rightward in the afternoon.
-4. Rotate your body till the sun is at aligned with its reference point.<sup>d</sup>
+4. Rotate your body till the sun is aligned with its reference point.<sup>d</sup>
 5. You're now facing southward.<sup>b</sup> Unless you're south of the sun's path, in which case you're facing northward.
 
 <sup>d</sup> When the sun is north of the equator, you can use a knife blade to
