@@ -113,7 +113,7 @@ may be helpful as an extended marker of the position.
 
 Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
-the most common, so here's how it's done.
+more common, so here's how it's done.
 
 #### (when north of the sun's path or directly on it)
 1. Position the watch dial vertically with the solar noon position at the top.
