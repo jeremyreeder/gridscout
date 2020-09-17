@@ -115,16 +115,26 @@ Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
 more common, so here's how it's done.
 
+#### (when north of the sun's path or directly on it)
+
 1. Position the watch dial vertically with the solar noon time at the top.
 2. Tilt the dial away from you by an angle equal to your latitude.
 3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward of solar noon in the morning or rightward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>d</sup>
-5. You're now facing southward.<sup>b</sup> Unless you're south of the sun's path, in which case you're facing northward.
+5. You're now facing southward.<sup>b</sup>
 
 <sup>d</sup> When the sun is on your side of the equator, you can use a knife
 blade to cast a shadow on the dial as an alignment guide. Otherwise, it may
 still be helpful as an extended marker of the reference point.
 {:.tangent .indent}
+
+#### (when south of the sun's path)
+
+1. Position the watch dial vertically with the hour hand at the top.
+2. Tilt the dial away from you by an angle equal to your latitude.
+3. Identify the sun's reference point on your dial. You'll find it halfway from the hour hand to solar noon, searching leftward of the hand in the morning or rightward in the afternoon.
+4. Rotate your body till the sun is aligned with its reference point.<sup>d</sup>
+5. You're now facing northward.<sup>b</sup>
 
 ### How accurate is watch-based navigation?
 
