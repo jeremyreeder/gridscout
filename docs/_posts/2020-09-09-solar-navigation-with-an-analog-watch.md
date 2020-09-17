@@ -135,10 +135,10 @@ as an extended marker of the halfway point.
 ### How accurate is watch-based navigation?
 
 Almost perfectly accurate in theory, and plenty accurate in practice. You can
-reasonably expect to limit your maximum error to 10° with a typical error no
-greater than 5°. The accuracy of this _reverse equatorial sundial_ depends
-primarily on your identification of local solar noon and on the alignment of
-your watch dial with the equatorial plane.
+reasonably expect to limit your maximum error to 10°. As with any other
+_reverse equatorial sundial_, accuracy depends primarily on your identification
+of local solar noon and on the alignment of your watch dial with the equatorial
+plane.
 
 #### Solar-noon error
 
