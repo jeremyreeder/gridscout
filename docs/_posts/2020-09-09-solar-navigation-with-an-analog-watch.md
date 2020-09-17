@@ -119,7 +119,7 @@ more common, so here's how it's done.
 
 1. Position the watch dial vertically with the solar noon time at the top.
 2. Tilt the dial away from you by an angle equal to your latitude.
-3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward of solar noon in the morning or rightward in the afternoon.
+3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward from solar noon in the morning or rightward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>d</sup>
 5. You're now facing southward.<sup>b</sup>
 
@@ -132,7 +132,7 @@ still be helpful as an extended marker of the reference point.
 
 1. Position the watch dial vertically with the hour hand at the top.
 2. Tilt the dial away from you by an angle equal to your latitude.
-3. Identify the sun's reference point on your dial. You'll find it halfway from the hour hand to solar noon, searching rightward of the hand in the morning or leftward in the afternoon.
+3. Identify the sun's reference point on your dial. You'll find it halfway from the hour hand to solar noon, searching rightward from the hour hand in the morning or leftward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>d</sup>
 5. You're now facing northward.
 
