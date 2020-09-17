@@ -141,13 +141,10 @@ the equatorial plane.
 
 #### Solar-noon error
 
-Imagine an Earth perfectly divided into 24 time zones of uniform width, where
-each zone's civil time is in sync with solar time at the zone's central
-meridian. On such an Earth, using civil noon rather than your local solar
-noon would give just 30 minutes of error at its worst, or 7½°.
+If _civil time_ at any place on Earth were defined as the _solar time_ at the nearest of 24 equally spaced meridians, then it could be trusted to be within 30 minutes, or 7½°, of correct.
 
-But we don't live on such an Earth. The reality is that our time-zone boundaries
-are irregular and most countries observe daylight saving time. So civil time
+But in reality our time zones have
+irregular borders and are often made worse in the summer by daylight saving time. So civil time
 can easily be off by two hours, sometimes more.
 
 It's worth finding out when your local solar noon is. It varies a bit over the
