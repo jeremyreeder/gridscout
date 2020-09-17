@@ -142,10 +142,10 @@ the equatorial plane.
 #### Solar-noon error
 
 If _civil time_ at any place on Earth were defined as the _solar time_ at the
-nearest of 24 equally spaced meridians, then it could be trusted to be within
-30 minutes, or 7½°, of correct.  But in reality our time zones have irregular
-borders and are often made worse in the warmer months by daylight saving time.
-So civil time can easily be off by two hours, sometimes more.
+nearest of 24 equally spaced meridians, then it could always be trusted to be
+within 30 minutes, or 7½°, of correct. But in reality our time zones have
+irregular borders and are often made worse in the warmer months by daylight
+saving time. So civil time can easily be off by two hours, sometimes more.
 
 It's worth finding out when your local solar noon is. One way is to observe the
 shadow of a vertical pole over time. At solar noon, the pole's shadow will be
