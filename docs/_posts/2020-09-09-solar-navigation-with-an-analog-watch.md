@@ -147,15 +147,17 @@ nearest of 24 equally spaced meridians, then it could be trusted to be within
 borders and are often made worse in the warmer months by daylight saving time.
 So civil time can easily be off by two hours, sometimes more.
 
-It's worth finding out when your local solar noon is. It varies a bit over the
-seasons due to Earth's elliptic orbit, so you may want to just remember what
-time it comes on Christmas Eve<sup>d</sup>. That'll get you within 16 minutes,
-or 4°.
+It's worth finding out when your local solar noon is. One way is to observe the
+shadow of a vertical pole over time. At solar noon, the pole's shadow will be
+at its shortest.  It varies a bit over the seasons due to Earth's elliptic
+orbit, so you may want to just remember what time it comes on Christmas
+Eve<sup>d</sup>.  That'll get you within 16 minutes, or 4°.
 
 <sup>d</sup> The time that you're looking for is your _solar MEAN noon_. Your
 _actual_ solar noon will occur at this time on April 15, June 15, September 1,
 and December 24.
 {:.tangent}
+
 
 #### Equatorial-alignment error
 
