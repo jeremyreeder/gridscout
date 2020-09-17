@@ -111,7 +111,7 @@ may be helpful as an extended marker of solar noon.
 
 ### Navigating with a 12-hour dial
 
-Remember, it's easier with a 24-hour dial. If you dislike bisecting angles or
+Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
 more common, so here's how it's done.
 
