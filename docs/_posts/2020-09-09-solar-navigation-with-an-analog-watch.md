@@ -115,22 +115,20 @@ Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
 more common, so here's how it's done.
 
-#### (when north of the sun's path or directly on it)
 1. Position the watch dial vertically with the solar noon position at the top.
 2. Tilt the dial away from you by an angle equal to your latitude.
 3. Rotate your body till the sun is halfway between the hour hand and solar noon.<sup>d</sup>
-4. The dial's solar noon position now points southward<sup>b</sup>.
+4. The dial's solar noon position now points either northward or southward.<sup>b,e</sup>
 
 <sup>d</sup> When the sun is north of the equator, you can use a knife blade to
 cast a shadow on the dial as an alignment guide. Otherwise, it may be helpful
 as an extended marker of the halfway point.
 {:.tangent .indent}
 
-#### (when south of the sun's path)
-1. Position the watch dial vertically with the position halfway between the hour hand and solar noon is at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.
-3. Rotate your body till the solar-noon position points toward the sun.<sup>c</sup>
-4. The top of the dial now points northward.
+<sup>e</sup> If the sun moves to your right over time, then you're facing
+south; otherwise north. North of the tropics, the sun is always to your south;
+south of the tropics, it's always to your north.
+{:.tangent .indent}
 
 ### How accurate is watch-based navigation?
 
@@ -152,9 +150,9 @@ It's worth finding out when your local solar noon is. One way is to observe the
 shadow of a vertical pole over time. At solar noon, the pole's shadow will be
 at its shortest. Solar noon varies a bit over the seasons due to Earth's
 elliptic orbit, so you may want to just remember what time it comes on
-Christmas Eve<sup>d</sup>. That'll get you within 16 minutes, or 4°.
+Christmas Eve<sup>f</sup>. That'll get you within 16 minutes, or 4°.
 
-<sup>d</sup> The time that you're looking for is your _solar MEAN noon_. Your
+<sup>f</sup> The time that you're looking for is your _solar MEAN noon_. Your
 _actual_ solar noon will occur at this time on April 15, June 15, September 1,
 and December 24.
 {:.tangent}
@@ -164,18 +162,18 @@ and December 24.
 
 For the most accurate readings, the dial of your watch should be parallel to
 the plane at the equator which bisects Earth into its two hemispheres. If you
-hold your watch horizontally<sup>e</sup> like an amateur, you'll add up to 45°
-of error at the edges of the tropics or 21° in northern USA.<sup>f</sup> But if
+hold your watch horizontally<sup>g</sup> like an amateur, you'll add up to 45°
+of error at the edges of the tropics or 21° in northern USA.<sup>h</sup> But if
 you can hold it within 9° of proper alignment, a goal easily met by eyeball,
 then your maximum directional error due to equatorial misalignment shrinks to
 just 3°.
 
-<sup>e</sup> Other instruction on navigating with a watch assumes that equally
+<sup>g</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
 wrong][bicevskis-error].
 {:.tangent}
 
-<sup>f</sup> These errors peak on the summer solstice, eastward three hours
+<sup>h</sup> These errors peak on the summer solstice, eastward three hours
 before solar noon and westward three hours after.
 {:.tangent}
 
