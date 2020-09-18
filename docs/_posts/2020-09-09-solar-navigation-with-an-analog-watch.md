@@ -9,8 +9,9 @@ redirect_from:
   - /reverse-sundial
 ---
 
-TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane,
-makes a fantastic solar compass.
+TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane and
+aimed with a knife blade, makes a fantastic solar compass. Your 12-hour watch
+does fine too.
 {:.tangent .indent}
 
 You probably already know some basic solar-navigation concepts, but these are
