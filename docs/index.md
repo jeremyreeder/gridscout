@@ -2,6 +2,7 @@
 layout: default
 title: GridScout Map™
 permalink: /
+redirect_from: /contributing
 ---
 
 # GridScout Map™
