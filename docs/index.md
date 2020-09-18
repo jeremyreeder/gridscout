@@ -133,9 +133,7 @@ licensed under [Creative Commons BY 3.0][icon-license].
 
 
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
-[battalion]:        https://adacountylightfoot.github.io
-[blog]:             journal/
-[contributing]:     contributing
+[blog]:             gazette/
 [duralar]:          https://smile.amazon.com/gp/product/B0015LWRZY
 [github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
 [freepik]:          https://www.freepik.com
