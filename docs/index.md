@@ -125,7 +125,8 @@ Build an Area Study for Emergencies and Community Security][area-study],
 courtesy of [Forward Observer][forward-observer].
 
 ## Blog
-Subscribe to [GridScout™ Journal][blog] to keep up on this and other manly pursuits.
+Subscribe to [GridScout Gazette™][blog] to keep up on this and other manly
+pursuits.
 
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
