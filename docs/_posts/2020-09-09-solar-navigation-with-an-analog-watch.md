@@ -80,8 +80,7 @@ allows you to navigate without removing the watch from your wrist.
 
 <div class="gallery indent" markdown="1">
 ![][raketa-watch-photo]
-![][svalbard-watch-photo]
-*Raketa Sputnik from St Petersburg, & a simplified Russian-style Svalbard*
+*Raketa Sputnik -- a 24-hour watch from St Petersburg*
 </div>
 
 #### (when north of the sun's path or directly on it)
@@ -193,7 +192,6 @@ compasses are [useless][compass-failure] inside the polar circles.
 
 
 [raketa-watch-photo]:   {{ '/images/raketa-sputnik-watch.jpg'   | prepend: site.url }}
-[svalbard-watch-photo]: {{ '/images/svalbard-noonday-aa17.jpg'  | prepend: site.url }}
 
 [bicevskis-error]:  http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
 [compass-failure]:  https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
