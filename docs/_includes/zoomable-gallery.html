@@ -4,7 +4,7 @@
 		document.location = image.src
 	}
 	function makeGalleryZoomable() {
-		var imageIterator = document.evaluate('//*[@class="gallery"]//img', document)
+		var imageIterator = document.evaluate('//*[contains(concat(" ", normalize-space(@class), " "), " gallery ")]//img', document)
 		while (image = imageIterator.iterateNext())
 			image.onclick = zoom
 	}
