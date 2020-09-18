@@ -81,7 +81,7 @@ allows you to navigate without removing the watch from your wrist.
 <div class="gallery indent" markdown="1">
 ![][raketa-watch-photo]
 ![][svalbard-watch-photo]
-*Raketa Sputnik from St Petersburg, & a Russian-style Svalbard Noonday*
+*Raketa Sputnik from St Petersburg, & a Russian-style Svalbard*
 </div>
 
 #### (when north of the sun's path or directly on it)
