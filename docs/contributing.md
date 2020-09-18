@@ -21,7 +21,7 @@ policing of the county.
 
 - FEMA encourages and trains Community Emergency Response Teams (CERTs).
 
-- Some amateur-radio groups, such as the Amateur Radio Emergency Service
+- Certain amateur-radio groups, such as the Amateur Radio Emergency Service
 (ARES), provide emergency communication services. They often coordinate with
 other emergency services such as the American Red Cross.
 
