@@ -79,9 +79,10 @@ bottom, as is common in Russian military watches. This arrangement generally
 allows you to navigate without removing the watch from your wrist.
 
 <div class="gallery" markdown="1">
-![][russian-watch-photo]
-*Raketa Sputnik -- a 24-hour watch from St Petersburg*
+![][raketa-watch-photo]
 {:.indent}
+![][svalbard-watch-photo]
+*Raketa Sputnik from St Petersburg, & Svalbard Noonday*
 </div>
 
 #### (when north of the sun's path or directly on it)
@@ -192,7 +193,8 @@ side of it to cast a knife-blade shadow on your dial. Handy, since magnetic
 compasses are [useless][compass-failure] inside the polar circles.
 
 
-[russian-watch-photo]: {{ '/images/raketa-sputnik-watch.jpg' | prepend: site.url }}
+[raketa-watch-photo]:   {{ '/images/raketa-sputnik-watch.jpg'   | prepend: site.url }}
+[svalbard-watch-photo]: {{ '/images/svalbard-noonday-aa17b.jpg' | prepend: site.url }}
 
 [bicevskis-error]:  http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
 [compass-failure]:  https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
