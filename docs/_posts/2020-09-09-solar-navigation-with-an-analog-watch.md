@@ -139,10 +139,13 @@ still be helpful as an extended marker of the reference point.
 ### How accurate is watch-based navigation?
 
 Almost perfectly accurate in theory, and plenty accurate in practice. You can
-reasonably expect to limit your maximum error to 4° using solar noon, or to 8° using solar _mean_ noon. As with any other reverse
+reasonably expect to limit your maximum error to 4°.<sup>e</sup> As with any other reverse
 equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
+
+<sup>e</sup> Assuming an accurate solar noon. Add 4° if using _solar MEAN noon_. The distinction is given below.
+{:.tangent}
 
 #### Solar-noon error
 
@@ -156,30 +159,29 @@ It's worth finding out when your local solar noon is. One way is to observe the
 shadow of a vertical pole over time. At solar noon, the pole's shadow will be
 at its shortest. Solar noon varies a bit over the seasons due to Earth's
 elliptic orbit, so you may want to just remember what time it comes on
-Christmas Eve<sup>e</sup>. That'll get you within 16 minutes, or 4°.
+Christmas Eve<sup>f</sup>. That'll get you within 16 minutes, or 4°.
 
-<sup>e</sup> The time that you're looking for is your _solar MEAN noon_. Your
+<sup>f</sup> The time that you're looking for is your _solar MEAN noon_. Your
 _actual_ solar noon will occur at this time on April 15, June 15, September 1,
 and December 24.
 {:.tangent}
-
 
 #### Equatorial-alignment error
 
 For the most accurate readings, the dial of your watch should be parallel to
 the plane at the equator which bisects Earth into its two hemispheres. If you
-hold your watch horizontally<sup>f</sup> like an amateur, you'll add up to 45°
-of error at the edges of the tropics or 21° in northern USA.<sup>g</sup> But if
+hold your watch horizontally<sup>g</sup> like an amateur, you'll add up to 45°
+of error at the edges of the tropics or 21° in northern USA.<sup>h</sup> But if
 you can hold it within 9° of proper alignment, a goal easily met by eyeball,
 then your maximum directional error due to equatorial misalignment shrinks to
 just 3°.
 
-<sup>f</sup> Other instruction on navigating with a watch assumes that equally
+<sup>g</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
 wrong][bicevskis-error].
 {:.tangent}
 
-<sup>g</sup> These errors peak on the summer solstice, eastward three hours
+<sup>h</sup> These errors peak on the summer solstice, eastward three hours
 before solar noon and westward three hours after.
 {:.tangent}
 
