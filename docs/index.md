@@ -90,15 +90,12 @@ searches. If this is a serious problem for you, then don't use the aerial view.
 {:#jeremy}
 Professionally, I'm a corporate security analyst and a retired [bank-vault
 engineer][safehouse]. I take an interest in the security of my home and my
-community, so I make a point of protecting them as well. In the past I have
-volunteered as a firefighter, a home security advisor, and a range safety
-officer.
+community, so I try to protect them as well. I have
+volunteered as a firefighter, home security advisor, range safety
+officer, and community defense analyst.
 
-You may wish to protect your own home and community. I suggest that you work
-together with others around you who share this goal. A group like that may be
-called an emergency response team, an emergency service, a posse, or a militia.
-If you're in search of ways to contribute to the defense of your own community,
-I've got some [ideas][contributing].
+To protect your own home and community, you may wish to work
+together with others who share your goals. An emergency response team, search & rescue group, emergency radio service, posse, or militia unit.
 
 I created GridScout Map™ to help me in my role as a community defense
 analyst for [my local battalion][battalion] of Idaho's unorganized militia. I
