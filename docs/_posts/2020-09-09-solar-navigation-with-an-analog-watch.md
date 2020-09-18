@@ -144,7 +144,7 @@ equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>e</sup> Assuming an accurate solar noon. Add 4° if using _solar MEAN noon_. The distinction is given below.
+<sup>e</sup> Assuming up-to-date knowledge of solar noon. Add 4° if using _solar MEAN noon_. The distinction is given below.
 {:.tangent}
 
 #### Solar-noon error
