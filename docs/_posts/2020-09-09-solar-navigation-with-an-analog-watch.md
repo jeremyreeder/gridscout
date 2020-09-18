@@ -193,7 +193,7 @@ compasses are [useless][compass-failure] inside the polar circles.
 
 
 [raketa-watch-photo]:   {{ '/images/raketa-sputnik-watch.jpg'   | prepend: site.url }}
-[svalbard-watch-photo]: {{ '/images/svalbard-noonday-aa17b.jpg' | prepend: site.url }}
+[svalbard-watch-photo]: {{ '/images/svalbard-noonday-aa17.jpg'  | prepend: site.url }}
 
 [bicevskis-error]:  http://www.wildwoodsurvival.com/survival/navigation/rbsolarnav/index.html
 [compass-failure]:  https://cultofsea.com/general/using-magnetic-compass-in-polar-regions/
