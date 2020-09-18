@@ -139,7 +139,7 @@ still be helpful as an extended marker of the reference point.
 ### How accurate is watch-based navigation?
 
 Almost perfectly accurate in theory, and plenty accurate in practice. You can
-reasonably expect to limit your maximum error to 5° using solar noon, or to 9° using solar _mean_ noon. As with any other reverse
+reasonably expect to limit your maximum error to 4° using solar noon, or to 8° using solar _mean_ noon. As with any other reverse
 equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
