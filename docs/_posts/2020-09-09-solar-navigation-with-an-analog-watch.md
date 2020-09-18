@@ -144,10 +144,12 @@ equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>e</sup> Assuming up-to-date knowledge of solar noon. Add 4° if using _solar MEAN noon_. The distinction is given below.
+<sup>e</sup> Assuming up-to-date knowledge of solar noon. Make it 8° if using _solar MEAN noon_. The distinction is explained below.
 {:.tangent}
 
 #### Solar-noon error
+
+Solar noon is the moment at which the sun is highest in the sky on a particular day at a particular longitude. It rarely coincides with 12:00 on your watch, which is _civil noon_.
 
 If _civil time_ at any place on Earth were defined as the _solar time_ at the
 nearest of 24 equally spaced meridians, then it could always be trusted to be
