@@ -78,11 +78,10 @@ Navigation is easiest with daytime at the top of the dial and nighttime at the
 bottom, as is common in Russian military watches. This arrangement generally
 allows you to navigate without removing the watch from your wrist.
 
-<div class="gallery" markdown="1">
+<div class="gallery indent" markdown="1">
 ![][raketa-watch-photo]
-{:.indent}
 ![][svalbard-watch-photo]
-*Raketa Sputnik from St Petersburg, & Svalbard Noonday*
+*Raketa Sputnik from St Petersburg, & a Russian-style Svalbard Noonday*
 </div>
 
 #### (when north of the sun's path or directly on it)
