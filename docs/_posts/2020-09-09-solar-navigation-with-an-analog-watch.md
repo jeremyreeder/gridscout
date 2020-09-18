@@ -151,7 +151,7 @@ plane.
 
 Solar noon is the moment at which the sun is highest in the sky on a particular day at a particular longitude. It rarely coincides with 12:00 on your watch, which is _civil noon_.
 
-If _civil time_ at any place on Earth were defined as the _solar time_ at the
+If _civil time_ at any place on Earth were defined as the _solar time_ of the
 nearest of 24 equally spaced meridians, then it could always be trusted to be
 within 30 minutes, or 7½°, of correct. But in reality our time zones have
 irregular borders and are often made worse in the warmer months by daylight
