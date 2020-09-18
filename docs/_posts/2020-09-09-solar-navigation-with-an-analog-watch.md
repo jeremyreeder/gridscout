@@ -11,7 +11,7 @@ redirect_from:
 
 TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane and
 aimed with a knife blade, makes a fantastic solar compass. Your inferior
-12-hour watch does fine too.
+12-hour watch would do fine too, with some trickery.
 {:.tangent .indent}
 
 You probably already know some basic solar-navigation concepts, but these are
