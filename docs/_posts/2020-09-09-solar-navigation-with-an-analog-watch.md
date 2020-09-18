@@ -144,28 +144,23 @@ equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>e</sup> Assuming up-to-date knowledge of solar noon. Make it 8° if using _solar MEAN noon_. The distinction is explained below.
+<sup>e</sup> Assuming up-to-date knowledge of solar noon. Make it 8° if using _solar **mean** noon_. The distinction is given below.
 {:.tangent}
 
 #### Solar-noon error
 
 Solar noon is the moment at which the sun is highest in the sky on a particular day at a particular longitude. It rarely coincides with 12:00 on your watch, which is _civil noon_.
 
-If _civil time_ at any place on Earth were defined as the _solar time_ of the
-nearest of 24 equally spaced meridians, then it could always be trusted to be
-within 30 minutes, or 7½°, of correct. But in reality our time zones have
-irregular borders and are often made worse in the warmer months by daylight
-saving time. So civil time can easily be off by two hours, sometimes more.
+Due to irregular time-zone borders and daylight saving time, _civil time_ can easily be off by two hours, sometimes more.
+So it's worth finding out when your local solar noon is.
 
-It's worth finding out when your local solar noon is. One way is to observe the
+One way is to observe the
 shadow of a vertical pole over time. At solar noon, the pole's shadow will be
 at its shortest. Solar noon varies a bit over the seasons due to Earth's
-elliptic orbit, so you may want to just remember what time it comes on
-Christmas Eve<sup>f</sup>. That'll get you within 16 minutes, or 4°.
+elliptic orbit, so you may just want to remember what time it comes on
+Christmas Eve<sup>f</sup>. That's _solar **mean** noon_, and it'll get you within 16 minutes, or 4°.
 
-<sup>f</sup> The time that you're looking for is your _solar MEAN noon_. Your
-_actual_ solar noon will occur at this time on April 15, June 15, September 1,
-and December 24.
+<sup>f</sup> _Solar **mean** noon_ also coincides with _solar noon_ on April 15, June 15, and September 1.
 {:.tangent}
 
 #### Equatorial-alignment error
