@@ -48,7 +48,7 @@ Yeah, okay, but when is noon? Do you trust the government to tell you? Ha! Today
 Don't forget, of course, that in parts of the world the sun is _north_ at solar
 noon. And in the tropics, it alternates.
 
-## True directions with a reverse sundial
+## _True_ directions with a reverse sundial
 
 Now that we've got those directional _lies_ out of the way, let's discuss how
 to find the _truth_. The hour hand of a 24-hour analog watch follows the
