@@ -150,14 +150,13 @@ plane.
 
 #### Solar-noon error
 
-Solar noon is the moment at which the sun is highest in the sky on a particular day at a particular longitude. 12:00 on your watch is _civil noon_, but that's not what you need.
+12:00 _civil time_ is the average atomic time at which the sun passes a particular government-specified meridian. A useful reference, but it rarely coincides with the actual solar noon of _your_ location.
 
-Due to irregular time-zone borders and daylight saving time, _civil time_ can easily be off by two hours, sometimes more.
-So it's worth finding out when your local solar noon is.
+Due to irregular time-zone borders and daylight saving time, civil time can easily be off by two hours, sometimes more.
 
-One way is to observe the
+One way to identify solar noon is to observe the
 shadow of a vertical pole over time. At solar noon, the pole's shadow will be
-at its shortest. Solar noon varies a bit over the seasons due to Earth's
+at its shortest of the day. The atomic time at which this occurs will vary a bit over the seasons due to Earth's
 elliptic orbit, so you may just want to remember what time it comes on
 Christmas Eve<sup>g</sup>. That's _solar **mean** noon_, and it'll get you within 16 minutes, or 4°.
 
