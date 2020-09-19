@@ -34,7 +34,7 @@ The sun rises approximately in the east and sets approximately in the west.
 Twice a year, at the equinoxes, any deviation from due east and due west is
 negligible. But the sun deviates northward in both rising and setting as we
 approach the June solstice. And it deviates southward as we approach the
-December solstice.  At each solstice you'll get at least 25° of deviation,
+December solstice. At each solstice you'll get at least 25° of deviation,
 depending on your latitude. Inside the polar circles, the sun won't actually
 rise or set at all, it'll only circle around you just above or below the
 horizon.
@@ -43,8 +43,8 @@ horizon.
 ### Lie #2: The sun is directly south at noon.
 
 Yeah, okay, but when is noon? Do you trust the government to tell you? They may
-mislead you by an hour or more. Local solar noon may not come at 12:00 civil
-time. It varies with your longitudinal position within the time zone, and
+mislead you by an hour or more. Solar noon rarely coincides with 12:00 civil
+time. It varies with your longitudinal position within your time zone, and
 daylight saving time moves it an hour clockwise. Today my solar noon is at
 13:42.
 
@@ -58,7 +58,7 @@ to find the _truth_. The hour hand of a 24-hour analog watch follows the
 apparent path of the sun very well, so it comes in pretty handy as a compass.
 With a little trickery, even a 12-hour watch will do.
 
-But first you'll have to identify your local solar noon. Calculate it or look
+But first you'll have to identify your solar noon. Calculate it or look
 it up. Use 12:00 as a rough approximation _if you must_, or 13:00 during
 daylight saving time.
 
