@@ -42,7 +42,7 @@ horizon.
 
 ### Lie #2: The sun is directly south at noon.
 
-Yeah, okay, but when is noon? Do you trust the government to tell you? Their _civil time_, although useful as a reference, rarely coincides with _apparent solar time_. _Solar noon_ varies with your longitudinal position within your time zone, and
+Yeah, okay, but when is noon? Do you trust the government to tell you? Their _civil time_, although useful as a reference, rarely coincides with _apparent solar time_. _Solar noon_ varies with your longitudinal position relative to your time zone's reference meridian, and
 daylight saving time moves it an hour clockwise. Today my solar noon is at
 13:42.
 
