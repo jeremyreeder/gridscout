@@ -90,6 +90,7 @@ allows you to navigate without removing the watch from your wrist.
 4. You're now facing southward<sup>c</sup>.
 
 <sup>a</sup> Just eyeball it. You'll be close enough.
+{:.tangent}
 
 <sup>b</sup> If the sun is north of the equator, you can use a knife blade to
 cast a shadow on the hour hand as an alignment guide. Otherwise, it may still
