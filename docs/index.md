@@ -99,10 +99,8 @@ share your goals. An emergency response team, search & rescue group, emergency
 radio service, posse, or militia unit.
 {:.tangent}
 
-I created GridScout Map™ as a tool for community defense analysts of Idaho's
-unorganized militia. I share it to help people of all communities in the
-development of their own map-based intel. On this website, I write occasionally
-about this and other manly topics as my manliness directs me.
+I created GridScout Map™ as a tool for defense analysts in my community. I share it to help anyone with similar mapping needs. On this website, I write occasionally
+about this and other manly topics as my manliness directs me, along with my buddy Leeroy.
 
 You can reach me at [jeremy@gridscout.net][jeremy]. To encrypt the
 conversation, use [ProtonMail][protonmail] or an OpenPGP-based email client.
