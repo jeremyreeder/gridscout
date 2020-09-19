@@ -63,7 +63,7 @@ it up. Use 12:00 as a rough approximation _if you must_, or 13:00 during
 daylight saving time.
 
 Next, you'll set up your watch as a _reverse equatorial sundial_ and pivot your
-body till the sundial reads the correct time. When it does, you'll know which
+body till the dial aligns with the sun. When it does, you'll know which
 direction you're facing because a sundial only reads the correct time when it's
 facing the direction that it's calibrated for. Whereas sundials are usually
 pointed in the proper direction and then used to determine the current time,
@@ -147,12 +147,12 @@ equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>f</sup> Assuming up-to-date knowledge of solar noon. Make it 7° if using _solar **mean** noon_. The distinction is given below.
+<sup>f</sup> Assuming up-to-date knowledge of solar noon. Make that 7° if you use _solar **mean** noon_. The distinction is given below.
 {:.tangent}
 
 #### Solar-noon error
 
-Solar noon is the moment at which the sun is highest in the sky on a particular day at a particular longitude. It rarely coincides with 12:00 on your watch, which is _civil noon_.
+Solar noon is the moment at which the sun is highest in the sky on a particular day at a particular longitude. 12:00 on your watch is _civil noon_, but that's not what you need.
 
 Due to irregular time-zone borders and daylight saving time, _civil time_ can easily be off by two hours, sometimes more.
 So it's worth finding out when your local solar noon is.
