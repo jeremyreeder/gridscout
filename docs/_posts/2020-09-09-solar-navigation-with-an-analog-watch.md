@@ -51,7 +51,7 @@ noon. And in the tropics, it alternates.
 
 Now that we've got those directional _lies_ out of the way, let's discuss how
 to find the _truth_. The hour hand of a 24-hour analog watch follows the
-apparent path of the sun very well, so it comes in pretty handy as a compass.
+apparent path of the sun very well, so it comes in handy as a compass.
 With a little trickery, even a 12-hour watch will do.
 
 But first you'll have to identify your solar noon. Calculate it or look
