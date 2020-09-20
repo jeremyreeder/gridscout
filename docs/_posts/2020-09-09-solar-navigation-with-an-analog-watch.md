@@ -34,7 +34,7 @@ Twice a year, at the equinoxes, the sun rises due east and sets due west.
 But both the rising and the setting deviate northward as we
 approach the June solstice, and southward for the
 December solstice. You'll get at least 25° of deviation at each solstice,
-depending on your latitude. Inside the polar circles, the sun won't actually
+depending on your latitude. Inside the polar circles, the sun won't
 rise or set at all, it'll only circle around you just above or below the
 horizon.
 {:.indent}
