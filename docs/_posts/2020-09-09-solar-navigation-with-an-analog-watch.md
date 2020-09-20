@@ -143,7 +143,7 @@ equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>f</sup> Assuming up-to-date knowledge of solar noon. Make that 7° if you use _solar **mean** noon_. The distinction is given below.
+<sup>f</sup> Assuming up-to-date knowledge of solar noon. Make that 7° if you use _**mean** solar noon_. The distinction is given below.
 {:.tangent}
 
 #### Solar-noon error
@@ -156,9 +156,9 @@ One way to identify solar noon is to observe the
 shadow of a vertical pole over time. At solar noon, the pole's shadow will be
 at its shortest of the day. The atomic time at which this occurs will vary a bit over the seasons due to Earth's
 elliptic orbit, so you may just want to remember what time it comes on
-Christmas Eve<sup>g</sup>. That's _solar **mean** noon_, and it'll get you within 16 minutes, or 4°.
+Christmas Eve<sup>g</sup>. That's _mean solar noon_, and it'll get you within 16 minutes, or 4°.
 
-<sup>g</sup> _Solar **mean** noon_ also coincides with _solar noon_ on April 15, June 15, and September 1.
+<sup>g</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15, June 15, and September 1.
 {:.tangent}
 
 #### Equatorial-alignment error
