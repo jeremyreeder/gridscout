@@ -143,7 +143,7 @@ equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>f</sup> Assuming up-to-date knowledge of solar noon. Make that 7° if you use _**mean** solar noon_. The distinction is given below.
+<sup>f</sup> Assuming up-to-date knowledge of _solar noon_. Make that 7° if you use _**mean** solar noon_. The distinction is given below.
 {:.tangent}
 
 #### Solar-noon error
