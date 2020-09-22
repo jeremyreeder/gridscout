@@ -53,19 +53,24 @@ noon. And in the tropics, it alternates.
 
 Now that we've got those directional _lies_ out of the way, let's discuss how
 to find the _truth_. The hour hand of a 24-hour analog watch follows the
-apparent path of the sun very well, so it comes in handy as a compass.
-With a little trickery, even a 12-hour watch will do.
+apparent path of the sun very well as seen from above the north pole. So with
+proper alignment, it comes in handy as a solar compass. With a little trickery,
+even a 12-hour watch will do.
 
-But first you'll have to identify your solar noon. Calculate it or look
-it up. Use 12:00 as a rough approximation _if you must_, or 13:00 during
-daylight saving time.
+But first you'll have to know two things: your latitude, and what time on your
+watch corresponds with solar noon. You can calculate solar noon or look it up.
+Use 12:00 as a rough approximation _if you must_, or 13:00 during daylight
+saving time.
 
-Next, you'll set up your watch as a _reverse equatorial sundial_ and pivot your
-body till the dial aligns with the sun. When it does, you'll know which
-direction you're facing because a sundial only reads the correct time when it's
-facing the direction that it's calibrated for. Whereas sundials are usually
-pointed in the proper direction and then used to determine the current time,
-they work equally well in reverse.
+One way to identify solar noon is to observe the shadow of a vertical pole over
+time. At solar noon, the pole's shadow will be at its shortest of the day.
+{:.tangent}
+
+Next, you'll align your watch as a _reverse equatorial sundial_. Once aligned,
+you'll know which direction you're facing because a sundial only reads the
+right time when it's facing a particular direction. Whereas sundials are
+usually pointed in that direction and _then_ used to determine the _time_, they
+work equally well in reverse.
 
 Read on to find out exactly _how_ to navigate with just an analog watch and a
 pocket knife.
@@ -85,9 +90,9 @@ from your wrist.
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 </div>
 
-#### (when north of the sun's path or directly on it)
+#### (when north of the equator or directly on it)
 1. Position the watch dial vertically with the solar noon time at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.<sup>a</sup>
+2. Tilt the dial forward by an angle equal to your northern latitude.<sup>a</sup>
 3. Rotate your body till the hour hand points toward the sun.<sup>b</sup>
 4. You're now facing southward<sup>c</sup>.
 
@@ -103,9 +108,9 @@ be helpful as an extension of the hour hand.
 If it does, all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
-#### (when south of the sun's path)
+#### (when south of the equator)
 1. Position the watch dial vertically with the hour hand at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.<sup>a</sup>
+2. Tilt the dial forward by an angle equal to your southern latitude.<sup>a</sup>
 3. Rotate your body till the solar noon position points toward the sun.<sup>d</sup>
 4. You're now facing northward.
 
@@ -120,10 +125,10 @@ Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
 more common, so here's how to make do.
 
-#### (when north of the sun's path or directly on it)
+#### (when north of the equator or directly on it)
 
 1. Position the watch dial vertically with the solar noon time at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.<sup>e</sup>
+2. Tilt the dial away from you by an angle equal to your northern latitude.<sup>e</sup>
 3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward from solar noon in the morning or rightward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
 5. You're now facing southward.<sup>g</sup>
@@ -140,10 +145,10 @@ still be helpful as an extended marker of the reference point.
 If it does, all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
-#### (when south of the sun's path)
+#### (when south of the equator)
 
 1. Position the watch dial vertically with the hour hand at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.<sup>e</sup>
+2. Tilt the dial away from you by an angle equal to your southern latitude.<sup>e</sup>
 3. Identify the sun's reference point on your dial. You'll find it halfway from the hour hand to solar noon, searching rightward from the hour hand in the morning or leftward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
 5. You're now facing northward.
@@ -162,18 +167,16 @@ use _**mean** solar noon_. The distinction is given below.
 
 #### Solar-noon error
 
-12:00 _civil time_ is the average atomic time at which the sun passes a
-particular government-specified meridian. A useful reference, but it rarely
-coincides with the actual solar noon of _your_ location. Due to irregular
-time-zone borders and daylight saving time, civil time can easily be off by two
-hours, sometimes more.
+I presume that your watch is set to _civil time_. 12:00 civil time is the
+average _atomic time_ at which the sun passes a particular government-specified
+meridian. A useful reference, but it rarely coincides with the actual solar
+noon of _your_ location. Due to irregular time-zone borders and daylight saving
+time, civil time can easily be off by two hours, sometimes more.
 
-One way to identify solar noon is to observe the shadow of a vertical pole over
-time. At solar noon, the pole's shadow will be at its shortest of the day. The
-atomic time at which this occurs will vary a bit over the seasons due to
-Earth's elliptic orbit, so you may just want to remember what time it comes on
-Christmas Eve<sup>i</sup>. That's _mean solar noon_, and it'll get you within
-16 minutes, or 4°.
+The time on your watch that corresponds with solar noon will also vary a bit
+over the seasons due to Earth's elliptic orbit, so you may just want to
+remember what time it comes on Christmas Eve<sup>i</sup>. That's _mean solar
+noon_. It'll get you within 16 minutes, or 4°.
 
 <sup>i</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15,
 June 15, and September 1.
