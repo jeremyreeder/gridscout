@@ -24,6 +24,8 @@ Here I present _actual_ truths about the position of the sun and a far better
 way to use it to find directions. No equipment necessary except an analog
 watch and a pocket knife.
 
+<a class="button" href="#action">Skip to the action</a>
+
 ### Lie #1: The sun rises in the east and sets in the west.
 
 At my home near the 43<sup>rd</sup> parallel, trusting that the sun rises in
@@ -41,13 +43,14 @@ horizon.
 
 ### Lie #2: The sun is directly south at noon.
 
-Yeah, okay, but when is noon? Do you trust the government to tell you? Ha! Today my solar noon came at
-13:42, not 12:00.
+Yeah, okay, but when is noon? Do you trust the government to tell you? Ha!
+Today my solar noon came at 13:42, not 12:00.
 
 Don't forget, of course, that in parts of the world the sun is _north_ at solar
 noon. And in the tropics, it alternates.
 
 ## _True_ directions with a reverse sundial
+{:#action}
 
 Now that we've got those directional _lies_ out of the way, let's discuss how
 to find the _truth_. The hour hand of a 24-hour analog watch follows the
@@ -70,9 +73,10 @@ pocket knife.
 
 ### Navigating with a 24-hour dial
 
-Navigation is easiest with a 24-hour dial that shows daytime hours at the top and nighttime at the
-bottom. This arrangement is common in Russian military watches, and it generally
-allows you to navigate without removing the watch from your wrist.
+Navigation is easiest with a 24-hour dial that shows daytime hours at the top
+and nighttime at the bottom. This arrangement is common in Russian military
+watches, and it generally allows you to navigate without removing the watch
+from your wrist.
 
 <div class="gallery indent" markdown="1">
 ![][raketa-watch-photo]
@@ -148,17 +152,21 @@ plane.
 
 #### Solar-noon error
 
-12:00 _civil time_ is the average atomic time at which the sun passes a particular government-specified meridian. A useful reference, but it rarely coincides with the actual solar noon of _your_ location.
+12:00 _civil time_ is the average atomic time at which the sun passes a
+particular government-specified meridian. A useful reference, but it rarely
+coincides with the actual solar noon of _your_ location. Due to irregular
+time-zone borders and daylight saving time, civil time can easily be off by two
+hours, sometimes more.
 
-Due to irregular time-zone borders and daylight saving time, civil time can easily be off by two hours, sometimes more.
+One way to identify solar noon is to observe the shadow of a vertical pole over
+time. At solar noon, the pole's shadow will be at its shortest of the day. The
+atomic time at which this occurs will vary a bit over the seasons due to
+Earth's elliptic orbit, so you may just want to remember what time it comes on
+Christmas Eve<sup>g</sup>. That's _mean solar noon_, and it'll get you within
+16 minutes, or 4°.
 
-One way to identify solar noon is to observe the
-shadow of a vertical pole over time. At solar noon, the pole's shadow will be
-at its shortest of the day. The atomic time at which this occurs will vary a bit over the seasons due to Earth's
-elliptic orbit, so you may just want to remember what time it comes on
-Christmas Eve<sup>g</sup>. That's _mean solar noon_, and it'll get you within 16 minutes, or 4°.
-
-<sup>g</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15, June 15, and September 1.
+<sup>g</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15,
+June 15, and September 1.
 {:.tangent}
 
 #### Equatorial-alignment error
