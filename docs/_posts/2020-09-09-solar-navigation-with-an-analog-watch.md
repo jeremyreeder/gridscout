@@ -128,7 +128,7 @@ more common, so here's how to make do.
 #### (when north of the equator or directly on it)
 
 1. Position the watch dial vertically with the solar noon time at the top.
-2. Tilt the dial away from you by an angle equal to your northern latitude.<sup>e</sup>
+2. Tilt the dial forward by an angle equal to your northern latitude.<sup>e</sup>
 3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward from solar noon in the morning or rightward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
 5. You're now facing southward.<sup>g</sup>
@@ -148,7 +148,7 @@ If it does, all directions will seem to be south. Wait ten minutes.
 #### (when south of the equator)
 
 1. Position the watch dial vertically with the hour hand at the top.
-2. Tilt the dial away from you by an angle equal to your southern latitude.<sup>e</sup>
+2. Tilt the dial forward by an angle equal to your southern latitude.<sup>e</sup>
 3. Identify the sun's reference point on your dial. You'll find it halfway from the hour hand to solar noon, searching rightward from the hour hand in the morning or leftward in the afternoon.
 4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
 5. You're now facing northward.
