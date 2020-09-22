@@ -90,7 +90,7 @@ from your wrist.
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 </div>
 
-#### (when north of the equator or directly on it)
+#### (when at or north of the equator)
 1. Position the watch dial vertically with the solar noon time at the top.
 2. Tilt the dial forward by an angle equal to your northern latitude.<sup>a</sup>
 3. Rotate your body till the hour hand points toward the sun.<sup>b</sup>
@@ -104,8 +104,8 @@ cast a shadow on the hour hand as an alignment guide. Otherwise, it may still
 be helpful as an extension of the hour hand.
 {:.tangent .indent}
 
-<sup>c</sup> In the tropics, the sun may pass directly overhead at solar noon.
-If it does, all directions will seem to be south. Wait ten minutes.
+<sup>c</sup> If you happen to be on the equator at solar noon on an equinox,
+then all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
 #### (when south of the equator)
@@ -125,7 +125,7 @@ Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
 more common, so here's how to make do.
 
-#### (when north of the equator or directly on it)
+#### (when at or north of the equator)
 
 1. Position the watch dial vertically with the solar noon time at the top.
 2. Tilt the dial forward by an angle equal to your northern latitude.<sup>e</sup>
@@ -141,8 +141,8 @@ blade to cast a shadow on the dial as an alignment guide. Otherwise, it may
 still be helpful as an extended marker of the reference point.
 {:.tangent .indent}
 
-<sup>g</sup> In the tropics, the sun may pass directly overhead at solar noon.
-If it does, all directions will seem to be south. Wait ten minutes.
+<sup>g</sup> If you happen to be on the equator at solar noon on an equinox,
+then all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
 #### (when south of the equator)
