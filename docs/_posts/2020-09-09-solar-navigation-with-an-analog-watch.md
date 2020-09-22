@@ -128,6 +128,13 @@ more common, so here's how to make do.
 4. Rotate your body till the sun is aligned with its reference point.<sup>e</sup>
 5. You're now facing southward.<sup>c</sup>
 
+<sup>a</sup> Just eyeball it. You'll be close enough.
+{:.tangent .indent}
+
+<sup>c</sup> In the tropics, the sun may pass directly overhead at solar noon.
+If it does, all directions will seem to be south. Wait ten minutes.
+{:.tangent .indent}
+
 <sup>e</sup> When the sun is on your side of the equator, you can use a knife
 blade to cast a shadow on the dial as an alignment guide. Otherwise, it may
 still be helpful as an extended marker of the reference point.
