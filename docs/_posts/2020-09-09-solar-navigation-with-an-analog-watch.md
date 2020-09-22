@@ -71,7 +71,8 @@ they work equally well in reverse.
 Read on to find out exactly _how_ to navigate with just an analog watch and a
 pocket knife.
 
-### Navigating with a 24-hour dial
+### Navigating with a 24-hour dial <a class="btn" href="#12h-navigation">Skip to 12h</a>
+{:#24h-navigation}
 
 Navigation is easiest with a 24-hour dial that shows daytime hours at the top
 and nighttime at the bottom. This arrangement is common in Russian military
@@ -112,7 +113,8 @@ cast a shadow on the solar-noon position as an alignment guide. Otherwise, it
 may still be helpful as an extended marker of solar noon.
 {:.tangent .indent}
 
-### Navigating with a 12-hour dial
+### Navigating with a 12-hour dial <a class="btn" href="#12h-navigation">Back to 24h</a>
+{:#12h-navigation}
 
 Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
 need an excuse to go watch-shopping, keep that in mind. But 12-hour watches are
