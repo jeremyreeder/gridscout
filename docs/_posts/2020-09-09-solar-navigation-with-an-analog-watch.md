@@ -50,7 +50,6 @@ Don't forget, of course, that in parts of the world the sun is _north_ at solar
 noon. And in the tropics, it alternates.
 
 ## _True_ directions with a reverse sundial
-{:#action}
 
 Now that we've got those directional _lies_ out of the way, let's discuss how
 to find the _truth_. The hour hand of a 24-hour analog watch follows the
@@ -70,6 +69,7 @@ they work equally well in reverse.
 
 Read on to find out exactly _how_ to navigate with just an analog watch and a
 pocket knife.
+{:#action}
 
 ### Navigating with a 24-hour dial
 
