@@ -123,40 +123,41 @@ more common, so here's how to make do.
 #### (when north of the sun's path or directly on it)
 
 1. Position the watch dial vertically with the solar noon time at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.<sup>a</sup>
+2. Tilt the dial away from you by an angle equal to your latitude.<sup>e</sup>
 3. Identify the sun's reference point on your dial. You'll find it halfway from solar noon to the hour hand, searching leftward from solar noon in the morning or rightward in the afternoon.
-4. Rotate your body till the sun is aligned with its reference point.<sup>e</sup>
-5. You're now facing southward.<sup>c</sup>
+4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
+5. You're now facing southward.<sup>g</sup>
 
-<sup>a</sup> Just eyeball it. You'll be close enough.
+<sup>e</sup> Just eyeball it. You'll be close enough.
 {:.tangent .indent}
 
-<sup>c</sup> In the tropics, the sun may pass directly overhead at solar noon.
-If it does, all directions will seem to be south. Wait ten minutes.
-{:.tangent .indent}
-
-<sup>e</sup> When the sun is on your side of the equator, you can use a knife
+<sup>f</sup> When the sun is on your side of the equator, you can use a knife
 blade to cast a shadow on the dial as an alignment guide. Otherwise, it may
 still be helpful as an extended marker of the reference point.
+{:.tangent .indent}
+
+<sup>g</sup> In the tropics, the sun may pass directly overhead at solar noon.
+If it does, all directions will seem to be south. Wait ten minutes.
 {:.tangent .indent}
 
 #### (when south of the sun's path)
 
 1. Position the watch dial vertically with the hour hand at the top.
-2. Tilt the dial away from you by an angle equal to your latitude.<sup>a</sup>
+2. Tilt the dial away from you by an angle equal to your latitude.<sup>e</sup>
 3. Identify the sun's reference point on your dial. You'll find it halfway from the hour hand to solar noon, searching rightward from the hour hand in the morning or leftward in the afternoon.
-4. Rotate your body till the sun is aligned with its reference point.<sup>e</sup>
+4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
 5. You're now facing northward.
 
 ### How accurate is watch-based navigation?
 
 Almost perfectly accurate in theory, and plenty accurate in practice. You can
-reasonably expect to limit your maximum error to 3°.<sup>f</sup> As with any other reverse
+reasonably expect to limit your maximum error to 3°.<sup>h</sup> As with any other reverse
 equatorial sundial, accuracy depends primarily on your identification of local
 solar noon and on fairly good alignment of your watch dial with the equatorial
 plane.
 
-<sup>f</sup> Assuming up-to-date knowledge of _solar noon_. Make that 7° if you use _**mean** solar noon_. The distinction is given below.
+<sup>h</sup> Assuming up-to-date knowledge of _solar noon_. Make that 7° if you
+use _**mean** solar noon_. The distinction is given below.
 {:.tangent}
 
 #### Solar-noon error
@@ -171,10 +172,10 @@ One way to identify solar noon is to observe the shadow of a vertical pole over
 time. At solar noon, the pole's shadow will be at its shortest of the day. The
 atomic time at which this occurs will vary a bit over the seasons due to
 Earth's elliptic orbit, so you may just want to remember what time it comes on
-Christmas Eve<sup>g</sup>. That's _mean solar noon_, and it'll get you within
+Christmas Eve<sup>i</sup>. That's _mean solar noon_, and it'll get you within
 16 minutes, or 4°.
 
-<sup>g</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15,
+<sup>i</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15,
 June 15, and September 1.
 {:.tangent}
 
@@ -182,18 +183,18 @@ June 15, and September 1.
 
 For the most accurate readings, the dial of your watch should be parallel to
 the plane at the equator which bisects Earth into its two hemispheres. If you
-hold your watch horizontally<sup>h</sup> like an amateur, you'll add up to 45°
-of error at the edge of the tropics or 21° in northern USA.<sup>i</sup> But if
+hold your watch horizontally<sup>j</sup> like an amateur, you'll add up to 45°
+of error at the edge of the tropics or 21° in northern USA.<sup>k</sup> But if
 you can hold it within 6° of proper alignment, a goal easily met by eyeball,
 then your maximum directional error due to equatorial misalignment shrinks to
 just 2°.
 
-<sup>h</sup> Other instruction on navigating with a watch assumes that equally
+<sup>j</sup> Other instruction on navigating with a watch assumes that equally
 spaced markings are suitable for a _horizontal_ sundial. I'm right and [they're
 wrong][bicevskis-error].
 {:.tangent}
 
-<sup>i</sup> These errors peak on the summer solstice, eastward three hours
+<sup>k</sup> These errors peak on the summer solstice, eastward three hours
 before solar noon and westward three hours after.
 {:.tangent}
 
