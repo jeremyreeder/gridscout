@@ -71,6 +71,8 @@ Read on to find out exactly _how_ to navigate with just an analog watch and a
 pocket knife.
 {:#action}
 
+<a class="btn" href="#navigating-with-a-12-hour-dial">Skip to 12-hour navigation</a>
+
 ### Navigating with a 24-hour dial
 
 Navigation is easiest with a 24-hour dial that shows daytime hours at the top
@@ -82,8 +84,6 @@ from your wrist.
 ![][raketa-watch-photo]
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 </div>
-
-<a class="btn" href="#navigating-with-a-12-hour-dial">Skip to 12-hour navigation</a>
 
 #### (when north of the sun's path or directly on it)
 1. Position the watch dial vertically with the solar noon time at the top.
