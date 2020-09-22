@@ -113,7 +113,7 @@ cast a shadow on the solar-noon position as an alignment guide. Otherwise, it
 may still be helpful as an extended marker of solar noon.
 {:.tangent .indent}
 
-### Navigating with a 12-hour dial <a class="btn" href="#12h-navigation">Back to 24-hour navigation</a>
+### Navigating with a 12-hour dial <a class="btn" href="#24h-navigation">Back to 24-hour navigation</a>
 {:#12h-navigation}
 
 Remember, it's easier with a _24-hour_ dial. If you dislike bisecting angles or
