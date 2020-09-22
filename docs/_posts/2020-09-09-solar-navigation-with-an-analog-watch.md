@@ -175,8 +175,8 @@ time, civil time can easily be off by two hours, sometimes more.
 
 The time on your watch that corresponds with solar noon will also vary a bit
 over the seasons due to Earth's elliptic orbit, so you may just want to
-remember what time it comes on Christmas Eve<sup>i</sup>. That's _mean solar
-noon_. It'll get you within 16 minutes, or 4°.
+remember what time it comes on Christmas Eve. That's _mean solar
+noon_.<sup>i</sup> It'll get you within 16 minutes, or 4°.
 
 <sup>i</sup> _Mean solar noon_ also coincides with _solar noon_ on April 15,
 June 15, and September 1.
