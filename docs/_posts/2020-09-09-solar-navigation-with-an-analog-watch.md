@@ -83,6 +83,8 @@ from your wrist.
 *Raketa Sputnik -- a 24-hour watch from St Petersburg*
 </div>
 
+<a class="btn" href="#navigating-with-a-12-hour-dial">Skip to 12-hour navigation</a>
+
 #### (when north of the sun's path or directly on it)
 1. Position the watch dial vertically with the solar noon time at the top.
 2. Tilt the dial away from you by an angle equal to your latitude.<sup>a</sup>
