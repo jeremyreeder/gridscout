@@ -91,7 +91,7 @@ from your wrist.
 3. Rotate your body till the hour hand points toward the sun.<sup>b</sup>
 4. You're now facing southward<sup>c</sup>.
 
-<sup>a</sup> Just eyeball it. You'll be close enough.
+<sup>a</sup> Just eyeball it, aiming to get within 6°.
 {:.tangent .indent}
 
 <sup>b</sup> If the sun is north of the equator, you can use a knife blade to
@@ -128,7 +128,7 @@ more common, so here's how to make do.
 4. Rotate your body till the sun is aligned with its reference point.<sup>f</sup>
 5. You're now facing southward.<sup>g</sup>
 
-<sup>e</sup> Just eyeball it. You'll be close enough.
+<sup>e</sup> Just eyeball it, aiming to get within 6°.
 {:.tangent .indent}
 
 <sup>f</sup> When the sun is on your side of the equator, you can use a knife
@@ -151,10 +151,10 @@ If it does, all directions will seem to be south. Wait ten minutes.
 ### How accurate is watch-based navigation?
 
 Almost perfectly accurate in theory, and plenty accurate in practice. You can
-reasonably expect to limit your maximum error to 3°.<sup>h</sup> As with any other reverse
-equatorial sundial, accuracy depends primarily on your identification of local
-solar noon and on fairly good alignment of your watch dial with the equatorial
-plane.
+reasonably expect to limit your maximum error to 3°.<sup>h</sup> As with any
+other reverse equatorial sundial, accuracy depends primarily on your
+identification of local solar noon and on fairly good alignment of your watch
+dial with the equatorial plane.
 
 <sup>h</sup> Assuming up-to-date knowledge of _solar noon_. Make that 7° if you
 use _**mean** solar noon_. The distinction is given below.
