@@ -24,7 +24,7 @@ Here I present _actual_ truths about the position of the sun and a far better
 way to use it to find directions. No equipment necessary except an analog
 watch and a pocket knife.
 
-<a class="button" href="#action">Skip to the action</a>
+<a class="btn" href="#action">Skip to the action</a>
 
 ### Lie #1: The sun rises in the east and sets in the west.
 
