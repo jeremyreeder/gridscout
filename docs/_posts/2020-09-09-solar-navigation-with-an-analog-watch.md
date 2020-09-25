@@ -168,7 +168,7 @@ use _**mean** solar noon_. The distinction is given below.
 #### Solar-noon error
 
 I presume that your watch is set to _civil time_. 12:00 civil time is the
-average _atomic time_ at which the sun passes a particular government-specified
+average _clock time_ at which the sun passes a particular government-specified
 meridian. A useful reference, but it rarely coincides with the actual solar
 noon of _your_ location. Due to irregular time-zone borders and daylight saving
 time, civil time can easily be off by two hours, sometimes more.
