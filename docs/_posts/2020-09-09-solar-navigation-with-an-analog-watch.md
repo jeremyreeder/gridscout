@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 TL;DR -- A Russian-style 24-hour watch, aligned with the equatorial plane and
-aimed with a knife blade, makes a fantastic solar compass. Your inferior
+aimed with a knife blade, makes a fantastic solar compass with 3° accuracy. Your inferior
 12-hour watch will do fine too, with a bit of trickery.
 {:.tangent .indent}
 
