@@ -28,8 +28,8 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
 <p>
 {{ post.excerpt | strip_html | truncatewords:40 }}
-<a class="btn" href="{{ post.url }}">READ MORE</a>
 </p>
+<a class="btn" href="{{ post.url }}">READ MORE</a>
 </div>
 {% endfor %}
 
