@@ -26,7 +26,8 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 <div class="post" markdown="1">
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
-<div>{{ post.excerpt | truncatewords:13 }} <a href="{{ post.url }}">(more)</a></div>
+<div>{{ post.excerpt | truncatewords:40 }} <a href="{{ post.url }}">(more)</a></div>
+</div>
 {% endfor %}
 
 <a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
