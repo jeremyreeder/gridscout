@@ -11,7 +11,7 @@ redirect_from:
 Here's what's going on in the manly arts, from the GridScout™ team.
 
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:2 %}
 <div class="post" markdown="1">
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
@@ -22,7 +22,7 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 </span>
 </div>
 {% endfor %}
-{% for post in site.posts offset:3 %}
+{% for post in site.posts offset:2 %}
 <div class="post" markdown="1">
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
