@@ -33,4 +33,4 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 </div>
 {% endfor %}
 
-<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
+<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe to GridScout Gazette™</a>
