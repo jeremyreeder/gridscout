@@ -15,7 +15,7 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 <div class="post" markdown="1">
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
-<div class="post">{{ post.content }}</div>
+<div>{{ post.content }}</div>
 <a class="btn" href="https://dissenter.com/discussion/begin?url={{ post.url | prepend: site.url }}">Comment</a>
 <span class="post-metadata">
 	© {{ post.date | date: "%Y" }} {{ post.author }} &amp; gridscout.net
@@ -26,8 +26,7 @@ Here's what's going on in the manly arts, from the GridScout™ team.
 <div class="post" markdown="1">
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
-<div class="post">{{ post.excerpt | truncatewords:9 }} <a href="{{ post.url }}">(more)</a></div>
-</div>
+<div>{{ post.excerpt | truncatewords:13 }} <a href="{{ post.url }}">(more)</a></div>
 {% endfor %}
 
 <a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
