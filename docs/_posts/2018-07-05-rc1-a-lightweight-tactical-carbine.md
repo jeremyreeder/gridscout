@@ -139,6 +139,7 @@ include:
 - Muscle fatigue from a long day of shootin' stuff up
 - Speed of magazine changes
 - Ability to reliably hit the vital areas of:
+  - Man- & wolf-size targets quickly at 25 yards with iron sights, from all positions
   - Wolf-size targets at 50 yards with iron sights, from standing position
   - Wolf-size targets at 100 yards with iron sights, from kneeling position
   - Man-size targets at 100 yards with scope, from standing position
