@@ -129,7 +129,7 @@ weight when complete and fully loaded is now 7 lb 3 oz. That's 6 oz heavier
 than originally anticipated, so I better start workin' out. ;)
 
 ![][to-be-continued]
-*Coming 2020-11 — Piston kit to complete the upper*
+*Coming 2020-11 — Piston kit & iron sights*
 
 ## Performance
 When the RC1 is complete, we'll assess its performance in a separate post, a
