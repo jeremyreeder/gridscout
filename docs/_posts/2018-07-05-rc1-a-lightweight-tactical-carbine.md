@@ -11,7 +11,7 @@ redirect_from:
 tags: weapon rc1 carbine
 ---
 
-I'm building a new weapon which I call the GridScout RC1. Why RC1? Because it's easier to
+I'm building a new weapon which I call the RC1. Why RC1? Because it's easier to
 explain that RC1 stands for Reeder Carbine #1 than to explain that PK6 (its
 original name) stands for _Piŝta Karabeno je 6,5 Grendel_.
 
