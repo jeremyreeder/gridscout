@@ -135,12 +135,13 @@ than originally anticipated, so I better start workin' out. ;)
 When the RC1 is complete, we'll assess its performance in a separate post, a
 link to which will be conveniently provided here. Things to be considered in
 the assessment include:
-- Ability to reliably hit the vital areas of man-size and wolf-size targets
-- Speed of target acquisition
-- Distances up to 100 yards with iron sights
-- Distances up to 500 yards with scope
-- Magazine changes
-- Maneuvering in close quarters
+- Muscle fatigue from a long day of shootin' stuff up
+- Ease of maneuvering in close quarters
+- Ability to reliably hit the vital areas of:
+  - Wolf-size targets at 50 yards with iron sights, from standing position
+  - Wolf-size targets at 100 yards with iron sights, from kneeling position
+  - Man-size targets at 100 yards with scope, from standing position
+  - Man-size targets at 500 yards with scope, from prone position
 
 [progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'       | prepend: site.url }}
