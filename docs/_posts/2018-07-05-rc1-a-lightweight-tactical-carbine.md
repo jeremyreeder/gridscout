@@ -135,6 +135,7 @@ than originally anticipated, so I better start workin' out. ;)
 When the RC1 is complete, we'll assess its performance in a separate post, a
 link to which will be conveniently provided here. Things to be considered in
 the assessment include:
+- Speed of magazine changes
 - Muscle fatigue from a long day of shootin' stuff up
 - Ease of maneuvering in close quarters
 - Ability to reliably hit the vital areas of:
