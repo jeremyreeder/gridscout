@@ -135,9 +135,9 @@ than originally anticipated, so I better start workin' out. ;)
 When the RC1 is complete, we'll assess its performance in a separate post, a
 link to which will be provided here. Things to be considered in the assessment
 include:
-- Speed of magazine changes
+- Weight, length, & ease of maneuvering in close quarters
 - Muscle fatigue from a long day of shootin' stuff up
-- Ease of maneuvering in close quarters
+- Speed of magazine changes
 - Ability to reliably hit the vital areas of:
   - Wolf-size targets at 50 yards with iron sights, from standing position
   - Wolf-size targets at 100 yards with iron sights, from kneeling position
