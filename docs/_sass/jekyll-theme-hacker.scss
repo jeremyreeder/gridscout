@@ -376,8 +376,7 @@ p img + em:hover {
 }
 .excerpt {
   background-color: #eaeaea;
-  background-image: linear-gradient(#eaeaea, #aaa);
-  background-clip: text;
+  background-image: linear-gradient(#eaeaea, #555);
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent; 
