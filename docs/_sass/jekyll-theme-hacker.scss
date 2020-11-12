@@ -374,3 +374,12 @@ p img + em:hover {
 .end-float {
   clear: both;
 }
+.excerpt {
+  background-color: #eaeaea;
+  background-image: linear-gradient(#eaeaea, #aaa);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
