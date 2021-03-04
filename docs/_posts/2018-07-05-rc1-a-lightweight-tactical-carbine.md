@@ -139,8 +139,8 @@ provide enough clearance for the piston. I also need to get the scope.
 
 ## Performance
 When the RC1 is complete, we'll assess its performance in a separate post, a
-link to which will be provided here. Things to be considered in the assessment
-include:
+link to which will be provided here. We'll compare it to a couple of other
+guns. Criteria for assessment include:
 - Weight, length, & ease of maneuvering in close quarters
 - Muscle fatigue from a long day of shootin' stuff up
 - Speed of magazine changes
