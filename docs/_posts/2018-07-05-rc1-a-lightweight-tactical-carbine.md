@@ -149,7 +149,7 @@ include:
   - At 50 yards with iron sights, from standing position
   - At 75 yards with iron sights, from kneeling position
   - At 100 yards with scope, from kneeling position
-  - At 500 yards with scope, from prone position
+  - At 300 yards with scope, from prone position
 
 [progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'       | prepend: site.url }}
