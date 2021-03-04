@@ -132,7 +132,7 @@ inches.
 
 Projected total weight when complete and fully loaded is now 7 lb (3 oz above
 the original projection). I need to replace the handguard because it doesn't
-provide enough clearance for the piston, and to get a scope.
+provide enough clearance for the piston. I also need to get the scope.
 
 ![][to-be-continued]
 *Coming 2021-04 — Replacement handguard*
