@@ -124,12 +124,18 @@ length of about 32 inches.
 *2020-06-25 — Flaired magazine well*
 </div>
 
-The lower is now complete. Total weight so far is 4 lb 9 oz. Projected total
-weight when complete and fully loaded is now 7 lb 3 oz. That's 6 oz heavier
-than originally anticipated, so I better start workin' out. ;)
+<div class="gallery" markdown="1">
+![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
+![Adams Arms™ piston kit & GGG offset rear sight][progress-2021-03-02]
+*2021-03 — Piston kit*
+</div>
+
+Projected total weight when complete and fully loaded is now 7 lb. I need to
+replace the handguard because it doesn't provide enough clearance for the
+piston.
 
 ![][to-be-continued]
-*Coming 2020-12 — Piston kit & iron sights*
+*Coming 2021-04 — Replacement handguard*
 
 ## Performance
 When the RC1 is complete, we'll assess its performance in a separate post, a
@@ -156,6 +162,8 @@ include:
 [progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'       | prepend: site.url }}
 [progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'       | prepend: site.url }}
 [progress-2020-06-25]:          {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
+[progress-2021-02-26]:          {{ '/images/rc1-progress-2021-02-26.jpg'       | prepend: site.url }}
+[progress-2021-03-02]:          {{ '/images/rc1-progress-2021-03-02.jpg'       | prepend: site.url }}
 [to-be-continued]:              {{ '/images/to-be-continued.jpg'               | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
