@@ -88,9 +88,9 @@ The RC1 will be equipped with two sighting systems:
 - Simple offset iron sights for quick target acquisition within 100 yards
 
 ## Progress
-Progress on this project is as follows. With a scope and a
-full magazine, I anticipate a total weight of about 6 lb 13 oz, and a total
-length of about 32 inches.
+Progress on this project is as follows. With a scope and a full magazine, I
+anticipate a total weight of about 6 lb 13 oz, and a total length of about 32
+inches.
 
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
@@ -130,9 +130,9 @@ length of about 32 inches.
 *2021-03 — Piston kit & rear sight*
 </div>
 
-Projected total weight when complete and fully loaded is now 7 lb. I need to
-replace the handguard because it doesn't provide enough clearance for the
-piston, and to get a scope.
+Projected total weight when complete and fully loaded is now 7 lb (3 oz above
+the original projection). I need to replace the handguard because it doesn't
+provide enough clearance for the piston, and to get a scope.
 
 ![][to-be-continued]
 *Coming 2021-04 — Replacement handguard*
@@ -144,12 +144,12 @@ include:
 - Weight, length, & ease of maneuvering in close quarters
 - Muscle fatigue from a long day of shootin' stuff up
 - Speed of magazine changes
-- Ability to reliably hit the vital areas of:
-  - Men & wolves quickly at 25 yards with iron sights, from all positions
-  - Wolves at 50 yards with iron sights, from standing position
-  - Wolves at 100 yards with iron sights, from kneeling position
-  - Men at 100 yards with scope, from standing position
-  - Men at 500 yards with scope, from prone position
+- Ability to reliably hit the vital areas of men and wolves:
+  - At 25 yards with iron sights, quickly from standing position
+  - At 50 yards with iron sights, from standing position
+  - At 75 yards with iron sights, from kneeling position
+  - At 100 yards with scope, from kneeling position
+  - At 500 yards with scope, from prone position
 
 [progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'       | prepend: site.url }}
