@@ -126,13 +126,13 @@ length of about 32 inches.
 
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
-![Adams Arms™ piston kit & GGG offset rear sight][progress-2021-03-02]
-*2021-03 — Piston kit*
+![Adams Arms™ piston kit & GGG™ Transition rear sight][progress-2021-03-02]
+*2021-03 — Piston kit & rear sight*
 </div>
 
 Projected total weight when complete and fully loaded is now 7 lb. I need to
 replace the handguard because it doesn't provide enough clearance for the
-piston.
+piston, and to get a scope.
 
 ![][to-be-continued]
 *Coming 2021-04 — Replacement handguard*
