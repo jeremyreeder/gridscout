@@ -144,8 +144,8 @@ include:
 - Weight, length, & ease of maneuvering in close quarters
 - Muscle fatigue from a long day of shootin' stuff up
 - Speed of magazine changes
-- Ability to reliably hit the vital areas of men and wolves:
-  - At 25 yards with iron sights, quickly from standing position
+- Ability to reliably (4 shots out of 5) hit the vital areas of men and wolves:
+  - At 25 yards with iron sights, quickly (2.5 seconds max) from standing position
   - At 50 yards with iron sights, from standing position
   - At 75 yards with iron sights, from kneeling position
   - At 100 yards with scope, from kneeling position
