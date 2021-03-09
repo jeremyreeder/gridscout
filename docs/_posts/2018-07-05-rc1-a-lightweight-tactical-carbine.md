@@ -138,18 +138,18 @@ provide enough clearance for the piston. I also need to get the scope.
 *Coming 2021-04 — Replacement handguard*
 
 ## Performance
-When the RC1 is complete, we'll assess its performance in a separate post, a
-link to which will be provided here. We'll compare it to a couple of other
-guns. Criteria for assessment include:
+When the RC1 is complete, we'll assess its performance in a separate post.
+We'll compare it to a couple of other guns. Criteria for assessment will
+include:
 - Weight, length, & ease of maneuvering in close quarters
 - Muscle fatigue from a long day of shootin' stuff up
 - Speed of magazine changes
 - Ability to reliably (4 shots out of 5) hit the vital areas of men and wolves:
-  - At 25 yards with iron sights, quickly (2.5 seconds max) from standing position
-  - At 50 yards with iron sights, from standing position
-  - At 75 yards with iron sights, from kneeling position
-  - At 100 yards with scope, from kneeling position
-  - At 300 yards with scope, from prone position
+  - At 25 yards with iron sights, quickly (2 seconds max per shot) in standing position
+  - At 50 yards with iron sights, in standing position
+  - At 75 yards with iron sights, in kneeling position
+  - At 100 yards with scope, in kneeling position
+  - At 300 yards with scope, in prone position
 
 [progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'       | prepend: site.url }}
