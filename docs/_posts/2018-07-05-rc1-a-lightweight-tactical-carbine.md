@@ -18,14 +18,14 @@ that PK6 (its original name) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 ## Weapon design
 I want a gun that's especially easy to handle in close-quarters combat without
 sacrificing effectiveness at medium range (up to 500 yards). While many PDWs
-are great in close quarters and a modern carbine is pretty good up
-to 300 yards, both are severely handicapped beyond that range. PDWs
-suffer from their very short barrels, while the typical carbine is
-held back by a diminutive 5.56x45 NATO cartridge. In
-either case, the energy of the bullet is insufficient to remain effective
-at my maximum intended distance against human targets and the occasional
-medium-size game animal. (Besides the obvious counterterrorism missions, I
-intend to hunt wolves, deer, and wild boar with this puppy.)
+are great in close quarters and a modern carbine is pretty good up to 300
+yards, both are severely handicapped beyond that range. PDWs suffer from their
+very short barrels, while the typical carbine is held back by a diminutive
+5.56x45 NATO cartridge. In either case, the energy of the bullet is
+insufficient to remain effective at my maximum intended distance against human
+targets and the occasional medium-size game animal. (Besides the obvious
+counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
+this puppy.)
 
 As an illustration that 5.56x45 won't do, consider that at 500 yards it will
 have lost 68% of its kinetic energy, reducing it to just 541 ft·lb. While
@@ -70,8 +70,8 @@ reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
 The barrel of the RC1 will be of the standard 16" carbine length, just long
 enough to avoid the red tape associated with a short-barreled rifle. This
 length also produces high enough muzzle velocity and bullet energy for
-practical medium-range use. If I use a muzzle brake, it will be a short,
-single-chamber model to minimize the added weight and length.
+practical medium-range use. To minimize length, no muzzle device will be
+mounted on the barrel.
 
 ### Buttstock
 The RC1 will have a very short, fixed-length buttstock to shift its mass closer
@@ -106,8 +106,7 @@ inches.
 ![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
 ![This 3D-printed trigger guard of carbon-fiber copolyester weighs in at 0.21 oz.][progress-2019-05-02T19]
 ![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
-![For now, I have a simple thread protector in lieu of a muzzle brake. I 3D-printed it out of carbon-fiber copolyester.][progress-2019-09-11]
-*2019 — Charging handle, trigger guard, endplate, & thread protector*
+*2019 — Charging handle, trigger guard, & endplate*
 </div>
 
 [Trigger-guard design][guard-model] courtesy of Gregory Spicer.
@@ -134,8 +133,8 @@ Projected total weight when complete and fully loaded is now 7 lb (3 oz above
 the original projection). I need to replace the handguard because it doesn't
 provide enough clearance for the piston. I also need to get the scope.
 
-![][to-be-continued]
-*Coming 2021-04 — Replacement handguard*
+![][to-be-continued][The thread protector pictured up to this point is just a plastic placeholder that likely can't handle the heat. And the carbon-fiber handguard simply didn't fit. So I'll be replacing those.]
+*Coming 2021-04 — Steel thread protector & aluminum handguard*
 
 ## Performance
 When the RC1 is complete, we'll assess its performance in a separate post.
@@ -158,7 +157,6 @@ include:
 [progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'    | prepend: site.url }}
 [progress-2019-05-02T19]:       {{ '/images/rc1-progress-2019-05-02T19.jpg'    | prepend: site.url }}
 [progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg' | prepend: site.url }}
-[progress-2019-09-11]:          {{ '/images/rc1-progress-2019-09-11.jpg'       | prepend: site.url }}
 [progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'       | prepend: site.url }}
 [progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'       | prepend: site.url }}
 [progress-2020-06-25]:          {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
