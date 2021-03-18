@@ -88,9 +88,7 @@ The RC1 will be equipped with two sighting systems:
 - Simple offset iron sights for quick target acquisition within 100 yards
 
 ## Progress
-Progress on this project is as follows. With a scope and a full magazine, I
-anticipate a total weight of about 6 lb 13 oz, and a total length of about 32
-inches.
+Progress on this project is as follows.
 
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
@@ -123,8 +121,7 @@ inches.
 *2021-03 — Piston kit & rear sight*
 </div>
 
-Projected total weight when complete and fully loaded is now 7 lb (3 oz above
-the original projection).
+Projected total weight, with a scope and a full magazine, is 6 lb 13 oz. Projected total length is 31 inches.
 
 ![The thread protector pictured up to this point is just a plastic placeholder that likely wouldn't handle the heat.][to-be-continued]
 *Coming 2021-04 — Steel thread protector & aluminum handguard*
