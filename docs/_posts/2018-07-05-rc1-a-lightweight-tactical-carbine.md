@@ -94,7 +94,6 @@ inches.
 
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
-![The TacStar™ 10" carbon-fiber handguard weighs in at 7.3 oz, mounting hardware included.][progress-2018-06-22]
 ![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
 *2018 — Receivers, handguard, & magazine*
 </div>
@@ -146,7 +145,6 @@ include:
   - At 300 yards with scope, in prone position
 
 [progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
-[progress-2018-06-22]:          {{ '/images/rc1-progress-2018-06-22.jpg'       | prepend: site.url }}
 [progress-2018-11-14]:          {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
 [progress-2018-12-25]:          {{ '/images/rc1-progress-2018-12-25.jpg'       | prepend: site.url }}
 [progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'    | prepend: site.url }}
