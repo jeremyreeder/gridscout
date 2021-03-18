@@ -98,7 +98,7 @@ inches.
 *2018 — Receivers & magazine*
 </div>
 
-![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz), and TacStar™ handguard (7.3 oz with included hardware). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed.Total weight as pictured is 3 lb 5 oz.][progress-2018-12-25]
+![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
 *2018-12 — Buttstock, grip, & barrel*
 
 <div class="gallery" markdown="1">
@@ -124,10 +124,9 @@ inches.
 </div>
 
 Projected total weight when complete and fully loaded is now 7 lb (3 oz above
-the original projection). I need to replace the handguard because it doesn't
-provide enough clearance for the piston. I also need to get the scope.
+the original projection).
 
-![The thread protector pictured up to this point is just a plastic placeholder that likely can't handle the heat. And the carbon-fiber handguard simply didn't fit. So I'll be replacing those.][to-be-continued]
+![The thread protector pictured up to this point is just a plastic placeholder that likely wouldn't handle the heat.][to-be-continued]
 *Coming 2021-04 — Steel thread protector & aluminum handguard*
 
 ## Performance
