@@ -104,18 +104,13 @@ inches.
 
 <div class="gallery" markdown="1">
 ![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
-![This 3D-printed trigger guard of carbon-fiber copolyester weighs in at 0.21 oz.][progress-2019-05-02T19]
 ![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
-*2019 — Charging handle, trigger guard, & endplate*
+*2019 — Charging handle & endplate*
 </div>
 
-[Trigger-guard design][guard-model] courtesy of Gregory Spicer.
-{:.tangent}
-
 <div class="gallery" markdown="1">
-![Velocity™ 4-lb trigger, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-22]
-![][progress-2020-06-21]
-*2020-06 — Trigger, selector, mag release, & other lower innards*
+![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-22]
+*2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
 </div>
 
 <div class="gallery" markdown="1">
@@ -133,7 +128,7 @@ Projected total weight when complete and fully loaded is now 7 lb (3 oz above
 the original projection). I need to replace the handguard because it doesn't
 provide enough clearance for the piston. I also need to get the scope.
 
-![][to-be-continued][The thread protector pictured up to this point is just a plastic placeholder that likely can't handle the heat. And the carbon-fiber handguard simply didn't fit. So I'll be replacing those.]
+![The thread protector pictured up to this point is just a plastic placeholder that likely can't handle the heat. And the carbon-fiber handguard simply didn't fit. So I'll be replacing those.][to-be-continued]
 *Coming 2021-04 — Steel thread protector & aluminum handguard*
 
 ## Performance
@@ -155,9 +150,7 @@ include:
 [progress-2018-11-14]:          {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
 [progress-2018-12-25]:          {{ '/images/rc1-progress-2018-12-25.jpg'       | prepend: site.url }}
 [progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'    | prepend: site.url }}
-[progress-2019-05-02T19]:       {{ '/images/rc1-progress-2019-05-02T19.jpg'    | prepend: site.url }}
 [progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg' | prepend: site.url }}
-[progress-2020-06-21]:          {{ '/images/rc1-progress-2020-06-21.jpg'       | prepend: site.url }}
 [progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'       | prepend: site.url }}
 [progress-2020-06-25]:          {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
 [progress-2021-02-26]:          {{ '/images/rc1-progress-2021-02-26.jpg'       | prepend: site.url }}
@@ -166,7 +159,6 @@ include:
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
-[guard-model]:  https://www.thingiverse.com/thing:2479358
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
 [incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
