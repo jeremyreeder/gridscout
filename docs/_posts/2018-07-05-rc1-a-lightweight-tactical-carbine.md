@@ -137,16 +137,16 @@ include:
   - At 100 yards with scope, in kneeling position
   - At 300 yards with scope, in prone position
 
-[progress-2018-06-21]:          {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
-[progress-2018-11-14]:          {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
-[progress-2018-12-25]:          {{ '/images/rc1-progress-2018-12-25.jpg'       | prepend: site.url }}
-[progress-2019-04-21T10]:       {{ '/images/rc1-progress-2019-04-21T10.jpg'    | prepend: site.url }}
-[progress-2019-06-16T14:57]:    {{ '/images/rc1-progress-2019-06-16T14:57.jpg' | prepend: site.url }}
-[progress-2020-06-22]:          {{ '/images/rc1-progress-2020-06-22.jpg'       | prepend: site.url }}
-[progress-2020-06-25]:          {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
-[progress-2021-02-26]:          {{ '/images/rc1-progress-2021-02-26.jpg'       | prepend: site.url }}
-[progress-2021-03-02]:          {{ '/images/rc1-progress-2021-03-02.jpg'       | prepend: site.url }}
-[to-be-continued]:              {{ '/images/to-be-continued.jpg'               | prepend: site.url }}
+[progress-2018-06-21]:       {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
+[progress-2018-11-14]:       {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
+[progress-2018-12-25]:       {{ '/images/rc1-progress-2018-12-25.jpg'       | prepend: site.url }}
+[progress-2019-04-21T10]:    {{ '/images/rc1-progress-2019-04-21T10.jpg'    | prepend: site.url }}
+[progress-2019-06-16T14:57]: {{ '/images/rc1-progress-2019-06-16T14:57.jpg' | prepend: site.url }}
+[progress-2020-06-22]:       {{ '/images/rc1-progress-2020-06-22.jpg'       | prepend: site.url }}
+[progress-2020-06-25]:       {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
+[progress-2021-02-26]:       {{ '/images/rc1-progress-2021-02-26.jpg'       | prepend: site.url }}
+[progress-2021-03-02]:       {{ '/images/rc1-progress-2021-03-02.jpg'       | prepend: site.url }}
+[to-be-continued]:           {{ '/images/to-be-continued.jpg'               | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
