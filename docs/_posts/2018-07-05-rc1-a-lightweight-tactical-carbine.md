@@ -11,16 +11,16 @@ redirect_from:
 tags: weapon rc1 carbine
 ---
 
-I'm building a new weapon which I call the **GridScout™ RC1**. Why RC1? Because
+I'm building a new weapon. I call it the **GridScout™ RC1**. Why RC1? Because
 it's easier to explain that RC1 stands for _Reeder Carbine One_ than to explain
 that PK6 (its original name) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 
 ## Weapon design
 I want a gun that's especially easy to handle in close-quarters combat without
-sacrificing effectiveness at medium range (up to 500 yards). While many PDWs
-are great in close quarters and a modern carbine is pretty good up to 300
-yards, both are severely handicapped beyond that range. PDWs suffer from their
-very short barrels, while the typical carbine is held back by a diminutive
+sacrificing effectiveness at medium range (up to 500 yards). While a PDW may be
+great in close quarters and an M4-style carbine is pretty good up to 300 yards,
+both are severely handicapped beyond that range. A PDW's range suffers from its
+very short barrel, while the carbine is typically held back by a diminutive
 5.56x45 NATO cartridge. In either case, the energy of the bullet is
 insufficient to remain effective at my maximum intended distance against human
 targets and the occasional medium-size game animal. (Besides the obvious
@@ -37,9 +37,6 @@ to 300 yards. (Calculations based on Wolf™ Military Classic cartridges — 6.5
 Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 0.395 BC, 3241 ft/s MV.)
 {:.tangent}
-
-I'd like to conquer these goals by creating a custom carbine, so I'm going for
-it. When it's finished, we'll see how it performs.
 
 ### Basis
 The RC1 design is based somewhat on the [Alexander™ 6.5 Grendel
