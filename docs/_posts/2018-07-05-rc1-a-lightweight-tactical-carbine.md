@@ -39,10 +39,10 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 {:.tangent}
 
 ### Basis
-The RC1 design is based somewhat on the [Alexander™ 6.5 Grendel
-Incursion][incursion], which is relatively light and fires one of the most
-effective general-purpose cartridges for modern carbines. The Incursion,
-however, isn't everything that I want it to be.
+The RC1 design is based somewhat on the Alexander™ 6.5 Grendel Incursion, which
+is relatively light and fires one of the most effective general-purpose
+cartridges for modern carbines. The Incursion, however, isn't everything that I
+want it to be.
 
 It's slightly longer than I prefer in close quarters, and it still relies on
 the direct-impingement gas system that got M16 operators killed in Vietnam.
@@ -151,5 +151,4 @@ include:
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
-[incursion]:    https://www.shopalexanderarms.com/Rifles-6_5_Grendel_Incursion_Complete_Rifle.html
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
