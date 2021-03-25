@@ -41,8 +41,8 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 ### Basis
 The RC1 design is based somewhat on the [Alexander™ 6.5 Grendel
 Incursion][incursion], which is relatively light and fires one of the most
-effective general-purpose cartridges yet devised for modern sporting rifles.
-The Incursion, however, isn't everything that I want it to be.
+effective general-purpose cartridges for modern carbines. The Incursion,
+however, isn't everything that I want it to be.
 
 It's slightly longer than I prefer in close quarters, and it still relies on
 the direct-impingement gas system that got M16 operators killed in Vietnam.
