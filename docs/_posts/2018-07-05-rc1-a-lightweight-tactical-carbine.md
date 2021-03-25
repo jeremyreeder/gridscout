@@ -114,21 +114,20 @@ Progress on this project is as follows.
 
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
-![Adams Arms™ piston kit & GGG™ Transition rear sight][progress-2021-03-02]
-*2021-03 — Piston kit & rear sight*
+![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with steel.][progress-2021-03-02]
+*2021-03 — Piston kit, rear sight, & temporary thread-protector *
 </div>
 
 Projected total weight, with a scope and a full magazine, is 6 lb 15 oz. Projected total length is 31 inches.
 
-![The thread protector pictured up to this point is just a plastic placeholder that likely wouldn't handle the heat.][to-be-continued]
+![The plastic thread protector is unsuitable for handling the barrel heat. The carbon-fiber handguard lacks piston clearance.][to-be-continued]
 *Coming 2021-04 — Steel thread protector & aluminum handguard*
 
 ## Performance
-When the RC1 is complete, we'll assess its performance in a separate post.
-We'll compare it to a couple of other guns. Criteria for assessment will
+When the RC1 is complete, Leeroy and I will assess its performance in a
+separate post. We'll compare it to a couple of other guns. Criteria will
 include:
-- Weight, length, & ease of maneuvering in close quarters
-- Muscle fatigue from a long day of shootin' stuff up
+- Ease of maneuvering in close quarters
 - Speed of magazine changes
 - Ability to reliably (4 shots out of 5) hit the vital areas of men and wolves:
   - At 25 yards with iron sights, quickly (2 seconds max per shot) in standing position
@@ -136,6 +135,7 @@ include:
   - At 75 yards with iron sights, in kneeling position
   - At 100 yards with scope, in kneeling position
   - At 300 yards with scope, in prone position
+- Muscle fatigue from a long day of shootin'
 
 [progress-2018-06-21]:       {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-11-14]:       {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
