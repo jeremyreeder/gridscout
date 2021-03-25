@@ -115,7 +115,7 @@ Progress on this project is as follows.
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
 ![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with steel.][progress-2021-03-02]
-*2021-03 — Piston kit, rear sight, & temporary thread-protector *
+*2021-03 — Piston kit, rear sight, & temporary thread-protector*
 </div>
 
 Projected total weight, with a scope and a full magazine, is 6 lb 15 oz. Projected total length is 31 inches.
