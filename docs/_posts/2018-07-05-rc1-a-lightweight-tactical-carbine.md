@@ -103,7 +103,7 @@ Progress on this project is as follows.
 </div>
 
 <div class="gallery" markdown="1">
-![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ _stealth_ recoil spring.][progress-2020-06-22]
+![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ stealth recoil spring.][progress-2020-06-22]
 *2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
 </div>
 
