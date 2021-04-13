@@ -118,7 +118,7 @@ Progress on this project is as follows.
 *2021-03 — Piston kit, rear sight, & temporary thread-protector*
 </div>
 
-Projected total weight, with a scope and a full magazine, is 6 lb 15 oz. Projected total length is 31 inches.
+Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
 ![The plastic thread protector is unsuitable for handling the barrel heat. The carbon-fiber handguard lacks piston clearance.][to-be-continued]
 *Coming 2021-04 — Steel thread protector & aluminum handguard*
