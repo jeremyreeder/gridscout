@@ -50,8 +50,8 @@ Use in place of sheetbend for joining slippery or dissimilar ropes. About as
 easy as the name suggests. Its ends are tidily parallel to its standing parts,
 convenient if you have to reeve the knot through an eye.
 - **[Vice-versa bend.][vice-versa-bend]**
-Use in place of sheetbend for joining stretchy rope. Tidy like the Simple
-Simon.
+Use in place of sheetbend for joining stretchy rope, such as bungee line. Tidy
+like the Simple Simon.
 - **Butterfly bend.**
 Use alpine butterfly in place of sheetbend wherever ease of untying after
 extreme stress is valued more than reevable tidiness.
