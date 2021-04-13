@@ -123,8 +123,8 @@ Progress on this project is as follows.
 
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
-![][to-be-continued]
-*Coming 2021-06 — Weaver K6 riflescope*
+![That's right, the handguard isn't actually fastened to the barrel nut yet.][to-be-continued]
+*Coming 2021-06 — Weaver K6 riflescope, & handguard screws*
 
 ## Performance
 When the RC1 is complete, Leeroy and I will assess its performance in a
