@@ -114,11 +114,11 @@ Progress on this project is as follows.
 
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
-![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with steel.][progress-2021-03-02]
+![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with a steel one better suited for the heat.][progress-2021-03-02]
 *2021-03 — Piston kit, rear sight, & temporary thread-protector*
 </div>
 
-![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. The plastic thread protector pictured previously was poorly suited to handle the barrel's heat, so I switched to this steel one by Down Range Products.][progress-2021-04-13]
+![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
 *2021-04 — Aluminum handguard & steel thread protector*
 
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
