@@ -115,7 +115,7 @@ Progress on this project is as follows.
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
 ![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with a steel one better suited for the heat.][progress-2021-03-02]
-*2021-03 — Piston kit, rear sight, & temporary thread-protector*
+*2021-03 — Piston kit & rear sight*
 </div>
 
 ![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
