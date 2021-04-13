@@ -118,10 +118,13 @@ Progress on this project is as follows.
 *2021-03 — Piston kit, rear sight, & temporary thread-protector*
 </div>
 
+![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. The plastic thread protector pictured previously was poorly suited to handle the barrel's heat, so I switched to this steel one by Down Range Products.][progress-2021-04-13]
+*2021-04 — Aluminum handguard & steel thread protector*
+
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
-![The plastic thread protector is unsuitable for handling the barrel heat. The carbon-fiber handguard lacks piston clearance.][to-be-continued]
-*Coming 2021-04 — Steel thread protector & aluminum handguard*
+![][to-be-continued]
+*Coming 2021-06 — Weaver K6 riflescope*
 
 ## Performance
 When the RC1 is complete, Leeroy and I will assess its performance in a
@@ -146,6 +149,7 @@ include:
 [progress-2020-06-25]:       {{ '/images/rc1-progress-2020-06-25.jpg'       | prepend: site.url }}
 [progress-2021-02-26]:       {{ '/images/rc1-progress-2021-02-26.jpg'       | prepend: site.url }}
 [progress-2021-03-02]:       {{ '/images/rc1-progress-2021-03-02.jpg'       | prepend: site.url }}
+[progress-2021-04-13]:       {{ '/images/rc1-progress-2021-04-13.jpg'       | prepend: site.url }}
 [to-be-continued]:           {{ '/images/to-be-continued.jpg'               | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
