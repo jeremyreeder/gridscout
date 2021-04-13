@@ -94,7 +94,7 @@ Progress on this project is as follows.
 </div>
 
 ![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
-*2018-12 — Buttstock, grip, barrel, & incompatible handguard*
+*2018-12 — Buttstock, grip, & barrel*
 
 <div class="gallery" markdown="1">
 ![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
@@ -119,7 +119,7 @@ Progress on this project is as follows.
 </div>
 
 ![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
-*2021-04 — Aluminum handguard & steel thread protector*
+*2021-04 — Handguard, front sight, & thread protector*
 
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
