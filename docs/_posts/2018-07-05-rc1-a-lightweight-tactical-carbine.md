@@ -90,7 +90,7 @@ Progress on this project is as follows.
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
 ![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
-*2018 — Receivers & magazine*
+*2018 — Receivers, pins, & magazine*
 </div>
 
 ![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
@@ -123,8 +123,8 @@ Progress on this project is as follows.
 
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
-![That's right, the handguard isn't actually fastened to the barrel nut yet.][to-be-continued]
-*Coming 2021-06 — Weaver K6 riflescope, & handguard screws*
+![][to-be-continued]
+*Coming 2021-06 — Weaver K6 riflescope*
 
 ## Performance
 When the RC1 is complete, Leeroy and I will assess its performance in a
