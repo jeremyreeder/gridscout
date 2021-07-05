@@ -13,19 +13,21 @@ ride.  I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
 1x8 chromoly bike with 35mm slicks and a big disc brake up front. No brake on
 the rear, I don't believe in those.
 
+<div class="gallery" markdown=1>
 ![][frame-photo]
+</div>
 
 # Parts List
 
-These are the parts that I'm tentatively planning to use, if I can confirm that
-they're compatible.
+These are the parts that I'm tentatively planning to use, subject to revision
+as I figure out which parts are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Dajia Far-Bar handlebars, silver, 44mm][handlebar]
 - 152mm cranks
-- AbsoluteBLACK 28-tooth oval chainring
+- [AbsoluteBLACK 28-tooth oval chainring][chainring]
 - 8-speed 11-28T cassette
 
 [frame-photo]: https://cdn.shopify.com/s/files/1/2196/9775/products/blueprofile.jpg?v=1592251650
@@ -34,3 +36,4 @@ they're compatible.
 [front-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [rear-wheel]:  https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [handlebar]:   https://velo-orange.com/collections/handlebars/products/dajia-cycleworks-far-bar-handlebar
+[chainring]:   https://absoluteblack.cc/raceface-oval.html
