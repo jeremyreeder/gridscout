@@ -24,7 +24,8 @@ and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
-- [Shimano BR-RS785 brake caliper][caliper]
+- [Shimano BR-RS785 hydraulic brake caliper][caliper]
+- [Shimano L04C metallic brake pads with heat sink][pads]
 - [Shimano 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 31.8mm][handlebar]
@@ -50,6 +51,7 @@ and to figuring out which parts are best and which are actually compatible.
 [frame]:      https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
 [front-wheel]:https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [handlebar]:  https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
+[pads]:       https://www.amazon.com/dp/B016REU1ZG
 [pedals]:     https://www.amazon.com/dp/B071CXJH4F
 [rear-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:     https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
