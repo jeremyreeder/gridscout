@@ -14,26 +14,26 @@ ride.  I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
 the rear, I don't believe in those.
 
 <div class="gallery" markdown=1>
-![][frame-photo]
+![][bike-photo]
 </div>
 
 # Parts List
 
-These are the parts that I'm tentatively planning to use, subject to revision
-as I figure out which parts are actually compatible.
+These are the parts that I'm tentatively planning to use, subject to my whims
+and to figuring out which parts are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
-- [Dajia Far-Bar handlebars, silver, 44mm][handlebar]
-- 152mm cranks
+- Nitto B2500 flat handlebar
+- 152-160mm cranks
 - [AbsoluteBLACK 28-tooth oval chainring][chainring]
-- 8-speed 11-28T cassette
+- 11-speed 11-28T cassette
+- Sensah Empire rear derailleur, short-cage
 
-[frame-photo]: https://cdn.shopify.com/s/files/1/2196/9775/products/blueprofile.jpg?v=1592251650
+[bike-photo]: https://cdn.instructables.com/F7W/VZHJ/FQJZO4QO/F7WVZHJFQJZO4QO.MEDIUM.jpg?width=614
 
 [frame]:       https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
 [front-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [rear-wheel]:  https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
-[handlebar]:   https://velo-orange.com/collections/handlebars/products/dajia-cycleworks-far-bar-handlebar
 [chainring]:   https://absoluteblack.cc/raceface-oval.html
