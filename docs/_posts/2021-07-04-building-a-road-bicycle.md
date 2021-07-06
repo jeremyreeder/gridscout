@@ -20,7 +20,7 @@ the rear, I don't believe in those.
 # Parts List
 
 These are the parts that I'm tentatively planning to use, subject to my whims
-and to figuring out which parts are actually compatible.
+and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
