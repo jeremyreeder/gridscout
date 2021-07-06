@@ -30,6 +30,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [AbsoluteBLACK 28-tooth oval chainring][chainring]
 - 11-speed 11-28T cassette
 - Sensah Empire rear derailleur, short-cage
+- Brooks saddle
 
 [bike-photo]: https://cdn.instructables.com/F7W/VZHJ/FQJZO4QO/F7WVZHJFQJZO4QO.MEDIUM.jpg?width=614
 
