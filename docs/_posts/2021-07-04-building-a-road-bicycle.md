@@ -14,7 +14,7 @@ ride.  I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
 the rear, I don't believe in those.
 
 <div class="gallery" markdown=1>
-![][bike-photo]
+![][bike-drawing]
 </div>
 
 # Parts List
@@ -32,7 +32,7 @@ and to figuring out which parts are best and which are actually compatible.
 - Sensah Empire rear derailleur, short-cage
 - Brooks saddle
 
-[bike-photo]: https://cdn.instructables.com/F7W/VZHJ/FQJZO4QO/F7WVZHJFQJZO4QO.MEDIUM.jpg?width=614
+[bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
 [frame]:       https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
 [front-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
