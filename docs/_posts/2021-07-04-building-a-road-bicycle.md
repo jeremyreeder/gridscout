@@ -24,7 +24,8 @@ and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
-- The biggest disc brake that'll fit the front fork
+- [Shimano BR-RS785 brake caliper][caliper]
+- [Shimano 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 31.8mm][handlebar]
 - ~160mm cranks
@@ -36,9 +37,11 @@ and to figuring out which parts are best and which are actually compatible.
 
 [bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
+[caliper]:    https://www.amazon.com/dp/B00KHWODCM
 [cassette]:   https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chainring]:  https://absoluteblack.cc/raceface-oval.html
 [derailleur]: https://www.amazon.com/dp/B072MKT5NR
+[disc]:       https://www.amazon.com/dp/B007Q4NW58
 [frame]:      https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
 [front-wheel]:https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [handlebar]:  https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
