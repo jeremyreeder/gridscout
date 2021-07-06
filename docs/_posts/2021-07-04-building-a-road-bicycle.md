@@ -9,7 +9,7 @@ tags: bicycle
 ---
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
-ride.  I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
+ride. I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
 1x8 chromoly bike with 35mm slicks and a big disc brake up front. No brake on
 the rear, I don't believe in those.
 
@@ -28,12 +28,14 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 31.8mm][handlebar]
-- ~160mm cranks
+- ~155mm cranks
 - [AbsoluteBLACK 30-tooth oval chainring][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
+- [LOOK Keo Classic III road pedals][pedals]
+- [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
 
 [bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
@@ -45,6 +47,8 @@ and to figuring out which parts are best and which are actually compatible.
 [frame]:      https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
 [front-wheel]:https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [handlebar]:  https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
+[pedals]:     https://www.amazon.com/dp/B071CXJH4F
 [rear-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:     https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
 [shifter]:    https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
+[shoes]:      https://www.amazon.com/dp/B085K2KSBJ
