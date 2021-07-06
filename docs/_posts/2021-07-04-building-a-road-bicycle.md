@@ -24,17 +24,24 @@ and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
+- The biggest disc brake that'll fit the front fork
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
-- Nitto B2500 flat handlebar
-- 152-160mm cranks
-- [AbsoluteBLACK 28-tooth oval chainring][chainring]
-- 11-speed 11-28T cassette
-- Sensah Empire rear derailleur, short-cage
-- Brooks saddle
+- [Deda Dritto straight handlebar, 31.8mm][handlebar]
+- ~160mm cranks
+- [AbsoluteBLACK 30-tooth oval chainring][chainring]
+- [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
+- [Shimano Ultegra RD-R8000-SS][derailleur]
+- [ENE 11-speed downtube shifter][shifter]
+- [Brooks B17 standard saddle, antique brown][saddle]
 
 [bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
-[frame]:       https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
-[front-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
-[rear-wheel]:  https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
-[chainring]:   https://absoluteblack.cc/raceface-oval.html
+[cassette]:   https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
+[chainring]:  https://absoluteblack.cc/raceface-oval.html
+[derailleur]: https://www.amazon.com/dp/B072MKT5NR
+[frame]:      https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
+[front-wheel]:https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
+[handlebar]:  https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
+[rear-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
+[saddle]:     https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
+[shifter]:    https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
