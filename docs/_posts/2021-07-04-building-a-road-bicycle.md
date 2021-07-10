@@ -10,7 +10,7 @@ tags: bicycle
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
 ride. I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
-1x8 chromoly bike with 35mm slicks and a big disc brake up front. No brake on
+chromoly frame, 1x11 gearing, 35mm slicks, and a big disc brake up front. No brake on
 the rear, I don't believe in those.
 
 <div class="gallery" markdown=1>
