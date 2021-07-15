@@ -45,6 +45,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Schwalbe SV17 tubes, 700x28-45c][tubes]
 - [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
 - [Nalgene water bottle, 32oz wide-mouth][bottle]
+- [Velo Orange Mojave bottle cage][bottle-cage]
 - [Terra Lab Sport Grip bottle lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
@@ -53,6 +54,7 @@ and to figuring out which parts are best and which are actually compatible.
 
 [bell]:           https://www.amazon.com/dp/B097M8GMHH
 [bottle]:         https://www.amazon.com/dp/B002PLU912
+[bottle-cage]:    https://velo-orange.com/products/mojave-cage
 [bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
 [bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
 [caliper]:        https://www.amazon.com/dp/B00KHWODCM
