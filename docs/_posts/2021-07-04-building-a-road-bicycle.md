@@ -10,8 +10,8 @@ tags: bicycle
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
 ride. I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
-chromoly frame, 1x11 gearing, 35mm slicks, and a big disc brake up front. No brake on
-the rear, I don't believe in those.
+chromoly frame, 1x11 gearing, 35mm slicks, a front cargo rack, and a big disc brake
+up front. No brake on the rear, I don't believe in those.
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
@@ -29,31 +29,52 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 31.8mm][handlebar]
-- [RaceFace Team-XC bottom bracket][bracket]
-- [SRAM NX Eagle crankset, 165mm][cranks]
+- [Cork Chop handgrips][grips]
+- [Shaboo bell][bell]
+- [RaceFace Team-XC bottom bracket][bottom-bracket]
+- [RaceFace Aeffect cranks, 165mm][cranks]
 - [AbsoluteBLACK 30-tooth oval chainring, SRAM direct mount, titanium][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
+- [Shimano CN-HG701 chain][chain]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [LOOK Keo Classic III road pedals][pedals]
 - [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
+- [Schwalbe Kojak tires, 700x35c][tires]
+- [Schwalbe SV17 tubes, 700x28-45c][tubes]
+- [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
+- [Nalgene water bottle, 32oz wide-mouth][bottle]
+- [Terra Lab Sport Grip bottle lid][bottle-lid]
+- [Olight RN1200 headlight & RN120 taillight][lights]
+- [Cateye Quick cycling computer][speedometer]
 
 [bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
-[bracket]:    https://www.amazon.com/dp/B00QGGLONY
-[caliper]:    https://www.amazon.com/dp/B00KHWODCM
-[cassette]:   https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
-[chainring]:  https://absoluteblack.cc/sram-oval-boost-direct-mount-traction-chainring/
-[cranks]:     https://www.amazon.com/dp/B07DQPN2HF
-[derailleur]: https://www.amazon.com/dp/B072MKT5NR
-[disc]:       https://www.amazon.com/dp/B007Q4NW58
-[frame]:      https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
-[front-wheel]:https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
-[handlebar]:  https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
-[pads]:       https://www.amazon.com/dp/B016REU1ZG
-[pedals]:     https://www.amazon.com/dp/B071CXJH4F
-[rear-wheel]: https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
-[saddle]:     https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
-[shifter]:    https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
-[shoes]:      https://www.amazon.com/dp/B085K2KSBJ
+[bell]:           https://www.amazon.com/dp/B097M8GMHH
+[bottle]:         https://www.amazon.com/dp/B002PLU912
+[bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
+[bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
+[caliper]:        https://www.amazon.com/dp/B00KHWODCM
+[cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
+[chain]:          https://www.amazon.com/dp/B014RDIPT8
+[chainring]:      https://absoluteblack.cc/sram-oval-boost-direct-mount-traction-chainring/
+[cranks]:         https://www.amazon.com/dp/B07FP3S278
+[derailleur]:     https://www.amazon.com/dp/B072MKT5NR
+[disc]:           https://www.amazon.com/dp/B007Q4NW58
+[frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
+[front-wheel]:    https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
+[grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
+[handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
+[lights]:         https://www.amazon.com/dp/B097M4S1D6
+[pads]:           https://www.amazon.com/dp/B016REU1ZG
+[pedals]:         https://www.amazon.com/dp/B071CXJH4F
+[rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack
+[rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
+[saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
+[shifter]:        https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
+[shoes]:          https://www.amazon.com/dp/B085K2KSBJ
+[speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
+[tires]:          https://www.amazon.com/dp/B00XMFVW34
+[tire-liners]: https://www.amazon.com/dp/B003L999RC
+[tubes]:          https://www.amazon.com/dp/B071KTHK7W
