@@ -36,7 +36,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [AbsoluteBLACK 30-tooth oval chainring, SRAM direct mount, titanium][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
-- [Shimano CN-HG701 chain][chain]
+- [Shimano Ultegra CN-HG701 chain][chain]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [LOOK Keo Classic III road pedals][pedals]
