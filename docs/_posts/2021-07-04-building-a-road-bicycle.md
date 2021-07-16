@@ -33,7 +33,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shaboo bell][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
 - [RaceFace Aeffect cranks, 165mm][cranks]
-- [AbsoluteBLACK 30-tooth oval chainring for RaceFace cranks, 3mm offset, black][chainring]
+- [AbsoluteBLACK 30-tooth oval chainring for RaceFace cranks, 6mm offset, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
 - [Shimano Ultegra CN-HG701 chain][chain]
@@ -62,7 +62,7 @@ and to figuring out which parts are best and which are actually compatible.
 [caliper]:        https://www.amazon.com/dp/B00KHWODCM
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://www.amazon.com/dp/B014RDIPT8
-[chainring]:      https://absoluteblack.cc/raceface-oval-boost-cinch-chainring
+[chainring]:      https://absoluteblack.cc/raceface-oval.html
 [cranks]:         https://www.amazon.com/dp/B07FP3S278
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
 [disc]:           https://www.amazon.com/dp/B009YIDW5Y
