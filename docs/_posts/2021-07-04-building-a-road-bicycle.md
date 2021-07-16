@@ -15,6 +15,7 @@ disc brake up front. No brake on the rear, I don't believe in those.
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
+*Some other random bike*
 </div>
 
 # Parts List
