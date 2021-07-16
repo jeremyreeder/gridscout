@@ -46,10 +46,11 @@ and to figuring out which parts are best and which are actually compatible.
 - [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
 - [Nalgene water bottle, 32oz wide-mouth][bottle]
 - [Velo Orange Mojave bottle cage][bottle-cage]
-- [Terra Lab Sport Grip bottle lid][bottle-lid]
+- [TerraLab Sport-Grip bottle lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
-- [Velo Orange Flat Pack Rack][rack]
+- [VO Flat-Pack Rack][rack]
+- [VO Copenhagen kickstand][kickstand]
 
 [bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
@@ -69,6 +70,7 @@ and to figuring out which parts are best and which are actually compatible.
 [front-wheel]:    https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
 [handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
+[kickstand]:      https://velo-orange.com/products/vo-retractable-dual-leg-kickstand
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
 [pads]:           https://www.amazon.com/dp/B016REU1ZG
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
