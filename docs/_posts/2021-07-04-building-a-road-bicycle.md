@@ -25,7 +25,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
 - [Shimano BR-RS785 hydraulic brake caliper][caliper]
-- [Shimano L04C metallic brake pads with heat sink][pads]
+- [Shimano L04C metallic brake pads][pads]
 - [Shimano XT 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 31.8mm][handlebar]
@@ -33,7 +33,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shaboo bell][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
 - [RaceFace Aeffect cranks, 165mm][cranks]
-- [AbsoluteBLACK 30-tooth oval chainring, SRAM direct mount, titanium][chainring]
+- [AbsoluteBLACK 30-tooth oval chainring for RaceFace cranks, 3mm offset, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
 - [Shimano Ultegra CN-HG701 chain][chain]
@@ -62,7 +62,7 @@ and to figuring out which parts are best and which are actually compatible.
 [caliper]:        https://www.amazon.com/dp/B00KHWODCM
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://www.amazon.com/dp/B014RDIPT8
-[chainring]:      https://absoluteblack.cc/sram-oval-boost-direct-mount-traction-chainring/
+[chainring]:      https://absoluteblack.cc/raceface-oval-boost-cinch-chainring
 [cranks]:         https://www.amazon.com/dp/B07FP3S278
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
 [disc]:           https://www.amazon.com/dp/B009YIDW5Y
