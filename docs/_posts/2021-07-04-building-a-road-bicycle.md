@@ -49,6 +49,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Terra Lab Sport Grip bottle lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
+- [Velo Orange Flat Pack Rack][rack]
 
 [bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
 
