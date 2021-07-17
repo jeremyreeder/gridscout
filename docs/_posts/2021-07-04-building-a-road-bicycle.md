@@ -38,7 +38,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [AbsoluteBLACK 30-tooth oval chainring for RaceFace cranks, 6mm offset, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
-- [VO 11-speed chain][chain]
+- [SUMC 11-speed chain][chain]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [Grand Cru seatpost, 27.2mm x 300mm, long setback, silver][seatpost]
