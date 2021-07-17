@@ -29,7 +29,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano L04C metallic brake pads][pads]
 - [Shimano XT 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
-- [Deda Dritto straight handlebar, 31.8mm][handlebar]
+- [Deda Dritto straight handlebar, 500mm width, 31.8mm clamp][handlebar]
 - [VO Happy Stem, 31.8mm x 90mm, silver][stem]
 - [Cork Chop handgrips][grips]
 - [Shaboo bell][bell]
