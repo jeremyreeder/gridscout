@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Road Bicycle
+title: Buildin' a Road Bike
 author: Jeremy Reeder
 date: 2021-07-04
 redirect_from:
@@ -9,8 +9,8 @@ tags: bicycle
 ---
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
-ride. I'm gonna build a _custom_ road bicycle. Because freedom, that's why. A
-chromoly frame, 1x11 gearing, 35mm slicks, a demi-porteur cargo rack, and a big
+ride. I plan to build a custom road bike. Because freedom, that's why.
+Flat bars, 35mm slicks, a demi-porteur cargo rack, and a big
 disc brake up front. No brake on the rear, I don't believe in those.
 
 <div class="gallery" markdown=1>
