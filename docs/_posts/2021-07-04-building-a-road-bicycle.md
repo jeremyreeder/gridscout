@@ -39,6 +39,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
+- [NFS chain lubricant][chain-lube]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [Grand Cru seatpost, 27.2mm x 300mm, long setback, silver][seatpost]
@@ -65,6 +66,7 @@ and to figuring out which parts are best and which are actually compatible.
 [caliper]:        https://www.amazon.com/dp/B00KHWODCM
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://velo-orange.com/products/11-speed-chain-1
+[chain-lube]:     https://velo-orange.com/products/nfs-chain-lube
 [chainring]:      https://absoluteblack.cc/raceface-oval.html
 [cranks]:         https://www.amazon.com/dp/B07FP3S278
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
