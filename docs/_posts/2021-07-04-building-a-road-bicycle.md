@@ -39,7 +39,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
-- [NFS chain lubricant][chain-lube]
+- [NixFrixShun chain lubricant][chain-lube]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [Grand Cru seatpost, 27.2mm x 300mm, long setback, silver][seatpost]
