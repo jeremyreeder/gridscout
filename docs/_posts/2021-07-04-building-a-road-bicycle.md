@@ -30,6 +30,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano XT 180mm brake disc][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 31.8mm][handlebar]
+- [VO Happy Stem, 31.8mm x 90mm, silver][stem]
 - [Cork Chop handgrips][grips]
 - [Shaboo bell][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
@@ -37,9 +38,10 @@ and to figuring out which parts are best and which are actually compatible.
 - [AbsoluteBLACK 30-tooth oval chainring for RaceFace cranks, 6mm offset, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra RD-R8000-SS][derailleur]
-- [Shimano Ultegra CN-HG701 chain][chain]
+- [VO 11-speed chain][chain]
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
+- [Grand Cru seatpost, 27.2mm x 300mm, long setback, silver][seatpost]
 - [LOOK Keo Classic III road pedals][pedals]
 - [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
 - [Schwalbe Kojak tires, 700x35c][tires]
@@ -62,7 +64,7 @@ and to figuring out which parts are best and which are actually compatible.
 [bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
 [caliper]:        https://www.amazon.com/dp/B00KHWODCM
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
-[chain]:          https://www.amazon.com/dp/B014RDIPT8
+[chain]:          https://velo-orange.com/products/11-speed-chain-1
 [chainring]:      https://absoluteblack.cc/raceface-oval.html
 [cranks]:         https://www.amazon.com/dp/B07FP3S278
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
@@ -78,9 +80,11 @@ and to figuring out which parts are best and which are actually compatible.
 [rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
+[seatpost]:       https://velo-orange.com/products/vo-grand-cru-seat-post-long-setback
 [shifter]:        https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
+[stem]:           https://velo-orange.com/products/vo-happy-stem-31-8mm
 [tires]:          https://www.amazon.com/dp/B00XMFVW34
 [tire-liners]: https://www.amazon.com/dp/B003L999RC
 [tubes]:          https://www.amazon.com/dp/B071KTHK7W
