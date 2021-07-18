@@ -43,6 +43,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [ENE 11-speed downtube shifter][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [Grand Cru seatpost, 27.2mm x 300mm, 30mm setback, silver][seatpost]
+- [Thomson Elite seatpost clamp, silver][seat-collar]
 - [LOOK Keo Classic III road pedals][pedals]
 - [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
 - [Schwalbe Kojak tires, 700x35c][tires]
@@ -83,10 +84,11 @@ and to figuring out which parts are best and which are actually compatible.
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
 [seatpost]:       https://velo-orange.com/products/vo-grand-cru-seat-post-long-setback
+[seat-collar]:    https://www.amazon.com/dp/B002CW5DXS
 [shifter]:        https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
 [stem]:           https://velo-orange.com/products/vo-happy-stem-31-8mm
 [tires]:          https://www.amazon.com/dp/B00XMFVW34
-[tire-liners]: https://www.amazon.com/dp/B003L999RC
+[tire-liners]:    https://www.amazon.com/dp/B003L999RC
 [tubes]:          https://www.amazon.com/dp/B071KTHK7W
