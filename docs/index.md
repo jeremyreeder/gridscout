@@ -87,41 +87,6 @@ configuration of your browser, it may be possible for GISsurfer to determine
 your actual location regardless of the base location that you used for your
 searches. If this is a serious problem for you, then don't use the aerial view.
 
-## Who are you, and why are you doing this?
-{:#jeremy}
-Professionally, I'm a corporate security analyst and a retired [bank-vault
-engineer][safehouse]. I take an interest in the security of my home and my
-community, so I try to protect them as well. I have served as a firefighter,
-home security advisor, range safety officer, and intelligence officer.
-
-To protect your own home and community, you may wish to work with others who
-share your goals. An emergency response team, search & rescue group, emergency
-radio service, posse, or militia unit.
-{:.tangent}
-
-I created GridScout Map™ as a tool for defense analysts in my community. I share it to help anyone with similar mapping needs. I [blog][blog] occasionally
-about this and other manly topics as my manliness directs me, along with my buddy Leeroy.
-
-You can reach me at [jeremy@gridscout.net][jeremy]. To encrypt the
-conversation, use [ProtonMail][protonmail] or an OpenPGP-based email client.
-Here's my [public key][jeremy-key].
-
-## How can I learn more about defense intelligence?
-Read [SHTF Intelligence: An Intelligence Analyst's Guide to Community
-Intelligence][shtf-intel], by Samuel Culper. It'll teach you the following:
-- Intelligence goals — tactical, operational, & strategic
-- How to organize an intelligence team
-- How to plan intelligence operations
-- What to look for and how to find it — OSINT, HUMINT, & COMINT
-- How to use map overlays for location intelligence — planning, battletracking,
-  & reporting
-- How to generate useful intel reports — INTSUM, ORBAT, & SITTEMP
-
-For an overview of the topic, including some good examples of how your maps and
-map-related information could come in very handy, read the article [How to
-Build an Area Study for Emergencies and Community Security][area-study],
-courtesy of [Forward Observer][forward-observer].
-
 ## Blog
 Subscribe to [GridScout Gazette™][blog] to keep up on this and other manly
 pursuits.
@@ -139,10 +104,8 @@ licensed under [Creative Commons BY 3.0][icon-license].
 [github]:           https://github.com/jeremyreeder/gridscout/blob/master/README.md
 [freepik]:          https://www.freepik.com
 [flaticon]:         https://www.flaticon.com
-[forward-observer]: https://forwardobserver.com
 [gis-surfer]:       https://gissurfer.com
 [icon-license]:     http://creativecommons.org/licenses/by/3.0
-[jeremy]:           mailto:jeremy@gridscout.net
 [jeremy-key]:       publickey.jeremy@gridscout.net.asc
 [mgrs]:             https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [mytopo]:           https://www.mytopo.com
