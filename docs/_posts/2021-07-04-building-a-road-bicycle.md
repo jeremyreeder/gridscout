@@ -27,7 +27,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO Voyager disc front wheel, 700c][front-wheel]
 - [Shimano BR-RS785 hydraulic brake caliper][caliper]
 - [Shimano L04C metallic brake pads][pads]
-- [Shimano XT 180mm brake disc][disc]
+- [Shimano XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 500mm width, 31.8mm clamp][handlebar]
 - [VO Happy Stem, 31.8mm x 90mm, silver][stem]
@@ -71,7 +71,7 @@ and to figuring out which parts are best and which are actually compatible.
 [chainring]:      https://absoluteblack.cc/raceface-oval.html
 [cranks]:         https://www.amazon.com/dp/B07FP3S278
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
-[disc]:           https://www.amazon.com/dp/B009YIDW5Y
+[disc]:           https://www.amazon.com/dp/B009YIDW5Y?psc=1
 [frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
 [front-wheel]:    https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
