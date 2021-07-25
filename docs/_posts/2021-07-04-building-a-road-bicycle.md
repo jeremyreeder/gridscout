@@ -25,8 +25,7 @@ and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
-- [Shimano BR-RS785 hydraulic brake caliper][caliper]
-- [Shimano L04C metallic brake pads][pads]
+- [Shimano Deore BR-M6100 hydraulic brake w/ right-side lever & metallic pads][caliper]
 - [Shimano XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [Deda Dritto straight handlebar, 500mm width, 31.8mm clamp][handlebar]
@@ -65,7 +64,7 @@ and to figuring out which parts are best and which are actually compatible.
 [bottle-cage]:    https://velo-orange.com/products/mojave-cage
 [bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
 [bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
-[caliper]:        https://www.amazon.com/dp/B00KHWODCM
+[caliper]:        https://www.amazon.com/dp/B089DNHMH4
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://velo-orange.com/products/11-speed-chain-1
 [chain-lube]:     https://velo-orange.com/products/nfs-chain-lube
@@ -79,7 +78,6 @@ and to figuring out which parts are best and which are actually compatible.
 [handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
 [kickstand]:      https://velo-orange.com/products/vo-retractable-dual-leg-kickstand
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
-[pads]:           https://www.amazon.com/dp/B016REU1ZG
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
 [rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
