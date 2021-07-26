@@ -31,7 +31,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO tapered threadless headset, silver][headset]
 - [Deda straight handlebar, silver, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
 - [VO tall-stack threadless stem, 31.8mm x 90mm, silver][stem]
-- [VO hammered copper stem cap, aged][stem-cap]
+- [Runwell hammered copper stem cap, aged][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
