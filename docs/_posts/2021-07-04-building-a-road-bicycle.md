@@ -28,9 +28,9 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Deore BR-M6100 hydraulic brake w/ right-side lever & metallic pads][caliper]
 - [Shimano XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
-- [Deda Dritto straight handlebar, 500mm width, 31.8mm clamp][handlebar]
-- [VO tall-stack stem, 31.8mm x 80mm, black][stem]
-- [VO knurled stem cap, silver][stem-cap]
+- [Deda Dritto straight handlebar, 500mm width (shortened to 400mm), 31.8mm clamp][handlebar]
+- [VO tall-stack threadless stem, 31.8mm x 80mm, silver]
+- [VO knurled stem cap, black][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
@@ -87,8 +87,8 @@ and to figuring out which parts are best and which are actually compatible.
 [shifter]:        https://velo-orange.com/collections/shifters/products/dia-compe-ene-11s-dt-shifters
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
-[stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=53100121223
-[stem-cap]:       https://velo-orange.com/collections/stems/products/vo-knurled-stem-cap?variant=50652531783
+[stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644626887
+[stem-cap]:       https://velo-orange.com/collections/stems/products/vo-knurled-stem-cap?variant=50652531719
 [tires]:          https://www.amazon.com/dp/B00XMFVW34
 [tire-liners]:    https://www.amazon.com/dp/B003L999RC
 [tubes]:          https://www.amazon.com/dp/B071KTHK7W
