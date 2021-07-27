@@ -36,7 +36,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
 - [RaceFace Aeffect cranks, 165mm][cranks]
-- [AbsoluteBLACK 30-tooth oval chainring for RaceFace direct-mount cranks, 6mm offset, black][chainring]
+- [AbsoluteBLACK oval chainring for RaceFace direct-mount cranks, 6mm offset, 36-tooth, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
