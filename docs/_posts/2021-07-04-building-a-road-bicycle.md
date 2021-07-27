@@ -86,7 +86,7 @@ and to figuring out which parts are best and which are actually compatible.
 [saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
 [seatpost]:       https://velo-orange.com/products/vo-grand-cru-seat-post-long-setback
 [seat-collar]:    https://www.amazon.com/dp/B002CW5DXS
-[shifter]:        https://www.amazon.com/dp/B00XJCGIW0
+[shifter]:        https://www.amazon.com/dp/B01BMYHBU4
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
 [stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644626951
