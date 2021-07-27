@@ -41,7 +41,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
 - [NixFrixShun chain lube][chain-lube]
-- [Shimano Deore XT SL-M8000 trigger shifter][shifter]
+- [Shimano XTR 9000 trigger shifter, rear][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
 - [Grand Cru seatpost, 27.2mm x 300mm, 30mm setback, silver][seatpost]
 - [Thomson Elite seatpost clamp, silver][seat-collar]
@@ -86,7 +86,7 @@ and to figuring out which parts are best and which are actually compatible.
 [saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
 [seatpost]:       https://velo-orange.com/products/vo-grand-cru-seat-post-long-setback
 [seat-collar]:    https://www.amazon.com/dp/B002CW5DXS
-[shifter]:        https://www.amazon.com/dp/B01BMYHBU4
+[shifter]:        https://www.amazon.com/dp/B00NEZHCC2
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
 [stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644626951
