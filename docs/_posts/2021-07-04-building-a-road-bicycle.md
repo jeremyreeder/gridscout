@@ -25,7 +25,7 @@ and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
-- [Shimano Deore BR-M6100 hydraulic brake w/ right-side lever & metallic pads][caliper]
+- [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, lever, & metallic pads][caliper]
 - [Shimano Deore XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [VO tapered threadless headset, silver][headset]
