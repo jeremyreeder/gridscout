@@ -25,7 +25,7 @@ and to figuring out which parts are best and which are actually compatible.
 
 - [VO Pass Hunter frame, medium, cool blue][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
-- [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, lever, & metallic pads][caliper]
+- [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, right-side lever, & metallic pads][caliper]
 - [Shimano Deore XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [VO tapered threadless headset, silver][headset]
@@ -65,7 +65,7 @@ and to figuring out which parts are best and which are actually compatible.
 [bottle-cage]:    https://velo-orange.com/products/mojave-cage
 [bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
 [bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
-[caliper]:        https://www.amazon.com/dp/B089DNHMH4
+[caliper]:        https://www.ebay.com/itm/114793071849?epid=3041370744&hash=item1aba3344e9:g:~D8AAOSwYntgkVA2
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://velo-orange.com/products/11-speed-chain-1
 [chain-lube]:     https://velo-orange.com/products/nfs-chain-lube
