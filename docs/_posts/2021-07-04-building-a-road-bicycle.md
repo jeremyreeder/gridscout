@@ -30,7 +30,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [VO tapered threadless headset, silver][headset]
 - [Deda straight handlebar, silver, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
-- [VO tall-stack threadless stem, 31.8mm x 90mm, silver][stem]
+- [VO tall-stack threadless stem, 31.8mm x 100mm, silver][stem]
 - [VO knurled stem cap, silver][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
@@ -89,7 +89,7 @@ and to figuring out which parts are best and which are actually compatible.
 [shifter]:        https://www.amazon.com/dp/B01BMYHBU4
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
-[stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644626951
+[stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644627015
 [stem-cap]:       https://velo-orange.com/collections/headsets/products/vo-knurled-stem-cap?variant=50652531783
 [tires]:          https://www.amazon.com/dp/B00XMFVW34
 [tire-liners]:    https://www.amazon.com/dp/B003L999RC
