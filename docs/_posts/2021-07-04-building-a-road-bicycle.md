@@ -43,7 +43,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [NixFrixShun chain lube][chain-lube]
 - [Shimano Deore XT SL-M8000 trigger shifter, rear][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
-- [VO seatpost, 27.2mm x 400mm, zero setback, silver][seatpost]
+- [Grand Cru seatpost, 27.2mm x 400mm, zero setback, silver][seatpost]
 - [Thomson Elite seatpost clamp, silver][seat-collar]
 - [LOOK Keo Classic III road pedals][pedals]
 - [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
