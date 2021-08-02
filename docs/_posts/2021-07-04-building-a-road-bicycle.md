@@ -15,7 +15,6 @@ disc brake up front. No rear brake and no front derailleur, I don't believe in t
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
-*Some other random bike*
 </div>
 
 # Parts List
@@ -58,7 +57,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO flat-pack rack][rack]
 - [VO Copenhagen kickstand][kickstand]
 
-[bike-drawing]: https://img09.deviantart.net/aa16/i/2010/106/7/4/incomplete_bicycle_drawing_by_07oogenesis.jpg
+[bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
 [bell]:           https://www.amazon.com/dp/B097M8GMHH
 [bottle]:         https://www.amazon.com/dp/B002PLU912
