@@ -43,7 +43,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [NixFrixShun chain lube][chain-lube]
 - [Shimano Deore XT SL-M8000 trigger shifter, rear][shifter]
 - [Brooks B17 standard saddle, antique brown][saddle]
-- [Grand Cru seatpost, 27.2mm x 300mm, 30mm setback, silver][seatpost]
+- [VO seatpost, 27.2mm x 400mm, zero setback, silver][seatpost]
 - [Thomson Elite seatpost clamp, silver][seat-collar]
 - [LOOK Keo Classic III road pedals][pedals]
 - [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
@@ -84,7 +84,7 @@ and to figuring out which parts are best and which are actually compatible.
 [rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
-[seatpost]:       https://velo-orange.com/products/vo-grand-cru-seat-post-long-setback
+[seatpost]:       https://velo-orange.com/collections/seatposts/products/grand-cru-0-setback-seatpost-27-2
 [seat-collar]:    https://www.amazon.com/dp/B002CW5DXS
 [shifter]:        https://www.amazon.com/dp/B01BMYHBU4
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
