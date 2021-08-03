@@ -42,7 +42,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [SUMC 11-speed chain][chain]
 - [NixFrixShun chain lube][chain-lube]
 - [Shimano Deore XT SL-M8000 trigger shifter, rear][shifter]
-- [Brooks B17 saddle, antique brown][saddle]
+- [Brooks B17 special saddle, black][saddle]
 - [Thomson seatpost, 27.2mm x 250mm, 16mm setback, silver][seatpost]
 - [Thomson seatpost clamp, silver][seat-collar]
 - [LOOK Keo Classic III road pedals][pedals]
@@ -83,7 +83,7 @@ and to figuring out which parts are best and which are actually compatible.
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
 [rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
-[saddle]:         https://www.retro-gression.com/collections/saddles/products/brooks-b17-standard-saddle?variant=8077947073
+[saddle]:         https://www.amazon.com/dp/B001AYMOAY
 [seatpost]:       https://www.probikesupply.com/products/thomson-elite-setback-seatpost-27-2-x-250mm-silver
 [seat-collar]:    https://www.amazon.com/dp/B002CW5DXS
 [shifter]:        https://www.amazon.com/dp/B01BMYHBU4
