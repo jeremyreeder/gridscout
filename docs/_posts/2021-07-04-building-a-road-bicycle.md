@@ -15,6 +15,7 @@ disc brake up front. No rear brake and no front derailleur, I don't believe in t
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
+*Different spokes for different blokes*
 </div>
 
 # Parts List
