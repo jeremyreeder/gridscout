@@ -42,7 +42,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [SUMC 11-speed chain][chain]
 - [NixFrixShun chain lube][chain-lube]
 - [Shimano Deore XT SL-M8000 trigger shifter, rear][shifter]
-- [Brooks B17 standard saddle, antique brown][saddle]
+- [Brooks B17 saddle, antique brown][saddle]
 - [Thomson seatpost, 27.2mm x 250mm, 16mm setback, silver][seatpost]
 - [Thomson seatpost clamp, silver][seat-collar]
 - [LOOK Keo Classic III road pedals][pedals]
