@@ -55,8 +55,8 @@ and to figuring out which parts are best and which are actually compatible.
 - [TerraLab sport-grip lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
-- [VO flat-pack rack][rack]
-- [VO Copenhagen kickstand][kickstand]
+- [Raidoverks demi-porteur rack][rack]
+- [AutoWT aluminum kickstand][kickstand]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
@@ -78,10 +78,10 @@ and to figuring out which parts are best and which are actually compatible.
 [grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
 [handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
 [headset]:        https://velo-orange.com/collections/headsets/products/1-1-8-to-1-1-2-sealed-bearing-threadless-headset-tapered?variant=34890912432278
-[kickstand]:      https://velo-orange.com/products/vo-retractable-dual-leg-kickstand
+[kickstand]:      https://www.amazon.com/dp/B07WR9F2M5
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
-[rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack
+[rack]:           https://rawlandcycles.com/collections/gear/products/raidoverks-demiporteur-rack
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:         https://www.amazon.com/dp/B001AYMOAY
 [seatpost]:       https://www.probikesupply.com/products/thomson-elite-setback-seatpost-27-2-x-250mm-silver
