@@ -56,7 +56,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
 - [Raidoverks demi-porteur rack][rack]
-- [AutoWT aluminum kickstand][kickstand]
+- [AutoWT rear-mounted aluminum kickstand][kickstand]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
