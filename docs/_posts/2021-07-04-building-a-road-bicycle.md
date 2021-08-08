@@ -31,12 +31,12 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO tapered threadless headset, silver][headset]
 - [Deda straight handlebar, silver, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
 - [VO tall-stack threadless stem, 31.8mm x 80mm, silver][stem]
-- [VO knurled stem cap, silver][stem-cap]
+- [AbsoluteBlack stem cap, black, w/ integrated screw][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
 - [RaceFace Aeffect cranks, 165mm][cranks]
-- [AbsoluteBLACK oval chainring for RaceFace direct-mount cranks, 6mm offset, 36-tooth, black][chainring]
+- [AbsoluteBlack oval chainring for RaceFace direct-mount cranks, 6mm offset, 36-tooth, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
@@ -92,7 +92,7 @@ and to figuring out which parts are best and which are actually compatible.
 [shoes]:          https://www.amazon.com/dp/B085K2KSBJ
 [speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
 [stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644626887
-[stem-cap]:       https://velo-orange.com/collections/headsets/products/vo-knurled-stem-cap?variant=50652531783
+[stem-cap]:       https://absoluteblack.cc/top-cap.html
 [tires]:          https://www.amazon.com/dp/B00XMFVW34
 [tire-liners]:    https://www.amazon.com/dp/B003L999RC
 [tubes]:          https://www.amazon.com/dp/B071KTHK7W
