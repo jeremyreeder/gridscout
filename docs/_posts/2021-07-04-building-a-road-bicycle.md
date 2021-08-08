@@ -28,10 +28,10 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, right-side lever, & metallic pads][caliper]
 - [Shimano Deore XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
-- [VO tapered threadless headset, silver][headset]
-- [Deda straight handlebar, silver, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
+- [VO tapered threadless headset, silver color][headset]
+- [Deda straight handlebar, silver color, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
 - [VO tall-stack threadless stem, 31.8mm x 80mm, silver][stem]
-- [AbsoluteBlack stem cap, black, w/ integrated screw][stem-cap]
+- [AbsoluteBlack stem cap, titanium color, w/ integrated screw][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
@@ -44,19 +44,18 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Deore XT SL-M8000 trigger shifter, rear][shifter]
 - [Brooks B17 special saddle, black][saddle]
 - [Thomson seatpost, 27.2mm x 250mm, 16mm setback, silver][seatpost]
-- [Thomson seatpost clamp, silver][seat-collar]
+- [Thomson seatpost clamp, silver color][seat-collar]
 - [LOOK Keo Classic III road pedals][pedals]
 - [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
 - [Schwalbe Kojak tires, 700x35c][tires]
 - [Schwalbe SV17 tubes, 700x28-45c][tubes]
 - [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
 - [Nalgene water bottle, 32oz wide-mouth][bottle]
-- [VO Mojave bottle cage][bottle-cage]
+- [VO Mojave bottle cage, black][bottle-cage]
 - [TerraLab sport-grip lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
 - [Raidoverks demi-porteur rack][rack]
-- [AutoWT rear-mounted aluminum kickstand][kickstand]
 - [Ottolock, 18", black][lock]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
@@ -79,7 +78,6 @@ and to figuring out which parts are best and which are actually compatible.
 [grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
 [handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
 [headset]:        https://velo-orange.com/collections/headsets/products/1-1-8-to-1-1-2-sealed-bearing-threadless-headset-tapered?variant=34890912432278
-[kickstand]:      https://www.amazon.com/dp/B07WR9F2M5
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
 [lock]:           https://ottodesignworks.com/shop/ottolock
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
