@@ -57,6 +57,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Cateye Quick cycling computer][speedometer]
 - [Raidoverks demi-porteur rack][rack]
 - [AutoWT rear-mounted aluminum kickstand][kickstand]
+- [Ottolock, 18", black][lock]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
@@ -80,6 +81,7 @@ and to figuring out which parts are best and which are actually compatible.
 [headset]:        https://velo-orange.com/collections/headsets/products/1-1-8-to-1-1-2-sealed-bearing-threadless-headset-tapered?variant=34890912432278
 [kickstand]:      https://www.amazon.com/dp/B07WR9F2M5
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
+[lock]:           https://ottodesignworks.com/shop/ottolock
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
 [rack]:           https://rawlandcycles.com/collections/gear/products/raidoverks-demiporteur-rack
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
