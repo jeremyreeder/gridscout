@@ -30,7 +30,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
 - [VO tapered threadless headset, silver color][headset]
 - [Deda straight handlebar, silver color, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
-- [VO tall-stack threadless stem, 31.8mm x 80mm, silver][stem]
+- [VO tall-stack threadless stem, 31.8mm x 80mm, silver color][stem]
 - [AbsoluteBlack stem cap, titanium color, w/ integrated screw][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
