@@ -51,18 +51,18 @@ and to figuring out which parts are best and which are actually compatible.
 - [Schwalbe SV17 tubes, 700x28-45c][tubes]
 - [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
 - [Nalgene water bottle, 32oz wide-mouth][bottle]
-- [VO Mojave bottle cage, black][bottle-cage]
+- [VO Mojave bottle cage, silver color]
 - [TerraLab sport-grip lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
-- [Raidoverks demi-porteur rack][rack]
+- [VO flat pack rack, silver color][rack]
 - [Ottolock, 18", black][lock]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
 [bell]:           https://www.amazon.com/dp/B097M8GMHH
 [bottle]:         https://www.amazon.com/dp/B002PLU912
-[bottle-cage]:    https://velo-orange.com/products/mojave-cage
+[bottle-cage]:    https://velo-orange.com/products/mojave-cage?variant=34785115930774
 [bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
 [bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
 [caliper]:        https://www.ebay.com/itm/114793071849?epid=3041370744&hash=item1aba3344e9:g:~D8AAOSwYntgkVA2
@@ -81,7 +81,7 @@ and to figuring out which parts are best and which are actually compatible.
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
 [lock]:           https://ottodesignworks.com/shop/ottolock
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
-[rack]:           https://rawlandcycles.com/collections/gear/products/raidoverks-demiporteur-rack
+[rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack?variant=16343090692145
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:         https://www.amazon.com/dp/B001AYMOAY
 [seatpost]:       https://www.probikesupply.com/products/thomson-elite-setback-seatpost-27-2-x-250mm-silver
