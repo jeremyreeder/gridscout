@@ -35,7 +35,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
-- [Grand Cru fluted 1X crankset, silver color, 165mm][cranks]
+- [Grand Cru fluted 1X crankset, 165mm][cranks]
 - [AbsoluteBlack Silver Series oval road chainring, 110/5 bcd, 36-tooth][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
