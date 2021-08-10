@@ -35,8 +35,8 @@ and to figuring out which parts are best and which are actually compatible.
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
 - [RaceFace Team-XC bottom bracket][bottom-bracket]
-- [RaceFace Aeffect cranks, 165mm][cranks]
-- [AbsoluteBlack oval chainring for RaceFace direct-mount cranks, 6mm offset, 36-tooth, black][chainring]
+- [Grand Cru fluted 1X crankset, silver color, 165mm][cranks]
+- [AbsoluteBlack Silver Series oval road chainring, 110/5 bcd, 36-tooth][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
@@ -69,8 +69,8 @@ and to figuring out which parts are best and which are actually compatible.
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://velo-orange.com/products/11-speed-chain-1
 [chain-lube]:     https://velo-orange.com/products/nfs-chain-lube
-[chainring]:      https://absoluteblack.cc/raceface-oval.html
-[cranks]:         https://www.amazon.com/dp/B07FP3S278
+[chainring]:      https://absoluteblack.cc/oval-road-110-5-bcd-shifting-winter-oval-chainring/
+[cranks]:         https://velo-orange.com/collections/cranks/products/grand-cru-fluted-single-crankset-1?variant=50649717063
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
 [disc]:           https://www.amazon.com/dp/B009YIDW5Y?psc=1
 [frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
