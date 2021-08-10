@@ -28,7 +28,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, right-side lever, & metallic pads][caliper]
 - [Shimano Deore XT SM-RT86 brake disc, 180mm][disc]
 - [VO Voyager disc rear wheel, 700c][rear-wheel]
-- [VO tapered threadless headset, silver color][headset]
+- [Grand Cru tapered threadless headset, silver color][headset]
 - [Deda straight handlebar, silver color, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
 - [VO tall-stack threadless stem, 31.8mm x 80mm, silver color][stem]
 - [AbsoluteBlack stem cap, titanium color, w/ integrated screw][stem-cap]
