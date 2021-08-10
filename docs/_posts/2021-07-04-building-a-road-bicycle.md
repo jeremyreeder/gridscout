@@ -34,7 +34,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [AbsoluteBlack stem cap, titanium color, w/ integrated screw][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
-- [VO English-threaded bottom bracket, 110mm spindle][bottom-bracket]
+- [Grand Cru English-threaded bottom bracket, 110mm spindle][bottom-bracket]
 - [Grand Cru fluted 1X crankset, 165mm][cranks]
 - [AbsoluteBlack 1X oval cyclocross chainring, 110/5 bcd, 38-tooth, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
