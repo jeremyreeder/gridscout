@@ -36,7 +36,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [Shaboo "Q" bell, black][bell]
 - [VO English-threaded bottom bracket, 110mm spindle][bottom-bracket]
 - [Grand Cru fluted 1X crankset, 165mm][cranks]
-- [AbsoluteBlack Silver Series oval road chainring, 110/5 bcd, 36-tooth][chainring]
+- [AbsoluteBlack 1X oval cyclocross chainring, 110/5 bcd, 38-tooth, black][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
 - [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
 - [SUMC 11-speed chain][chain]
@@ -69,7 +69,7 @@ and to figuring out which parts are best and which are actually compatible.
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://velo-orange.com/products/11-speed-chain-1
 [chain-lube]:     https://velo-orange.com/products/nfs-chain-lube
-[chainring]:      https://absoluteblack.cc/oval-road-110-5-bcd-shifting-winter-oval-chainring/
+[chainring]:      https://absoluteblack.cc/cx-oval-110-5-bcd-cyclocross-chainring
 [cranks]:         https://velo-orange.com/collections/cranks/products/grand-cru-fluted-single-crankset-1?variant=50649717063
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
 [disc]:           https://www.amazon.com/dp/B009YIDW5Y?psc=1
