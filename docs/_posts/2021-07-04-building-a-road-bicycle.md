@@ -34,7 +34,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [AbsoluteBlack stem cap, titanium color, w/ integrated screw][stem-cap]
 - [PDW Cork Chop Grips, tan][grips]
 - [Shaboo "Q" bell, black][bell]
-- [RaceFace Team-XC bottom bracket][bottom-bracket]
+- [VO English-threaded bottom bracket, 110mm spindle][bottom-bracket]
 - [Grand Cru fluted 1X crankset, 165mm][cranks]
 - [AbsoluteBlack Silver Series oval road chainring, 110/5 bcd, 36-tooth][chainring]
 - [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
@@ -64,7 +64,7 @@ and to figuring out which parts are best and which are actually compatible.
 [bottle]:         https://www.amazon.com/dp/B002PLU912
 [bottle-cage]:    https://velo-orange.com/products/mojave-cage?variant=34785115930774
 [bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
-[bottom-bracket]: https://www.amazon.com/dp/B00QGGLONY
+[bottom-bracket]: https://velo-orange.com/products/grand-cru-bottom-brackets-hollow-axle-alloy-cups
 [caliper]:        https://www.ebay.com/itm/114793071849?epid=3041370744&hash=item1aba3344e9:g:~D8AAOSwYntgkVA2
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
 [chain]:          https://velo-orange.com/products/11-speed-chain-1
