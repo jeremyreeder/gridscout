@@ -82,7 +82,7 @@ and to figuring out which parts are best and which are actually compatible.
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
 [lock]:           https://ottodesignworks.com/shop/ottolock
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
-[pump]:           https://performancebike.com/specialized-cpro2-trigger-co2-inflator-black-w-gauge-47219-4050/p-fq7xhdhc3qargqhe
+[pump]:           https://jensonusa.com/CPRO2-Trigger-With-Gauge
 [rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack?variant=16343090692145
 [rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
 [saddle]:         https://www.amazon.com/dp/B001AYMOAY
