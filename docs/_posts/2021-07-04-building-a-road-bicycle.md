@@ -58,6 +58,7 @@ and to figuring out which parts are best and which are actually compatible.
 - [VO flat pack rack, silver color][rack]
 - [Ottolock, 18", black][lock]
 - [Specialized CPro2 inflator][pump]
+- [Sena Pi intercom][intercom]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
@@ -79,6 +80,7 @@ and to figuring out which parts are best and which are actually compatible.
 [grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
 [handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
 [headset]:        https://velo-orange.com/collections/headsets/products/1-1-8-to-1-1-2-sealed-bearing-threadless-headset-tapered?variant=34890912432278
+[intercom]:       https://www.amazon.com/dp/B092P6N95X
 [lights]:         https://www.amazon.com/dp/B097M4S1D6
 [lock]:           https://ottodesignworks.com/shop/ottolock
 [pedals]:         https://www.amazon.com/dp/B071CXJH4F
