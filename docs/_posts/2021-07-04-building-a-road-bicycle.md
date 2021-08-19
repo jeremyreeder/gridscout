@@ -23,7 +23,7 @@ disc brake up front. No rear brake and no front derailleur, I don't believe in t
 These are the parts that I'm tentatively planning to use, subject to my whims
 and to figuring out which parts are best and which are actually compatible.
 
-- [VO Pass Hunter frame, medium, cool blue][frame]
+- [VO Pass Hunter frame, large, burgundy][frame]
 - [VO Voyager disc front wheel, 700c][front-wheel]
 - [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, right-side lever, & metallic pads][caliper]
 - [Shimano Deore XT SM-RT86 brake disc, 180mm][disc]
@@ -74,7 +74,7 @@ and to figuring out which parts are best and which are actually compatible.
 [cranks]:         https://velo-orange.com/collections/cranks/products/grand-cru-fluted-single-crankset-1?variant=50649717063
 [derailleur]:     https://www.amazon.com/dp/B072MKT5NR
 [disc]:           https://www.amazon.com/dp/B009YIDW5Y?psc=1
-[frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586766473
+[frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586864777
 [front-wheel]:    https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
 [grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
 [handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
