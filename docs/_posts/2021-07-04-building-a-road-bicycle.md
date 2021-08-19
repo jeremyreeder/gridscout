@@ -9,9 +9,9 @@ tags: bicycle
 ---
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
-ride. I plan to build a custom road bike. Because freedom, that's why.
-Flat, narrow bars; 35mm slicks; a demi-porteur cargo rack; and a big
-disc brake up front. No rear brake and no front derailleur, I don't believe in those.
+ride. I plan to build a custom road bike. Because freedom, that's why. Flat,
+narrow bars; 35mm slicks; a small demi-porteur cargo rack; and a big disc brake
+up front. No rear brake and no front derailleur, I don't believe in those.
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
