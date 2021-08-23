@@ -10,8 +10,8 @@ tags: bicycle
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
 ride. I plan to build a custom road bike. Because freedom, that's why. Flat,
-narrow bars; 35mm slicks; a small demi-porteur cargo rack; and a big disc brake
-up front. No rear brake and no front derailleur, I don't believe in those.
+narrow bars; 35mm slicks; a demi-porteur cargo rack; and a big disc brake up
+front. No rear brake and no front derailleur, I don't believe in those.
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
@@ -52,7 +52,6 @@ and to figuring out which parts are best and which are actually compatible.
 - [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
 - [Nalgene water bottle, 32oz wide-mouth][bottle]
 - [VO Mojave bottle cage, silver color][bottle-cage]
-- [TerraLab sport-grip lid][bottle-lid]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
 - [VO flat pack rack, silver color][rack]
@@ -65,7 +64,6 @@ and to figuring out which parts are best and which are actually compatible.
 [bell]:           https://www.amazon.com/dp/B097M8GMHH
 [bottle]:         https://www.amazon.com/dp/B002PLU912
 [bottle-cage]:    https://velo-orange.com/products/mojave-cage?variant=34785115930774
-[bottle-lid]:     https://www.amazon.com/dp/B017WQTX20
 [bottom-bracket]: https://velo-orange.com/products/grand-cru-bottom-brackets-hollow-axle-alloy-cups
 [caliper]:        https://www.ebay.com/itm/114793071849?epid=3041370744&hash=item1aba3344e9:g:~D8AAOSwYntgkVA2
 [cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
