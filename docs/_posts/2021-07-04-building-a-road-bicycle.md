@@ -51,7 +51,9 @@ and to figuring out which parts are best and which are actually compatible.
 - [Schwalbe SV17 tubes, 700x28-45c][tubes]
 - [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
 - [Nalgene water bottle, 32oz wide-mouth][bottle]
-- [VO Mojave bottle cage, silver color][bottle-cage]
+- [Humangear capCap+ bottle cap, green][bottle-cap]
+- [VO Mojave bottle cage, silver color][bottle-cage-1]
+- [Widefoot LiterCage bottle cage, silver color][bottle-cage-2]
 - [Tailfin cargo cage, small][cargo-cage]
 - [Olight RN1200 headlight & RN120 taillight][lights]
 - [Cateye Quick cycling computer][speedometer]
@@ -64,7 +66,10 @@ and to figuring out which parts are best and which are actually compatible.
 
 [bell]:           https://www.amazon.com/dp/B097M8GMHH
 [bottle]:         https://www.amazon.com/dp/B002PLU912
-[bottle-cage]:    https://velo-orange.com/products/mojave-cage?variant=34785115930774
+[bottle-cage-1]:  https://velo-orange.com/products/mojave-cage?variant=34785115930774
+[bottle-cage-2]:  https://widefoot.com/product/litercage/
+[bottle-cap]:     https://widefoot.com/product/capcap/
+[bottle-cap]:     https://widefoot.com/product/capcap/
 [bottom-bracket]: https://velo-orange.com/products/grand-cru-bottom-brackets-hollow-axle-alloy-cups
 [caliper]:        https://www.ebay.com/itm/114793071849?epid=3041370744&hash=item1aba3344e9:g:~D8AAOSwYntgkVA2
 [cargo-cage]:     https://www.tailfin.cc/product/cargo-cages/cargo-cage/
