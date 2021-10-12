@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Buildin' a Road Bike
+title: Buildin' a Touring Bike
 author: Jeremy Reeder
 date: 2021-07-04
 redirect_from:
   - /bike
+  - https://www.gridscout.net/2021/07/04/building-a-road-bicycle.html
 tags: bicycle
 ---
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
-ride. I plan to build a custom road bike. Because freedom, that's why. Flat,
-narrow bars; 35mm slicks; fork-mounted cargo provisions; and a big disc brake
-up front. No rear brake and no front derailleur, I don't believe in those.
+ride. I plan to build a custom road bike to get around on. Because freedom,
+that's why. Flat, narrow bars; 35mm slicks; fork-mounted cargo rack; and a big
+disc brake up front, controlled by the right hand as God and Edoardo Bianchi
+intended. No rear brake and no front derailleur, I don't believe in those.
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
@@ -23,83 +25,42 @@ up front. No rear brake and no front derailleur, I don't believe in those.
 These are the parts that I'm tentatively planning to use, subject to my whims
 and to figuring out which parts are best and which are actually compatible.
 
-- [VO Pass Hunter frame, large, burgundy][frame]
-- [VO Voyager disc front wheel, 700c][front-wheel]
-- [Shimano Deore BR-M6100 hydraulic front brake caliper w/ hose, right-side lever, & metallic pads][caliper]
-- [Shimano Deore XT SM-RT86 brake disc, 180mm][disc]
-- [VO Voyager disc rear wheel, 700c][rear-wheel]
-- [Grand Cru tapered threadless headset, silver color][headset]
-- [Deda straight handlebar, silver color, 420mm width (shortened from 500mm), 31.8mm clamp][handlebar]
-- [VO tall-stack threadless stem, 31.8mm x 80mm, silver color][stem]
-- [AbsoluteBlack stem cap, titanium color, w/ integrated screw][stem-cap]
-- [PDW Cork Chop Grips, tan][grips]
-- [Shaboo "Q" bell, black][bell]
-- [Grand Cru English-threaded bottom bracket, 110mm spindle][bottom-bracket]
-- [Grand Cru fluted 1X crankset, 165mm][cranks]
-- [AbsoluteBlack 1X oval cyclocross chainring, 110/5 bcd, 38-tooth, black][chainring]
-- [Shimano Ultegra 11-speed cassette, 11-30T][cassette]
-- [Shimano Ultegra derailleur, model RD-R8000-SS][derailleur]
-- [SUMC 11-speed chain][chain]
-- [NixFrixShun chain lube][chain-lube]
-- [Shimano Deore XT SL-M8000 trigger shifter, rear][shifter]
-- [Brooks B17 special saddle, black][saddle]
-- [Thomson seatpost, 27.2mm x 250mm, 16mm setback, silver][seatpost]
-- [Thomson seatpost clamp, silver color][seat-collar]
-- [LOOK Keo Classic III road pedals][pedals]
-- [Tommaso Strada knit quick-lace cycling shoes, black][shoes]
-- [Schwalbe Kojak tires, 700x35c][tires]
-- [Schwalbe SV17 tubes, 700x28-45c][tubes]
-- [Mr Tuffy Ultra Lite tire liners, 700x32-41c][tire-liners]
-- [Nalgene water bottle, 32oz wide-mouth][bottle]
-- [Humangear capCap+ bottle cap, green][bottle-cap]
-- [VO Mojave bottle cage, silver color][bottle-cage-1]
-- [Widefoot LiterCage bottle cage, silver color][bottle-cage-2]
+- [VO Pass Hunter frame, medium, burgundy][frame]
+- Giant SX-2 cyclocross wheelset
+- Magura MT4 disc brake w/ Miles semimetallic pads & Magura Storm HC 160mm rotor
+- Grand Cru tapered threadless headset, silver color
+- Deda straight handlebar, silver color, 500mm width, 31.8mm clamp
+- VO tall-stack threadless stem, 31.8mm x 90mm, black
+- AbsoluteBlack stem cap, titanium color, w/ integrated screw
+- Homemade 15mm spacer, polished copper
+- PDW Cork Chop Grips, tan
+- Omni-Racer 68mm English-threaded bottom bracket, 103mm spindle
+- Milwaukee polo crankset by Ben's Cycles, 165mm
+- AbsoluteBlack 1X oval cyclocross chainring, 110/5 bcd, 38-tooth, black
+- Shimano Ultegra 11-speed cassette, 11-30T
+- Shimano Ultegra derailleur, model RD-R8000-SS
+- SUMC 11-speed chain
+- Shimano Deore XT SL-M8000 trigger shifter, rear
+- Brooks B17 special saddle, black
+- Zipp aluminum seatpost, 27.2mm x 350mm, 20mm setback, silver color
+- Thomson seatpost clamp, silver color
+- LOOK Keo Classic III road pedals
+- Tommaso Strada knit quick-lace cycling shoes, black, Italian size 43
+- Schwalbe Kojak tires, 700x35c
+- Schwalbe SV17 tubes, 700x28-45c
+- Mr Tuffy Ultra Lite tire liners, 700x32-41c
+- Motobecane bottle cage, black, circa 1984
+- Olight RN1200 headlight
+- Olight RN120 taillight
+- Cateye Quick cycling computer
+- VO rando rack, silver color
+- Ottolock, 18", black
+- Specialized CPro2 inflator
 - [Tailfin cargo cage, small][cargo-cage]
-- [Olight RN1200 headlight & RN120 taillight][lights]
-- [Cateye Quick cycling computer][speedometer]
-- [VO flat pack rack, silver color][rack]
-- [Ottolock, 18", black][lock]
-- [Specialized CPro2 inflator][pump]
 - [Sena Pi intercom][intercom]
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
-[bell]:           https://www.amazon.com/dp/B097M8GMHH
-[bottle]:         https://www.amazon.com/dp/B002PLU912
-[bottle-cage-1]:  https://velo-orange.com/products/mojave-cage?variant=34785115930774
-[bottle-cage-2]:  https://widefoot.com/product/litercage/
-[bottle-cap]:     https://widefoot.com/product/capcap/
-[bottle-cap]:     https://widefoot.com/product/capcap/
-[bottom-bracket]: https://velo-orange.com/products/grand-cru-bottom-brackets-hollow-axle-alloy-cups
-[caliper]:        https://www.ebay.com/itm/114793071849?epid=3041370744&hash=item1aba3344e9:g:~D8AAOSwYntgkVA2
 [cargo-cage]:     https://www.tailfin.cc/product/cargo-cages/cargo-cage/
-[cassette]:       https://www.modernbike.com/shimano-ultegra-r8000-11-speed-11-30t-cassette
-[chain]:          https://velo-orange.com/products/11-speed-chain-1
-[chain-lube]:     https://velo-orange.com/products/nfs-chain-lube
-[chainring]:      https://absoluteblack.cc/cx-oval-110-5-bcd-cyclocross-chainring
-[cranks]:         https://velo-orange.com/collections/cranks/products/grand-cru-fluted-single-crankset-1?variant=50649717063
-[derailleur]:     https://www.amazon.com/dp/B072MKT5NR
-[disc]:           https://www.amazon.com/dp/B009YIDW5Y?psc=1
 [frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586864777
-[front-wheel]:    https://velo-orange.com/collections/wheels/products/voyager-disc-front-wheel?variant=16090221281329
-[grips]:          https://www.amazon.com/dp/B00GZEZY4C/?coliid=IMZ03RS3M9F8K&colid=1TRKXLWS6U4KX&psc=1&ref_=lv_ov_lig_dp_it
-[handlebar]:      https://www.retro-gression.com/products/deda-dritto-straight-handlebar?_pos=1&_sid=33c6c129b&_ss=r&variant=13613606699069
-[headset]:        https://velo-orange.com/collections/headsets/products/1-1-8-to-1-1-2-sealed-bearing-threadless-headset-tapered?variant=34890912432278
 [intercom]:       https://www.amazon.com/dp/B092P6N95X
-[lights]:         https://www.amazon.com/dp/B097M4S1D6
-[lock]:           https://ottodesignworks.com/shop/ottolock
-[pedals]:         https://www.amazon.com/dp/B071CXJH4F
-[pump]:           https://jensonusa.com/CPRO2-Trigger-With-Gauge
-[rack]:           https://velo-orange.com/products/flat-pack-randonneur-rack?variant=16343090692145
-[rear-wheel]:     https://velo-orange.com/collections/wheels/products/voyager-disc-rear-wheel?variant=16090226229297
-[saddle]:         https://www.amazon.com/dp/B001AYMOAY
-[seatpost]:       https://www.probikesupply.com/products/thomson-elite-setback-seatpost-27-2-x-250mm-silver
-[seat-collar]:    https://www.amazon.com/dp/B002CW5DXS
-[shifter]:        https://www.amazon.com/dp/B01BMYHBU4
-[shoes]:          https://www.amazon.com/dp/B085K2KSBJ
-[speedometer]:    https://www.amazon.com/dp/B07KFMV1YL
-[stem]:           https://velo-orange.com/products/vo-tall-stack-threadless-stem-31-8-rise?variant=50644626887
-[stem-cap]:       https://absoluteblack.cc/top-cap.html
-[tires]:          https://www.amazon.com/dp/B00XMFVW34
-[tire-liners]:    https://www.amazon.com/dp/B003L999RC
-[tubes]:          https://www.amazon.com/dp/B071KTHK7W
