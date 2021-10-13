@@ -5,7 +5,6 @@ author: Jeremy Reeder
 date: 2021-07-04
 redirect_from:
   - /bike
-  - https://www.gridscout.net/2021/07/04/building-a-road-bicycle.html
 tags: bicycle
 ---
 
