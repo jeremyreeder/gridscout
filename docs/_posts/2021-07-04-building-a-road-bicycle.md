@@ -63,4 +63,4 @@ and to figuring out which parts are best and which are actually compatible.
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
 [cargo-cage]:     https://www.tailfin.cc/product/cargo-cages/cargo-cage/
-[frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586864777
+[frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586799241
