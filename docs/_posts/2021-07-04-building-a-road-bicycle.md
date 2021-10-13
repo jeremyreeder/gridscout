@@ -58,6 +58,7 @@ and to figuring out which parts are best and which are actually compatible.
 - Specialized CPro2 inflator
 - [Tailfin cargo cage, small][cargo-cage]
 - Smith Network MIPS helmet, large
+- Homemade tool container, chainstay-mounted
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
