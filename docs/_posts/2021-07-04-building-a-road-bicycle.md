@@ -29,6 +29,7 @@ and to figuring out which parts are best and which are actually compatible.
 - Magura MT4 disc brake w/ Miles semimetallic pads & Magura Storm HC 160mm rotor
 - Grand Cru tapered threadless headset, silver color
 - Deda straight handlebar, silver color, 500mm width, 31.8mm clamp
+- Homemade handlebar ends, black
 - VO tall-stack threadless stem, 31.8mm x 90mm, black
 - AbsoluteBlack stem cap, titanium color, w/ integrated screw
 - Homemade 15mm spacer, polished copper
@@ -46,7 +47,7 @@ and to figuring out which parts are best and which are actually compatible.
 - LOOK Keo Classic III road pedals
 - Tommaso Strada knit quick-lace cycling shoes, black, Italian size 43
 - Schwalbe Kojak tires, 700x35c
-- Schwalbe SV17 tubes, 700x28-45c
+- Teravail standard tubes, 700x30-43c
 - Mr Tuffy Ultra Lite tire liners, 700x32-41c
 - Motobecane bottle cage, black, circa 1984
 - Olight RN1200 headlight
@@ -56,10 +57,9 @@ and to figuring out which parts are best and which are actually compatible.
 - Ottolock, 18", black
 - Specialized CPro2 inflator
 - [Tailfin cargo cage, small][cargo-cage]
-- [Sena Pi intercom][intercom]
+- Smith Network MIPS helmet, large
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
 [cargo-cage]:     https://www.tailfin.cc/product/cargo-cages/cargo-cage/
 [frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586864777
-[intercom]:       https://www.amazon.com/dp/B092P6N95X
