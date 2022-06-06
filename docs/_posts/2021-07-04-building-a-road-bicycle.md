@@ -23,7 +23,7 @@ those.
 These are the parts that I'm tentatively planning to use, subject to my whims
 and to figuring out which parts are best and which are actually compatible.
 
-- [VO Pass Hunter frame, medium, burgundy][frame]
+- [VO Pass Hunter II frame, medium, burgundy][frame]
 - Giant SX-2 cyclocross wheelset
 - Magura MT4 disc brake w/ Miles semimetallic pads & Magura Storm HC 160mm rotor
 - Grand Cru tapered threadless headset, silver color
