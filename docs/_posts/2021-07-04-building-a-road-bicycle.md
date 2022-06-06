@@ -32,13 +32,13 @@ and to figuring out which parts are best and which are actually compatible.
 - Homemade handlebar ends, black
 - VO tall-stack threadless stem, 31.8mm x 90mm, black
 - AbsoluteBlack stem cap, titanium color, w/ integrated screw
-- Homemade 15mm spacer, polished copper
+- Homemade 30mm spacer, black polycarbonate
 - PDW Cork Chop Grips, tan
 - Omni-Racer 68mm English-threaded bottom bracket, 103mm spindle
 - Milwaukee polo crankset by Ben's Cycles, 165mm
 - AbsoluteBlack 1X oval cyclocross chainring, 110/5 bcd, 38-tooth, black
 - Shimano Ultegra 11-speed cassette, 11-30T
-- Shimano Ultegra derailleur, model RD-R8000-SS
+- Shimano Deore XT rear derailleur, model RD-M8000-GS
 - SUMC 11-speed chain
 - Shimano Deore XT SL-M8000 trigger shifter, rear
 - Brooks B17 special saddle, black
@@ -55,12 +55,8 @@ and to figuring out which parts are best and which are actually compatible.
 - Cateye Quick cycling computer
 - VO rando rack, silver color
 - Ottolock, 18", black
-- Specialized CPro2 inflator
-- [Tailfin cargo cage, small][cargo-cage]
 - Smith Network MIPS helmet, large
-- Homemade tool container, chainstay-mounted
 
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
-[cargo-cage]:     https://www.tailfin.cc/product/cargo-cages/cargo-cage/
 [frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586799241
