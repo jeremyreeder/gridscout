@@ -23,7 +23,7 @@ those.
 These are the parts that I'm tentatively planning to use, subject to my whims
 and to figuring out which parts are best and which are actually compatible.
 
-- [VO Pass Hunter II frame, medium, burgundy][frame]
+- [VO Pass Hunter 2 frame, medium, burgundy][frame]
 - Giant SX-2 cyclocross wheelset
 - Magura MT4 disc brake w/ Miles semimetallic pads & Magura Storm HC 160mm rotor
 - Grand Cru tapered threadless headset, silver color
@@ -48,7 +48,7 @@ and to figuring out which parts are best and which are actually compatible.
 - Schwalbe Kojak tires, 700x35c
 - Teravail standard tubes, 700x30-43c
 - Mr Tuffy Ultra Lite tire liners, 700x32-41c
-- Motobecane bottle cage, black, circa 1984
+- Motobécane bottle cage, black, circa 1984
 - Olight RN1200 headlight
 - Olight RN120 taillight
 - Cateye Quick cycling computer
