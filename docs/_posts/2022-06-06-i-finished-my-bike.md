@@ -16,8 +16,7 @@ It took me eleven months, but I finally got last year's
 *Different spokes for different blokes*
 </div>
 
-It's fast, comfortable, and fun. It fits me well. It weighs 26 pounds. I've got
-30 miles on it so far.
+It's fast, comfy, and fun. It fits me well. I've got 30 miles on it so far.
 
 [bike-photo]: {{ '/images/bike.jpg' | prepend: site.url }}
 
