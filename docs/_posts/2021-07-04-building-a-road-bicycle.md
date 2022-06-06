@@ -7,10 +7,11 @@ tags: bicycle
 ---
 
 It's Independence Day, and King George ain't gonna tell me what kind of bike to
-ride. I plan to build a custom road bike to get around on. Because freedom,
-that's why. Flat, narrow bars; 35mm slicks; fork-mounted cargo rack; and a big
-disc brake up front, controlled by the right hand as God and Edoardo Bianchi
-intended. No rear brake and no front derailleur, I don't believe in those.
+ride. So I'm starting to build a custom road bike to get around on. Because
+freedom, that's why. Flat, narrow bars; 35mm slicks; fork-mounted cargo rack;
+and a big disc brake up front, controlled by the right hand as God and Edoardo
+Bianchi intended. No rear brake and no front derailleur, I don't believe in
+those.
 
 <div class="gallery" markdown=1>
 ![][bike-drawing]
