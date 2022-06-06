@@ -3,8 +3,6 @@ layout: post
 title: Buildin' a Touring Bike
 author: Jeremy Reeder
 date: 2021-07-04
-redirect_from:
-  - /bike
 tags: bicycle
 ---
 
@@ -57,6 +55,11 @@ and to figuring out which parts are best and which are actually compatible.
 - Ottolock, 18", black
 - Smith Network MIPS helmet, large
 
+# Result
+
+See [the bike][bike].
+
 [bike-drawing]: {{ '/images/bike-mockup.png' | prepend: site.url }}
 
-[frame]:          https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586799241
+[bike]:  {{ '/2022/06/06/i-finished-my-bike.html' | prepend: site.url }}
+[frame]: https://velo-orange.com/collections/pass-hunter/products/pass-hunter?variant=31812586799241
