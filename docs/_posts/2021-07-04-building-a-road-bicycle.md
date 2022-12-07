@@ -30,7 +30,7 @@ and to figuring out which parts are best and which are actually compatible.
 - Deda straight handlebar, silver color, 500mm width, 31.8mm clamp
 - Homemade handlebar ends, black
 - VO tall-stack threadless stem, 31.8mm x 90mm, black
-- AbsoluteBlack stem cap, titanium color, w/ integrated screw
+- AbsoluteBlack stem cap, black, w/ integrated screw
 - Homemade 30mm spacer, black polycarbonate
 - PDW Cork Chop Grips, tan
 - Omni-Racer 68mm English-threaded bottom bracket, 103mm spindle
