@@ -9,7 +9,9 @@ layout: default
 	{{content}}
 </div>
 <p>
-	<a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a>
+	{% if site.dissenter %}
+		<a class="btn" href="https://dissenter.com/discussion/begin?url={{ page.url | prepend: site.url }}">Comment</a>
+	{% endif %}
 	<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
 	<span class="post-metadata">
 		© {{ page.date | date: "%Y" }} {{ page.author }} &amp; gridscout.net

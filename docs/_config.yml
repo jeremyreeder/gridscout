@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pursuit of proficiency in the manly arts, like maps and knots and locks and guns.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.gridscout.net" # the base hostname & protocol for your site, e.g. http://example.com
+dissenter: false
 
 # Build settings
 markdown: kramdown
