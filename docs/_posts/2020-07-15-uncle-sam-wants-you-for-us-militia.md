@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Uncle Sam wants YOU for U.S. Militia
+title: Uncle Sam wants YOU
 author: Leeroy Jenkins
 date: 2020-07-15
 tags: militia weapon
-redirect_from: /2020/07/15/militia-act-of-1792.html
+redirect_from:
+  - /2020/07/15/militia-act-of-1792.html
+  - /2020/07/15/uncle-sam-wants-you-for-us-militia.html
 ---
 
 The [Second Militia Act of 1792][act] was passed by the second U.S. Congress and
