@@ -108,7 +108,7 @@ significantly outperform it in jam-resistance and in maintaining rope strength.
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot.
 
-- **[Freedom bow.][freedom-bow]**
+- **[Freedom bow][freedom-bow] ([double-start variant][double-start-knot])].**
 A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
 king's bidding, until he chooses himself to loosen them.
 
@@ -208,6 +208,7 @@ Different types of cordage present different challenges.
 [butterfly-loop]:     https://www.netknots.com/rope_knots/butterfly-knot
 [cawley-hitch]:       https://en.wikipedia.org/wiki/Adjustable_grip_hitch
 [cleat-hitch]:        https://riggingdoctor.com/life-aboard/2016/1/11/cleat-hitch
+[double-start-knot]:  https://fieggen.com/shoelace/doublestartknot.htm
 [double-constrictor]: https://captnmike.com/2011/10/15/double-constrictor/
 [fishing-knots]:      https://lmtribune.com/outdoors/better-knots-mean-more-fishing-stories-will-have-happy-endings/article_4d010c43-2181-5531-b6a3-5f79b58f0815.html
 [flemish-loop]:       https://www.netknots.com/rope_knots/figure-eight
