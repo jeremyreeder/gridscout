@@ -124,17 +124,7 @@ Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total le
 
 ## Performance
 When the RC1 is complete, Leeroy and I will assess its performance in a
-separate post. We'll compare it to a couple of other guns. Criteria will
-include:
-- Ease of maneuvering in close quarters
-- Speed of magazine changes
-- Ability to reliably (4 shots out of 5) hit the vital areas of men and wolves:
-  - At 25 yards with iron sights, quickly (2 seconds max per shot) in standing position
-  - At 50 yards with iron sights, in standing position
-  - At 75 yards with iron sights, in kneeling position
-  - At 100 yards with scope, in kneeling position
-  - At 300 yards with scope, in prone position
-- Muscle fatigue from a long day of shootin'
+separate post.
 
 [progress-2018-06-21]:       {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-11-14]:       {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
