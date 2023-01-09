@@ -110,7 +110,7 @@ over to form two bights, then simply tie them in a reef knot.
 
 - **[Freedom bow][freedom-bow] ([double-start variant][double-start-knot])].**
 A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
-king's bidding, until he chooses himself to loosen them.
+king's bidding, until he himself chooses to loosen them.
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
