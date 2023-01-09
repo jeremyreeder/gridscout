@@ -113,12 +113,13 @@ A quick-release bow knot that keeps a man's shoes well tied until he
 intentionally pulls its ends loose.
 
 Most people use a standard shoelace bow (double-slipped reef knot), but it
-works loose easily. The reef knot's grip relies on tight contact between its
-mirror-image twists. In the _double-slipped_ variant, the grip between opposing
-twists is reduced by the two straight segments which pass through its center. The
-_double-start freedom bow_ variant makes up for this by extending the twists.
-The _two-bight_ variant, on the other hand, has no such straight segments to
-deal with because both bights are fully integrated in the twists.
+works loose easily. Here's why. The reef knot's grip relies on tight contact
+between its mirror-image twists. In the _double-slipped_ variant, the grip
+between opposing twists is reduced by the two straight segments which pass
+through its center. The _double-start freedom bow_ variant makes up for this by
+extending the twists.  The _two-bight_ variant, on the other hand, has no such
+straight segments to deal with because both bights are fully integrated in the
+twists.
 {:.tangent}
 
 
