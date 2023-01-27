@@ -107,7 +107,7 @@ significantly outperform it in jam-resistance and in maintaining rope strength.
 - **Two-bight reef knot.**
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot. It ain't
-quick-release, but it's a good knot.
+quick-release, but it's a quality bow knot.
 
 - **[Freedom bow.][freedom-bow]**
 A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
