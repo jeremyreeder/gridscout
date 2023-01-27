@@ -109,8 +109,8 @@ For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot.
 
 - **[Freedom bow][freedom-bow] ([double-start variant][double-start-knot]).**
-A quick-release bow knot that keeps a man's shoes well tied until he
-intentionally pulls its ends loose.
+A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
+king's bidding, until he himself chooses to loosen them.
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
@@ -118,14 +118,6 @@ bights for only half of the knot breaks that symmetry. The two-bight variant
 gives up the quick-release option in order to retain the symmetry. The freedom
 bow, on the other hand, makes up for its asymmetry by converting the half-wrap
 around each loop into a full wrap.
-
-Most people use a standard shoelace knot (double-slipped reef), but it works
-loose easily. The reef knot's grip relies on tight contact between its
-mirror-image twists. In this _double-slipped_ variant, the grip between
-opposing twists is reduced by the two straight segments passing through its
-center. The _double-start freedom bow_ variant makes up for this by extending
-the twists. The _two-bight_ variant, on the other hand, has no such straight
-segments to deal with because both bights are fully integrated in the twists.
 {:.tangent}
 
 
