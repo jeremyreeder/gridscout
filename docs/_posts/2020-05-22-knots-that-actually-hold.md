@@ -108,7 +108,7 @@ significantly outperform it in jam-resistance and in maintaining rope strength.
 For a decorative shoelace bow that'll stay tied all day: first fold the ends
 over to form two bights, then simply tie them in a reef knot.
 
-- **[Freedom bow][freedom-bow].**
+- **[Freedom bow.][freedom-bow]**
 A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
 king's bidding, until he himself chooses to loosen them.
 
