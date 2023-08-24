@@ -6,6 +6,7 @@ title: Jeremy's Wish List
 # Jeremy's Wish List
 
 - [Leupold™ FX-I 4x28 riflescope](https://amazon.com/dp/B0009JG78Q) - $314
+- [Anycubic™ Photon Mono X resin printer](https://www.anycubic.com/products/photon-mono-x-resin-printer) - $249
 - [Burris™ 2x20 pistol scope, nickel](https://amazon.com/dp/B000X7CNMI) - $230
 - [Sig Sauer™ Romeo 1x20 reflex sight](https://amazon.com/dp/B07T9GK7SR) - $130
 - [Vélo Orange™ constructeur rear rack](https://amazon.com/dp/B004JKERFG) - $103
