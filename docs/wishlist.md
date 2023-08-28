@@ -13,7 +13,5 @@ title: Jeremy's Wish List
 - [Bondtech™ IFS Extruder](https://amazon.com/dp/B099NYH3YV) - $87
 - [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $70
 - [Funkoverse™ "Peter Pan" strategy game](https://amazon.com/dp/B09QV1SQHR) - $21
-- ["The Invisible Hour", hardcover](https://amazon.com/dp/1982175370) - $20
-- ["Unbirthday: A Twisted Tale", hardcover](https://amazon.com/dp/product/1484781317) - $13
 - [Ultimaxx™ 37mm 2.2x telephoto lens](https://walmart.com/ip/406142971) - $9
 - [Rocky Mountain Chocolate Factory™ goodies](https://rmcf.cardfoundry.com/giftcards/card_details) - $5+
