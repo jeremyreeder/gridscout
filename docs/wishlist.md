@@ -12,7 +12,7 @@ title: Jeremy's Wish List
 - [Vélo Orange™ constructeur rear rack](https://amazon.com/dp/B004JKERFG) - $103
 - [Bondtech™ IFS Extruder](https://amazon.com/dp/B099NYH3YV) - $87
 - [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $70
-- [Getty & Dubay's 'Italic Calligraphy'](https://amazon.com/dp/0982776268) - $$30
+- [Getty & Dubay's 'Italic Calligraphy'](https://amazon.com/dp/0982776268) - $30
 - [Funkoverse™ 'Peter Pan' strategy game](https://amazon.com/dp/B09QV1SQHR) - $21
 - [Ultimaxx™ 37mm 2.2x telephoto lens](https://walmart.com/ip/406142971) - $9
 - [Rocky Mountain Chocolate Factory™ goodies](https://rmcf.cardfoundry.com/giftcards/card_details) - $5+
