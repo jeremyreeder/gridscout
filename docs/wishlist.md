@@ -5,11 +5,10 @@ title: Jeremy's Wish List
 
 # Jeremy's Wish List
 
-- [Leupold™ FX-I 4x28 riflescope](https://amazon.com/dp/B0009JG78Q) - $314
-- [Anycubic™ Photon Mono X resin printer](https://www.anycubic.com/products/photon-mono-x-resin-printer) - $249
+- [Leupold™ FX-I 4x28 riflescope](https://amazon.com/dp/B0009JG78Q) - $300
 - [Burris™ 2x20 pistol scope, nickel](https://amazon.com/dp/B000X7CNMI) - $230
 - [Sig Sauer™ Romeo 1x20 reflex sight](https://amazon.com/dp/B07T9GK7SR) - $130
-- [Vélo Orange™ constructeur rear rack](https://amazon.com/dp/B004JKERFG) - $103
+- [Vélo Orange™ constructeur rear rack](https://amazon.com/dp/B004JKERFG) - $105
 - [Bondtech™ IFS Extruder](https://amazon.com/dp/B099NYH3YV) - $87
 - [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $70
 - [Getty & Dubay's 'Italic Calligraphy'](https://amazon.com/dp/0982776268) - $30
