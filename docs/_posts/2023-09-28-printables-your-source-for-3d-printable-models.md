@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Printables: Your Source for 3d-printable Models
+title: Printables! - Your Source for 3d-printable Models
 author: Jeremy Reeder
 date: 2023-09-28
 tags: 3dprint printables prusa
