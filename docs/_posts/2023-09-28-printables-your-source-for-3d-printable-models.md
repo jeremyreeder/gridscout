@@ -46,7 +46,7 @@ his appreciation for my many small contributions to this site.
 
 [chair-vanity-photo]: https://media.printables.com/media/comment_images/cd/c9fc14-9989-456d-8510-a94d5b334f7f/thumbs/inside/1920x1440/jpg/img_20230919_160447_hdr.webp
 
-[chair]:           
+[chair]:           https://www.printables.com/model/586157-modern-chair-dollhouse
 [contests]:        https://www.printables.com/contest
 [contest-entries]: https://www.printables.com/@JeremyReeder/collections/123109
 [dachsund]:        https://www.printables.com/model/556537-peeing-dachshund-ai
