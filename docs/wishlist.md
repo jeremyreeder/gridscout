@@ -10,7 +10,7 @@ title: Jeremy's Wish List
 <!--- [Sig Sauer™ Romeo 1x20 reflex sight](https://amazon.com/dp/B07T9GK7SR) - $130-->
 - [Bondtech™ IFS extruder](https://amazon.com/dp/B099NYH3YV) - $87
 - [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $70
-- [Getty & Dubay's 'Italic Calligraphy'](https://amazon.com/dp/0982776268) - $30
+- [Getty & Dubay's 'Italic Calligraphy' book](https://amazon.com/dp/0982776268) - $30
 - [Funkoverse™ 'Peter Pan' strategy game](https://amazon.com/dp/B09QV1SQHR) - $20
 - [Ultimaxx™ 37mm 2.2x telephoto lens](https://walmart.com/ip/406142971) - $9
 - [Rocky Mountain Chocolate Factory™ goodies](https://rmcf.cardfoundry.com/giftcards/card_details) - $5+
