@@ -10,6 +10,7 @@ title: Jeremy's Wish List
 <!--- [Sig Sauer™ Romeo 1x20 reflex sight](https://amazon.com/dp/B07T9GK7SR) - $130-->
 - [Bondtech™ IFS extruder](https://amazon.com/dp/B099NYH3YV) - $87
 - [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $70
+- [Carbon-fiber build plate for Prusa Mini](https://etsy.com/listing/1226343528?variation0=3120531523) - $60
 - [Getty & Dubay's 'Italic Calligraphy' book](https://amazon.com/dp/0982776268) - $30
 - [Funkoverse™ 'Peter Pan' strategy game](https://amazon.com/dp/B09QV1SQHR) - $20
 - [IdeaFormer PET-PEI build plate, 180x180](https://amazon.com/dp/B0BR3N4CYD) - $17
