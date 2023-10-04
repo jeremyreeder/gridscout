@@ -13,7 +13,7 @@ title: Jeremy's Wish List
 - [Carbon-fiber build plate for Prusa Mini](https://etsy.com/listing/1226343528?variation0=3120531523) - $60
 - [Getty & Dubay's 'Italic Calligraphy' book](https://amazon.com/dp/0982776268) - $30
 - [Funkoverse™ 'Peter Pan' strategy game](https://amazon.com/dp/B09QV1SQHR) - $20
-- [IdeaFormer PET-PEI build plate, 180x180](https://amazon.com/dp/B0BR3N4CYD) - $17
-- [BuildTak™ 3D-printing surface, 7.48"x7.87"](https://www.buildtak.com/collections/surfaces/products/buildtak-original-3d-printing-surface-black) - $9
+<!--- [IdeaFormer PET-PEI build plate, 180x180](https://amazon.com/dp/B0BR3N4CYD) - $17-->
+<!--- [BuildTak™ 3D-printing surface, 7.48"x7.87"](https://www.buildtak.com/collections/surfaces/products/buildtak-original-3d-printing-surface-black) - $9-->
 - [Ultimaxx™ 37mm 2.2x telephoto lens](https://walmart.com/ip/406142971) - $9
 - [Rocky Mountain Chocolate Factory™ goodies](https://rmcf.cardfoundry.com/giftcards/card_details) - $5+
