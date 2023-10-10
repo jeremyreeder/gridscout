@@ -9,10 +9,10 @@ title: Jeremy's Wish List
 <!--- [Burris™ 2x20 pistol scope, nickel](https://amazon.com/dp/B000X7CNMI) - $230-->
 <!--- [Sig Sauer™ Romeo 1x20 reflex sight](https://amazon.com/dp/B07T9GK7SR) - $130-->
 - [Bondtech™ IFS extruder](https://amazon.com/dp/B099NYH3YV) - $87
-- [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $70
+- [Adata™ SE800 portable solid-state drive, 1TB](https://amazon.com/dp/B07V1X8G4L) - $58
 - [Carbon-fiber build plate for Prusa Mini](https://etsy.com/listing/1226343528?variation0=3120531523) - $60
 - [Getty & Dubay's 'Italic Calligraphy' book](https://amazon.com/dp/0982776268) - $30
-- [Funkoverse™ 'Peter Pan' strategy game](https://amazon.com/dp/B09QV1SQHR) - $20
+- [Funkoverse™ 'Peter Pan' strategy game](https://amazon.com/dp/B09QV1SQHR) - $10
 <!--- [IdeaFormer PET-PEI build plate, 180x180](https://amazon.com/dp/B0BR3N4CYD) - $17-->
 <!--- [BuildTak™ 3D-printing surface, 7.48"x7.87"](https://www.buildtak.com/collections/surfaces/products/buildtak-original-3d-printing-surface-black) - $9-->
 - [Ultimaxx™ 37mm 2.2x telephoto lens](https://walmart.com/ip/406142971) - $9
