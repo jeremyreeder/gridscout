@@ -8,7 +8,8 @@ tags: song music
 
 # Top 25 Songs of the 20th Century
 
-Here you have it. The greatest songs ever sung in the 20th century are as follows, because I say so.
+Here you have it. In my view, the greatest songs ever sung in the 20th century
+are as follows.
 
 - *Kentucky Rain*, by Elvis Presley
 - *Vivo por Ella*, by Andrea Bocelli
@@ -35,3 +36,6 @@ Here you have it. The greatest songs ever sung in the 20th century are as follow
 - *Jesus Just Left Chicago*, by ZZ Top
 - *Crazy*, by Britney Spears
 - *Enter Sandman*, by Metallica
+
+Your favorite may not be on this list. I didn't overlook it, I just don't like
+it as much as you do.
