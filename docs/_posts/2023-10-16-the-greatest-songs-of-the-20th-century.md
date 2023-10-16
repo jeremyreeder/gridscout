@@ -38,4 +38,5 @@ are as follows.
 - *Enter Sandman*, by Metallica
 
 Your favorite may not be on this list. I didn't overlook it, I just don't like
-it as much as you do.
+it as much as you do. Your choices remain acceptable, as long as you didn't
+pick anything by the Beatles.
