@@ -21,10 +21,10 @@ Its rules are thus. The conventions of the Getty-Dubay Italic script are followe
   4. Serifs are always horizontal, except where done as part of a letter's downward initial stroke. In those cases, a diagonal initial serif is balanced by a diagonal terminal serif.
   5. The capital 'J' starts and ends with diagonal serifs facing each other, and the horizontal topper is omitted.
   6. To avoid having to lift the pen, any lowercase letter may generally be connected to a letter which immediately precedes it if the second starts at or slightly above the end of the first and can be reached with a short connection line. But such connections don't apply when:
-    - The first letter is 'r'.
-    - The first letter ends below the baseline.
-    - The connection would be diagonal from an 's', or to or from a 'z'.
-    - It requires such retracing as to make it difficult to avoid a loop or double line where a single vertical line is called for.
+     - The first letter is 'r'.
+     - The first letter ends below the baseline.
+     - The connection would be diagonal from an 's', or to or from a 'z'.
+     - It requires such retracing as to make it difficult to avoid a loop or double line where a single vertical line is called for.
   7. The transition from a connection to the first stroke of a letter is done abruptly, not through flowy curvature.
   8. Initial serifs may be omitted from any lowercase letter which does not begin with a vertical stroke, except when it starts a word or series of letters.
   9. The number 0 is written as a capital 'O' with a slash through it. The slash does not extend outside of the ellipse.
