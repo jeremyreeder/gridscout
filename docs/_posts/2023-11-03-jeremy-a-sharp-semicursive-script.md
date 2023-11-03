@@ -7,8 +7,6 @@ tags: font script writing handwriting penmanship typeface
 redirect_from: /handwriting
 ---
 
-# Jeremy - A Sharp Semicursive Script
-
 Throwing off the shackles of how penmanship was taught to me as a child, I've designed a new and improved handwriting script! I call it 'Jeremy'.
 
 <div class="gallery" markdown="1">
