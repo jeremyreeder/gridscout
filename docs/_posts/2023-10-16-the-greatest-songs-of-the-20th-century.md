@@ -14,7 +14,7 @@ are as follows.
 - *Kentucky Rain*, by Elvis Presley
 - *Vivo por Ella*, by Andrea Bocelli
 - *John-Deere Green*, by Joe Diffie
-- *Songbird*, by Fleetwood Mac
+- *Bad to the Bone*', by George Thorogood
 - *Think of Me*, by Sarah Brightman
 - *Ruleta Rusa*, by Enrique Iglesias
 - *Human Nature*, by Michael Jackson
