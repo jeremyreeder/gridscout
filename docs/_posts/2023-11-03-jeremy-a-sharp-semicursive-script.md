@@ -4,6 +4,7 @@ title: Jeremy - A Sharp Semicursive Script
 author: Jeremy Reeder
 date: 2023-11-03
 tags: font script writing handwriting penmanship typeface
+redirect_from: /handwriting
 ---
 
 # Jeremy - A Sharp Semicursive Script
@@ -33,6 +34,6 @@ Its rules are thus. The conventions of the Getty-Dubay Italic script are followe
   11. The horizontal line of the number 4 extends only minimally beyond the downward stroke.
 
 
-[handwriting-script-name]:     {{ '/images/jeremy-script-name.jpg'     | prepend: site.url }}
-[handwriting-script-pangrams]: {{ '/images/jeremy-script-pangrams.jpg' | prepend: site.url }}
+[handwriting-script-name]:     {{ '/images/handwriting-script-name.jpg'     | prepend: site.url }}
+[handwriting-script-pangrams]: {{ '/images/handwriting-script-pangrams.jpg' | prepend: site.url }}
 
