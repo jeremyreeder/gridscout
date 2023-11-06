@@ -10,8 +10,9 @@ redirect_from: /handwriting
 Throwing off the shackles of how penmanship was taught to me as a child, I've designed a new and improved handwriting script! I call it 'Jeremy'.
 
 <div class="gallery" markdown="1">
-![][handwriting-script-name]
-![][handwriting-script-pangrams]
+![The way they taught me in school.][school-pangrams]
+![How I'm doin' it now.][jeremy-pangrams]
+*Before and After*
 </div>
 
 Its rules are thus. The conventions of the Getty-Dubay Italic script are followed, with the following stylistic and clarifying changes:
@@ -26,12 +27,11 @@ Its rules are thus. The conventions of the Getty-Dubay Italic script are followe
      - The connection would be diagonal from an 's', or to or from a 'z'.
      - It requires such retracing as to make it difficult to avoid a loop or double line where a single vertical line is called for.
   7. The transition from a connection to the first stroke of a letter is done abruptly, not through flowy curvature.
-  8. Initial serifs may be omitted from any lowercase letter which does not begin with a vertical stroke, except when it starts a word or series of letters.
-  9. The number 0 is written as a capital 'O' with a slash through it. The slash does not extend outside of the ellipse.
-  10. The number 1 starts with a small curved serif which leads to a very pointed tip.
-  11. The horizontal line of the number 4 extends only minimally beyond the downward stroke.
+  8. The number 0 is written as a capital 'O' with a slash through it. The slash does not extend outside of the ellipse.
+  9. The number 1 starts with a small curved serif which leads to a very pointed tip.
+  10. The horizontal line of the number 4 extends only minimally beyond the downward stroke.
 
+I like it. I find it easier to read than the cursive script that I was originally taught, no harder to write, and just as pretty.
 
-[handwriting-script-name]:     {{ '/images/handwriting-script-name.jpg'     | prepend: site.url }}
-[handwriting-script-pangrams]: {{ '/images/handwriting-script-pangrams.jpg' | prepend: site.url }}
-
+[school-pangrams]: {{ '/images/script1-pangrams.jpg' | prepend: site.url }}
+[jeremy-pangrams]: {{ '/images/script2-pangrams.jpg' | prepend: site.url }}
