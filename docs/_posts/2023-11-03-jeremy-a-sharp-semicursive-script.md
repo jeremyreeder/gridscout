@@ -7,7 +7,7 @@ tags: font script writing handwriting penmanship typeface
 redirect_from: /handwriting
 ---
 
-Throwing off the shackles of how penmanship was taught to me as a child, I've designed a new and improved handwriting script! I call it 'Jeremy'.
+Throwing off the shackles of how penmanship was taught to me as a child, I've designed a new and improved handwriting script! I call it 'Jeremy'. Compare this new script on the right to its predecessor on the left.
 
 <div class="gallery" markdown="1">
 ![The way they taught me in school.][school-pangrams]
