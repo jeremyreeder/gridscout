@@ -4,8 +4,8 @@ title: RC1 — a lightweight tactical carbine
 author: Jeremy Reeder
 date: 2021-04-13
 redirect_from:
-  - /blog/2018-07-05-building-the-rc1-a-lightweight-modular-carbine
-  - /blog/2018-07-05-rc1-a-lightweight-tactical-carbine
+  - /2018/07/05/rc1-a-lightweight-tactical-carbine
+  - /2018/07/05/building-the-rc1-a-lightweight-modular-carbine
   - /rc1
   - /carbine
 tags: weapon rc1 carbine
