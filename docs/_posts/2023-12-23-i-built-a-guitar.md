@@ -8,7 +8,7 @@ redirect_from:
   - /guitar
 ---
 
-I built a guitar!
+I built my own guitar!
 
 <div class="gallery" markdown="1">
 ![][guitar]
