@@ -8,15 +8,13 @@ redirect_from:
   - /guitar
 ---
 
-I built my own guitar!
+I built myself a new gueetar! It's a hardtail strat with my favorite pickups
+and the loveliest tuning machines, plus six custom parts that I made myself.
 
 <div class="gallery" markdown="1">
 ![][guitar]
 ![][headstock]
 </div>
-
-It's got Kinman Woodstock pickups and six parts that I made myself -- five with
-a 3D printer and one with a CNC cutter.
 
 [guitar]: {{ '/images/guitar.jpg' | prepend: site.url }}
 [headstock]: {{ '/images/headstock.webp' | prepend: site.url }}
