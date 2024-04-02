@@ -122,7 +122,7 @@ Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total le
 
 It's time for optics.
 
-![Leupold 4x28 riflescope, mounted on prototype rings because it's far cheaper to experiment with mounting height using 3D-printed parts.][progress-2024-04-01]
+![Leupold 4x28 riflescope, mounted on cheap homemade prototype rings.][progress-2024-04-01]
 *2024-04 — Scope*
 
 ## Performance
