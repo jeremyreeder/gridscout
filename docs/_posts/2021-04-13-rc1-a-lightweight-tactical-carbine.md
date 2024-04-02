@@ -118,10 +118,12 @@ The RC1 will be equipped with two sighting systems:
 
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
+## Update
+
+It's time for optics.
+
 ![Leupold 4x28 riflescope, mounted on prototype rings because it's far cheaper to experiment with mounting height using 3D-printed parts.][progress-2024-04-01]
 *2024-04 — Scope*
-
-Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
 ## Performance
 
