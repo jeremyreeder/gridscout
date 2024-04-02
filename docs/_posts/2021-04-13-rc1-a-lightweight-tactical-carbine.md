@@ -16,6 +16,7 @@ easier to explain that RC1 stands for _Reeder Carbine One_ than to explain that
 PK6 (its original name) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 
 ## Weapon design
+
 I wanted a gun that's especially easy to handle in close-quarters combat without
 sacrificing effectiveness at medium range (up to 500 yards). While a PDW may be
 great in close quarters and an M4-style carbine is pretty good up to 300 yards,
@@ -39,6 +40,7 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 {:.tangent}
 
 ### Basis
+
 The RC1 design is based somewhat on the Alexander™ 6.5 Grendel Incursion, which
 is relatively light and fires one of the most effective general-purpose
 cartridges for modern carbines. The Incursion, however, isn't everything that I
@@ -116,8 +118,17 @@ The RC1 will be equipped with two sighting systems:
 
 Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
 
+![Leupold 4x28 riflescope, mounted on prototype rings because it's far cheaper to experiment with mounting height using 3D-printed parts.][progress-2024-04-01]
+*2024-04 — Scope*
+
+Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
+
 ## Performance
+
 It shoots good. ;)
+
+More information coming soon.
+{:.tangent}
 
 [progress-2018-06-21]:       {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-11-14]:       {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
@@ -129,6 +140,7 @@ It shoots good. ;)
 [progress-2021-02-26]:       {{ '/images/rc1-progress-2021-02-26.jpg'       | prepend: site.url }}
 [progress-2021-03-02]:       {{ '/images/rc1-progress-2021-03-02.jpg'       | prepend: site.url }}
 [progress-2021-04-13]:       {{ '/images/rc1-progress-2021-04-13.jpg'       | prepend: site.url }}
+[progress-2024-04-01]:       {{ '/images/rc1-progress-2024-04-01.jpg'       | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
