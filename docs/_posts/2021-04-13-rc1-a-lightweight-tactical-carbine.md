@@ -116,7 +116,7 @@ The RC1 will be equipped with two sighting systems:
 ![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
 *2021-04 — Handguard, front sight, & thread protector*
 
-Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub> inches.
+Projected total weight, with a scope and a full magazine, is 7 lb 1 oz. Total length is 31 <sup>5</sup>/<sub>16</sub>".
 
 ## Update
 
