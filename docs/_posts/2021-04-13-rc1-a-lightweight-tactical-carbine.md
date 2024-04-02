@@ -92,7 +92,7 @@ The RC1 will be equipped with two sighting systems:
 *2018 — Receivers, pins, & magazine*
 </div>
 
-![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz), Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
+![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz) and an Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
 *2018-12 — Buttstock, grip, & barrel*
 
 <div class="gallery" markdown="1">
