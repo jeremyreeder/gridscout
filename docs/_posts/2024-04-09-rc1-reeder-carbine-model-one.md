@@ -107,7 +107,7 @@ A custom oversized mag-well makes for fast magazine changes.
 
 The RC1 will be equipped with two sighting systems:
 - A lightweight fixed-power riflescope (not yet mounted), for precise targeting
-- Simple offset iron sights, mostly for quick target acquisition within 60 yards
+- Simple offset iron sights, mostly for quick target acquisition within 50 yards
 
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
