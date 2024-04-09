@@ -119,7 +119,7 @@ To keep the overall length to a minimum, a simple thread protector is mounted on
 Upon firing, the gun wouldn't automatically load the next cartridge at first.
 And charging the weapon manually was much harder than it ought to be. The
 buffer tube seems to be a little shorter than standard, so the springs were
-overly compressed. I resolved the trouble by replacing the ArmaSpec™ Stealth
+overly compressed. I resolved these troubles by replacing the ArmaSpec™ Stealth
 Recoil Spring with a custom-tuned JP™ Silent Captured Spring.
 
 The gun now functions properly. Its total length is 31
