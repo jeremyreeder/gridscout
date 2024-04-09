@@ -67,7 +67,7 @@ all-inclusive.
 
 ## The Product
 
-The build starts with a lightweight M4-style receiver set and
+I started this build with a lightweight M4-style receiver set and
 cartridge-specific magazines.
 
 <div class="gallery" markdown="1">
