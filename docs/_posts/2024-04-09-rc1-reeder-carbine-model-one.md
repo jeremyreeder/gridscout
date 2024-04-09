@@ -100,6 +100,8 @@ more easily keep his sights steady on the target.
 ![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ Stealth Recoil Spring.][progress-2020-06-22]
 *2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
 
+A custom oversized mag-well makes for fast magazine changes.
+
 ![This enormous mag-well flair, 3D-printed of carbon-fiber copolyester, makes my magazine changes so much faster.][progress-2020-06-25]
 *2020-06-25 — Flaired magazine well*
 
