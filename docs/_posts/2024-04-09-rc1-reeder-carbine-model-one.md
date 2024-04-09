@@ -62,7 +62,8 @@ Piston gas systems consistently outperform direct-impingement systems in
 reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
 {:.tangent .indent}
 
-I'm targeting a length of 32" and a weight of 7 lb.
+I'm targeting a length of 32" or less, and a weight of no more than 7 lb
+all-inclusive.
 
 ## The Product
 
@@ -115,12 +116,12 @@ To keep the overall length to a minimum, a simple thread protector is mounted on
 ![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
 *2021-04 — Handguard, front sight, & thread protector*
 
-It functions properly. Total length is 31 <sup>5</sup>/<sub>16</sub>".
+The gun functions properly. Its total length is 31 <sup>5</sup>/<sub>16</sub>". Good, it's under 32" like I wanted.
 
 ![Leupold™ 4x28 riflescope, mounted on cheap homemade prototype rings. Switched later to Leupold™ PRW2 rings.][progress-2024-04-01]
 *2024-04 — Scope*
 
-Total weight, with a scope and a full magazine, is 6 lb 15 oz.
+Total weight, with a scope and a full magazine, is 6 lb 15 oz. Good, it's under 7 lb like I wanted.
 
 ## Performance
 
