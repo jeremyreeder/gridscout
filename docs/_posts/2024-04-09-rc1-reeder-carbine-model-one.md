@@ -95,7 +95,7 @@ vertical as in a PDW. This weapon is meant to be as lightweight as practicable,
 in order to limit muscle fatigue so the shooter can more easily keep his sights
 steady on the target.
 
-![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ stealth recoil spring.][progress-2020-06-22]
+![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ Stealth Recoil Spring.][progress-2020-06-22]
 *2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
 
 ![This enormous mag-well flair, 3D-printed of carbon-fiber copolyester, makes my magazine changes so much faster.][progress-2020-06-25]
@@ -116,7 +116,14 @@ To keep the overall length to a minimum, a simple thread protector is mounted on
 ![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
 *2021-04 — Handguard, front sight, & thread protector*
 
-The gun functions properly. Its total length is 31 <sup>5</sup>/<sub>16</sub>". Good, it's under 32" like I wanted.
+Upon firing, the gun wouldn't automatically load the next cartridge at first.
+And charging the weapon manually was much harder than it ought to be. The
+buffer tube is shorter than standard, I think, so the springs are heavily
+compressed. I resolved the trouble by replacing the ArmaSpec™ Stealth Recoil
+Spring with a custom-tuned JP™ Silent Captured Spring.
+
+The gun now functions properly. Its total length is 31
+<sup>5</sup>/<sub>16</sub>". Good, it's under 32" like I wanted.
 
 ![Leupold™ 4x28 riflescope, mounted on cheap homemade prototype rings. Switched later to Leupold™ PRW2 rings.][progress-2024-04-01]
 *2024-04 — Scope*
