@@ -100,15 +100,15 @@ steady on the target.
 ![This enormous mag-well flair, 3D-printed of carbon-fiber copolyester, makes my magazine changes so much faster.][progress-2020-06-25]
 *2020-06-25 — Flaired magazine well*
 
+The RC1 will be equipped with two sighting systems:
+- A lightweight fixed-power riflescope (not yet mounted), for 100- to 500-yard engagements
+- Simple offset iron sights for quick target acquisition within 100 yards
+
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
 ![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with a steel one better suited for the heat.][progress-2021-03-02]
 *2021-03 — Piston kit & rear sight*
 </div>
-
-The RC1 will be equipped with two sighting systems:
-- A lightweight fixed-power riflescope (not yet mounted), for 100- to 500-yard engagements
-- Simple offset iron sights for quick target acquisition within 100 yards
 
 To keep the overall length to a minimum, a simple thread protector is mounted on the barrel in lieu of a muzzle device.
 
