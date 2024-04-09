@@ -91,11 +91,11 @@ enough muzzle velocity and bullet energy for practical medium-range use.
 
 This weapon has a very short, fixed-length buttstock to shift its mass closer
 to the shooter's body where it's most easily supported. If it had the 33° grip
-angle that's most common in modern carbines, then it would be uncomfortable for
-the wrist of the shooter's dominant hand; so the grip is instead nearly
-vertical as in a PDW. This weapon is meant to be as lightweight as practicable,
-in order to limit muscle fatigue so the shooter can more easily keep his sights
-steady on the target.
+angle that's most common in modern carbines, then the short stock would make it
+uncomfortable for the wrist of the shooter's dominant hand; so the grip is
+instead nearly vertical as in a PDW. This weapon is meant to be as lightweight
+as practicable, in order to limit muscle fatigue so the shooter can more easily
+keep his sights steady on the target.
 
 ![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ Stealth Recoil Spring.][progress-2020-06-22]
 *2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
