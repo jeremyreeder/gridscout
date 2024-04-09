@@ -106,7 +106,7 @@ A custom oversized mag-well makes for fast magazine changes.
 *2020-06-25 — Flaired magazine well*
 
 The RC1 will be equipped with two sighting systems:
-- A lightweight fixed-power riflescope (not yet mounted), for 100- to 500-yard engagements
+- A lightweight fixed-power riflescope (not yet mounted), for precise targeting
 - Simple offset iron sights for quick target acquisition within 100 yards
 
 <div class="gallery" markdown="1">
