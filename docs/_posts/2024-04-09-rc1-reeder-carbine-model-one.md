@@ -76,10 +76,9 @@ cartridge-specific magazines.
 *2018 — Receivers, pins, & magazine*
 </div>
 
-The RC1's barrel is of the standard 16" carbine length, just long enough to
-avoid the red tape associated with a short-barreled rifle. This length also
-produces high enough muzzle velocity and bullet energy for practical
-medium-range use.
+The barrel is of the standard 16" carbine length, just long enough to avoid the
+red tape associated with a short-barreled rifle. This length also produces high
+enough muzzle velocity and bullet energy for practical medium-range use.
 
 ![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz) and an Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
 *2018-12 — Buttstock, grip, & barrel*
