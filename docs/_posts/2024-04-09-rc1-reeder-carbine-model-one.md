@@ -80,6 +80,12 @@ medium-range use.
 ![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz) and an Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
 *2018-12 — Buttstock, grip, & barrel*
 
+<div class="gallery" markdown="1">
+![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
+![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
+*2019 — Charging handle & endplate*
+</div>
+
 This weapon has a very short, fixed-length buttstock to shift its mass closer
 to the shooter's body where it's most easily supported. If it had the 33° grip
 angle that's most common in modern carbines, then it would be uncomfortable for
@@ -87,12 +93,6 @@ the wrist of the shooter's dominant hand; so the grip is instead nearly
 vertical as in a PDW. This weapon is meant to be as lightweight as practicable,
 in order to limit muscle fatigue so the shooter can more easily keep his sights
 steady on the target.
-
-<div class="gallery" markdown="1">
-![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
-![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
-*2019 — Charging handle & endplate*
-</div>
 
 ![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ stealth recoil spring.][progress-2020-06-22]
 *2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
