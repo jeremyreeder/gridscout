@@ -133,8 +133,8 @@ The gun now functions properly. Its total length is 31
 *2024-04-01 — Scope*
 
 Total weight, with a scope and a full magazine, is 6 lb 15.4 oz. Good, it's
-under 7 lb like I wanted. Perhaps I can just afford the weight of a minimalist
-foregrip.
+under 7 lb like I wanted. Perhaps I can just afford the weight of a custom
+minimalist foregrip.
 
 <div class="gallery" markdown="1">
 ![Final weigh-in, fully loaded: 6 lb 15.9 oz][progress-2024-04-09T18:50]
