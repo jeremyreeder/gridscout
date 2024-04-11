@@ -138,7 +138,7 @@ foregrip.
 
 <div class="gallery" markdown="1">
 ![Final weigh-in, fully loaded: 6 lb 15.9 oz][progress-2024-04-09T18:50]
-![I created the little plastic foregrip myself. It mounts directly to the handguard.][progress-2024-04-09T18:58]
+![For a comfortable and consistent hold, I created the little plastic foregrip myself. It mounts directly to the handguard.][progress-2024-04-09T18:58]
 *2024-04-09 — Foregrip*
 </div>
 
