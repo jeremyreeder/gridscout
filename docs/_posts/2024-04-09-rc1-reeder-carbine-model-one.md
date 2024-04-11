@@ -132,13 +132,13 @@ The gun now functions properly. Its total length is 31
 ![Leupold™ 4x28 riflescope, mounted on cheap homemade prototype rings. Switched later to Leupold™ PRW2 rings.][progress-2024-04-01]
 *2024-04-01 — Scope*
 
-Total weight, with a scope and a full magazine, is 6 lb 15 oz. Good, it's under
-7 lb like I wanted. Perhaps I can just afford the weight of a minimalist
+Total weight, with a scope and a full magazine, is 6 lb 15.4 oz. Good, it's
+under 7 lb like I wanted. Perhaps I can just afford the weight of a minimalist
 foregrip.
 
 <div class="gallery" markdown="1">
-![][progress-2024-04-09T18:50]
-![][progress-2024-04-09T18:58]
+![Final weigh-in: 6 lb 15.9 oz][progress-2024-04-09T18:50]
+![I created the little plastic foregrip myself. It mounts directly to the handguard.][progress-2024-04-09T18:58]
 *2024-04-09 — Foregrip*
 </div>
 
