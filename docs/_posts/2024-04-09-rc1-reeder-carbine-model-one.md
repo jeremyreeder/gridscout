@@ -142,7 +142,7 @@ foregrip.
 *2024-04-09 — Foregrip*
 </div>
 
-Bam!
+Bam! I like my new gun.
 
 ## Performance
 
