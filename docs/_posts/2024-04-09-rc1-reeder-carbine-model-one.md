@@ -13,9 +13,8 @@ tags: weapon rc1 carbine
 ---
 
 I built a new weapon. I call it the **RC1**. Why that name? Because it's easier
-to explain that this stands for **_Reeder Carbine Model One_** than to explain
-that PK6 (the other name candidate) stands for _Piŝta Karabeno je 6,5mm
-Grendel_.
+to explain that this stands for _Reeder Carbine Model One_ than to explain that
+PK6 (the other name candidate) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 
 ## Weapon design
 
