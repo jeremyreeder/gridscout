@@ -40,12 +40,12 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 0.395 BC, 3241 ft/s MV.)
 {:.tangent}
 
-The RC1 design is based somewhat on the Alexander™ 6.5 Grendel Incursion, which
+The RC1 design is based somewhat on the Alexander™ Incursion Rifle, which
 is relatively light and fires one of the most effective general-purpose
-cartridges for modern carbines. The Incursion, however, isn't everything that I
-want it to be. It's slightly longer than I prefer in close quarters, and it
-still relies on the direct-impingement gas system that got M16 operators killed
-in Vietnam.
+cartridges for modern carbines: the 6.5 Grendel. The Incursion, however, isn't
+everything that I want it to be. It's slightly longer than I prefer in close
+quarters, and it still relies on the direct-impingement gas system that got M16
+operators killed in Vietnam.
 
 But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
 design —upon which the M16 and the Incursion are based—, we now have a
