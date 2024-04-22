@@ -94,7 +94,7 @@ Subscribe to the [GridScout™ blog][blog] to keep up on our manly pursuits.
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
 licensed under [Creative Commons BY 3.0][icon-license].
 
-<div class="post-metadata">© 2018-2020 gridscout.net &amp; Jeremy Reeder</div>
+<div class="post-metadata">© 2018-2024 gridscout.net &amp; Jeremy Reeder</div>
 
 
 [area-study]:       https://forwardobserver.com/how-to-build-an-area-study-for-emergencies-and-community-security/
