@@ -144,7 +144,7 @@ minimalist foregrip.
 
 Bam! I like my new gun.
 
-## Performance
+## RC1 Performance
 
 Performance test coming soon.
 
@@ -153,6 +153,8 @@ Performance test coming soon.
 <div class="gallery" markdown="1">
 ![RC1 French Revolutionist Shirt - featuring Gwenn-ha-Du flag, the Cross of Lorraine, and an anthem of the Revolution][rc1-shirt-pic]
 </div>
+
+If you want some swag, here are the designs so you can make it yo'self.
 
 - [RC1 Decal][rc1-decal]
 - [RC1 French Revolutionist Shirt][rc1-shirt]
