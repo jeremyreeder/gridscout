@@ -148,6 +148,16 @@ Bam! I like my new gun.
 
 Performance test coming soon.
 
+## Swag for the Fan Club
+
+<div class="gallery" markdown="1">
+![RC1 French Revolutionist Shirt][rc1-shirt-pic]
+</div>
+
+- [RC1 Decal][rc1-decal]
+- [RC1 French Revolutionist Shirt][rc1-shirt]
+- [RC1 for American Girl Doll][rc1-toy]
+
 [progress-2018-06-21]:       {{ '/images/rc1-progress-2018-06-21.jpg'       | prepend: site.url }}
 [progress-2018-11-14]:       {{ '/images/rc1-progress-2018-11-14.jpg'       | prepend: site.url }}
 [progress-2018-12-25]:       {{ '/images/rc1-progress-2018-12-25.jpg'       | prepend: site.url }}
@@ -161,8 +171,12 @@ Performance test coming soon.
 [progress-2024-04-01]:       {{ '/images/rc1-progress-2024-04-01.jpg'       | prepend: site.url }}
 [progress-2024-04-09T18:50]: {{ '/images/rc1-progress-2024-04-09T18:50.jpg' | prepend: site.url }}
 [progress-2024-04-09T18:58]: {{ '/images/rc1-progress-2024-04-09T18:58.jpg' | prepend: site.url }}
+[rc1-shirt-pic]:             {{ '/images/rc1-shirt.webp'                    | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
 [gridscout]:    {{ site.url }}
 [hawks]:        https://www.chuckhawks.com/bad_deer_cartridges.htm
+[rc1-decal]:    https://www.printables.com/model/840501-reeder-carbine-decal
+[rc1-shirt]:    https://www.printables.com/model/845435-rc1-french-revolutionist-shirt
+[rc1-toy]:      https://www.printables.com/model/853636-rc1-for-american-girl-doll
 [test-results]: http://www.calguns.net/calgunforum/showthread.php?t=78951
