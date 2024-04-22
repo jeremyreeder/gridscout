@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RC1 — Reeder Carbine Model One
+title: Reeder Carbine Model One
 author: Jeremy Reeder
 date: 2024-04-09
 redirect_from:
