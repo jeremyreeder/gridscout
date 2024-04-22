@@ -88,8 +88,7 @@ your actual location regardless of the base location that you used for your
 searches. If this is a serious problem for you, then don't use the aerial view.
 
 ## Blog
-Subscribe to [GridScout Gazette™][blog] to keep up on this and other manly
-pursuits.
+Subscribe to the [GridScout™ blog][blog] to keep up on our manly pursuits.
 
 # Legal notice
 Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
