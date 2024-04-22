@@ -151,7 +151,7 @@ Performance test coming soon.
 ## Swag for the Fan Club
 
 <div class="gallery" markdown="1">
-![RC1 French Revolutionist Shirt][rc1-shirt-pic]
+![RC1 French Revolutionist Shirt - featuring Gwenn-ha-Du flag, the Cross of Lorraine, and an anthem of the Revolution][rc1-shirt-pic]
 </div>
 
 - [RC1 Decal][rc1-decal]
