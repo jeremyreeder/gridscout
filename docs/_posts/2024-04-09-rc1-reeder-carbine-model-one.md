@@ -14,7 +14,7 @@ tags: weapon rc1 carbine
 
 I built a new weapon. I call it the **RC1**. Why that name? Because it's easier
 to explain that RC1 stands for _Reeder Carbine Model One_ than to explain that
-PK6 (its original name) stands for _Piŝta Karabeno je 6,5mm Grendel_.
+PK6 (the other name candidate) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 
 ## Weapon design
 
@@ -49,17 +49,17 @@ in Vietnam.
 
 But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
 design —upon which the M16 and the Incursion are based—, we now have a
-standardized means of interchanging parts to fit the needs and wants of the
-shooter. The RC1 takes advantage of this in two important ways.
+standardized means of interchanging parts to meet the operator's requirements.
+The RC1 takes advantage of this in two important ways.
 
 - Certain part selections, inspired by PDWs and by AR15A3-derived ultralight
   carbines, serve to make the RC1 lighter and more maneuverable.
 
-- The bolt is cycled by a gas piston, based on the Armalite AR-180 design,
+- The bolt is cycled by a gas piston, based on the Armalite™ AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
 
 Piston gas systems consistently outperform direct-impingement systems in
-reliability tests, as they did in a [2007 test by the U.S.Army][test-results].
+reliability tests, as they did in a [2007 test by the U.S. Army][test-results].
 {:.tangent .indent}
 
 I'm targeting a length of 32" or less, and a weight of no more than 7 lb
