@@ -16,7 +16,9 @@ Here's what's going on in the manly arts.
 # [{{ post.title }}]({{ post.url }})
 <div class="post-metadata">{{ post.date | date: "%Y-%m-%d" }} — by {{ post.author }}</div>
 {{ post.content }}
-<a class="btn" href="https://dissenter.com/discussion/begin?url={{ post.url | prepend: site.url }}">Comment</a>
+{% if site.dissenter %}
+	<a class="btn" href="https://dissenter.com/discussion/begin?url={{ post.url | prepend: site.url }}">Comment</a>
+{% endif %}
 <span class="post-metadata">
 	© {{ post.date | date: "%Y" }} {{ post.author }} &amp; gridscout.net
 </span>
