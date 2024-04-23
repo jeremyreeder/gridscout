@@ -26,10 +26,10 @@ I want a gun that's especially easy to handle in close-quarters combat without
 sacrificing effectiveness at medium range (up to 500 yards). While a PDW may be
 great in close quarters and an M4-style carbine is pretty good up to 300 yards,
 both are severely handicapped beyond that range. A PDW's range suffers from its
-very short barrel, while the carbine is typically held back by a diminutive
-5.56x45 NATO cartridge. In either case, the energy of the bullet is
-insufficient to remain effective at my maximum intended distance against human
-targets and the occasional medium-size game animal. (Besides the obvious
+very short barrel, while carbines these days are typically held back by firing
+the diminutive 5.56x45 NATO cartridge. In either case, the energy of the bullet
+is insufficient to remain effective at my maximum intended distance against
+human targets and the occasional medium-size game animal. (Besides the obvious
 counterterrorism missions, I intend to hunt wolves, deer, and wild boar with
 this puppy.)
 
