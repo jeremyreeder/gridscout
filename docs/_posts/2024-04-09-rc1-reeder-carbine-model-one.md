@@ -73,7 +73,7 @@ cartridge-specific magazines.
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
 ![This 5.9-oz E-Lander™ magazine from Israel is made of steel, making it stronger than the aluminum USGI models that are prone to bending of the feed lips.][progress-2018-11-14]
-*2018 — Receivers, pins, & magazine*
+*Receivers, pins, & magazine*
 </div>
 
 The barrel is of the standard 16" carbine length, just long enough to avoid the
@@ -81,12 +81,12 @@ red tape associated with a short-barreled rifle. This length also produces high
 enough muzzle velocity and bullet energy for practical medium-range use.
 
 ![This carbon-fiber buttstock, produced by Incognito Arms™ within spitting distance of my daily commute through Boise, weighs just 2.33 oz. The 13° Ergo™ Swift Grip (2.8 oz with included screw) notably has no backstrap, so the palm can grip the gun higher for recoil management and easier reach of the magazine release. I've also installed an Alexander™ Incursion melonited chromoly barrel (1 lb 7.9 oz) and an Aero™ barrel nut (1.3 oz). The barrel came with an Alexander™ "hard-use" bolt assembly (1.5 oz), which in the absence of a bolt carrier is not yet installed. A TacStar™ handguard is pictured but turns out to be incompatible with the piston.][progress-2018-12-25]
-*2018-12 — Buttstock, grip, & barrel*
+*Buttstock, grip, & barrel*
 
 <div class="gallery" markdown="1">
 ![The Fortis Clutch charging handle weighs in at 1.06 oz. It's single-sided, but this is the only side that has a real function in mil-spec charging handles anyway. As pictured, the weight is now 3 lb, 12.1 oz.][progress-2019-04-21T10]
 ![The endplate has a quick-detach mounting point for a sling. The ratcheting nut doesn't require staking. Both are produced by Primary Weapon Systems of Boise, just around the corner.][progress-2019-06-16T14:57]
-*2019 — Charging handle & endplate*
+*Charging handle & endplate*
 </div>
 
 This weapon has a very short, fixed-length buttstock to shift its mass closer
@@ -98,12 +98,12 @@ lightweight as practicable, in order to limit muscle fatigue so the shooter can
 more easily keep his sights steady on the target.
 
 ![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ Stealth Recoil Spring.][progress-2020-06-22]
-*2020-06 — Trigger & guard, selector, mag release, & assorted lower innards*
+*Light trigger & custom guard, selector, mag release, & assorted lower innards*
 
 A custom oversized mag-well makes for fast magazine changes.
 
 ![This enormous mag-well flair, 3D-printed of carbon-fiber copolyester, makes my magazine changes so much faster.][progress-2020-06-25]
-*2020-06-25 — Flaired magazine well*
+*Flaired magazine well*
 
 The RC1 will be equipped with two sighting systems:
 - A lightweight fixed-power riflescope (not yet mounted), for precise targeting
@@ -112,13 +112,13 @@ The RC1 will be equipped with two sighting systems:
 <div class="gallery" markdown="1">
 ![Adams Arms™ lightweight bolt carrier, adjustable micro gas block, & piston][progress-2021-02-26]
 ![Adams Arms™ piston kit & GGG™ Transition rear sight. Also pictured is a plastic thread protector, but that'll be replaced with a steel one better suited for the heat.][progress-2021-03-02]
-*2021-03 — Piston kit & rear sight*
+*Piston kit & rear sight*
 </div>
 
 To keep the overall length to a minimum, a simple thread protector is mounted on the barrel in lieu of a muzzle device.
 
 ![The carbon-fiber handguard lacked piston clearance, so I switched to this aluminum model by Intacto Arms. Also new is the steel thread protector by Down Range Products.][progress-2021-04-13]
-*2021-04 — Handguard, front sight, & thread protector*
+*Handguard, front sight, & thread protector*
 
 Upon firing, the gun wouldn't automatically load the next cartridge at first.
 And charging the weapon manually was much harder than it ought to be. The
@@ -130,7 +130,7 @@ The gun now functions properly. Its total length is 31
 <sup>5</sup>/<sub>16</sub>". Good, it's under 32" like I wanted.
 
 ![Leupold™ 4x28 riflescope, mounted on cheap homemade prototype rings. Switched later to Leupold™ PRW2 rings.][progress-2024-04-01]
-*2024-04-01 — Scope*
+*4x Scope*
 
 Total weight, with a scope and a full magazine, is 6 lb 15.4 oz. Good, it's
 under 7 lb like I wanted. Perhaps I can just afford the weight of a custom
@@ -139,7 +139,7 @@ minimalist foregrip.
 <div class="gallery" markdown="1">
 ![Final weigh-in, fully loaded: 6 lb 15.9 oz][progress-2024-04-09T18:50]
 ![I created the little plastic foregrip myself. It mounts directly to the handguard and provides a comfortable, consistent hold.][progress-2024-04-09T18:58]
-*2024-04-09 — Foregrip*
+*Custom Foregrip*
 </div>
 
 Bam! I like my new gun.
