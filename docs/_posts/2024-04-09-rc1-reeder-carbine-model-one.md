@@ -18,6 +18,10 @@ PK6 (the other name candidate) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 
 ## Weapon design
 
+tl;dr -- It's a smaller, lighter, piston-operated AR15 derivative with more
+firepower, 'cause the peace ain't gonna keep _itself_.
+{:.tangent}
+
 I want a gun that's especially easy to handle in close-quarters combat without
 sacrificing effectiveness at medium range (up to 500 yards). While a PDW may be
 great in close quarters and an M4-style carbine is pretty good up to 300 yards,
@@ -40,7 +44,7 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 0.395 BC, 3241 ft/s MV.)
 {:.tangent}
 
-The RC1 design is based somewhat on the Alexander™ Incursion Rifle, which
+The RC1 design is based somewhat on the Alexander™ _Incursion Rifle_, which
 is relatively light and fires one of the most effective general-purpose
 cartridges for modern carbines: the 6.5 Grendel. The Incursion, however, isn't
 everything that I want it to be. It's slightly longer than I prefer in close
@@ -76,7 +80,8 @@ cartridge-specific magazines.
 *Receivers, pins, & magazine*
 </div>
 
-The barrel is of the standard 16" carbine length, just long enough to avoid the
+I got my hands on a bolt and _Incursion_ barrel from Alexander Arms. This
+barrel comes in the standard 16" carbine length, just long enough to avoid the
 red tape associated with a short-barreled rifle. This length also produces high
 enough muzzle velocity and bullet energy for practical medium-range use.
 
