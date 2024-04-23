@@ -95,7 +95,7 @@ enough muzzle velocity and bullet energy for practical medium-range use.
 </div>
 
 This weapon has a very short, fixed-length buttstock to shift its mass closer
-to the shooter's body where it's most easily supported. If it had the 33° grip
+to the operator's body where it's most easily supported. If it had the 33° grip
 angle that's most common in modern carbines, then the short stock would make it
 uncomfortable for the wrist of the shooter's dominant hand; so the grip is
 instead nearly vertical (a mere 13°) as in a PDW. The RC1 is meant to be as
