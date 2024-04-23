@@ -9,7 +9,7 @@ redirect_from:
   - /2021/04/13/rc1-a-lightweight-tactical-carbine
   - /rc1
   - /carbine
-tags: weapon rc1 carbine
+tags: weapon rc1 carbine french revolution
 ---
 
 I built a new weapon. I call it the **RC1**. Why that name? Because it's easier
@@ -151,7 +151,8 @@ Performance test coming soon.
 ## Swag for the Fan Club
 
 <div class="gallery" markdown="1">
-![RC1 French Revolutionist Shirt - featuring the Gwenn-ha-Du flag, the Cross of Lorraine, and an anthem of the Revolution][rc1-shirt-pic]
+![This t-shirt features the RC1, the Gwenn-ha-Du flag, the Cross of Lorraine, and an anthem of the French Revolution inspired by Benjamin Franklin.][rc1-shirt-pic]
+*Carabine Officielle de la Révolution*
 </div>
 
 If you want some swag, here are the designs so you can make it yo'self.
