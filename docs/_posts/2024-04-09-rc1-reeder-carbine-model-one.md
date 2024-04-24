@@ -143,9 +143,9 @@ under 7 lb like I wanted. Perhaps I can just afford the weight of a custom
 minimalist foregrip.
 
 <div class="gallery" markdown="1">
-![Final weigh-in, fully loaded: 6 lb 15.9 oz][progress-2024-04-09T18:50]
-![I created the little plastic foregrip myself. It mounts directly to the handguard and provides a comfortable, consistent hold.][progress-2024-04-09T18:58]
-*Custom Foregrip*
+![Final weigh-in, fully loaded: 6 lb 15.9 oz][progress-2024-04-09]
+![I created the buttstock decal and the little plastic foregrip myself. The foregrip mounts directly to the handguard to provide a comfortable, consistent hold.][progress-2024-04-23]
+*RC1 Decal & Custom Foregrip*
 </div>
 
 Bam! I like my new gun.
@@ -178,8 +178,8 @@ If you want some swag, here are the designs so you can make it yo'self.
 [progress-2021-03-02]:       {{ '/images/rc1-progress-2021-03-02.jpg'       | prepend: site.url }}
 [progress-2021-04-13]:       {{ '/images/rc1-progress-2021-04-13.jpg'       | prepend: site.url }}
 [progress-2024-04-01]:       {{ '/images/rc1-progress-2024-04-01.jpg'       | prepend: site.url }}
-[progress-2024-04-09T18:50]: {{ '/images/rc1-progress-2024-04-09T18:50.jpg' | prepend: site.url }}
-[progress-2024-04-09T18:58]: {{ '/images/rc1-progress-2024-04-09T18:58.jpg' | prepend: site.url }}
+[progress-2024-04-09]:       {{ '/images/rc1-progress-2024-04-09.jpg'       | prepend: site.url }}
+[progress-2024-04-23]:       {{ '/images/rc1-progress-2024-04-23.jpg'       | prepend: site.url }}
 [rc1-shirt-pic]:             {{ '/images/rc1-shirt.webp'                    | prepend: site.url }}
 
 [grendel-bc]:   http://eng.barnaulpatron.ru/production/sportshuntingcartridgescalibre/65.html
