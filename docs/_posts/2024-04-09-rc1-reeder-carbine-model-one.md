@@ -71,8 +71,8 @@ all-inclusive.
 
 ## The Product
 
-I started this build with a lightweight M4-style receiver set and
-cartridge-specific magazines.
+I started this build with a lightweight M4-style receiver set and some Israeli
+magazines specific to the 6.5 Grendel cartridge.
 
 <div class="gallery" markdown="1">
 ![This Anderson™ AM-15 receiver set (8.7-oz lower, 6.7-oz slick-side upper) from Wisconsin has no ejection-port cover and no forward assist, frills which in my view aren't worth their weight. The receivers are held together by 2A Armament™ titanium takedown pins made in southeast Boise, adding 0.1 oz.][progress-2018-06-21]
