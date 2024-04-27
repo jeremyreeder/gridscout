@@ -18,7 +18,7 @@ PK6 (the other name candidate) stands for _Piŝta Karabeno je 6,5mm Grendel_.
 
 ## Weapon design
 
-tl;dr -- It's a smaller, lighter, piston-operated AR15 derivative with more
+tl;dr -- It's a shorter, lighter, piston-operated AR15 derivative with more
 firepower, 'cause the peace ain't gonna keep **itself**!
 {:.tangent}
 
