@@ -49,7 +49,7 @@ is relatively light and fires one of the most effective general-purpose
 cartridges for modern carbines: the 6.5 Grendel. The Incursion, however, isn't
 everything that I want it to be. It's slightly longer than I prefer in close
 quarters. It still relies on the direct-impingement gas system that got M16
-operators killed in Vietnam. And it's got the mediocre mil-spec trigger.
+operators killed in Vietnam. And it's got that mediocre mil-spec trigger.
 
 But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
 design —upon which the M16 and the Incursion are based—, we now have a
@@ -59,11 +59,11 @@ The RC1 takes advantage of this in several ways, such as the following:
 - Certain part selections, inspired by PDWs and by AR15A3-derived ultralight
   carbines, serve to make the RC1 lighter and more maneuverable.
 
-- The bolt is cycled by a gas piston, based on the Armalite™ AR-180 design,
-  which has proven substantially more reliable than direct gas impingement.
-
 - A high-quality alternative trigger will help the operator make accurate
   shots.
+
+- The bolt is cycled by a gas piston, based on the Armalite™ AR-180 design,
+  which has proven substantially more reliable than direct gas impingement.
 
 Piston gas systems consistently outperform direct-impingement systems in
 reliability tests, as they did in a [2007 test by the U.S. Army][test-results].
