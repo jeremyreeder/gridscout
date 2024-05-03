@@ -48,19 +48,22 @@ The RC1 design is based somewhat on the Alexander™ _Incursion Rifle_, which
 is relatively light and fires one of the most effective general-purpose
 cartridges for modern carbines: the 6.5 Grendel. The Incursion, however, isn't
 everything that I want it to be. It's slightly longer than I prefer in close
-quarters, and it still relies on the direct-impingement gas system that got M16
-operators killed in Vietnam.
+quarters. It still relies on the direct-impingement gas system that got M16
+operators killed in Vietnam. And it's got the mediocre mil-spec trigger.
 
 But thanks to the versatility and popularity of Eugene Stoner's modular AR-15
 design —upon which the M16 and the Incursion are based—, we now have a
 standardized means of interchanging parts to meet the operator's requirements.
-The RC1 takes advantage of this in two important ways.
+The RC1 takes advantage of this in several ways, such as the following:
 
 - Certain part selections, inspired by PDWs and by AR15A3-derived ultralight
   carbines, serve to make the RC1 lighter and more maneuverable.
 
 - The bolt is cycled by a gas piston, based on the Armalite™ AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
+
+- A high-quality alternative trigger will help the operator make accurate
+  shots.
 
 Piston gas systems consistently outperform direct-impingement systems in
 reliability tests, as they did in a [2007 test by the U.S. Army][test-results].
@@ -96,12 +99,18 @@ medium-range use.
 </div>
 
 This weapon has a very short, fixed-length buttstock to shift its mass closer
-to the operator's body where it's most easily supported. If it had the 33° grip
+to the operator's body where it's more easily supported. If it had the 33° grip
 angle that's most common in modern carbines, then the short stock would make it
-uncomfortable for the wrist of the shooter's dominant hand; so the grip is
+uncomfortable for the wrist of the operator's dominant hand; so the grip is
 instead nearly vertical (a mere 13°) as in a PDW. The RC1 is meant to be as
 lightweight as practicable, in order to limit muscle fatigue so the shooter can
 more easily keep his sights steady on the target.
+
+The trigger is smooth to operate and relatively light, with a 4-lb pull weight.
+The fire selector operates with just 57° of rotation so we don't have to bother
+with a full 90° before gettin' down to business. The bolt-release paddle is
+enlarged to give me an easier target to smack. Inside the buffer tube is a
+multi-stage recoil spring meant for smoother operation with less felt recoil.
 
 ![Velocity™ 4-lb trigger, 3D-printed copolyester trigger guard, V7™ short-throw titanium selector, Seekins™ enlarged bolt-release paddle, Aero™ lower parts kit, ArmaSpec™ Stealth Recoil Spring.][progress-2020-06-22]
 *Light trigger & custom guard, selector, mag release, & assorted lower innards*
@@ -129,8 +138,8 @@ To keep the overall length to a minimum, a simple thread protector is mounted on
 Upon firing, the gun wouldn't automatically load the next cartridge at first.
 And charging the weapon manually was much harder than it ought to be. The
 buffer tube seems to be a little shorter than standard, so the springs were
-overly compressed. I resolved these troubles by replacing the ArmaSpec™ Stealth
-Recoil Spring with a custom-tuned JP™ Silent Captured Spring.
+overly compressed. I resolved these troubles by replacing the original recoil
+spring with a custom-tuned JP™ Silent Captured Spring.
 
 The gun now functions properly. Its total length is 31
 <sup>5</sup>/<sub>16</sub>". Good, it's under 32" like I wanted.
