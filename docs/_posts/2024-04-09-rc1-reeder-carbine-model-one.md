@@ -59,8 +59,7 @@ The RC1 takes advantage of this in several ways, such as the following:
 - Certain part selections, inspired by PDWs and by AR15A3-derived ultralight
   carbines, serve to make the RC1 lighter and more maneuverable.
 
-- A high-quality alternative trigger will help the operator make accurate
-  shots.
+- A high-quality alternative trigger helps the operator make accurate shots.
 
 - The bolt is cycled by a gas piston, based on the Armalite™ AR-180 design,
   which has proven substantially more reliable than direct gas impingement.
