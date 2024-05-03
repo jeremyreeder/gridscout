@@ -44,6 +44,10 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 0.395 BC, 3241 ft/s MV.)
 {:.tangent}
 
+So I'm targeting a length of 32" or less, and a weight of no more than 7 lb
+all-inclusive, using 17-round magazines of 6.5 Grendel cartridges.
+
+
 The RC1 design is based somewhat on the Alexander™ _Incursion Rifle_, which
 is relatively light and fires one of the most effective general-purpose
 cartridges for modern carbines: the 6.5 Grendel. The Incursion, however, isn't
@@ -67,9 +71,6 @@ The RC1 takes advantage of this in several ways, such as the following:
 Piston gas systems consistently outperform direct-impingement systems in
 reliability tests, as they did in a [2007 test by the U.S. Army][test-results].
 {:.tangent .indent}
-
-I'm targeting a length of 32" or less, and a weight of no more than 7 lb
-all-inclusive.
 
 ## The Product
 
