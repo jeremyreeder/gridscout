@@ -44,8 +44,8 @@ Grendel, 100gr, [0.515 BC][grendel-bc], 2723 ft/s MV; vs .223 Remington, 55gr,
 0.395 BC, 3241 ft/s MV.)
 {:.tangent}
 
-**So I'm targeting a length of 32" and a weight of 7 lb all-inclusive, using
-17-round magazines of 6.5-Grendel ammunition.**
+So I'm targeting a **length of 32"** and a **weight of 7 lb** all-inclusive,
+using 17-round magazines of **6.5-Grendel ammunition**.
 
 The RC1 design is based somewhat on the Alexander™ _Incursion Rifle_, which
 is relatively light and fires one of the most effective general-purpose
