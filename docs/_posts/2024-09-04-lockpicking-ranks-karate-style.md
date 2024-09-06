@@ -17,8 +17,8 @@ task, a requirement for the blue-belt rank, is to make custom modifications to
 a lock to make it more pick-resistant. Fun! I've got some ideas.
 
 <div class="gallery" markdown="1">
-![Brinks brass padlock][brinks-lock]
-![Abus 55/40 padlock][abus-lock]
+![Brinks brass padlock, picked for white-belt rank][brinks-lock]
+![Abus 55/40 padlock, picked for yellow-belt rank][abus-lock]
 *Brinks & Abus padlocks, picked*
 </div>
 
