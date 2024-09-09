@@ -39,23 +39,25 @@ get closer to the correct combination, usually much moreso than any rightward
 movement of the left contact.
 
 As for other simplifications to the progress-tracking system, I do away with
-the graphing. Instead I fasten a pair of hairline stickers to the dial and dial
-ring, repositioning the one on the dial ring into alignment with the one on the
-dial each time I discover a new best combination that produces a narrower
-contact area than any I've seen before.
+the graphing. Instead I fasten a pair of hairline-index stickers to the dial
+and dial ring, repositioning the one on the dial ring into alignment with the
+one on the dial each time I discover a new best combination that produces a
+narrower contact area than any I've seen before.
 
 ## Notes
 
-Here are the notes that I took during this manipulation. The comments below
-each note were added afterward to clarify those notes for instructional
-purposes.
+Here are the notes that I took during this manipulation.
+
+The comments below each note were added afterward to clarify those notes for
+instructional purposes.
+{:.tangent}
 
 - Started by dialing AWL x, where x is the range from 50 to 90 and from 0 to 40,
   in increments of 10. The best value of x was 90.
 
-AWL 90 produced the narrowest contact area seen so far, so we know that the
-wheelpack radius under the fence is at a minimum with this combination,
-compared with all other combinations tried so far.
+All-wheels-left to 90 produced the narrowest contact area seen so far, so we
+know that the wheelpack radius under the fence is at a minimum with this
+combination, compared with all other combinations tried so far.
 {:.tangent .indent}
 
 - Tried 90L-xR-90L, where x is the range from 0 to 80 in increments of 10. The
