@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Simplified Manipulation of a Sargent & Greenleaf R6730 combination lock
+title: Simplified Manipulation of Sargent & Greenleaf R6730
 author: Jeremy Reeder
 date: 2024-09-09
 redirect_from:
   - /r6730
-tags: lock manipulation safe
+tags: combination lock manipulation safe
 ---
 
 This is the method that I used to open a high-quality mechanical combination
