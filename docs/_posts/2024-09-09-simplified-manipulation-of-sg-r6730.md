@@ -78,7 +78,7 @@ least dialing, so let's do that one.
 
 The lowest wheelpack radius under the fence that we've witnessed so far was
 with wheel 3 parked at 0L, producing a best-so-far combination of 90L-90R-0L.
-Let's move on to varying wheel 3, since we haven't varied that one on its own
+Let's move on to varying wheel 1, since we haven't varied that one on its own
 yet.
 {:.tangent .indent}
 
