@@ -5,7 +5,7 @@ author: Jeremy Reeder
 date: 2024-09-09
 redirect_from:
   - /r6730
-tags: combination lock manipulation safe
+tags: combination lock manipulation safe safecracker
 ---
 
 This is the method that I used to open a high-quality mechanical combination
