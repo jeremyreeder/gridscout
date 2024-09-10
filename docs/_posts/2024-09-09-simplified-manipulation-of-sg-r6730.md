@@ -86,7 +86,7 @@ yet.
   best value of x was 80.
 
 The lowest wheelpack radius under the fence that we've witnessed so far was
-with wheel 1 parked at 80L. The best combinations so far is 80L-90R-0L.  Now
+with wheel 1 parked at 80L. The best combination so far is 80L-90R-0L. Now
 let's vary wheel 3 again, since it's the quickest to do. Let's do it in smaller
 increments this time. Now that we've made progress with all wheels, we have a
 much greater chance of finding a gate that otherwise most likely would've been
@@ -97,8 +97,8 @@ masked by the larger radius of other wheels.
   best value of x was 7.
 
 The lowest wheelpack radius under the fence that we've witnessed so far was
-with wheel wheel 3 parked at 7L. The best combination so far is 80L-90R-7L.
-Now let's vary the position of wheel 2, using slightly larger intervals for now
+with wheel 3 parked at 7L. The best combination so far is 80L-90R-7L.  Now
+let's vary the position of wheel 2, using slightly larger intervals for now
 because it'll otherwise take a lot more time than it did for wheel 3. We'll
 come back to this wheel later in smaller intervals if it proves necessary. This
 isn't just a gamble, after all there's a benefit to making progress on all
