@@ -40,9 +40,9 @@ movement of the left contact.
 
 As for other simplifications to the progress-tracking system, I do away with
 the graphing. Instead I fasten a pair of hairline-index stickers to the dial
-and dial ring, repositioning the one on the dial ring into alignment with the
-one on the dial each time I discover a new best combination that produces a
-narrower contact area than any I've seen before.
+and dial ring, repositioning the one on the dial ring rightward into alignment
+with the one on the dial each time I discover a new best combination that
+produces a narrower contact area than any I've seen before.
 
 ## Notes
 
