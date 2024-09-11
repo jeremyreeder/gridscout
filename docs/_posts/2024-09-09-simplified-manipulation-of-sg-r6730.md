@@ -23,6 +23,10 @@ amplifier.  The amp wasn't really needed to detect the contact points, which
 were easy to feel.  But it did turn out to help a great deal in stopping people
 from talking to me so I could focus on my task, so I kept it in my ears.
 
+JARGON ALERT! This is not an *introduction* to safecracking, it's an advanced
+commentary.
+{:.tangent}
+
 Locks like this are often manipulated with the aid of several graphs on paper,
 detailing all variations in left and right contact points for every trial
 combination.  My first successful manipulation of an R6730 came after four and
