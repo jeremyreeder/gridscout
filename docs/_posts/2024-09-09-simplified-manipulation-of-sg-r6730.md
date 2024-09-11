@@ -44,23 +44,22 @@ movement of the left contact.
 
 As for other simplifications to the progress-tracking system, I do away with
 the graphing. Instead I fasten a pair of hairline-index stickers to the dial
-and dial ring, repositioning the one on the dial ring rightward into alignment
-with the one on the dial each time I discover a new best combination that
-produces a narrower contact area than any I've seen before.
+and dial ring. Then I track my progress with a series of notes and iterative
+realignment of the stickers.
 
 <div class="gallery" markdown="1">
 ![These two stickers align at the right contact point.][dial-with-stickers]
 *Stickers in Action*
 </div>
 
-The position of the sticker on the dial is arbitrary, but I like to place it
-somewhere within the top right quadrant when the lever nose rests on its right
-contact point. The other sticker than goes on the dial ring in perfect
-alignment with the first sticker. The dial-ring sticker is subsequently moved
-rightward any time a contact point deeper within the drive cam is found,
-realigning it with the contact point associated with the newest best-so-far
-combination.
-{:.tangent}
+With the lever nose resting on its right contact point, I place a sticker on
+the dial somewhere around the one-o'clock position. That position is arbitrary
+aside from being away from leaving the twelve-o'clock dialing index
+unobstructed and choosing somewhere easy to see and reach. The other sticker
+than goes on the dial ring in perfect alignment with that first sticker. The
+dial-ring sticker is subsequently moved rightward any time a contact point
+deeper within the drive cam is found, realigning it with the new contact point
+associated with the new best-so-far combination.
 
 ## Notes
 
@@ -144,7 +143,8 @@ Of course I then reset the combination, because I can't have you blokes knowing
 it. The opening of this lock took me 50 minutes in total, going slowly and
 methodically to ensure accuracy but not unnecessarily slowed by a tedious
 textbook-style graphing process. So that's how I often do it, and it works well
-for me. Sometimes faster, when nobody bugs me. My record is 25 minutes.
+for me. Sometimes faster, when nobody bugs me. My record on this type of lock
+is 25 minutes.
 
 
 [dial-with-stickers]: {{ '/images/dial-with-hairline-index-stickers.jpg' | prepend: site.url }}
