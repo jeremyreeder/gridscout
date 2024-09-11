@@ -24,7 +24,8 @@ were easy to feel.  But it did turn out to help a great deal in stopping people
 from talking to me so I could focus on my task, so I kept it in my ears.
 
 JARGON ALERT! This is not an *introduction* to safecracking, it's an advanced
-commentary. For a good introduction, see TNL's [Guide to Manipulation][manipulation-guide].
+commentary. For a good introduction, see TNL's [Guide to
+Manipulatio][gtm-legit][n][gtm-bootleg].
 {:.tangent}
 
 Locks like this are often manipulated with the aid of several graphs on paper,
@@ -149,4 +150,5 @@ is 25 minutes.
 
 [dial-with-stickers]: {{ '/images/dial-with-hairline-index-stickers.jpg' | prepend: site.url }}
 
-[manipulation-guide]: https://ia800902.us.archive.org/33/items/TheNationalLocksmithGuideToManipulation/The%20National%20Locksmith%20-%20Guide%20to%20Manipulation_text.pdf
+[gtm-legit]:   https://foleybelsawlocksmithing.com/products/manipulation-book
+[gtm-bootleg]: https://ia800902.us.archive.org/33/items/TheNationalLocksmithGuideToManipulation/The%20National%20Locksmith%20-%20Guide%20to%20Manipulation_text.pdf
