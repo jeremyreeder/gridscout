@@ -142,7 +142,7 @@ door handle.
 
 It took me 50 minutes to open this lock, going slowly and methodically to
 ensure accuracy but not unnecessarily slowed by a tedious textbook-style
-graphing process. That's how I most often do it, and it works well for me.
+graphing process. That's how I like to do it, and it works well for me.
 Sometimes faster, when nobody bugs me. My record on this type of lock is 25
 minutes.
 
