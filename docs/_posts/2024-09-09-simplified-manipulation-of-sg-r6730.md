@@ -48,6 +48,18 @@ and dial ring, repositioning the one on the dial ring rightward into alignment
 with the one on the dial each time I discover a new best combination that
 produces a narrower contact area than any I've seen before.
 
+![These two stickers align at the right contact point.][dial-with-stickers]
+*Stickers in Action*
+
+The position of the sticker on the dial is arbitrary, but I like to place it
+somewhere within the top right quadrant when the lever nose rests on its right
+contact point. The other sticker than goes on the dial ring in perfect
+alignment with the first sticker. The dial-ring sticker is subsequently moved
+rightward any time a contact point deeper within the drive cam is found,
+realigning it with the contact point associated with the newest best-so-far
+combination.
+{:.tangent}
+
 ## Notes
 
 Here are the notes that I took during this manipulation.
@@ -131,3 +143,6 @@ it. The opening of this lock took me 50 minutes in total, going slowly and
 methodically to ensure accuracy but not unnecessarily slowed by a tedious
 textbook-style graphing process. So that's how I often do it, and it works well
 for me. Sometimes faster, sometimes a little slower.
+
+
+[dial-with-stickers]: {{ '/images/dial-with-hairline-index-stickers.jpg' | prepend: site.url }}
