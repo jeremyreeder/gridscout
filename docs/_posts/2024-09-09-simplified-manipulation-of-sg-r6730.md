@@ -25,7 +25,7 @@ from talking to me so I could focus on my task, so I kept it in my ears.
 
 JARGON ALERT! This is not an *introduction* to safecracking, it's an advanced
 commentary. For a good introduction, see TNL's [Guide to
-Manipulatio][gtm-legit][n][gtm-bootleg].
+Manipulation][gtm-legit][.][gtm-bootleg]
 {:.tangent}
 
 Locks like this are often manipulated with the aid of several graphs on paper,
