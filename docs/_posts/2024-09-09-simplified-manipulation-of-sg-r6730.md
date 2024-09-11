@@ -140,12 +140,14 @@ bolt. This unblocked the door's boltwork, allowing me to retract it with the
 door handle.
 {:.tangent .indent}
 
+It took me 50 minutes to open this lock, going slowly and methodically to
+ensure accuracy but not unnecessarily slowed by a tedious textbook-style
+graphing process. That's how I most often do it, and it works well for me.
+Sometimes faster, when nobody bugs me. My record on this type of lock is 25
+minutes.
+
 Of course I then reset the combination, because I can't have you blokes knowing
-it. The opening of this lock took me 50 minutes in total, going slowly and
-methodically to ensure accuracy but not unnecessarily slowed by a tedious
-textbook-style graphing process. So that's how I often do it, and it works well
-for me. Sometimes faster, when nobody bugs me. My record on this type of lock
-is 25 minutes.
+it.
 
 
 [dial-with-stickers]: {{ '/images/dial-with-hairline-index-stickers.jpg' | prepend: site.url }}
