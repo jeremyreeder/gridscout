@@ -48,8 +48,10 @@ and dial ring, repositioning the one on the dial ring rightward into alignment
 with the one on the dial each time I discover a new best combination that
 produces a narrower contact area than any I've seen before.
 
+<div class="gallery" markdown="1">
 ![These two stickers align at the right contact point.][dial-with-stickers]
 *Stickers in Action*
+</div>
 
 The position of the sticker on the dial is arbitrary, but I like to place it
 somewhere within the top right quadrant when the lever nose rests on its right
@@ -142,7 +144,7 @@ Of course I then reset the combination, because I can't have you blokes knowing
 it. The opening of this lock took me 50 minutes in total, going slowly and
 methodically to ensure accuracy but not unnecessarily slowed by a tedious
 textbook-style graphing process. So that's how I often do it, and it works well
-for me. Sometimes faster, sometimes a little slower.
+for me. Sometimes faster, when nobody bugs me. My record is 25 minutes.
 
 
 [dial-with-stickers]: {{ '/images/dial-with-hairline-index-stickers.jpg' | prepend: site.url }}
