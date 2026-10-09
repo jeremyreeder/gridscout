@@ -24,7 +24,7 @@ permalink: /
         <span class="portal-card-path">/maps/ <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="{{ '/gazette/' | relative_url }}">
-        <span class="portal-card-meta">Writing</span>
+        <span class="portal-card-meta">Blog</span>
         <strong>GridScout Gazette™</strong>
         <span class="portal-card-desc">Field notes on maps, knots, locks, and projects.</span>
         <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
@@ -51,22 +51,10 @@ permalink: /
         <span class="portal-card-path">shenanigans.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://safehouse.gridscout.net/">
-        <span class="portal-card-meta">Archive</span>
+        <span class="portal-card-meta">Safecracking archive</span>
         <strong>The Safe House™</strong>
         <span class="portal-card-desc">Jeremy's retired safe and vault work.</span>
         <span class="portal-card-path">safehouse.gridscout.net <span aria-hidden="true">↗</span></span>
-      </a>
-      <a class="portal-card" href="https://blackbox.gridscout.net/">
-        <span class="portal-card-meta">Private app</span>
-        <strong>Black Box</strong>
-        <span class="portal-card-desc">A flight recorder of sorts. This address leads to sign-in.</span>
-        <span class="portal-card-path">blackbox.gridscout.net <span aria-hidden="true">↗</span></span>
-      </a>
-      <a class="portal-card" href="https://blackbox2.gridscout.net/">
-        <span class="portal-card-meta">Private app</span>
-        <strong>Black Box 2</strong>
-        <span class="portal-card-desc">The current Black Box sign-in address.</span>
-        <span class="portal-card-path">blackbox2.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
     </div>
   </nav>
