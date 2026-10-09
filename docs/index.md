@@ -2,6 +2,7 @@
 layout: default
 title: Home
 permalink: /
+hide_site_description: true
 ---
 
 <div class="portal">

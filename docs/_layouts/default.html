@@ -17,7 +17,7 @@
       <div class="container">
         <img src="{{ '/images/favicon-128x128.png' | relative_url }}" alt="Map" class="floating-logo">
         <h1><a class="site-home-link" href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-		  <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          {% unless page.hide_site_description %}<h2>{{ site.description | default: site.github.project_tagline }}</h2>{% endunless %}
 		  <p class="end-float"></p>
       </div>
     </header>
