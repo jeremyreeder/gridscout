@@ -23,7 +23,7 @@ hide_site_description: true
       <a class="portal-card" href="{{ '/gazette/' | relative_url }}">
         <span class="portal-card-meta">Blog</span>
         <strong>GridScout Gazette™</strong>
-        <span class="portal-card-desc">Field notes about manly projects.</span>
+        <span class="portal-card-desc">Field notes about manly projects and whatnot.</span>
         <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://threat.gridscout.net/">
