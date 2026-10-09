@@ -17,7 +17,7 @@ hide_site_description: true
       <a class="portal-card" href="{{ '/maps/' | relative_url }}">
         <span class="portal-card-meta">Maps</span>
         <strong>GridScout Map™</strong>
-        <span class="portal-card-desc">MGRS search and practical planning with paper maps.</span>
+        <span class="portal-card-desc">MGRS search client, for planning with paper maps.</span>
         <span class="portal-card-path">/maps/ <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="{{ '/gazette/' | relative_url }}">
