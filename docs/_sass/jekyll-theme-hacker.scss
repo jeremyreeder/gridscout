@@ -438,27 +438,6 @@ p img + em:hover {
   margin-top: 2.5rem;
 }
 
-.portal-section-heading {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  border-bottom: 1px dashed #58705a;
-}
-
-#main_content .portal-section-heading h2 {
-  margin: 0 0 0.5rem;
-  color: #b5e853;
-  font-size: 1.45rem;
-}
-
-.portal-section-heading > span {
-  color: #97a4ac;
-  font-size: 0.78rem;
-  white-space: nowrap;
-}
-
 .portal-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -544,8 +523,6 @@ p img + em:hover {
 @media (max-width: 640px) {
   .portal-grid { grid-template-columns: 1fr; }
   .portal-card { min-height: 0; }
-  .portal-section-heading { align-items: flex-start; flex-direction: column; gap: 0; }
-  .portal-section-heading > span { margin-bottom: 0.6rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

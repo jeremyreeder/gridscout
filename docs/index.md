@@ -12,11 +12,7 @@ hide_site_description: true
     <p>Maps, field notes, security labs, and a few other projects. Pick a destination below.</p>
   </div>
 
-  <nav aria-labelledby="portal-www-heading">
-    <div class="portal-section-heading">
-      <h2 id="portal-www-heading">On this site</h2>
-      <span>www.gridscout.net</span>
-    </div>
+  <nav aria-label="GridScout destinations">
     <div class="portal-grid">
       <a class="portal-card" href="{{ '/maps/' | relative_url }}">
         <span class="portal-card-meta">Maps</span>
@@ -30,15 +26,6 @@ hide_site_description: true
         <span class="portal-card-desc">Field notes about manly projects.</span>
         <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
       </a>
-    </div>
-  </nav>
-
-  <nav aria-labelledby="portal-subdomains-heading">
-    <div class="portal-section-heading">
-      <h2 id="portal-subdomains-heading">Other GridScout sites</h2>
-      <span>Subdomains</span>
-    </div>
-    <div class="portal-grid">
       <a class="portal-card" href="https://threat.gridscout.net/">
         <span class="portal-card-meta">Security</span>
         <strong>Threat Level Indicator</strong>
