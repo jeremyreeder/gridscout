@@ -17,5 +17,5 @@ search result and checking its surroundings.
 
 
 [gmap4-rip]: {{ '/2018/08/30/google-killed-gmap4.html' | prepend: site.url }}
-[gridscout]: {{ site.url }}
+[gridscout]: {{ '/maps/' | absolute_url }}
 [update]:    {{ '/2020/05/22/now-using-gissurfer.html' | prepend: site.url }}

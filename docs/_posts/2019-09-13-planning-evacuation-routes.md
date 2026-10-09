@@ -44,7 +44,7 @@ until we reach our destination.
 [Zombies][zombie-preparedness] don't stand a chance against such cunning.
 
 
-[gridscout-map]: {{ site.url }}
+[gridscout-map]: {{ '/maps/' | absolute_url }}
 
 [primary-route]:   {{ '/images/primary-route-from-sonna-to-walters-ferry.png'   | prepend: site.url }}
 [secondary-route]: {{ '/images/secondary-route-from-sonna-to-walters-ferry.png' | prepend: site.url }}

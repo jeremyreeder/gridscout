@@ -49,7 +49,7 @@ publishers](docs/images/search-screenshot.png)
 
 
 [api-key]: https://cloud.google.com/maps-platform/#get-started
-[docs]:    https://www.gridscout.net
+[docs]:    https://www.gridscout.net/maps/
 [mgrs]:    https://en.wikipedia.org/wiki/Military_Grid_Reference_System
 [tarball]: https://github.com/jeremyreeder/gridscout/tarball/master
 [zipball]: https://github.com/jeremyreeder/gridscout/zipball/master

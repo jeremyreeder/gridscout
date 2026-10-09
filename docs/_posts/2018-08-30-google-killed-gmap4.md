@@ -34,5 +34,5 @@ aerial-view feature.
 [gmap4-rip]:    {{ '/images/gmap4-tombstone.jpg' | prepend: site.url }}
 
 [gmap4]:        https://mappingsupport.com/p/gmap4.php
-[gridscout]:    {{ site.url }}
+[gridscout]:    {{ '/maps/' | absolute_url }}
 [update]:       {{ '/2018/11/17/aerial-views-reenabled.html' | prepend: site.url }}
