@@ -16,7 +16,6 @@ hide_site_description: true
   <div class="portal-intro">
     <p class="portal-kicker">GridScout directory</p>
     <h1>Where to? <span class="blink">_</span></h1>
-    <p>Maps, field notes, security labs, and a few other projects. Pick a destination below.</p>
   </div>
 
   <nav aria-label="GridScout destinations">
