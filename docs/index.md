@@ -20,6 +20,7 @@ hide_site_description: true
   </div>
 
   <nav aria-label="GridScout destinations">
+    <div class="portal-grid">
       <a class="portal-card" href="https://threat.gridscout.net/">
         <span class="portal-card-meta">Security</span>
         <strong>Threat Level Indicator</strong>
@@ -32,7 +33,6 @@ hide_site_description: true
         <span class="portal-card-desc">An interactive lesson on network attacks and defenses.</span>
         <span class="portal-card-path">shenanigans.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
-    <div class="portal-grid">
       <a class="portal-card" href="{{ '/maps/' | relative_url }}">
         <span class="portal-card-meta">Maps</span>
         <strong>GridScout Map™</strong>
