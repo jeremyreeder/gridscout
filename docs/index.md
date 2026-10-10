@@ -48,7 +48,7 @@ hide_site_description: true
       <a class="portal-card" href="https://www.youtube.com/@JeremyPicksLocks">
         <span class="portal-card-meta">Defeat</span>
         <strong>@JeremyPicksLocks</strong>
-        <span class="portal-card-desc">Jeremy's past life as a safecracker.</span>
+        <span class="portal-card-desc">Lockpicking demonstration videos.</span>
         <span class="portal-card-path">youtube.com <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://safehouse.gridscout.net/">
