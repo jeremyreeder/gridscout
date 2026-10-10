@@ -13,6 +13,18 @@ hide_site_description: true
   </div>
 
   <nav aria-label="GridScout destinations">
+      <a class="portal-card" href="https://threat.gridscout.net/">
+        <span class="portal-card-meta">Security</span>
+        <strong>Threat Level Indicator</strong>
+        <span class="portal-card-desc">Four-level gauge, one-level action plan.</span>
+        <span class="portal-card-path">threat.gridscout.net <span aria-hidden="true">↗</span></span>
+      </a>
+      <a class="portal-card" href="https://shenanigans.gridscout.net/">
+        <span class="portal-card-meta">Learn</span>
+        <strong>Internet Security Shenanigans</strong>
+        <span class="portal-card-desc">An interactive lesson on network attacks and defenses.</span>
+        <span class="portal-card-path">shenanigans.gridscout.net <span aria-hidden="true">↗</span></span>
+      </a>
     <div class="portal-grid">
       <a class="portal-card" href="{{ '/maps/' | relative_url }}">
         <span class="portal-card-meta">Maps</span>
@@ -25,18 +37,6 @@ hide_site_description: true
         <strong>GridScout Gazette™</strong>
         <span class="portal-card-desc">Field notes about manly projects and whatnot.</span>
         <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
-      </a>
-      <a class="portal-card" href="https://threat.gridscout.net/">
-        <span class="portal-card-meta">Security</span>
-        <strong>Threat Level Indicator</strong>
-        <span class="portal-card-desc">Four-level gauge, one-level action plan.</span>
-        <span class="portal-card-path">threat.gridscout.net <span aria-hidden="true">↗</span></span>
-      </a>
-      <a class="portal-card" href="https://shenanigans.gridscout.net/">
-        <span class="portal-card-meta">Learn</span>
-        <strong>Internet Security Shenanigans</strong>
-        <span class="portal-card-desc">An interactive lesson on network attacks and defenses.</span>
-        <span class="portal-card-path">shenanigans.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://safehouse.gridscout.net/">
         <span class="portal-card-meta">Archive</span>
