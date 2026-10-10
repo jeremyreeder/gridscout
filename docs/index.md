@@ -4,7 +4,6 @@ title: Home
 permalink: /
 hide_site_description: true
 ---
-<span class="blink">Blinking text</span>
 <style>
 .blink {
   animation: blink 1s step-end infinite;
