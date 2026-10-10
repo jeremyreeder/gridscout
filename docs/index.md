@@ -49,7 +49,13 @@ hide_site_description: true
         <span class="portal-card-meta">Conquests</span>
         <strong>@JeremyPicksLocks</strong>
         <span class="portal-card-desc">Lockpicking demonstration videos.</span>
-        <span class="portal-card-path">youtube.com <span aria-hidden="true">↗</span></span>
+        <span class="portal-card-path">youtube.com/@JeremyPicksLocks <span aria-hidden="true">↗</span></span>
+      </a>
+      <a class="portal-card" href="https://printables.com/@JeremyReeder">
+        <span class="portal-card-meta">3D Models</span>
+        <strong>Jérémy's Designs</strong>
+        <span class="portal-card-desc">I create 3D-printable models under a pseudonym conspicuously similar to my real name but with French orthography. My stage name. ;-}</span>
+        <span class="portal-card-path">printables.com/@JeremyReeder <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://safehouse.gridscout.net/">
         <span class="portal-card-meta">Archive</span>
