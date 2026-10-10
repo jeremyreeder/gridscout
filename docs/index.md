@@ -54,13 +54,13 @@ hide_site_description: true
       <a class="portal-card" href="https://printables.com/@JeremyReeder">
         <span class="portal-card-meta">Engineering</span>
         <strong>3D Models</strong>
-        <span class="portal-card-desc">My 3D-printable designs.</span>
+        <span class="portal-card-desc">My printable designs.</span>
         <span class="portal-card-path">printables.com/@JeremyReeder <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://safehouse.gridscout.net/">
         <span class="portal-card-meta">Archive</span>
         <strong>The Safe House™</strong>
-        <span class="portal-card-desc">Jeremy's past life as a safecracker.</span>
+        <span class="portal-card-desc">Past life as a safecracker.</span>
         <span class="portal-card-path">safehouse.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
     </div>
