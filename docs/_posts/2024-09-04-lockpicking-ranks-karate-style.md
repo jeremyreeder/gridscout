@@ -8,8 +8,6 @@ redirect_from:
 tags: lock lockpick
 ---
 
-## Lockpicking Ranks, Karate-style!
-
 [Lockpickers United][lpu-belts] has a belt-based skill-ranking system. I
 discovered this just recently. Over the course of the following week and a
 half, I earned the first four ranks: white, yellow, orange, and green. My next
