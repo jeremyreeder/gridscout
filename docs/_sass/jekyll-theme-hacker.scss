@@ -97,11 +97,6 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
-@media (max-width: 800px) {
-  header h1 {
-    margin-left: 0;
-}
-
 header h1:before {
   content: "./ ";
   font-size: 24px;
@@ -528,6 +523,12 @@ p img + em:hover {
 @media (max-width: 640px) {
   .portal-grid { grid-template-columns: 1fr; }
   .portal-card { min-height: 0; }
+}
+
+@media (max-width: 800px) {
+  header h1 {
+    margin-left: 0;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
