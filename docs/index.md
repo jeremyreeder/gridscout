@@ -45,6 +45,12 @@ hide_site_description: true
         <span class="portal-card-desc">Field notes about manly projects and whatnot.</span>
         <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
       </a>
+      <a class="portal-card" href="https://www.youtube.com/@JeremyPicksLocks">
+        <span class="portal-card-meta">Defeat</span>
+        <strong>@JeremyPicksLocks</strong>
+        <span class="portal-card-desc">Jeremy's past life as a safecracker.</span>
+        <span class="portal-card-path">youtube.com <span aria-hidden="true">↗</span></span>
+      </a>
       <a class="portal-card" href="https://safehouse.gridscout.net/">
         <span class="portal-card-meta">Archive</span>
         <strong>The Safe House™</strong>
