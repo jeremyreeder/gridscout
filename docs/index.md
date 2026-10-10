@@ -12,6 +12,7 @@ hide_site_description: true
   50% { opacity: 0; }
 }
 </style>
+
 <div class="portal">
   <div class="portal-intro">
     <p class="portal-kicker">GridScout directory</p>
