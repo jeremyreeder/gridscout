@@ -4,11 +4,19 @@ title: Home
 permalink: /
 hide_site_description: true
 ---
-
+<span class="blink">Blinking text</span>
+<style>
+.blink {
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
 <div class="portal">
   <div class="portal-intro">
     <p class="portal-kicker">GridScout directory</p>
-    <h1>Choose a route.</h1>
+    <h1>Where to? <span class=“blink”>_</span></h1>
     <p>Maps, field notes, security labs, and a few other projects. Pick a destination below.</p>
   </div>
 
