@@ -28,25 +28,25 @@ hide_site_description: true
         <span class="portal-card-path">threat.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://shenanigans.gridscout.net/">
-        <span class="portal-card-meta">Learn</span>
+        <span class="portal-card-meta">Laboratory</span>
         <strong>Internet Security Shenanigans</strong>
         <span class="portal-card-desc">An interactive lesson on network attacks and defenses.</span>
         <span class="portal-card-path">shenanigans.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="{{ '/maps/' | relative_url }}">
-        <span class="portal-card-meta">Maps</span>
+        <span class="portal-card-meta">Cartography</span>
         <strong>GridScout Map™</strong>
         <span class="portal-card-desc">MGRS search client, for planning with paper maps.</span>
         <span class="portal-card-path">/maps/ <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="{{ '/gazette/' | relative_url }}">
-        <span class="portal-card-meta">Blog</span>
+        <span class="portal-card-meta">Project Log</span>
         <strong>GridScout Gazette™</strong>
         <span class="portal-card-desc">Field notes about manly projects and whatnot.</span>
         <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://www.youtube.com/@JeremyPicksLocks">
-        <span class="portal-card-meta">Defeat</span>
+        <span class="portal-card-meta">Conquests</span>
         <strong>@JeremyPicksLocks</strong>
         <span class="portal-card-desc">Lockpicking demonstration videos.</span>
         <span class="portal-card-path">youtube.com <span aria-hidden="true">↗</span></span>
