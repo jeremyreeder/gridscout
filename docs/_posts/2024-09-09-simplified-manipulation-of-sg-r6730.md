@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplified Manipulation of Sargent & Greenleaf R6730
+title: Cracking the S&G R6730
 author: Jeremy Reeder
 date: 2024-09-09
 redirect_from:
