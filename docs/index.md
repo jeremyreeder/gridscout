@@ -39,11 +39,11 @@ hide_site_description: true
         <span class="portal-card-desc">MGRS search client, for planning with paper maps.</span>
         <span class="portal-card-path">/maps/ <span aria-hidden="true">↗</span></span>
       </a>
-      <a class="portal-card" href="{{ '/gazette/' | relative_url }}">
-        <span class="portal-card-meta">Project Log</span>
-        <strong>GridScout Gazette™</strong>
-        <span class="portal-card-desc">Field notes about manly projects and whatnot.</span>
-        <span class="portal-card-path">/gazette/ <span aria-hidden="true">↗</span></span>
+      <a class="portal-card" href="{{ '/blog/' | relative_url }}">
+        <span class="portal-card-meta">Field Notes</span>
+        <strong>Project Log</strong>
+        <span class="portal-card-desc">Manly projects and whatnot.</span>
+        <span class="portal-card-path">/blog/ <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://www.youtube.com/@JeremyPicksLocks">
         <span class="portal-card-meta">Conquests</span>
