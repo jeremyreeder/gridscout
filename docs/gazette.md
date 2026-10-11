@@ -33,4 +33,4 @@ redirect_from:
 </div>
 {% endfor %}
 
-<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe to GridScout Gazette™</a>
+<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe to this blog</a>
