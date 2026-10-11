@@ -18,7 +18,7 @@ useful than the left. Stickers are faster than graphs.
 
 ## Overview
 
-I opened this S&G R6730 lock by "manipulation", with the aid of a fancy
+I opened this Sargent & Greenleaf R6730 lock by "manipulation", with the aid of a fancy
 amplifier.  The amp wasn't really needed to detect the contact points, which
 were easy to feel.  But it did turn out to help a great deal in stopping people
 from talking to me so I could focus on my task, so I kept it in my ears.
