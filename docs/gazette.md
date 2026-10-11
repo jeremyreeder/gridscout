@@ -7,7 +7,7 @@ redirect_from:
   - /journal/
 ---
 
-### GridScout™ Project Log<a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
+### GridScout™ Project Log <a class="btn" href="{{ '/feed.xml' | prepend: site.url }}">Subscribe</a>
 
 {% for post in site.posts limit:2 %}
 <div class="post" markdown="1">
