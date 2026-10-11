@@ -24,7 +24,7 @@ hide_site_description: true
       <a class="portal-card" href="https://threat.gridscout.net/">
         <span class="portal-card-meta">Security</span>
         <strong>Threat Level Indicator</strong>
-        <span class="portal-card-desc">Four-level gauge, one-level action plan.</span>
+        <span class="portal-card-desc">Check today’s outlook. Four-level gauge, one-level action plan.</span>
         <span class="portal-card-path">threat.gridscout.net <span aria-hidden="true">↗</span></span>
       </a>
       <a class="portal-card" href="https://shenanigans.gridscout.net/">
