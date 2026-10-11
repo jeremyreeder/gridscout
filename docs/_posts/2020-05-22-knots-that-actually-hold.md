@@ -110,9 +110,8 @@ over to form two bights, then simply tie them in a reef knot. It ain't
 quick-release, but it's a quality bow knot.
 
 - **[Freedom bow.][freedom-bow]**
-A quick-release bow knot that keeps a man's shoes well tied, in defiance of the
-king's bidding, until he himself chooses to loosen them. A hard tug is required
-to untie this knot.
+A quick-release bow knot that won’t work loose on its own. A *hard* tug is required
+to untie it.
 
 Most people use a standard shoelace knot (double-slipped reef), but it works
 loose easily. The reef knot's grip seems to rely on its symmetry, and using
