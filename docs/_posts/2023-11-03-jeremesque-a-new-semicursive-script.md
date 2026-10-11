@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jérémesque - A New Semicursive Script
+title: New Semicursive Script
 author: Jeremy Reeder
 date: 2023-11-03
 tags: font script writing handwriting penmanship typeface
